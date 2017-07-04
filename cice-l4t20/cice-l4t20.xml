@@ -29,7 +29,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="R" n="Rome1582">1582 correctores Romani edition.</witness>
           <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
         </listWit>
       </sourceDesc>
