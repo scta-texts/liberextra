@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.44. DE CUSTODIA EUCHARISTIAE, CHRISMATIS ET ALIORUM SACRAMENTORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.44. DE CUSTODIA EUCHARISTIAE, CHRISMATIS ET ALIORUM SACRAMENTORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t44">
+        <head xml:id="cice-l3t44-Hd1e105">3.44. DE CUSTODIA EUCHARISTIAE, CHRISMATIS ET ALIORUM SACRAMENTORUM.</head>
+
+        <div xml:id="cice-l3t44-Dd1e108">
+          <head xml:id="cice-l3t44-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t44-d1e113">Eucharistia et chrisma debent fideliter sub clavibus custodiri, et contra fecientes
+            sunt puniendi.</p>
+          <p xml:id="cice-l3t44-d1e116">Innocentius III. in concilio generali.</p>
+          <p xml:id="cice-l3t44-d1e119">Statuimus, ut in cunctis ecclesiis chrisma et eucharistia sub fideli custodia clavibus
+            adhibitis conserventur, ne possit ad illa temeraria manus extendi ad aliqua horribilia
+            vel nefaria exercenda. Si vero is, ad quem spectat custodia, ea incaute reliquerit,
+            tribus mensibus ab officio suspendatur, et, si per eius incuriam aliquid nefandum inde
+            contigerit, graviori subiaceat ultioni.</p>
+        </div>
+        <div xml:id="cice-l3t44-Dd1e123">
+          <head xml:id="cice-l3t44-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t44-d1e128">Supellectilia in ecclesiis poni non debent, nisi necessitas urgeat. Hoc dicit primo.
+            Ecclesiae debent sua vasa et vestimenta munde tenere. Hoc secundo.</p>
+          <p xml:id="cice-l3t44-d1e131">Idem in eodem.</p>
+          <p xml:id="cice-l3t44-d1e134">Relinqui nolumus incorrectum, quod quidam clerici ecclesias sic exponunt
+            suppellectilibus propriis, et etiam alienis, ut potius domus laicae, quam Dei basilicae
+            videantur, non considerantes, quod Dominus non sinebat, ut vas transferretur per
+            templum. Sunt et alii, qui non solum ecclesias dimittunt incultas, verum etiam vasa
+            ministerii, et vestimenta ministrorum, ac pallas altaris, nec non et ipsa corporalia tam
+            immunda relinquunt, quod interdum aliquibus sunt horrori. Quia vero zelus nos comedit
+            domus Dei, firmiter prohibemus, ne huiusmodi suppellectilia in ecclesiis admittantur,
+            nisi propter hostiles incursus, aut incendia repentina, seu alias necessitates urgentes
+            ad eas oporteat haberi refugium, sic tamen, ut necessitate cessante, res in loca
+            pristina reportentur. Praecipimus quoque, ut oratoria, vasa, corporalia et vestimenta
+            praedicta munda et nitida conserventur. Nimis enim videtur absurdum in sacris sordes
+            negligere, quae dedecerent etiam in profanis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

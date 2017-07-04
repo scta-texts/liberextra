@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.21. DE SORTILEGIIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.21. DE SORTILEGIIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t21">
+        <head xml:id="cice-l5t21-Hd1e105">5.21. DE SORTILEGIIS.</head>
+
+        <div xml:id="cice-l5t21-Dd1e108">
+          <head xml:id="cice-l5t21-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t21-d1e113">Sortilegia pro futuris inveniendis vel divinationibus faciendis prohibentur, et contra
+            facientibus poena imponitur.</p>
+          <p xml:id="cice-l5t21-d1e116">Ex poenitentiali Theodori.</p>
+          <p xml:id="cice-l5t21-d1e119">In tabulis vel codicibus aut aliis sorte furta non sunt requirenda, aut nullus in
+            psalterio vel in evangelio vel in aliis rebus sortiri, nec divinationes aliquas in
+            aliquibus rebus quis observare praesumat. Qui autem contra fecerit, quadraginta dies
+            poeniteat.</p>
+        </div>
+        <div xml:id="cice-l5t21-Dd1e123">
+          <head xml:id="cice-l5t21-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t21-d1e128">Presbyter, qui per inspectionem astrolabii furta requirit, ad tempus suspenditur ab
+            altaris ministerio. Ita communiter summatur; sed in veritate haec summatio non est
+            indistincte vera, quia acrius potest puniri.</p>
+          <p xml:id="cice-l5t21-d1e131">Alexander III. Grandensi Patriarchae.</p>
+          <p xml:id="cice-l5t21-d1e134">Ex tuarum tenore literarum accepimus, quod V. presbyter, lator praesentium, iuvenili
+            levitate usus, cum quodam infami ad privatum locum immundum spiritum invocaturus
+            accessit. Unde tu eum, quia propter hoc infamia laborabat, et facinus publicum et
+            notorium erat, ab officio et beneficio ecclesiastico suspendisti. Ipse autem coram nobis
+            viva voce proposuit, quod non ea intentione, ut vocaret daemonium, ierat, sed ut
+            inspectione astrolabii furtum cuiusdam ecclesiae posset recuperari. Verum, licet hoc ex
+            bono zelo et ex simplicitate se fecisse proponat: id tamen gravissimum fuit, et non
+            modicam inde maculam peccati contraxit. †Sed quoniam tutius est in dexteram quam [in]
+            sinistram, et in misericordiam quam in severitatem declinare, ipsum fraternitati tuae
+            duximus remittendum. Mandamus, quatenus sibi infra octo dies post harum susceptionem
+            literarum ecclesiam cum universis ablatis restituas, et talem ei pro expiatione illius
+            delicti poenitentiam imponas, quod per annum et amplius, si tibi visum fuerit, ita
+            tamem, quod biennium non excedat, eum ab altaris ministerio praecipias abstinere, et
+            extunc liberum sit ei exercere officium sacerdotis.</p>
+        </div>
+        <div xml:id="cice-l5t21-Dd1e138">
+          <head xml:id="cice-l5t21-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t21-d1e143">Non solum electio per sortes fieri non debet, sed etiam electiones compromissariorum
+            per sortes assumi non debent.</p>
+          <p xml:id="cice-l5t21-d1e146">Honorius III. Capitulo Lucanensi.</p>
+          <p xml:id="cice-l5t21-d1e149">Ecclesia vestra nuper episcopo destituta, sicut comperimus, vos, convenientes in unum,
+            ut de futuri tractaretis electione pontificis, circa modum electionis diversas
+            incipientes habere tractatus, unum tandem elegistis ex vobis per sortem, qui tres
+            auctoritate vestra elegit, per quos vice omnium Lucanensi provideretur ecclesiae de
+            pastore; quorum duo tertium, magistrum R. scilicet, elegerunt, quod expresse licebat
+            eisdem secundum traditam a vobis omnibus potestatem. Procuratoribus igitur vestris super
+            his in nostra praesentia constitutis, nos, tali examinato processu, licet nota non
+            careat, quin immo multa reprehensione sit dignum, quod sors in talibus intervenit,
+            †propter praerogativam tamen morum et literaturam magistri R. canonici vestri, in quem
+            vota ecclesiae vestrae praeficiendum episcopum concurrerunt, et affectionem, quam ad
+            eandem habemus ecclesiam, electionem celebratam de ipso ad gratiam confirmationis
+            admittimus, sortis usum in electionibus perpetua prohibitione damnantes.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.25. DE CLERICO PERCUSSORE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.25. DE CLERICO PERCUSSORE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t25">
+        <head xml:id="cice-l5t25-Hd1e105">5.25. DE CLERICO PERCUSSORE.</head>
+
+        <div xml:id="cice-l5t25-Dd1e108">
+          <head xml:id="cice-l5t25-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t25-d1e113">Clericus, saepe alium percutiens, et monitus non desistens, deponendus est.</p>
+          <p xml:id="cice-l5t25-d1e116">Ex concilio Agathensi.</p>
+          <p xml:id="cice-l5t25-d1e119">Si quis in aliquos gradu sacro percussor exstiterit, corripiatur a crimine, et, si non
+            emendaverit, deponatur.</p>
+        </div>
+        <div xml:id="cice-l5t25-Dd1e123">
+          <head xml:id="cice-l5t25-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t25-d1e128">Duobus mensibus a missarum administratione suspenditur episcopus, qui crudeliter
+            aliquem fustigari facit.</p>
+          <p xml:id="cice-l5t25-d1e131">Gregorius Tarentino Episcopo.</p>
+          <p xml:id="cice-l5t25-d1e134">Praeterea, quoniam mulierem de matriculis propter delictum suum contra ordinem
+            sacerdotii caedi crudeliter fustibus deputasti, quam licet exinde, quum post octo menses
+            decesserit, minime arbitramur fuisse defunctam, tamen, quia ad ordinem tuum noluisti
+            habere respectum, propterea duobus te mensibus ab administratione missarum statuimus
+            abstinere, [in quibus ab officio tuo suspensum flere te convenit quod fecisti etc.]</p>
+        </div>
+        <div xml:id="cice-l5t25-Dd1e138">
+          <head xml:id="cice-l5t25-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t25-d1e143">Non punitur clericus ut homicida, si fuit ipse in conflictu pro parte violentiam
+            repellentium, licet ibi aliqui mortui sint, et ipse lapides proiecit, ex quo nullum ipse
+            percussit.</p>
+          <p xml:id="cice-l5t25-d1e146">Alexander III. Lucensi Episcopo.</p>
+          <p xml:id="cice-l5t25-d1e149">Praesentium lator in quodam conflictu asserit se fuisse, pro parte tamen illorum, qui
+            violentiam repellebant; in quo lapides ipse proiecit, sed aliquem non percussit. Quem
+            nos, quia per alios illic aliqui dicuntur occisi, a celebratione missarum per biennium
+            praecipimus abstinere. Mandamus itaque, ut, si res ita se habuerit, et alia non
+            impedierint, decurso huiusmodi temporis spatio, ad sui eum officii exsecutionem
+            admittas.</p>
+        </div>
+        <div xml:id="cice-l5t25-Dd1e153">
+          <head xml:id="cice-l5t25-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l5t25-d1e158">Clericus, qui fuit in conflictu, ubi aliqui fuerunt occisi sine eius facto vel
+            consilio, de iure communi promoveri potest. H. d. secundam intellectum, qui plus placet
+            Panorm.</p>
+          <p xml:id="cice-l5t25-d1e161">Coelestinus III.</p>
+          <p xml:id="cice-l5t25-d1e164">Continentia literarum †vestrarum inspecta, qua significastis nobis, quod, Quum P.
+            acolythus praesentium lator cum quibusdam hominibus ad resistendum praedonibus arma
+            sumpsisset, in conflictu illo tres fuerunt ab aliis vulnerati ad mortem, ita tamen, quod
+            illa homicidia neque facto eius neque consilio perpetrata fuerunt. Consultationi tuae
+            taliter respondemus, quod, quum praedictum acolythum ad frugem melioris vitae
+            transivisse dicatis, et in monachali religione fere per annos octo laudabiliter huc
+            usque vixisse, meritis eius alias non repugnantibus, poterit ipse ad subdiaconatus
+            ordinem promoveri, et merito altaris ministerium exercere.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

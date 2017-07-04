@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.03. DE LIBELLI OBLATIONE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.03. DE LIBELLI OBLATIONE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t3">
+        <head xml:id="cice-l2t3-Hd1e105">2.03. DE LIBELLI OBLATIONE.</head>
+        <div xml:id="cice-l2t3-Dd1e108">
+          <head xml:id="cice-l2t3-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l2t3-d1e113">Actor tenetur in scriptis libellum porrigere. Vel sic: Iudex non debet admittere
+            actorem ad litigandum, nisi prius libellum in scriptis offerat. H. d. per alia
+            verba.</p>
+          <p xml:id="cice-l2t3-d1e116">Ex concilio apud sanctum Medardum.</p>
+          <p xml:id="cice-l2t3-d1e119">Ignarus episcopus dixit: Habetis libellum reclamationis vel postulationis, sicut
+            ecclesiastica se habet traditio? Illi [autem] responderunt, se prae manibus nullum
+            habere libellum. Ignarus episcopus dixit: Legum ecclesiasticarum [auctoritas talis est,
+            ut in causis gestorum semper scripturam requirat, adeo, ut qui ad sacrum fontem accedit
+            suum dare nomen praecipiatur; qui ad summum sacerdotium provehitur, decreto manibus
+            omnium roborato eligitur. Ordinatus autem a suis ordinatoribus literas accipere iubetur.
+            Qui etiam ab ecclesiastica societate quolibet excessu discinditur libellari scriptione
+            aut recipitur aut deiicitur. Sed qui accusatur, vel excommunicatur, seu reconciliatur,
+            per scripturam accusari vel reconciliari iubetur. Et sic in ceteris huiusmodi in tantum
+            scriptura deposcitur, ut sicut B. Gregorius in commonitorio ad Ioannem defensorem ex
+            Romanis legibus sumens scribit, sententia, quae sine scriptura profertur, nec nomen
+            sententiae habere mereatur.] Quapropter, fratres [et filii,] Oportet vos secundum
+            ecclesiasticam auctoritatem reclamationem vestram libelli serie declarare, eamque
+            vestris manibus roboratam synodo [sacrae] porrigere, ut tunc vobis convenienter et
+            canonice valeat responderi. Et tunc ipsi fratres libellum conscribentes [eique sua
+            nomina subscribentes] porrexerunt Hincmaro [episcopo etc.]</p>
+        </div>
+        <div xml:id="cice-l2t3-Dd1e123">
+          <head xml:id="cice-l2t3-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t3-d1e128">Quum agitur reali, non sufficit rem generaliter peti, sed debet ita specificari, ut
+            evitetur obscuritas et aequivocatio.</p>
+          <p xml:id="cice-l2t3-d1e131">Innocentius III.</p>
+          <p xml:id="cice-l2t3-d1e134">Significantibus T. et R. fratribus nostro fuit apostolatui declaratum, quod, quum inter
+            ipsos ex una parte, et V. Turpem de Athechi et sorores eius dioecesis Suessionensis ex
+            altera super quadam terra coram dilectis filiis abbate et priore sancti Bartholomaei
+            Noviomensis iudicibus a sede apostolica delegatis tracti fuissent in causam, oblato eis
+            libello, ipsi T. et R., quum plures terras haberent, ut terra illa, super qua quaestio
+            vertebatur, ostenderetur eisdem, a iudicibus postularunt. Quod quum ipsi facere
+            denegarent, nec utrum hoc deberet eis concedi, vellent per sententiam definire, iidem
+            fratres a manifesto gravamine ad nostram audientiam provocarunt. Quocirca discretioni
+            vestrae per apostolica scripta mandamus, quatenus, si est ita, vos, revocato in statutum
+            debitum, si quid post appellationem huiusmodi noveritis attentatum, etc.</p>
+        </div>
+        <div xml:id="cice-l2t3-Dd1e138">
+          <head xml:id="cice-l2t3-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t3-d1e143">Non tenetur reus respondere libello in actione personali, si non exprimitur causa
+            petendi.</p>
+          <p xml:id="cice-l2t3-d1e146">Gregorius IX. Archipresbytero Civitatis novae et M. Canonico Culmensi.</p>
+          <p xml:id="cice-l2t3-d1e149">Dilecti filii fratres ecclesiae sanctae Mariae de Hispida sua nobis petitione
+            monstrarunt, quod, quum prior et conventus sanctae Mariae ad Carceres ipsos super quadam
+            pecuniae summa coram priore sanctae Trinitatis Veronensis auctoritate apostolica
+            convenissent, ex parte ipsorum fuit excipiendo propositum, quod, quum dicti prior et
+            conventus nollent exprimere in porrecto libello conventionali, quare sibi dicta pecunia
+            deberetur, super hoc minime respondere tenebatur, et quia dictus iudex exceptionem
+            huiusmodi admittere denegabat, nostram audientiam appellaverunt. Ideoque mandamus,
+            quatenus, si est ita, revocato in irritum, etc.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.46. DE OBSERVATIONE IEIUNIORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.46. DE OBSERVATIONE IEIUNIORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t46">
+        <head xml:id="cice-l3t46-Hd1e105">3.46. DE OBSERVATIONE IEIUNIORUM.</head>
+
+        <div xml:id="cice-l3t46-Dd1e108">
+          <head xml:id="cice-l3t46-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t46-d1e113">Vigilia, occurens in dominica, ieiunari debet in sabbato, et ieiunanda est vigilia B.
+            Matthiae.</p>
+          <p xml:id="cice-l3t46-d1e116">Innocentius III. Clericis S. Petri Magalonensis.</p>
+          <p xml:id="cice-l3t46-d1e119">Ex parte vestra quaesitum fuit a nobis, utrum, si Nativitatem Domini, vel Assumptionem
+            beatae Mariae, vel festivitatem alicuius Apostolorum in secunda feria contigerit
+            evenire, die sabbati praecedentis vigilia debeat ieiunari, et utrum in vigilia B.
+            Matthiae Apostoli sit ieiunium iniungendum. Ad quod breviter respondemus, quod [et] die
+            sabbati festivitates praelibatas secundae feriae praecedentis et B. Matthiae Apostoli
+            debet vigilia ieiunari. [Insuper etc. (cf. c. 5. de celebr. miss. III. 41.) Dat. Rom.
+            ap. S. Petr. Non. Nov. 1204.]</p>
+        </div>
+        <div xml:id="cice-l3t46-Dd1e123">
+          <head xml:id="cice-l3t46-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t46-d1e128">Non capit congruam summationem, et textus in se satis clarus est, et multa sunt dicta,
+            quae patent per §§.</p>
+          <p xml:id="cice-l3t46-d1e131">Idem Bracharensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t46-d1e134">Consilium nostrum †super quibusdam articulis requisisti, utrum [videlicet] sit in
+            omnibus Apostolorum vigiliis ieiunandum, quum plures asserant, non esse ieiunandum in
+            omnibus, sed sex tantum. Utrum etiam ieiunandum sit in Adventu, quum inde sentiant
+            diversi diversa, quibusdam dicentibus, sed paucioribus, ieiunandum esse tunc temporis,
+            pluribus ver o se ad hoc asserentibus non teneri. Utrum insuper, si festum illorum,
+            quorum vigilias ieiunamus, secunda feria celebrari contingat, in praecedenti sabbato
+            sint vigiliae faciendae. Nos autem super hoc Consultationi tuae taliter respondemus,
+            quod apud nos omnium Apostolorum vigiliae sunt in observatione ieiunii celebrandae,
+            praeter vigilias Apostolorum Philippi et Iacobi, et B. Ioannis Evangelistae, quoniam
+            ipsorum solennitas infra solennitatem paschalem, istius autem infra natalem Domini
+            celebratur. Ieiunium etiam apud nos in adventu Domini agitur. Sanctorum quoque vigiliae,
+            quorum festivitates oportet secunda feria celebrari, in praecedenti sunt sabbato
+            ieiunandae. De festivitate vero beati Bartholomaei Apostoli, de cuius celebratione
+            dubietas oritur apud quosdam, tibi petenti consilium respondemus, quod in hoc
+            consuetudinem tuae regionis observes. (Et infra: [cf. c. 4. de cel. miss. III. 41.])
+            Quum autem quaesieris, quae sit illis poenitentia iniungenda, qui diebus
+            quadragesimalibus, quo tempore tantae famis inedia ingruebat, quod magna pars populi
+            propter inopiam annonae periret, carnes comedere sunt coacti, tibi breviter respondemus,
+            quod in tali articulo illos non credimus puniendos, quos tam urgens necessitas
+            excusavit, preces tamen Domino pro illis et cum illis effundas, ne ipsis aliquatenus
+            imputetur, quia bonarum mentium est, ibi timere culpam, ubi culpa minime reperitur. Item
+            de illis, qui propter debilitatem, quam in se sentiunt, in sabbato iuxta terrarum
+            consuetudinem aliarum carnes sumunt, quod in partibus tuis nullatenus fieri consuevit,
+            quum hoc ab aliis moleste feratur, et oriatur inde illis occasio detrahendi,
+            respondemus, quod super hoc consuetudinem tuae regionis facias observari, sic tamen,
+            quod debilibus et infirmis propter hoc periculum non emergat. Praeterea postulasti
+            apostolicum responsum habere de illis, qui in quadragesima vel in aliis ieiuniis
+            solennibus infirmantur, et petunt sibi esum carnium indulgeri, quorum quidam promittunt
+            propter hoc eleemosynam se facturos, quidam vero propter necessitatem infirmitatis
+            urgentis hoc a te sibi, quasi ex debito, concedi requirunt. Super quo tibi respondemus,
+            quod, quum non subiaceat legi necessitas, desiderium infirmorum, quum urgens necessitas
+            exigit, supportare potes et debes, ut maius in eis periculum evitetur. [Dat. Rom. ap. S.
+            Petr. IX. Kal. Mart. Pont. nostr. Ao. VIII. 1206.]</p>
+        </div>
+        <div xml:id="cice-l3t46-Dd1e138">
+          <head xml:id="cice-l3t46-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t46-d1e143">Si festum Nativitatis occurrit sexta feria, licitum est omnibus carnes comedere,
+            exceptis professis et voventibus.</p>
+          <p xml:id="cice-l3t46-d1e146">Honorius III. Pragensi Episcopo.</p>
+          <p xml:id="cice-l3t46-d1e149">Explicari per sedem apostolicam postulasti, †utrum sit licitum illis, qui nec voto, nec
+            regulari observantia sunt adstricti, carnes comedere, quando in sexta feria dies
+            dominicae Nativitatis occurrit. Ad hoc Respondemus, quod illi, qui nec voto, nec
+            regulari observantia sunt adstricti, in sexta feria, si festum nativitatis dominicae die
+            ipso venire contigerit, carnibus propter festi excellentiam vesci possunt secundum
+            consuetudinem ecclesiae generalis. Nec tamen hi reprehendendi sunt, qui ob devotionem
+            voluerint abstinere. [Dat. Lat. IV. Kal. Nov. Pont. nostr. Ao. I. 1216.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

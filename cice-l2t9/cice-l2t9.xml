@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.09. DE FERIIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.09. DE FERIIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t9">
+        <head xml:id="cice-l2t9-Hd1e105">2.09. DE FERIIS.</head>
+        <div xml:id="cice-l2t9-Dd1e108">
+          <head xml:id="cice-l2t9-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l2t9-d1e113">Diebus dominicis mercari, litigari, iudicari, vel iurari non debet, sed de vespera in
+            vesperam debent celebrari.</p>
+          <p xml:id="cice-l2t9-d1e116">Ex concilio apud Compendium.</p>
+          <p xml:id="cice-l2t9-d1e119">Omnes dies dominicos a vespera in vesperam cum omni veneratione decernimus observari,
+            et ab omni illicito opere abstinere, ut in eis mercatum minime fiat, neque placitum,
+            neque aliquis ad mortem vel ad poenam iudicetur, nec sacramenta nisi pro pace vel alia
+            necessitate, praestentur.</p>
+        </div>
+        <div xml:id="cice-l2t9-Dd1e123">
+          <head xml:id="cice-l2t9-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t9-d1e128">Festorum principium et finis fieri debet secundum ipsorum magnitudinem et consuetudinem
+            regionis. Hoc primo. In praecipuis festis et intra Pascha et Pentecosten non fit
+            solennis genuum flexio. Si tamen tunc clerici vel episcopi ordinentur, secundum
+            ordinationis modum genua flectuntur. Hoc secundo. Romana ecclesia speciale festum de
+            Trinitate non facit; servatur tamen de hoc cuiusque ecclesiae consuetudo. Hoc
+            tertio.</p>
+          <p xml:id="cice-l2t9-d1e131">Alexander III.</p>
+          <p xml:id="cice-l2t9-d1e134">Quoniam in parte (Et infra:) Vestram volumus prudentiam certa cognitione tenere,
+            quoniam, Licet scriptum sit, de vespera in vesperam celebrabitis sabbata vestra,
+            festorum tamen principium et finis iuxta eorum qualitatem et iuxta diversarum regionum
+            consuetudinem debet attendi, et, sicut magnitudo dierum exigit celebrari, sic prius
+            incipere, et tardius terminari vera ratione videntur. (Et infra:) §. 1. Diebus autem
+            dominicis et aliis praecipuis festivitatibus, sive inter Pascha et Pentecosten, genuum
+            flexio nequaquam debet fieri, nisi aliquis ex devotione id velit facere in secreto. §.
+            2. In consecrationibus autem episcoporum et clericorum ordinationibus consecrans et
+            consecratus tantum genua flectere possunt, secundum quod consecratioinis modus requirit.
+            §. 3. Praeterea festivitas sanctae Trinitatis secundum consuetudines diversarum regionum
+            a quibusdam consuevit in octavis Pentecostes, ab aliis in dominica prima ante Adventum
+            Domini celebrari. Ecclesia siquidem Romana in usu non habet, quod in aliquo tempore
+            huiusmodi celebret specialiter festivitatem, quum singulis diebus “Gloria Patri et Filio
+            et Spiritui sancto” et cetera similia dicantur ad laudem pertinentia Trinitatis. Quare
+            tibi, frater archiepiscope de usu pallii eo die, quo sanctae Trinitatis festivitas
+            celebratur, certum nequaquam potuimus dare responsum.</p>
+        </div>
+        <div xml:id="cice-l2t9-Dd1e138">
+          <head xml:id="cice-l2t9-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t9-d1e143">Propter necessitatem alimentorum licet diebus feriatis in honorem Dei operi servili
+            intendere, maxime circa rem tempore perituram. H. d.</p>
+          <p xml:id="cice-l2t9-d1e146">Idem Triburiensi Archiepiscopo.</p>
+          <p xml:id="cice-l2t9-d1e149">Licet tam veteris quam novi testamenti pagina septimum diem ad humanam quietem
+            specialiter deputaverit, et tam eum quam alios dies maiestati altissimae deputatos, nec
+            non natalitia sanctorum martyrum ecclesia decreverit observanda, et in his ab omni opere
+            servili cessandum, †nos tamen, quibus ab omnium provisore ecclesiae regimen est
+            commissum, super his, quae necessitas exigit, Christi fidelibus tenemur commode
+            providere, ut, si quando eos non servili operi id est actioni peccati, sed necessaria
+            victui et vestitui quaerendo forte intendere contigerit, volumus, ut eis apostolicae
+            sedis providentia misericordia consueta subveniat. Inde siquidem eo est quod regionem
+            vestram, quae non multis frugibus abundet, et mare, in quo populus maiorem consuevit
+            habere sustentationem, sterilius solito effectum fuisse multorum relationibus
+            cognoscentes, auctoritate B. Petri et nostra Indulgemus, ut liceat parochianis vestris
+            diebus dominicis et aliis festis, praeterquam in maioribus anni solennitatibus, si
+            alecia terrae se inclinaverint, eorum captioni ingruente necessitate intendere, ita
+            tamen, quod post factam capturam ecclesiis circumpositis et Christi pauperibus congruam
+            faciant portionem. Si autem illi, qui aliquos dies in pane et aqua ex iniuncta sibi
+            poenitentia tenentur peragere, panent quo vescantur, non habent aut piscibus vel aliis
+            cibariis si necessitas exegerit reficiantur, moderata tamen discretione habita, quod his
+            non ad delicias, sed ad necessariam solummodo sustentationem utantur.</p>
+        </div>
+        <div xml:id="cice-l2t9-Dd1e153">
+          <head xml:id="cice-l2t9-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l2t9-d1e158">Tres septimanae, quibus canon prohibet fieri nuptias ante festum Ioannis Baptistae, non
+            continuantur festo, sed intelligitur de septimana Ascensionis cum duabus
+            sequentibus.</p>
+          <p xml:id="cice-l2t9-d1e161">Clemens III. alias Coelestinus.</p>
+          <p xml:id="cice-l2t9-d1e164">Capellanus tuus, frater episcope, coram nobis ex parte tua proposuit, quod, quum
+            statuta canonica declarent nuptias tribus septimanis ante festum Nativitatis B. Ioannis
+            Baptistae minime celebrari debere, quidam hebdomadas illas absque interpellatione
+            continuandas intelligunt. Alii vero inter festum et ipsas volentes facere intervallum,
+            illud dicunt ob reverentiam festivitatis Pentecostes fuisse statutum, quae in septimanis
+            istis solet intervenire quandoque, et sic a tribus diebus rogationum ante Ascensionem
+            Domini inchoantes, usque ad octavum diem post Pentecosten, illis hebdomadis computatis,
+            illo tantum spatio temporis celebrari nuptias non permittunt, earum celebrationem abinde
+            nullatenus inhibentes. Quia ergo consulti fuimus, utra istarum opinionum potior
+            videatur, nobis et fratribus nostris apparuit, quod, licet ea sit Romanae ecclesiae
+            consuetudo a longis retro temporibus observata, ut quocunque tempore matrimonium
+            contrahatur consensu interveniente legitimo de praesenti, quia tamen a septuagesima
+            usque ad septem dies post Pentecosten celebrari nuptiae non sinuntur, et postea etiam
+            tribus septimanis vel pluribus ante festivitatem sancti Ioannis sine differentia
+            celebrantur, posterior sententia meliori et subtiliori nititur ratione, et, sive
+            secundum canones a septuagesimae usque post octavas Paschae, sive iuxta consuetudinem
+            ecclesiae Romanae usque post septem dies festi Pentecostes, quod caret octavis, nuptiae
+            suspendantur, in dominica, quae sequitur, et deinceps possunt licite celebrari.</p>
+        </div>
+        <div xml:id="cice-l2t9-Dd1e169">
+          <head xml:id="cice-l2t9-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l2t9-d1e174">In feriis introductis in honorem Dei et sanctorum, nisi ob necessitatem vel pietatem,
+            iudicium exerceri non potest, etiam de consensu partium; feriis tamen introductis favore
+            hominum partes renunciare possunt.</p>
+          <p xml:id="cice-l2t9-d1e177">Gregorius IX.</p>
+          <p xml:id="cice-l2t9-d1e180">Conquestus est nobis (Et infra:) Quamvis non prorogari, sed expediri deceat
+            quaestiones, debet tamen iudicialis strepitus diebus conquiescere feriatis, qui ob
+            reverentiam Dei noscuntur esse statuti, scilicet Natalis Domini, sancti Stephani,
+            Ioannis Evangelistae, Innocentium, sancti Silvestri, Circumcisionis, Epiphaniae, VII.
+            diebus dominicae Passionis, Resurrectionis cum VII. sequentibus, Ascensionis,
+            Pentecostes cum duobus, qui sequuntur, Nativitatis Ioannis Baptistae, festivitatum
+            omnium Virginis gloriosae, XII. Apostolorum, et praecipue Petri et Pauli, beati
+            Laurentii, dedicationis beati Michaelis, solennitatis omnium sanctorum, ac diebus
+            dominicis, ceterisque solennitatibus, quas singuli episcopi in suis dioecesibus cum
+            clero et populo duxerint solenniter venerandas, quibus utique solennibus feriis, nisi
+            necessitas urgeat vel pietas suadeat, usque adeo convenit ab huiusmodi abstinere, ut,
+            consentientibus etiam partibus, nec processus habitus teneat, nec sententia, quam
+            contingit diebus huiusmodi promulgari, licet diebus feriatis, qui gratia vindemiarum vel
+            messium ob necessitates hominum indulgentur, procedi valeat, si de partium processerit
+            voluntate.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

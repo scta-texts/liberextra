@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.13. DE ORDINATIS AB EPISCOPO, QUI RENUNCIAVIT EPISCOPATUI.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.13. DE ORDINATIS AB EPISCOPO, QUI RENUNCIAVIT EPISCOPATUI.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t13">
+        <head xml:id="cice-l1t13-Hd1e105">1.13. DE ORDINATIS AB EPISCOPO, QUI RENUNCIAVIT EPISCOPATUI.</head>
+
+        <div xml:id="cice-l1t13-Dd1e108">
+          <head xml:id="cice-l1t13-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t13-d1e113">Episcopus, qui renunciavit loco tantum, invitatus conferre potest ordines, sicut prius.
+            Si vero et dignitati, cum ordinato per eum ad minores vel ignoranter ad sacros dispensat
+            episcopus suus; cum ordinato vero scienter ad sacros, non dispensat.</p>
+          <p xml:id="cice-l1t13-d1e116">Alexander III. Toletano Archiepiscopo.</p>
+          <p xml:id="cice-l1t13-d1e119">Requisivit a nobis tua fraternitas, utrum clerici, qui post renunciationem factam a
+            praedecessore tuo ordines receperunt, in ipsis debeant remanere, aut ad maiores de iure
+            canonum promoveri? Nos igitur, quia nobis non plenarie de veritate constat, non possumus
+            tibi super hoc breviter respondere. Respondemus igitur distinguendo, utrum renunciaverit
+            loco tantum, an loco simul et dignitati. Nam in primo casu ordines, sicut antea, nisi a
+            summo Pontifice vel eius legato prohibitus fuerit, rogatus ab episcopo aliquo poterit de
+            ratione conferre. In secundo vero casu distinguendum putamus, utrum sacros contulerit,
+            an minores. Si enim a tali ordines usque ad subdiaconatum aliquis acceperit, quia et
+            huiusmodi ordines a non episcopis quandoque conferuntur, et in illis deservire poterit,
+            et ad maiores, si idoneus fuerit, promoveri. Sane si ab eodem sacros ordines facta
+            renunciatione scienter quis receperit, quia indignum se fecit, exsecutionem officii non
+            habebit. Ubi autem non scienter, poterit, nisi crassa et supina fuerit ignorantia,
+            discretus pontifex dispensare.</p>
+        </div>
+        <div xml:id="cice-l1t13-Dd1e123">
+          <head xml:id="cice-l1t13-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t13-d1e128">Breve est.</p>
+          <p xml:id="cice-l1t13-d1e131">Gregorius IX.</p>
+          <p xml:id="cice-l1t13-d1e134">Cum clericis, qui ab excommunicato episcopo ignoranter ordines receperunt, per suos
+            poterit episcopos dispensari.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

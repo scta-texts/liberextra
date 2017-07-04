@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.XXI. DE SECUNDIS NUPTIIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.XXI. DE SECUNDIS NUPTIIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t21">
+        <head xml:id="cice-l4t21-Hd1e105">4.XXI. DE SECUNDIS NUPTIIS.</head>
+
+        <div xml:id="cice-l4t21-Dd1e108">
+          <head xml:id="cice-l4t21-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l4t21-d1e113">Secundae nuptiae non benedicuntur, et benedicens puniendus est.</p>
+          <p xml:id="cice-l4t21-d1e116">Alexander III.</p>
+          <p xml:id="cice-l4t21-d1e119">Capellanum nihilominus, quem benedictionem cum secunda tibi constiterit celebrasse, ab
+            officio beneficioque suspensum cum literarum tuarum testimonio appellatione cessante ad
+            sedem apostolicam nullatenus destinare postponas. [Dat. Laterani.]</p>
+        </div>
+        <div xml:id="cice-l4t21-Dd1e123">
+          <head xml:id="cice-l4t21-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l4t21-d1e128">Dubitans de morte coniugis, nisi prius certificetur, contrahere non debet, et, si
+            contraxit, reddat, sed non exigat debitum. Et si postmodum sciat primam vivere, dimittat
+            secundam. Abbas Siculus.</p>
+          <p xml:id="cice-l4t21-d1e131">Lucius III. universis Christianis in captivitate Sarracenorum positis.</p>
+          <p xml:id="cice-l4t21-d1e134">Dominus ac redemptor noster (Et infra:) Sane, super matrimoniis, quae quidam ex vobis
+            nondum habita obeuntis coniugis certitudine contraxerunt, id vobis auctoritate
+            apostolica respondemus, ut nullus ex vobis amodo ad secundas nuptias migrare praesumat,
+            donec ei firma certitudine constet, quod ab hac vita migraverit coniux eius. Si vero
+            aliquis vel aliqua id hactenus non servavit, et de morte prioris coniugis adhuc sibi
+            existimat dubitandum: ei, quae sibi nupsit, debitum non deneget postulanti, quod a se
+            tamen noverit nullatenus exigendum. Quodsi post hoc de prioris coniugis vita
+            constiterit, relictis adulterinis illicitisque complexibus ad priorem sine dubio
+            coniugem revertatur.</p>
+        </div>
+        <div xml:id="cice-l4t21-Dd1e138">
+          <head xml:id="cice-l4t21-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l4t21-d1e143">Si unus ex coniugibus fuit alias benedictus, non debent coniuges de novo benedici.</p>
+          <p xml:id="cice-l4t21-d1e146">Urbanus III. Vigiliensi Episcopo.</p>
+          <p xml:id="cice-l4t21-d1e149">Vir autem vel mulier, ad bigamiam transiens, non debet a presbytero benedici, quia,
+            quum alia vice benedicti sint, eorum benedictio iterari non debet.</p>
+        </div>
+        <div xml:id="cice-l4t21-Dd1e153">
+          <head xml:id="cice-l4t21-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l4t21-d1e158">Mulier, nubens infra annum lugubrem, infamiam non incurrit. H. d. cum sequenti Abbas
+            Siculus.</p>
+          <p xml:id="cice-l4t21-d1e161">Idem Exonensi Episcopo.</p>
+          <p xml:id="cice-l4t21-d1e164">Super illa vero quaestione, qua quaesitum est, an scilicet mulier possit sine infamia
+            nubere infra tempus luctus secundum leges diffinitum, sollicitudini tuae respondemus,
+            quod, quum Apostolus dicat: “mulier, viro suo mortuo, soluta est a lege viri sui” et “in
+            Domino nubat cui voluerit” per licentiam et auctoritatem Apostoli eius infamia
+            aboletur.</p>
+        </div>
+        <div xml:id="cice-l4t21-Dd1e169">
+          <head xml:id="cice-l4t21-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l4t21-d1e174">Summatur ut praecedens.</p>
+          <p xml:id="cice-l4t21-d1e177">Innocentius III. P. nobili mulieri.</p>
+          <p xml:id="cice-l4t21-d1e180">Quum secundum Apostolum mulier, mortuo viro suo, ab eius sit lege soluta, et nubendi
+            cui vult, tantum in Domino, liberam habeat facultatem: non debet legalis infamiae
+            sustinere iacturam, quae, licet post viri obitum infra tempus luctus, scilicet unius
+            anni spatium, nubat, concessa sibi tamen ab Apostolo utitur potestate, quum in his
+            praesertim saeculares leges non dedignentur sacros canones imitari. Quum igitur ad
+            secunda disponas vota transire, sciens, quod nubere melius est quam uri, tuum in Domino
+            propositum commendamus, et ne id tibi vel ei qui te duxerit in iacturam vel infamiam ab
+            aliquo imputetur auctoritate praesentium expressius inhibemus, quum concessam tibi ab
+            apostolo nubendi tantum in Domino liberam habeas facultatem.</p>
+          <p xml:id="cice-l4t21-d1e183">FINIS LIBRI QUARTI.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.18. DE CONFESSIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.18. DE CONFESSIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t18">
+        <head xml:id="cice-l2t18-Hd1e105">2.18. DE CONFESSIS.</head>
+
+        <div xml:id="cice-l2t18-Dd1e108">
+          <head xml:id="cice-l2t18-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l2t18-d1e113">Ad solum dictum confitentis crimen proprium non est alteri infligenda poena aliqua;
+            infamato tamen est indicenda purgatio.</p>
+          <p xml:id="cice-l2t18-d1e116">Clemens III.</p>
+          <p xml:id="cice-l2t18-d1e119">Quum monasterium (Et infra: [cf. c. 13. de elect. I. 6.]) Super eo vero, quod tuis
+            literis adnectere studuisti, quid tibi faciendum sit de quodam eiusdem monasterii
+            sacerdote, qui diabolo instigante quendam ex fratribus, sicut eum publice proposuisti
+            confessum, occidit, hoc fraternitati tuae rescribimus et per apostolica scripta
+            mandamus, quatenus eum solenniter ab omni officio divino non differas degradare, et in
+            monasterium aliquod Cisterciensis ordinis recludere, in quo iniunctam sibi tanti
+            facinoris poenitentiam agens ibi, dum vixerit, digne lugeat quod commisit. Eos, autem,
+            de quorum suggestione scelus homicidii presbyter se perpetrasse proponit, nisi tibi
+            aliis modis et iustis rationibus verum esse constiterit, nulli censemus poenae
+            subdendos, quum secundum utriusque iuris statuta de se confessi super aliorum
+            conscientiis interrogari non debent, et, crimine laesae maiestatis excepto, de reatu
+            proprio confitentis periculosa confessio non est adversus quemlibet admittenda. Si tamen
+            eos infamia huiusmodi laborare cognoveris, singulis eis, adiunctis tribus sociis sui
+            ordinis, purgationem iniungas.</p>
+        </div>
+        <div xml:id="cice-l2t18-Dd1e123">
+          <head xml:id="cice-l2t18-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t18-d1e128">Si de crimine contingente causam principalem constat contra aliquem per eius
+            confessionem, punitur poena ordinaria, etiamsi directe contra eum non agatur. H. d.
+            secundum glossam. Et est casus notabilis et verus in se. Vel summa sic secundum alium
+            intellectum non minus notabilem, quem etiam sentit glossa, licet non perfecte explicet:
+            Si quis confitetur crimen in iudicio incidenter, potest iudex ordinarius novum inchoando
+            processum illum punire poena ordinaria. H. d. singulariter. Abbas.</p>
+          <p xml:id="cice-l2t18-d1e131">Innocentius III. Canonicis de Bethlehem.</p>
+          <p xml:id="cice-l2t18-d1e134">Quum super electione Bethlehemitanae ecclesiae inter R. subdiaconum vestrum et P.
+            canonicum sepulcri dominici nuper in nostra praesentia quaestio verteretur (Et infra:
+            [cf. c. 4. de causa poss. II. 12.]) Ceterum Quoniam V. canonicus Bethlehemitanus fuit in
+            iure confessus, quod pro praestando alterius electioni consensu quingentorum
+            Sarracenorum obligationem receperat et promissum, et mediator exstitit simoniacae
+            pravitatis, nos intelligentes, contractum huiusmodi continere simoniacam pravitatem,
+            quoniam vitium huiusmodi persequi volumus, ut debemus, ipsum ab omni ordine clericali
+            per diffinitivam sententiam duximus ab omni beneficio et officio ecclesiastico
+            deponendum.</p>
+        </div>
+        <div xml:id="cice-l2t18-Dd1e138">
+          <head xml:id="cice-l2t18-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t18-d1e143">Confessio facta in iure per oeconomum ecclesiae nocet ipsi ecclesiae; potest tamen
+            revocari, si ante finitum negotium doceatur per errorem facti emanasse. H. d.</p>
+          <p xml:id="cice-l2t18-d1e146">Gregorius IX. B. Iudici Viterbiensi.</p>
+          <p xml:id="cice-l2t18-d1e149">Ex parte [dilectorum filiorum] abbatis et conventus monasterii sancti M. [in monte
+            Viterbien. Cistercien. ordinis] fuit propositum [coram nobis], quod, quum inter ipsos ex
+            parte una, et V. [civem Viterb.] nomine suae uxoris ex altera coram te quaestio
+            verteretur, [tandem in te tanquam in arbitrum fuit a partibus poena interposita
+            compromissum. Quumque coram te lis procederet suo Marte], oeconomus monasterii memorati
+            [qui causam prosequebatur eandem] quaedam per errorem facti fuit in iure confessus, ex
+            quibus timet sibi praeiudicium generari. [Quare super hoc sibi petierunt a nobis congrue
+            provideri.] Quum igitur negotio nondum finito nemini noceat error facti, mandamus,
+            quatenus, si [praedicti abbas et conventus] de huiusmodi potuerit errore docere, [super
+            hoc auctoritate nostra] provideas, ut nullum sibi super hoc praeiudicium generetur.
+            [Dat. Reatin. XII. Kal. Febr. A. V. 1232.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

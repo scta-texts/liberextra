@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.23. DE OFFICIO ARCHIDIACONI.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.23. DE OFFICIO ARCHIDIACONI.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t23">
+        <head xml:id="cice-l1t23-Hd1e105">1.23. DE OFFICIO ARCHIDIACONI.</head>
+
+        <div xml:id="cice-l1t23-Dd1e108">
+          <head xml:id="cice-l1t23-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t23-d1e113">Ponit quae spectant ad officium archidiaconi.</p>
+          <p xml:id="cice-l1t23-d1e116">Ex libro Romani ordinis.</p>
+          <p xml:id="cice-l1t23-d1e119">Ut archidiaconus post episcopum sciat se vicarium esse eius in omnibus, et omnem curam
+            in clero, tam in urbe positorum, quam eorum, qui per parochias habitare noscuntur, ad se
+            pertinere; sive de eorum conversatione, sive de honore et restauratione ecclesiarum,
+            sive doctrina ecclesiasticorum vel ceterarum rerum studio, et delinquentium rationem
+            coram Deo redditurus est. Et ut de tertio in tertium anum, si episcopus non potest,
+            parochiam universam circumeat, et cuncta, quae emendatione indigent, ad vicem sui
+            episcopi corrigat et emendet.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e123">
+          <head xml:id="cice-l1t23-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t23-d1e128">Non summatur, sed ponit quaedam, quae spectant ad officium archidiaconi.</p>
+          <p xml:id="cice-l1t23-d1e131">Ex concilio Toletano.</p>
+          <p xml:id="cice-l1t23-d1e134">Officium vero archidiaconi est, evangelium quando voluerit legere, vel alicui de
+            diaconis praecipere, et quando episcopus missam canit, ad iussionem illius induant se
+            Levitae vestimentis sacris, qualiter cum pontifice ad missam procedant; †omnem
+            querimoniam seu causam vel iustitiam presbyterorum, vel diaconorum, vel subdiaconorum
+            ipse debet deliberare, ordinare et facere. Ideo vero strenuus, providus, cautus, vicem
+            sui episcopi agens, episcopii totius curam habeat, et §. 1. Omne ecclesiasticum officium
+            providendo, lectiones aut responsoria in matrice ecclesia dare debet, et auscultare, in
+            tantum, ut nullus evangelium, aut epistolam, aut responsoria, vel quamlibet in ecclesia
+            lectionem legat vel cantet, donec ante ipsum legat vel cantet, et auscultetur ab ipso.
+            §. 2. Acolythos quoque ipse ordinet, quis eorum candelabra, quis thuribulum deferre
+            quisve minorum in ecclesia aliqua officia agere debeat.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e138">
+          <head xml:id="cice-l1t23-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t23-d1e143">Custodia vasorum ecclesiae spectat ad archidiaconum.</p>
+          <p xml:id="cice-l1t23-d1e146">Gregorius III. Archidiacono Salonitano.</p>
+          <p xml:id="cice-l1t23-d1e149">Ea, quae nobis contra †vos tu et episcopus tuus direxistis scripta, doluimus
+            agnoscentes eo, quod inter vos nihil caritas recognoscit. Verumtamen te in officio
+            ordinis tui administrare praecipimus, et, si illic potest superante gratia causa vestri
+            scandali definire, multum credimus vestrae animae acquisivisse. Sin vero ita inter vos
+            discordia partes suas armavit, ut in tumore scandali voluntas vestra debeat remanere, tu
+            ad nostram audientiam indifferenter occurre, et episcopus tuus pro se dirigat quam
+            elegerit personam instructam, ut omnia subtili ratione perpensa constituere quae visa
+            fuerint partibus debeamus. Scire vero te volumus, quod a te districte quaesituri sumus,
+            quia vel propriae ecclesiae, vel ea, quae de diversis ecclesiis cimilia sunt collecta,
+            non sub omni sollicitudine et fide servantur. Quod si quid ex eis vel negligentia, vel
+            cuiusquam fraude deperiit, tu in hoc reatu adstringeris, qui per archidiaconatus ordinem
+            custodiae eiusdem ecclesiae arctius deputaris.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e153">
+          <head xml:id="cice-l1t23-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t23-d1e158">Archidiaconus sine mandato episcopi non committit curam animarum, id est, non habet
+            institutionem auctorizabilem.</p>
+          <p xml:id="cice-l1t23-d1e161">Alexander III. Eliensi Archidiacono.</p>
+          <p xml:id="cice-l1t23-d1e164">Quum satis sit absurdum †et a sanctorum Patrum institutionibus alienum, ut
+            archidiaconus auctoritate propria debeat cuilibet curam ecclesiarum committere, aegre
+            nimis ferimus, quod tu sine mandato episcopi tui personis animarum curam committis.
+            Quoniam igitur obtentu alicuius consuetudinis non debes contra sanctorum Patrum
+            constitutiones venire, et quod ad tuum non spectat officium vendicare, ideo mandamus, ut
+            nemini de cetero sine licentia et mandato episcopi tui curam praesumas committere
+            animarum.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e169">
+          <head xml:id="cice-l1t23-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l1t23-d1e174">Archidiaconus de iure communi non potest excommunicare. Ant. de But.</p>
+          <p xml:id="cice-l1t23-d1e177">Idem Vigoriensi Episcopo.</p>
+          <p xml:id="cice-l1t23-d1e180">Archidiaconis non videtur de ecclesiastica institutione licere, nisi auctoritas
+            episcoporum et consensus accesserit, in aliquos sententiam promulgare.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e184">
+          <head xml:id="cice-l1t23-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l1t23-d1e189">Archidiaconus semel in anno, nisi necessitas exigat plus, visitat suam provinciam, id
+            est paroeciam. Hoc dicit.</p>
+          <p xml:id="cice-l1t23-d1e192">Idem Episcopo Conventrensi et Abbati Cestrensi.</p>
+          <p xml:id="cice-l1t23-d1e195">Mandamus, quatenus prohibeatis R. Cestrensi archidiacono, ne clericos sive laicos, qui
+            pro suis excessibus puniendi sunt, poena pecuniaria mulctare, sive in examinatione ignis
+            vel aquae a quolibet viro vel muliere extorquere praesumat, aut pro annua et indebita
+            exactione pecuniae personas suspendere, vel ecclesias interdicere, neque ad ecclesias
+            sui archidiaconatus visitandas nisi semel in anno accedat, nisi forte talis causa
+            emerserit, propter quam ipsum oporteat praefatas ecclesias saepius visitare. Et tunc cum
+            ea moderantia hominum et equitaturarum, quod qui in eis morantur, exinde non debeant
+            merito querelari. Si autem contra inhibitionem vestram venire praesumserit,
+            ecclesiastica severitate percellatis, omni occasione et appellatione cessantibus, et
+            sententiam ipsam usque ad dignam satisfactionem faciatis inviolabiliter observari, ita
+            quod in vos et illos hoc non cogamur durius, vindicare.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e199">
+          <head xml:id="cice-l1t23-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l1t23-d1e204">Dicit primo, quod sit officium archidiaconi, et in quo per illud relevetur episcopus.
+            Et secundo dicit, decanos rurales per episcopum et archidiaconum eligendos et amovendos,
+            si illorum vices communiter gerant.</p>
+          <p xml:id="cice-l1t23-d1e207">Innocentius III.</p>
+          <p xml:id="cice-l1t23-d1e210">Ad haec non dicimus (Et infra:) §. 1. Sane consuluit nos tuae fraternitatis devotio,
+            quid ad officium archidiaconi debeat pertinere, et in quibus per ipsum cura episcopalis
+            sollicitudinis debeat relevari. Et nos, prout possumus, respondemus, quod archidiaconus
+            secundum statuta B. Isidori imperat subdiaconibus et Levitis; parochiarum sollicitudo et
+            earum ordinatio ad ipsum pertinet, et audire debet iurgia singulorum. §. 2.
+            Archipresbyteri autem, qui a pluribus decani nuncupantur, eius iurisdictioni se noverint
+            subiacere. §. 3. Secundum vero Romani ordinis constitutionem maior post episcopum et
+            ipsius episcopi vicarius reperitur, omnem sollicitudinem et curam tam in clericis quam
+            in ecclesiis eorum, prout melius secundum Deum poterit, impendendo, quum super his sit
+            redditurus rationem in districti examinis iudicio. §. 4. Item in epistola B. Clementis
+            Papae praedecessoris nostri oculus episcopi archidiaconus appellatur, ut loco episcopi
+            per episcopatum prospiciens, quae corrigenda viderit corrigat et emendet, nisi adeo
+            fuerint ardua negotia, quod absque maioris sui praesentia nequeant terminari. §. 5. In
+            quadam vero nostra constitutione iam alia vice nos meminimus expressisse, quod
+            institutio corporalis tam super beneficiis quam etiam dignitatibus ad ipsum debeat
+            pertinere, examinatio etiam clericorum, si fuerint ad sacros ordines promovendi; et hoc
+            idem in collationibus beneficiorum credimus observandum, ut qui beneficiis
+            ecclesiasticis praeficiendi fuerint a suo prius examinentur archidiacono, et per ipsum
+            postmodum episcopo praesententur. §. 6. Subsequenter postea quaesivisti, utrum decani
+            rurales, qui pro tempore statuuntur, ad mandatum tuum solum, vel archidiaconi, vel etiam
+            utriusque institui debeant vel destitui, si fuerint amovendi. Ad hoc breviter
+            respondemus, quod, quum iuxta imperialis sanctionis auctoritatem ab omnibus quod omnes
+            tangit approbari debeat, et quum commune eorum decanus officium exerceat, communiter est
+            eligendus, vel etiam amovendus.</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e214">
+          <head xml:id="cice-l1t23-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l1t23-d1e219">Archidiaconus non dat commendatitias ad ordines.</p>
+          <p xml:id="cice-l1t23-d1e222">Idem.</p>
+          <p xml:id="cice-l1t23-d1e225">Significasti (Et infra:) Interdicas autem archidiacono tuo, ne sine conscientia tua et
+            auctoritate literas suas promovendis concedat, et eis etiam districte prohibeas, ne ad
+            ordines taliter audeant convolare. Qui si contra prohibitionem tuam venire
+            praesumpserint, exsecutionem eis ordinum susceptorum totaliter interdicas. [Dat. Lat.
+            XV. Kal. Oct. 1199.]</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e229">
+          <head xml:id="cice-l1t23-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l1t23-d1e234">Archidiaconus examinat et praesentat ordinandos, et ponit praelatos in sede.</p>
+          <p xml:id="cice-l1t23-d1e237">Idem.</p>
+          <p xml:id="cice-l1t23-d1e240">Ut nostrum (Et infra:) [(cf. c. un. ut. eccl. ben. III. 12.) Quia vero maiorum excessus
+            maiori debent severitate puniri, quum iuxta divinae legis oraculum sacerdos, si unctus
+            est, peccaverit, faciet delinquere populum, quod inhoneste super retentione proventuum
+            praesumpsisti de communi fratrum nostrorum consilio irritavimus, et in poenam
+            praesumptionis huiusmodi, ut in eo puniaris, in quo peccaveras, a collatione dignitatis
+            vel ecclesiastici beneficii, quod ad tuam donationem in tua primo vacabit ecclesia,
+            censuimus suspendendum. Ceterum quia divina docente scriptura didicimus, quod melior est
+            sapiens viro forti, et qui dominatur animo expugnatore urbium, quantumcunque voluerimus
+            aut vellemus, si salva possemus iustitia (contra quam non iudicamus nos posse, quum
+            simus in sede iustitiae constituti), praefatam cancellariam praedicto subdiacono nostro
+            conferri, saepedictum tamen H. de Lamp. non invenimus ita culpabilem, ut eum exigente
+            iustitia ipsa cancellaria privare possimus, quum, etsi parentes eius simplicitate
+            deliquerint, nihil tamen pro ea dantes aut etiam promittentes, ipse tamen investituram
+            cancellariae sicut verus canonicus, et cui ratione canonicatus non poterat opponi de
+            iure defectus, sine pactione qualibet et conventione recepit.] Nec [etiam] fuit
+            sufficienter probatum, quod cancellarius ex officio suo exerceat spiritualia memorata,
+            quum ea potius de iure communi ad archidiaconi spectent officium, repraesentare
+            videlicet ordinandos episcopo, et illos examinare, ponere abbates et abbatissas in sede.
+            [Quae quum probatum sit etc. Dat. Perusii IX. Kal. Oct. 1198.]</p>
+        </div>
+        <div xml:id="cice-l1t23-Dd1e244">
+          <head xml:id="cice-l1t23-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l1t23-d1e249">Archidiaconi in monasteriis iurisdictionem non habent, nisi quantum tribuit eis
+            generalis vel specialis consuetudo.</p>
+          <p xml:id="cice-l1t23-d1e252">Honorius III. Abbati Arimanensi Trecensis dioecesis, et Archidiacono et Decano S.
+            Stephani Trecensis.</p>
+          <p xml:id="cice-l1t23-d1e255">Dilecto filio (Et infra:) Ad petitionem archidiaconi Senonensis conquerentis, quod
+            abbas et conventus monasterii sancti Petri Vivi Senonensis procurationem annuam et
+            quaedam alia ratione sui archidiaconatus ad ipsum spectantia exhiberi sibi contra
+            iustitiam denegabant, abbati sancti Crispini et collegis eius dedimus in mandatis, ut
+            audirent causam huiusmodi et fine debito terminarent. Coram quibus petiit praedictus
+            archidiaconus, ut, quum idem monasterium infra metas sui archidiaconatus sit situm,
+            praefati abbas et monachi sibi obedirent in his, quae pertinent ad iurisdictionem,
+            correctionem, reconciliationem et visitationem, ad ius, ut dicebat, archidiaconale
+            spectantes, videlicet, ut coram se conquerentibus responderent, ac starent iuri, et
+            iustas eius sententias observarent; citati etiam venirent ad eius praesentiam, et eius
+            mandata honesta et sancta secundum Deum, de correctione excessuum, et aliis, quae
+            archidiaconi solent et possunt rationabiliter iniungere, audituri et salva sua regula et
+            abbatis sui debita obedientia servaturi. Petiit insuper, ne de cetero facerent aliquos
+            de Senonensi baillivia eo praetermisso coram officiali Senonensis archiepiscopi
+            conveniri, asserens, illos prius debere conveniri sub ipso, quam coram officiali
+            praedicto, specialibus ipsius archiepiscopi et hominum, ac familiae suae causis duntaxat
+            exceptis. †Lite igitur super praemissis coram praefatis iudicibus legitime contestata,
+            et auditis ab eisdem hinc inde propositis, iidem iudices de utriusque partis assensu
+            causam ipsam ad examen apostolicum remiserunt. Ipsis ergo abbate et archidiacono in
+            nostra praesentia constitutis, nos attendentes, eorum consuetudines esse super
+            archidiaconorum iurisdictione diversas, quum in hoc casu nesciremus consuetudinem, qua
+            in abbatiis Senonensibus ordinis praefati monasterii utitur archidiaconus Senonensis,
+            finalem habere nequivimus in huiusmodi questione processum. Volentes autem, ut eidem
+            quaestioni finis debitus imponatur, causam ipsam vobis de ipsius abbatis et procuratoris
+            alterius partis assensu duximus committendam. Ideoque discretioni vestrae mandamus,
+            quatenus per maiores ecclesiae Senonensis canonicos, qui habere debent de huiusmodi
+            consuetudine notitiam pleniorem, super his sollicite veritatem inquiratis, et, nisi
+            vobis infra tres menses post primae citationis edictum constiterit per eosdem, praefatum
+            archidiaconum vel praedecessores ipsius de pacifica sic obtenta consuetudine
+            iurisdictionem aliquam in ipso monasterio, vel in huiusmodi abbatiis hactenus habuisse,
+            praefatum monasterium ab eius impetitione penitus absolvatis, perpetuum super hoc ipsi
+            archidiacono silentium imponentes. Si vero vobis constiterit per canonicos eosdem, ipsum
+            archidiaconum vel eius praedecessores de sic obtenta consuetudine hactenus habuisse
+            iurisdictionem aliquam in ipso monasterio, vel in aliis huiusmodi abbatiis, eandem
+            iurisdictionem duntaxat adiudicantes eidem, in monasterio supradicto quam ipsum vel
+            praedecessores suos in monasterio ipso vel in eisdem abbatiis habuisse constiterit,
+            super aliis perpetuum ei silentium imponatis, in praedictis omnibus sublato
+            appellationis obstaculo processuri.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

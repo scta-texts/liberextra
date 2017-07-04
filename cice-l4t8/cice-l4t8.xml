@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.VIII. DE CONIUGIO LEPROSORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.VIII. DE CONIUGIO LEPROSORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t8">
+        <head xml:id="cice-l4t8-Hd1e105">4.VIII. DE CONIUGIO LEPROSORUM.</head>
+
+        <div xml:id="cice-l4t8-Dd1e108">
+          <head xml:id="cice-l4t8-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l4t8-d1e113">Lepra superveniens non dissolvit matrimonium, nec matrimonii effectum, ideo adinvicem
+            maritali affectione coniuncti se tractare debent, aut ad perpetuam continentiam vovendam
+            induci.</p>
+          <p xml:id="cice-l4t8-d1e116">Alexander III. Cantuariensi Archiepiscopo.</p>
+          <p xml:id="cice-l4t8-d1e119">Pervenit ad nos, quod, quum hi, qui leprae morbum incurrunt, de consuetudine generali a
+            communione hominum separentur, et extra civitates et villas ad loca solitaria
+            transferantur, nec uxores viros, nec viri uxores suas taliter aegrotantes sequuntur, sed
+            sine ipsis manere praesumunt. Quoniam igitur, quum vir et uxor una caro sint, non debet
+            alter sine altero esse diutius, fraternitati tuae per apostolica scripta praecipiendo
+            mandamus, quatenus, ut uxores viros, et viri uxores, qui leprae morbum incurrunt,
+            sequantur, et eis coniugali affectione ministrent, sollicitis exhortationibus inducere
+            non postponas. Si vero ad hoc induci non poterunt, eis arctius iniungas, ut uterque
+            altero vivente continentiam servet. Quodsi mandatum tuum servare contempserint, vinculo
+            excommunicationis adstringas.</p>
+        </div>
+        <div xml:id="cice-l4t8-Dd1e123">
+          <head xml:id="cice-l4t8-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l4t8-d1e128">Coniuges propter lepram separandi non sunt a coniugio, et contrahere possunt
+            matrimonium, et invicem sibi reddere debitam tenentur.</p>
+          <p xml:id="cice-l4t8-d1e131">Idem Baionensi Episcopo.</p>
+          <p xml:id="cice-l4t8-d1e134">Quoniam ex multis auctoritatibus et praecipue ex evangelica veritate nemini licet,
+            excepta causa fornicationis, uxorem suam dimittere: constat, quod, sive mulier lepra
+            percussa fuerit, seu alia gravi infirmitate detenta, non est a viro [suo] propterea
+            separanda, vel etiam dimittenda. Super hoc vero, [quod de latore etc.] (Et infra: [cf.
+            c. 3. De eo, qui duxit IV. 7.]) Leprosi autem si continere nolunt, et aliquam, quae sibi
+            nubere velit, invenerint, liberum est eis ad matrimonium convolare. Quodsi virum sive
+            uxorem divino iudicio leprosum fieri contigerit, et infirmus a sano carnale debitum
+            exigat, generaIi praecepto Apostoli quod exigitur est solvendum, cui praecepto nulla in
+            hoc casu exceptio invenitur.</p>
+        </div>
+        <div xml:id="cice-l4t8-Dd1e138">
+          <head xml:id="cice-l4t8-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l4t8-d1e143">Sponsalia de futuro praecise non compellunt ad contrahendum matrimonium cum leproso,
+            lepra post sponsalia superveniente.</p>
+          <p xml:id="cice-l4t8-d1e146">Urbanus III. Episcopo Florentino.</p>
+          <p xml:id="cice-l4t8-d1e149">Literas fraternitatis tuae debita benignitate suscepimus, quibus certiores de
+            sinceritate tuae fidei et devotionis effecti, ad honorem et commodum tuum abundantius
+            provocamur. Verum Quia [a nobis] postulasti, utrum, si, post sponsalia de futuro inter
+            aliquas legitimas personas contracta, antequam a viro mulier traducatur, alter eorum
+            leprae morbum incurrat, alius ad consummandam copulam maritalem compelli debeat, vel se
+            possit ad secunda vota transferre, tuae sollicitudini respondemus, quod ad eam
+            accipiendam cogi non debet, quum nondum inter eos matrimonium fuerit consummatum. [De
+            illa vero etc. (cf. c. 6. de divort. IV. 19.)]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

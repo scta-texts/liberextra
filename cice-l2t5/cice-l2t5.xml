@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.05. DE LITIS CONTESTATIONE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.05. DE LITIS CONTESTATIONE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t5">
+        <head xml:id="cice-l2t5-Hd1e105">2.05. DE LITIS CONTESTATIONE.</head>
+        <div xml:id="cice-l2t5-Dd1e108">
+          <head xml:id="cice-l2t5-Hd1e110">CAP. UN.</head>
+
+          <p xml:id="cice-l2t5-d1e113">Non per positiones et responsiones, sed per petitionem in iure propositam et
+            responsionem secutam fit litis contestatio, qua omissa nullus est processus.</p>
+          <p xml:id="cice-l2t5-d1e116">Gregorius IX. Abbati S. Ioannis in Vineis.</p>
+          <p xml:id="cice-l2t5-d1e119">Olim inter episcopum Noviensem ex parte una, et capitulum ecclesiae sancti Quintini ex
+            altera super quibusdam iniuriis, et excommunicationum sententiis et quibusdam aliis
+            articulis orta materia quaestionis (Et infra:) Iudices factis quibusdam positionibus et
+            responsionibus ad easdem, auditis etiam quae partes voluerunt proponere coram eis,
+            causam eandem ad examen apostolicum remiserunt. Procuratoribus igitur partium propter
+            hoc in nostra praesentia constitutis, quamvis positiones et responsiones hinc inde super
+            pluribus articulis factae fuerint coram iudicibus memoratis, quia tamen litis
+            contestationem non invenimus esse factam, quum non per positiones et responsiones ad
+            eas, sed per petitionem in iure propositam et responsionem secutam litis contestatio
+            fiat, processum ipsorum de fratrum nostrorum consilio irritum duximus nunciandum.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

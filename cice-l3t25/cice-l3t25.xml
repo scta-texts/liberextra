@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.25. DE PECULIO CLERICORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.25. DE PECULIO CLERICORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t25">
+        <head xml:id="cice-l3t25-Hd1e105">3.25. DE PECULIO CLERICORUM.</head>
+
+        <div xml:id="cice-l3t25-Dd1e108">
+          <head xml:id="cice-l3t25-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t25-d1e113">Quaesitum a rectore ecclesiae, tempore promotionis nihil habente, praesumitur de bonis
+            ecclesiae quaesitum.</p>
+          <p xml:id="cice-l3t25-d1e116">Ex concilio Arelatensi.</p>
+          <p xml:id="cice-l3t25-d1e119">Investigandum est, si nihil patrimonii habens presbyter, quamdo promotus est ad
+            ecclesiasticum ordinem, postea emerit praedia, cuius iuris sint, quoniam ecclesiae, ad
+            quam nihil habens promotus est, esse debent iuxta canonicam auctoritatem.</p>
+        </div>
+        <div xml:id="cice-l3t25-Dd1e123">
+          <head xml:id="cice-l3t25-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t25-d1e128">De emptis per praelatum de bonis ecclesiae debet instrumentum confici nomine ecclesiae;
+            alias debet praelatus ab administratione removeri.</p>
+          <p xml:id="cice-l3t25-d1e131">Ex eodem.</p>
+          <p xml:id="cice-l3t25-d1e134">Presbyter, quum dioecesim tenet, de eis, quae superemerit, ad ipsius ecclesiae nomen
+            scripturam faciat, aut ab eius, quam tenuit, ecclesiae ordinatione discedat.</p>
+        </div>
+        <div xml:id="cice-l3t25-Dd1e138">
+          <head xml:id="cice-l3t25-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t25-d1e143">Quaesita per episcopum post consecrationem suam ecclesiae relinquenda sunt.</p>
+          <p xml:id="cice-l3t25-d1e146">Ex epistola Pii Papae.</p>
+          <p xml:id="cice-l3t25-d1e149">Ut unusquisque presbyter res, quas post dies consecrationis acquisierit, propriae
+            ecclesiae relinquat.</p>
+        </div>
+        <div xml:id="cice-l3t25-Dd1e153">
+          <head xml:id="cice-l3t25-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t25-d1e158">Empta per praelatum ex emolumentis ecclesiae efficiuntur ecclesiae, licet praelatus
+            emerit nomine alieno.</p>
+          <p xml:id="cice-l3t25-d1e161">Ex concilio Remensi.</p>
+          <p xml:id="cice-l3t25-d1e164">Inquirendum est, si quis presbyterorum de reditibus ecclesiae, vel oblationibus, vel
+            votis fidelium alieno nomine res comparavit et ibi structuras fecerit, vel quae ad
+            ecclesiam pertinent ibidem collocaverit; [et mulierum frequentationem inibi fieri
+            permiserit, vel quod turpius est, tales mulieres ibidem habuerit, quae benificium suum
+            exerceant et curam domus agant et ad eorum loca incongrue recurrerit, frequentaverit vel
+            manserit, quoniam contra decreta agitur, a quibus perpetratur, quia sicut eodem
+            presbyter frequenter veniens manserit. Contra decreta canonum hoc malum agitur,] quia,
+            sicut nec suo, ita nec alieno nomine presbyter [vel quilibet sub regula] foenus
+            exercere, multo minus fraudem facere de facultatibus ecclesiasticis debet: quoniam hoc
+            sacrilegium est, et par crimini [Ananiae et Sapphirae et] Iudae furis, qui sacras
+            oblationes [quae ad usus fidelium ac pauperum mittebantur] asportabat et furabatur.</p>
+        </div>
+        <div xml:id="cice-l3t25-Dd1e169">
+          <head xml:id="cice-l3t25-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t25-d1e174">Meliorationes, factae per praelatum in rebus ecclesiae, sunt suae in vita, etiami
+            dimittat beneficium; sed de his testari non potest. H. d. secundum intellectum satis
+            notabilem.</p>
+          <p xml:id="cice-l3t25-d1e177">Ex concilio Toletano.</p>
+          <p xml:id="cice-l3t25-d1e180">Si quis sane clericorum agella vel vincolas in terra ecclesiae sibi fecisse probabitur
+            sustentandae vitae causa, usque ad diem obitus sui possideat; verum post suum de hac
+            luce decessum iuxta priorum canonum constitutiones ius suum ecclesiae sanctae restituat,
+            nec testamentario aut successorio iure cuiquam heredum proheredumve relinquat, nisi
+            forsan cui episcopus pro servitiis ac praestatione ecclesiae largiri voluerit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.20. DE CORPORE VITIATIS ORDINANDIS VEL NON.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.20. DE CORPORE VITIATIS ORDINANDIS VEL NON.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t20">
+        <head xml:id="cice-l1t20-Hd1e105">1.20. DE CORPORE VITIATIS ORDINANDIS VEL NON.</head>
+        <div xml:id="cice-l1t20-Dd1e108">
+          <head xml:id="cice-l1t20-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l1t20-d1e113">Presbyter, qui in duello digiti partem amisit, ex dispensatione sui episcopi potest in
+            suo ordine ministrare.</p>
+          <p xml:id="cice-l1t20-d1e116">Alexander III.</p>
+          <p xml:id="cice-l1t20-d1e119">De presbytero autem Campaniae, qui duellum sponte obtulit, et oblatum suscepit, et in
+            eo partem digiti amisit, sicut olim, ita et nunc prudentiae tuae respondemus, quod, quum
+            ipse, sicut etiam nos videmus, non perdiderit tantum de digito, quin ipse sine scandalo
+            possit solenniter celebrare, satis potes post peractam poenitentiam cum eo
+            misericorditer agere, et permittere ipsum in suo ordine ministrare, licet eius excessus
+            gravis admodum exstitisset. [Presbyter autem etc. cf. c. 7. de hom. V. 12.]</p>
+        </div>
+        <div xml:id="cice-l1t20-Dd1e123">
+          <head xml:id="cice-l1t20-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t20-d1e128">Habens in oculo maculam, quae non inducit magnam deformitatem, etiam ad episcopatum
+            poterit promoveri.</p>
+          <p xml:id="cice-l1t20-d1e131">Idem Cisterciensi Electo.</p>
+          <p xml:id="cice-l1t20-d1e134">Quum de tua et aliorum electione, qui sunt in quibusdam ecclesiis Anglicanis electi, in
+            praesentia nostra et fratrum nostrorum quaestio mota fuisset, †et singulis vestris
+            quaedam obiicerentur: tibi, quod in oculo maculam habeas, et quod filius canonici
+            fueris, est obiectum. Unde Cantuariensi archiepiscopo apostolicae sedis legato dedimus
+            in mandatis, ut pro eo, quod canonici filius diceris, in promotione tua ex multa
+            dispensatione procedat. De macula vero, quam in oculo habere diceris, hoc archiepiscopo
+            praedicto mandavimus, ut cum consilio suffraganeorum suorum, et praesertim venerabilium
+            fratrum nostrorum Wigorniensis et Exonensis episcoporum, quod exinde sibi visum fuerit
+            exsequatur. Tu itaque eundem archiepiscopum, frater, requirere super his studeas
+            humiliter et devote: in quo tibi ex maxima dispensatione in hac parte sollicite
+            curavimus providere, utpote qui personam tuam sincera caritate diligimus, et libenter,
+            quantum secundum Deum possumus, ad tuum intendimus commodum et honorem.</p>
+        </div>
+        <div xml:id="cice-l1t20-Dd1e138">
+          <head xml:id="cice-l1t20-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t20-d1e143">Sectus in cunabulis, licite promovetur.</p>
+          <p xml:id="cice-l1t20-d1e146">Clemens III. Variensi Episcopo.</p>
+          <p xml:id="cice-l1t20-d1e149">Ex parte Bartholomaei monachi et diaconi petitorium fuit nostro apostolatui
+            praesentatum, quod, quum ipse in cunabulis sectus fuerit, postmodum sub regula et abbate
+            devote Deo militans in diaconatus ordinem est promotus, unde suppliciter petiit
+            facultatem sibi a sede apostolica indulgeri, ut sit ei licitum in presbyterum ordinari.
+            Sane quum secundum statuta Nicaeni concilii illi ad clericatus ordinem prohibeantur
+            accedere, et si etiam in clero fuerint, cessare debeant, qui se ipsos sani absciderint,
+            vel affectaverint, ut ab aliis abscindantur, non credimus ei aliquod impedimentum
+            afferre, quo minus possit provehi, qui in cunabulis sectus fuit; quia non videtur hoc eo
+            tempore affectasse, quo iudicium animi non habebat, praesertim quum in canonibus
+            Apostolorum sit manifeste sancitum, quod eunuchus, si per insidias hominum factus, vel
+            ita natus sit, aut etiam in persecutione sint ei amputata virilia, et dignus est, possit
+            in episcopum promoveri. Cognoscenti itaque de substantia veritatis, si precibus eius
+            noveris veritatem inesse, et alias dignus inveniatur, maxime quum diu in ordine
+            perseveraverit monachali, ipsum in presbyterum promovendi licentiam auctoritate
+            praesentium indulgemus.</p>
+        </div>
+        <div xml:id="cice-l1t20-Dd1e153">
+          <head xml:id="cice-l1t20-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t20-d1e158">Sacerdos, qui sine causa virilia sibi fecit abscindi, credens inde mereri de
+            dispensatione episcopi suum officium, praeter altaris ministerium, poterit exercere.</p>
+          <p xml:id="cice-l1t20-d1e161">Idem Ravennati Archiepiscopo.</p>
+          <p xml:id="cice-l1t20-d1e164">Significavit nobis R. archipresbyter sancti Stephani de Longasco, quod B. presbyter,
+            credens se obsequium praestare Deo, fecit sibi virilia amputari. †Sed quum idem
+            archipresbyter sit senectute gravatus, nec relinquere valeat presbyterum memoratum,
+            nobis humiliter supplicavit, ut ei concedere debeamus, ea, quae praeter missam ad
+            sacerdotem pertinent, ministrare. Quocirca mandamus, quatenus inquiras diligenter
+            veritatem, et, si iam dictum presbyterum alias Deo dignum inveneris, ei sacerdotale
+            officium absque omni altaris ministerio, auctoritate nostra fretus et tua, prout videris
+            expedire, concedas.</p>
+        </div>
+        <div xml:id="cice-l1t20-Dd1e169">
+          <head xml:id="cice-l1t20-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l1t20-d1e174">Sacerdos, qui ex iusta causa fecit sibi virilia abscindi, potest, ut prius, sacerdotale
+            officium exercere.</p>
+          <p xml:id="cice-l1t20-d1e177">Innocentius III.</p>
+          <p xml:id="cice-l1t20-d1e180">Ex parte dilecti filii M. presbyteri fuit in audientia nostra propositum, quod, quum
+            sibi sentiret leprae periculum imminere, de consilio medici virilia fecit sibi abscindi,
+            ut posset a tam gravi infirmitatis vitio liberari, †et ut provideremus ei super
+            exsecutione sui officii, a nobis humiliter postulavit. Quoniam igitur canones sanctorum
+            Patrum hunc a sacri altaris ministratione non prohibent, fraternitati tuae per
+            apostolica scripta mandamus, quatenus, si est ita, et memoratus M. est alias idoneus, ut
+            sui ministerii officium exsequatur, nullius contradictione vel appellatione obstante,
+            auctoritate fretus apostolica liberam ei tribuas facultatem. [Datum Laterani IV. Id.
+            Febr. 1198.]</p>
+        </div>
+        <div xml:id="cice-l1t20-Dd1e184">
+          <head xml:id="cice-l1t20-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l1t20-d1e189">Mutilatus manu, si promotus fuerit in abbatem, ab abbatia deponitur.</p>
+          <p xml:id="cice-l1t20-d1e192">Idem Militensi Episcopo.</p>
+          <p xml:id="cice-l1t20-d1e195">Exposuisti nobis in nostra praesentia constitutus, quod I. quondam praedecessor tuus H.
+            in abbatem promovit, nesciens, quod ipse esset manu altera mutilatus. †Quia vero abbas
+            ipse noscitur sinistra carere, quid super hoc agendum sit, nostra voluisti responsione
+            doceri. Nos igitur fraternitati tuae taliter respondemus quod, quum pro tam enormi
+            defectu ad sacros non possit ordines promoveri, et ipse in promotione sua id tacuerit
+            fraudulenter, ab abbatiae officio est non immerito amovendus. [Dat. Romae ap. S. Petr.
+            V. Kal. Iul. 1198.]</p>
+        </div>
+        <div xml:id="cice-l1t20-Dd1e199">
+          <head xml:id="cice-l1t20-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l1t20-d1e204">Carens ungula pollicis, dummodo sit fortis in pollice, licite ad sacerdotium
+            promovetur.</p>
+          <p xml:id="cice-l1t20-d1e207">Honorius III. Episcopo Engolismensi.</p>
+          <p xml:id="cice-l1t20-d1e210">Thomas Monachus sancti Amantii de Brixia proposuit coram nobis, quod, quum in annis
+            puerilibus esset constitutus, quaedam barra ferrea super dextrae suae pollicem fortuito
+            casu cadens, ungulam avulsit ab eo. †Quum autem desideret, sicut asserit, in sacerdotali
+            officio Domino famulari, nobis humiliter supplicavit, ut per te, qui eius dioecesanus
+            exsistis, promoveri eum in sacerdotem mandaremus. Quocirca fraternitati tuae mandamus,
+            quatenus, si ad frangendum eucharistiam sit in pollice ipso potens, et aliud canonicum
+            non obsistat, propter deformitatem huiusmodi non dimittas, quin eum ad ordinem promoveas
+            sacerdotis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.29. DE PAROCHIS, ET ALIENIS PAROCHIANIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.29. DE PAROCHIS, ET ALIENIS PAROCHIANIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t29">
+        <head xml:id="cice-l3t29-Hd1e105">3.29. DE PAROCHIS, ET ALIENIS PAROCHIANIS.</head>
+
+        <div xml:id="cice-l3t29-Dd1e108">
+          <head xml:id="cice-l3t29-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t29-d1e113">Inter episcopum substitutum episcopo haeretico, et ipsum episcopum haereticum reversum
+            et ex dispensatione receptum, dividitur episcopatus modo hic expresso.</p>
+          <p xml:id="cice-l3t29-d1e116">Ex concilio Africano.</p>
+          <p xml:id="cice-l3t29-d1e119">Si episcopus ex Donatistis ad catholicam unitatem est conversus, aequaliter inter se
+            dividant eas, quae sic inventae fuerint, ubi ambae partes fuerint, id est, ut alia loca
+            ad illum, alia ad alium pertineant, ita, ut ille dividat, qui amplius temporis in
+            episcopatu habet, et minor eligat. Quodsi forte unus fuerit locus, ad eum pertineat, cui
+            vicinior invenitur. Quod si ambabus cathedris aequaliter vicinus est, ad eum pertineat,
+            quem plebs elegerit. Sed si forte antiqui catholici suum [episcopum] voluerint, et illi
+            suum, qui ex Donatistis conversi sunt, plurimorum voluntas paucioribus praeferatur. Si
+            autem partes aequales sunt, maioris temporis episcopo deputetur. Si autem ita plurima
+            loca inveniuntur, in quibus ambae partes fuerint, ut non possint aequaliter dividi,
+            velut si in impari numero fuerint, distributis eis locis, qui parem habent numerum,
+            quicunque locus remanserit, hoc in eo servetur, quod dictum est, quum de uno loco
+            superius tractaretur.</p>
+        </div>
+        <div xml:id="cice-l3t29-Dd1e123">
+          <head xml:id="cice-l3t29-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t29-d1e128">Presbyteri parochiales dominicis diebus et festivis parochianos alienos ad missam
+            admittere non debent, si ex contemptu ad eorum ecclesiam accedunt.</p>
+          <p xml:id="cice-l3t29-d1e131">Ex concilio Manetensi.</p>
+          <p xml:id="cice-l3t29-d1e134">Ut dominicis vel festivis diebus presbyteri, antequam missam celebrent, plebem
+            interrogent, si alterius parochianus in ecclesia sit, qui proprio contempto presbytero
+            ibi velit missam audire, quem si invenerint, statim ab ecclesia abiiciant.</p>
+        </div>
+        <div xml:id="cice-l3t29-Dd1e138">
+          <head xml:id="cice-l3t29-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t29-d1e143">Episcopus parochianum alterius sine ipsius licentia ordinare non potest, nec eum aliter
+            iudicare.</p>
+          <p xml:id="cice-l3t29-d1e146">Hadrianus Papa.</p>
+          <p xml:id="cice-l3t29-d1e149">Nullus episcopus alterius parochianum iudicare praesumat, †[retinere, aut ordinare
+            absque eius voluntate vel iudicare, quia, sicut irrita erit eius ordinatio, ita et
+            diiudicatio, quoniam censemus nullum alterius iudicis, nisi sui, sententia teneri.] Nam
+            qui eum ordinare non potuit, nec iudicare ullatenus potest.</p>
+        </div>
+        <div xml:id="cice-l3t29-Dd1e153">
+          <head xml:id="cice-l3t29-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t29-d1e158">Fines parochiarum, de quibus constat, vel finibus cohaerentia, praescribi non
+            possunt.</p>
+          <p xml:id="cice-l3t29-d1e161">Urbanus III.</p>
+          <p xml:id="cice-l3t29-d1e164">Super eo vero, quod apud vos intelleximus dubitatum, an quod de finibus et his, quae
+            finibus cohaerent, non praescribendis statutum per canones esse dignoscitur, sit in
+            parochiarum limitibus, sicut in provincialibus, admittendum, illud vobis respondemus,
+            quod bene videtur in utroque servandum, si provinciarum fines legitima probatione vel
+            alias indubitata fide constiterit ecclesiastica ordinatione statutos.</p>
+        </div>
+        <div xml:id="cice-l3t29-Dd1e169">
+          <head xml:id="cice-l3t29-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t29-d1e174">Si parochianus seu dioecesanus domicilium transfert, primus praelatus in eo iura
+            episcopalia seu dioecesana sibi non vendicat; decimae tamen praediales illius parochiae
+            sibi debentur, nisi alteri debeantur ex consuetudine.</p>
+          <p xml:id="cice-l3t29-d1e177">Coelestinus III.</p>
+          <p xml:id="cice-l3t29-d1e180">Significavit nobis venerabilis frater noster Aconensis episcopus, quod, quum post
+            recuperationem Aconensis civitatis ad habitandum in ea se quam plurimi contulissent, qui
+            ante generalem occupationem terrae sanctae in aliis civitatibus regni Hierosolymitani
+            [perpetuam] elegerant mansionem, †et in ea residentiam fecerint aliquantam, et adhuc
+            etiam resident in eadem, praelati praedictarum civitatum eos ad solvendum sibi iura
+            ecclesiastica compellunt. Quia vero transgredi non debemus terminos a patribus
+            constitutos, aut falcem in messem mittere alienam, Fraternitati tuae [per apostolica
+            scripta] mandamus, quatenus praedictorum locorum praelatos, ut sibi nullam in praedictos
+            Aconenses habitatores iurisdictionem usurpent, nec ab eis temporalia exigant quibus
+            spiritualia non ministrant, [monitione praemissa] districtione, qua convenit,
+            compellatis ita tamen, quod, si de agris in eorum parochia constitutis fructus
+            percipiunt, et in ultramarinis partibus ratione praediorum decimae persolvuntur,
+            deinceps eis ipsas decimas cum integritate persolvant, dicto vero Aconensi tanquam
+            dioecesano suo cogantur de ceteris respondere. [Quod si non omnes etc. Dat. Lat. X. Kal.
+            Ian. 1198.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

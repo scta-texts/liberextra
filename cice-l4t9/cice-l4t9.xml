@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.IX. DE CONIUGIO SERVORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.IX. DE CONIUGIO SERVORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t9">
+        <head xml:id="cice-l4t9-Hd1e105">4.IX. DE CONIUGIO SERVORUM.</head>
+
+        <div xml:id="cice-l4t9-Dd1e108">
+          <head xml:id="cice-l4t9-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l4t9-d1e113">Servus, contradicente domino, matrimonium contrahere potest; sed propter hoc non
+            liberatur a servitiis domino debitis.</p>
+          <p xml:id="cice-l4t9-d1e116">Adrianus Sancteburgensi Archiepiscopo.</p>
+          <p xml:id="cice-l4t9-d1e119">Dignum est et a rationis tramite non discordat, quod ea, quae dubietatis in se videntur
+            scrupulum continere, et ad apostolicae sedis iudicium referantur, ut inde Christi
+            fideles in dubiis certitudinem se gaudeant invenire, unde noscuntur magisterium fidei
+            suscepisse. Tua vero fraternitas de servorum coniugiis, quae invitis et contradicentibus
+            dominis contrahuntur, quid fieri debeat, ab apostolatu nostro, si bene meminimus,
+            requisivit; super quo tibi duximus taliter respondendum. Sane, iuxta verbum Apostoli,
+            prout tua discretio recognoscit, sicut in Christo Iesu neque liber, neque servus est,
+            qui a sacramentis ecclesiae sit removendus, ita quoque nec inter servos matrimonia
+            debent ullatenus prohiberi. Et, si contradicentibus dominis et invitis contracta
+            fuerint, nulla ratione sunt propter hoc ecclesiastico iudicio dissolvenda; debita tamen
+            et consueta servitia non minus debent propriis dominis exhiberi.</p>
+        </div>
+        <div xml:id="cice-l4t9-Dd1e123">
+          <head xml:id="cice-l4t9-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l4t9-d1e128">Separatur matrimonium, quando liber ignoranter cum ancilla contraxerit, nisi postea hoc
+            sciens illam cognovit.</p>
+          <p xml:id="cice-l4t9-d1e131">Alexander III. Praeposito et Priori Mortariensi.</p>
+          <p xml:id="cice-l4t9-d1e134">Proposuit nobis M. mulier latrix praesentium, quod quum vir eius cum ea diutius
+            permansisset, notam ei servilis conditionis obiecit, asserens, eam esse ancillam, quam
+            liberam esse credebat, quum eam duxit in uxorem. Quum autem in praesentia venerabilis
+            fratris nostri Astensis episcopi huiusmodi negotium tractaretur, mulier, quia ibi
+            gravari timebat, ad nostram audientiam appellavit. Quia igitur, tam ea quam viro suo
+            vivente, post aliquantulam moram praefatus vir inconcusso lite recessit, discretioni
+            vestrae per apostolica scripta Mandamus, quatenus, quum propter hoc fueritis requisiti,
+            partes ante vestram praesentiam convocetis, et, veritate super his diligentius
+            inquisita, si vobis constiterit, quod idem vir praefatam mulierem, postquam illam
+            audivit esse ancillam, carnaliter cognovit, ipsum monitione praemissa compellatis, ut
+            eam sicut uxorem accipiat et maritali affectione pertractet. Si vero aliter fuerit, et
+            sententiam divortii proferri contingat, mulieri pecuniam, quam praefato viro pro dote
+            concessit, sicut iustum fuerit, restitui faciatis.</p>
+        </div>
+        <div xml:id="cice-l4t9-Dd1e138">
+          <head xml:id="cice-l4t9-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l4t9-d1e143">Si consuetudo est in loto, quod partus conditionem patris sequatur, natus ex libero et
+            ancilla liber est, et ut liber matrimonium contrahit.</p>
+          <p xml:id="cice-l4t9-d1e146">Urbanus III. Ariminensi Episcopo.</p>
+          <p xml:id="cice-l4t9-d1e149">Licet ad ea, super quibus nos fraternitas tua consulere voluit, te sufficere
+            arbitremur, quia tamen ad maiorem certitudinem iudicium nostrum pastorali sollicitudine
+            requiris: nos ad inquisitiones tuas officii nostri debito respondemus. Sane, super eo,
+            quod ex parte tua fuit propositum, an mulier possit divortium postulare, pro eo, quod
+            vir, cum quo suae conditionis ignara contraxit, servus monasterii proponatur, quum
+            econtra idem vir, patrem suum, cuius conditionem secundum leges provinciae sequeretur,
+            tempore mortis pro libero se gessisse, et iam elapso decennio nec patris, nec suo nomine
+            se status controversiam passum, constanter affirmet, videtur nobis ratione temporis et
+            favore libertatis pro parte viri securius iudicandum. [Ad haec etc. (cf. c. 4. de rel.
+            dom. III. 36.)]</p>
+        </div>
+        <div xml:id="cice-l4t9-Dd1e153">
+          <head xml:id="cice-l4t9-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l4t9-d1e158">Si liber contraxit cum ancilla ignoranter, et, ex quo scivit, non consensit, separatur
+            matrimonium, et cum aliis contrahere poterit.</p>
+          <p xml:id="cice-l4t9-d1e161">Innocentius III. H. Episcopo.</p>
+          <p xml:id="cice-l4t9-d1e164">Ad nostram noveris audientiam pervenisse, quod dilectus filius noster G. tituli sanctae
+            Mariae trans Tiberim presbyter cardinalis apostolicae sedis legatus dilectum filium
+            nobilem virum R. militem a muliere quadam propter conditionis separavit errorem. Ideoque
+            fraternitati tuae per apostolica scripta mandamus, quatenus inquiras super his
+            diligentius veritatem, et, si tibi constiterit, quod miles ipse ignoranter contraxit cum
+            ancilla, ita, quod, postquam intellexit conditionem ipsius, nec fato nec verbo
+            consenserit in eandem, propter quod per cardinalem eundem ab eius fuerit consortio
+            separatus, contrahendi cum alia liberam ipsi concedas auctoritate apostolica
+            facultatem.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

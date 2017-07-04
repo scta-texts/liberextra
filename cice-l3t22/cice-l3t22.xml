@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.22. DE FIDEIUSSORIBUS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.22. DE FIDEIUSSORIBUS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t22">
+        <head xml:id="cice-l3t22-Hd1e105">3.22. DE FIDEIUSSORIBUS.</head>
+
+        <div xml:id="cice-l3t22-Dd1e108">
+          <head xml:id="cice-l3t22-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t22-d1e113">Breve est, nec potest brevius summari.</p>
+          <p xml:id="cice-l3t22-d1e116">Ex concilio Cantuariensi.</p>
+          <p xml:id="cice-l3t22-d1e119">Clericus fideiussionibus inserviens abiiciatur.</p>
+        </div>
+        <div xml:id="cice-l3t22-Dd1e123">
+          <head xml:id="cice-l3t22-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t22-d1e128">Compellitur clericus servare fideiussorem indemnem per assignationem redituum
+            suorum.</p>
+          <p xml:id="cice-l3t22-d1e131">Lucius III. Eliensi Episcopo et Archidiacono Norvicensi.</p>
+          <p xml:id="cice-l3t22-d1e134">Pervenit ad nos ex transmissa nobis conquestione R. clerici de sancto Albano, quod,
+            quum ipse pro C. et F. clericis Lundoniensibus ad eorum instantiam pro altero eorum
+            Helia videlicet in sex, et pro altero in septem aliis marchis argenti mercatoribus
+            Bononiensibus fideiusserit, illis, sicut unus fide, alter iuramento promiserant,
+            praescriptam pecuniam non solventibus, coactus est praedictis creditoribus pro ipsis,
+            sicut inter eos convenerat, satisfacere de eadem. Ne igitur supra dictus R. dispendium
+            patiatur unde videtur praemium meruisse, venerabili fratri nostro I. Bononiensi episcopo
+            dedimus in mandatis, ut super debitis illis instrumenta, quae sunt apud creditores,
+            inspiciat, et eorum transscripta suo sigillo signata vobis mittere non postponat.
+            Mandamus itaque discretioni vestrae atque praecipimus, quatenus, si ex confessione
+            praedictorum clericorum vel alias legitime vobis rem ita se habere constiterit, moneatis
+            eosdem, ut memorato R. pecuniam, quam pro eis solvit, dilatione et appellatione cessante
+            restituant, ipsumque servent indemnem; alioquin vos, auctoritate apostolica freti, de
+            reditibus eorum praescripta debita faciatis appellatione remota in integrum exsolvi, et
+            damna etiam, quae idem R. propter hoc pertulit, resarciri, aut praedictos reditus sibi
+            assignetis tamdiu sine molestia detinendos, donec ipsa damna resarcita fuerint, et
+            debita sine deminutione soluta. Praefatos vero clericos, si religionem fidei et
+            iuramenti sui eos violasse constiterit, sublato appellationis obstaculo ab officio et
+            beneficio suspendatis. Ceterum, quia etc. (cf. c. 5. de iur. cal. II. 7.) [Dat. Rom. ap.
+            S. Petr. V. Id. Dec.]</p>
+        </div>
+        <div xml:id="cice-l3t22-Dd1e138">
+          <head xml:id="cice-l3t22-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t22-d1e143">Per districtionem canonicam compellitur debitor a fideiussione absolvere fideiusssorem,
+            qui a creditoribus molestatur.</p>
+          <p xml:id="cice-l3t22-d1e146">Idem Cantuariensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t22-d1e149">Constitutus in praesentia nostra dilectus filius noster magister S. sua nobis
+            assertione monstravit, quod pro magistro P. Blesensi cancellario tuo tempore
+            Lateranensis concilii ad preces ipsius in quadam summa pecuniae intercessit, quam
+            quoniam usque modo debitor non persolvit, iste se asserit plurimas a creditoribus
+            Bononiensibus molestias pertulisse, et antiquum debitum plurimum augmentatum. Ideoque,
+            quia pro nostro volumus officio providere, ne qui gratiam meruit poenam sustineat,
+            fraternitati tuae per apostolica scripta praecipiendo mandamus, quatenus, si legitime
+            tibi de huiusmodi assertione constiterit, praefatum debitorem, ut eum a praedicta
+            intercessione sine dilatione prorsus absolvat, omni gratia et timore postposito, nullius
+            appellatione obstante ecclesiastica censura compellas. Quia vero diversa experimenta
+            morborum varia nos compellunt remedia invenire, Praesentium quoque auctoritate
+            iniungimus, ut, si forte debitum vel accessiones ille negaverit, consuetudine, quae est
+            legi contraria, non obstante, iuramentum calumniae subire cogatur. Praeterea, quia
+            difficile foret intercessori suos testes in Angliam ducere, iudicibus Bononiensibus
+            satisdatione idonea a cancellario ipso accepta, quod ad testes audiendos vadat, vel
+            mittat infra terminum competentem, literis tuis significes, ut eos vice tua recipiant,
+            et examinent et interrogent diligenter, et depositiones eorum transmittentes inclusas
+            significent, quanta fides possit instrumentis vel testibus adhiberi. Ceterum si iam
+            dictus P. citatus praesentiam tuam adire vel iudicio stare contempserit eum infra XXX.
+            dies post harum literarum susceptionem reddas beneficio alienum et reditus eius in
+            debitorum solutionem convertas, quousque fuerit creditoribus satisfactum.</p>
+        </div>
+        <div xml:id="cice-l3t22-Dd1e153">
+          <head xml:id="cice-l3t22-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t22-d1e158">Si sine licentia praelati et maioris partis capituli religiosus fideiusserit, vel
+            mutuum acceperit, non tenetur ecclesia, et ipse recipiens punitur, nisi mutuum sit
+            versum in utilitatem ecclesiae.</p>
+          <p xml:id="cice-l3t22-d1e161">Innocentius III. in concilio generali.</p>
+          <p xml:id="cice-l3t22-d1e164">Quod quibusdam religiosis a sede apostolica est prohibitum, volumus et mandamus ad
+            universos extendi, ne quis videlicet religiosus absque maioris partis capituli et
+            abbatis sui licentia pro aliquo fideiubeat, vel ab aliquo pecuniam mutuam accipiat ultra
+            summam communi providentia constitutam; alioquin non teneatur conventus pro his
+            aliquatenus respondere, nisi forte in utilitatem domus ipsius manifeste constiterit
+            redundasse. Et qui contra istud statutum venire praesumpserit, graviori disciplinae
+            subdatur.</p>
+        </div>
+        <div xml:id="cice-l3t22-Dd1e169">
+          <head xml:id="cice-l3t22-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t22-d1e174">Ponit tres casus, in quibus fideiussor contra debitorem agit, antequam solvat, ut a
+            fideiussione liberetur.</p>
+          <p xml:id="cice-l3t22-d1e177">Gregorius IX.</p>
+          <p xml:id="cice-l3t22-d1e180">Eum, pro quo te fideiussorem obligasti, si diu in debiti solutione cessavit, aut
+            dissipare bona sua coepit, seu super hoc condemnatus fuisti, iure poteris convenire, ut
+            te a fideiussione debeat liberare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

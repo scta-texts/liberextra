@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.18. DE FURTIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.18. DE FURTIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t18">
+        <head xml:id="cice-l5t18-Hd1e105">5.18. DE FURTIS.</head>
+
+        <div xml:id="cice-l5t18-Dd1e108">
+          <head xml:id="cice-l5t18-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t18-d1e113">In Exodo.</p>
+          <p xml:id="cice-l5t18-d1e116">Qui furatur hominem, et vendiderit eum, convictus noxae morte moriatur.</p>
+        </div>
+        <div xml:id="cice-l5t18-Dd1e120">
+          <head xml:id="cice-l5t18-Hd1e122">CAP. II.</head>
+          <p xml:id="cice-l5t18-d1e125">Furibus et latronibus in peccato obeuntibus sacramenta ecclesiastica deneganda sunt;
+            secus, si in morte eos poenituit.</p>
+          <p xml:id="cice-l5t18-d1e128">Ex concilio Triburiensi.</p>
+          <p xml:id="cice-l5t18-d1e131">Fures et latrones si in furando vel depraedando occiduntur, visum est, pro eis non esse
+            orandum. Sed si comprehensi aut vulnerati presbytero vel diacono confessi fuerint,
+            communionem eis non negamus.</p>
+        </div>
+        <div xml:id="cice-l5t18-Dd1e135">
+          <head xml:id="cice-l5t18-Hd1e137">CAP. III.</head>
+          <p xml:id="cice-l5t18-d1e140">Committens furtum ex necessitate non multum urgente, peccat, sed non graviter; unde
+            imponenda est ei levis poenitentia. H. d. secundum communem intellectum.</p>
+          <p xml:id="cice-l5t18-d1e143">Ex poenitentiali Theodori.</p>
+          <p xml:id="cice-l5t18-d1e146">Si quis propter necessitatem famis aut nuditatis furatus fuerit cibaria,vestem vel
+            pecus, poeniteat hebdomadas tres, et, si reddiderit, non cogatur ieiunare.</p>
+        </div>
+        <div xml:id="cice-l5t18-Dd1e150">
+          <head xml:id="cice-l5t18-Hd1e152">CAP. IV.</head>
+          <p xml:id="cice-l5t18-d1e155">Non indicans furem propter lucrum, quod ab eo consequitur, reus peccati est.</p>
+          <p xml:id="cice-l5t18-d1e158">Hieronymus super Parabolas.</p>
+          <p xml:id="cice-l5t18-d1e161">“Qui cum fure partitur, occidit animam suam.” Non fur solum, sed ille reus tenetur,
+            qui, furti conscius, quaerente possessore non indicat.</p>
+        </div>
+        <div xml:id="cice-l5t18-Dd1e166">
+          <head xml:id="cice-l5t18-Hd1e168">CAP. V.</head>
+          <p xml:id="cice-l5t18-d1e171">Fur occultus potest post restitutionem et poenitentiam ad sacros ordines promoveri.</p>
+          <p xml:id="cice-l5t18-d1e174">Alexander III. Cremonensi Episcopo.</p>
+          <p xml:id="cice-l5t18-d1e177">Ex literis tuis, si bene meminimus, auribus nostris innotuit, et dilecti filii I.
+            subdiaconi nostri diligens relatio patefecit, quod B. lator praesentium calicem quendam
+            in ecclesia minus caute dimissum rapiens, longo tempore detinere praesumpsit. †Postea
+            tamen poenitentia ductus presbytero in confessione excessum suum humiliter et reverenter
+            aperuit, et ecclesiae iuxta eiusdem presbyteri consilium, prout dignum fuit, exinde
+            satisfecit. Unde quoniam propter hoc ipsum tuae fraternitatis discretio dubitat
+            ordinare, prudentiae tuae per apostolica scripta praecipiendo Mandamus, quatenus, si
+            praedictus B. sponte confessus fuerit huiusmodi praesumptionis excessum, et exinde
+            ecclesiae, cuius calix fuerat, satisfecerit, nec est super hoc nota vel infamia
+            manifesta respersus, post peractam poenitentiam aut congruam partem poenitentiae,
+            dummodo, alias idoneum ipsum esse cognoscas, ad sacros ordines non dubites
+            promovere.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

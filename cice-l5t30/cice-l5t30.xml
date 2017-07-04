@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.30. DE EO, QUI FURTIVE ORDINEM SUSCEPIT.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.30. DE EO, QUI FURTIVE ORDINEM SUSCEPIT.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t30">
+        <head xml:id="cice-l5t30-Hd1e105">5.30. DE EO, QUI FURTIVE ORDINEM SUSCEPIT.</head>
+
+        <div xml:id="cice-l5t30-Dd1e108">
+          <head xml:id="cice-l5t30-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t30-d1e113">Qui furtive recipit ordinem, si contra hoc facientes lata erat excommunicatio, sine
+            dispensatione Papae in sic suscepto ministrare vel ad superiorem adscendere non potest;
+            sed, si excommunicatio lata non erat, episcopus et abbas poterunt dispensare. H. d. cum
+            duobus sequentibus.</p>
+          <p xml:id="cice-l5t30-d1e116">Allexander III. Lingoniensi Episcopo.</p>
+          <p xml:id="cice-l5t30-d1e119">Veniens ad nos P. lator praesentium nobis exposuit, se antiqui hostis versutia
+            circumventum furtive diaconatus ordinem suscepisse. Unde fraternitati tuae respondemus,
+            quod, si forte non fuit a te, vel ab aliquo archidiaconorum vel praelatorum tuorum sub
+            anathematis interminatione prohibitus, tu ipse in promotione ipsius ad sacerdotale
+            officium condigna satisfactione imposita, nisi alia impediant, pro arbitrio tuo
+            dispenses. Si vero interminatio anathematis super hoc facta est, moneas eum, sicut et
+            nos fecimus, ut in aliquo monasterio seu canonia habitum suscipiat regularem; cui iuxta
+            admonitionem, ex quo in habitu illo aliquanto tempore fuerit laudabiliter conversatus,
+            poteris misericorditer providere; alioquin nulla ratione concedimus, eum ad sacerdotalem
+            ordinem promoveri.</p>
+        </div>
+        <div xml:id="cice-l5t30-Dd1e123">
+          <head xml:id="cice-l5t30-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t30-d1e128">Summatum est supra capitulo proximo.</p>
+          <p xml:id="cice-l5t30-d1e131">Coelestinus III.</p>
+          <p xml:id="cice-l5t30-d1e134">Quum H. lator praesentium, sicut nobis sua quaestione monstravit, ad tuam ordinationis
+            causa praesentiam accessisset, iuxta consuetudinem patriae sibi quatuor minores ordines
+            contulisti; quibus non contentus, subdiaconatum etiam [eodem die, inter alios latens te
+            inscio, et diaconatum] temerario ausu recepit. Quia vero idem clericus in hoc facto
+            multum excessit, mandamus, quatenus eum in minoribus duntaxat ordinibus celebrare
+            permittas. Si vero domum religionis intraverit, et vita et mores eius exegerint: abbas
+            suus, si voluerit, [etiam] in aliis cum eo poterit ordinibus dispensare.</p>
+        </div>
+        <div xml:id="cice-l5t30-Dd1e138">
+          <head xml:id="cice-l5t30-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t30-d1e143">Summatum est supra capitulo primo.</p>
+          <p xml:id="cice-l5t30-d1e146">Idem.</p>
+          <p xml:id="cice-l5t30-d1e149">Innotuit nobis ex tenore tuarum literarum, quod G. clericus lator praesentium et alii
+            duo de dioecesi tua ad G. quondam Seguntinum episcopum, ut ordines ab eo reciperent,
+            accesserunt; quumque ab eodem episcopo sub excommunicationis sententia fuisset
+            inhibitum, ne quis se ad duos ordines suscipiendos ingereret, praedicti clerici
+            nihilominus subdiaconatus et diaconatus ordinem clandestine susceperunt. †Quia igitur,
+            quid tibi faciendum sit, pro his tua nos duxit fraternitas consulendos, Consultationi
+            tuae taliter respondemus, quod taliter ordinati in susceptis ordinibus de iuris rigore
+            ministrare non debent. Verum tamen, si ad religionem aliquam voluerunt se transferre,
+            et, peracta poenitentia pro arbitrio tuo eis iniuncta, ibidem laudabiliter fuerint
+            conversati, processu temporis cum eis poteris de nostra licentia dispensare, ut
+            postmodum susceptorum ordinum exsecutione laetentur. Praeterea pro praedicto G., quum in
+            persona propria laboravit, fraternitatem tuam rogamus attentius et monemus, ut eum
+            facias in canonicam regularem St. P. de Semina vel alium religiosum locum, ubi deploret
+            excessum, tanquam fratrem assumi, ut si ei ibidem viventi regulariter sua merita videris
+            suffragari ministrandi prout diximus ei tribuas facultatem.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

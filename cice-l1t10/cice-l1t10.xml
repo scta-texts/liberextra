@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.10. DE SUPPLENDA NEGLIGENTIA PRAELATORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.10. DE SUPPLENDA NEGLIGENTIA PRAELATORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t10">
+        <head xml:id="cice-l1t10-Hd1e105">1.10. DE SUPPLENDA NEGLIGENTIA PRAELATORUM.</head>
+
+        <div xml:id="cice-l1t10-Dd1e108">
+          <head xml:id="cice-l1t10-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t10-d1e113">Si dioecesanus requisitus benedicere nolit Cisterciensem abbatem, ipse monachos suos
+            benedicere poterit.</p>
+          <p xml:id="cice-l1t10-d1e116">Alexander III. Cisterciensibus.</p>
+          <p xml:id="cice-l1t10-d1e119">Statuimus praeterea, ut, si episcopus tertio cum humilitate ac devotione, sicut
+            convenit, requisitus substitutos abbates vestros benedicere forte renuerit, eisdem
+            abbatibus liceat proprios monachos benedicere, et alia, quae ad officium huiusmodi
+            pertinent, exercere, donec ipsi episcopi suam duritiam recogitent, et abbates
+            [benedicendos] benedicere non recusent. [Sane etc. Dat. Beneventi IV. Non. Iul. Ind. II.
+            1169.]</p>
+        </div>
+        <div xml:id="cice-l1t10-Dd1e123">
+          <head xml:id="cice-l1t10-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t10-d1e128">Regulares in suos usus convertere non possunt ecclesias, in quibus ius obtinent
+            patronatus, et, si infra tempus Lateranensis concilii, quando vacant, non praesentent
+            rectores ad eas, superior orbinabit easdem.</p>
+          <p xml:id="cice-l1t10-d1e131">Clemens III.</p>
+          <p xml:id="cice-l1t10-d1e134">Sicut nobis tua fraternitas intimavit, monachi quidam et canonici regulares, ecclesias,
+            quae ad praesentationem eorum pertinent, in tuo episcopatu habentes, propriis usibus
+            deputare nituntur, nec ibi volunt ad eas, quum vacaverint, vocare personas [idoneas];
+            quin potius, occasione concessionis quorundam episcoporum, vicarios in eis pro sua
+            instituunt et destituunt voluntate, admissos ita pensionibus onerantes, quod nec
+            ecclesiis competenter possunt in paupertate nimia deservire, nec episcopo in
+            episcopalibus respondere, neque hospitalitatem, sicut convenit, transeuntibus impertiri.
+            Nolentes autem, ut status ecclesiae debitus et antiquus per insolertiam alicuius
+            subvertatur, mandamus, quatenus, nisi a iurisdictione tua exemptae sint ecclesiae
+            supradictae, praedictos excessus studeas rationabiliter emendare, et, nisi praedictae
+            personae infra tempus in Lateranensi concilio constitutum ad vacantes ecclesias tibi
+            personas idoneas praesentaverint, ex tunc tibi liceat appellatione remota in eisdem
+            ordinare rectores, qui eis et praeesse noverint et prodesse, ita tamen, quod ex hoc
+            nullum patronis praeiudicium in posterum generetur. [Dat. Lat. VI. Kal. Mart. Pont.
+            nostr. Ao. II. 1199].</p>
+        </div>
+        <div xml:id="cice-l1t10-Dd1e138">
+          <head xml:id="cice-l1t10-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t10-d1e143">Supplet superior inferioris negligentiam in beneficiis conferendis, si tempus
+            Lateranensis concilii lapsum sit, et collatio per inferiorem postea facta non valet.</p>
+          <p xml:id="cice-l1t10-d1e146">Innocentius III.</p>
+          <p xml:id="cice-l1t10-d1e149">Licet dilecti filii magister H. archidiaconus de H. et R. procurator R. de sancto
+            Cadimundo super archidiaconatu Richemundiae diutius litigaverint coram nobis, †tamen
+            postmodum nostris est auribus intimatum, quod neutri eorum de iure competeret, utpote
+            qui neutri fuerat concessus infra tempus in Lateranensi concilio definitum. Ne igitur
+            ius nostrum negligere videamur, qui alios in sua iustitia confovemus, discretioni
+            vestrae per apostolica scripta mandamus, quatenus convocatis eisdem, ut proponant, si
+            quid contra duxerint proponendum, inquiratis diligentius veritatem, et si vobis
+            constiterit, archidiaconatum Richemundiae vacasse per annum, tempore tamen semestri, quo
+            vel ad archiepiscopum, vel ad capitulum donatio pertinebat, non a vocatione, sed a
+            notitia computato, quum pro eo, quod Eboracensis archiepiscopus alium superiorem non
+            habet, extunc fuerat ad nos donatio devoluta, utrique super eo sublato appellationis
+            obstaculo silentium imponatis, archidiaconatum ad nostram spectare donationem publice
+            denunciantes, decernentes irritum et inane, si quid in eo postmodum quisquam
+            praesumserit ordinare.</p>
+        </div>
+        <div xml:id="cice-l1t10-Dd1e153">
+          <head xml:id="cice-l1t10-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t10-d1e158">Si is, ad quem spectat beneficii collatio, lapso tempore Lateranensis concilii
+            consecrat; non valet collatio: nisi de misericordia toleretur.</p>
+          <p xml:id="cice-l1t10-d1e161">Idem Magistro P. de Castro novo, et R. monacho Fontis frigidi, apostolicae sedis
+            Legato.</p>
+          <p xml:id="cice-l1t10-d1e164">Literas vestrae discretionis accepimus [quibus responsum apostolicum imploratis super
+            his, quae ambigua vobis exsistunt, videlicet], quod, quum in quibusdam ecclesiis,
+            legationi vestrae subiectis, quaedam beneficia et dignitates tanto tempore vacavissent,
+            quod tam praelati quam capitula secundum tenorem Lateranensis concilii essent iure
+            instituendi privati, postquam adventus vester [illis] innotuit, in beneficiis illis
+            personas minus idoneas instituere praesumpserunt. †Unde, quum receperitis consilium a
+            viris peritis, ut tales institutiones ab his, quorum non intererat, et qui propria culpa
+            iure instituendi se privaverant, factas, auctoritate apostolica cassaretis, in hoc
+            nostrum prius decrevistis consilium habere. Proposuistis praeterea etc. Nos igitur
+            inquisitioni vestrae breviter respondentes Discretioni vestrae per apostolica scripta
+            mandamus, quatenus, si beneficia vel dignitates ipsas noveritis personis idoneis
+            assignatas, eas de patientia permittatis ab ipsis pacifice possideri: alioquin personas
+            ipsas amoventes prorsus ab ipsis, eas de personis idoneis auctoritate nostra suffulti,
+            [nullius contradictionis vel appellationis obstaculo] non differatis quantocius
+            ordinare, [contradictores etc. Dat. Rom. ap. S. Petr. VIII. Id. Dec. Ao. VII. 1204.]</p>
+        </div>
+        <div xml:id="cice-l1t10-Dd1e169">
+          <head xml:id="cice-l1t10-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l1t10-d1e174">Is, ad quem primo loco spectabat collatio beneficii, lapso tempore Lateranensis
+            concilii conferre non poterit.</p>
+          <p xml:id="cice-l1t10-d1e177">Idem Episcopo Samo.</p>
+          <p xml:id="cice-l1t10-d1e180">Dilecto filio nostro P. tituli sancti Marcellini presbytero cardinali S. et R.
+            procuratoribus P. et G. apud sedem apostolicam constitutis auditore concesso, †idem
+            thesaurarius proposuit coram eo, quod, quum in Salamantina ecclesia, in qua cantoris
+            electio ad episcopum et capitulum communiter pertinet, cantoria vacante, dictum
+            capitulum saepius episcopum monuisset, ut ad celebrandam cantoris electionem cum eo
+            pariter conveniret, eodem episcopo infra semestre tempus id facere negligente, capitulum
+            uti cupiens iure suo, in ecclesiae memoratae capitulo, sicut est moris, supradictum
+            Paschasium eiusdem loci canonicum in cantorem elegit, ne quid in eiusdem electionis
+            praeiudicium fieret appellando, quam supradictus thesaurarius auctoritate apostolica
+            petiit confirmari, ac electionem, quam venerabilis frater noster Compostellanus
+            archiepiscopus post appellationem huiusmodi de G. clerico multis criminibus irretito ac
+            tunc temporis vinculo excommunicationis adstricto fecerat, tamquam minus canonice
+            celebratam cassari. Dictus vero Dominicus proposuit ex adverso, quod, emenso VI. mensium
+            spatio, infra quod ad episcopum et capitulum cantoris electio pertinebat, decanus et
+            quidam canonici Salamantini, episcopo, archidiacono et nonnullis canonicis qui
+            praesentes in civitate aderant, inconsultis, non consueta hora, vel in capitulo iuxta
+            morem, sed in ecclesia potius, quibusdam laicis advocatis stulte et inordinate nimis
+            eligere praesumpserunt. Et quum iam dicti archiepiscopi, qui eos propter hoc evocaverat,
+            adire praesentiam noluissent, ipse intelligens eligendi auctoritatem ad se iuxta
+            Lateranensis concilii statutum devolutam, supradictum G. in cantorem elegit, et eundem
+            fecit de cantoria corporaliter investiri. Postmodum autem decanus et sui complices
+            nobis, de his mentione non habita, suggerendo, quod episcopus, qui monitus saepius infra
+            sex menses eligere noluerat in ecclesiae detrimentum, cantore, qui ab eodem decano cum
+            maiore parte capituli institutus fuerat, spoliato, alium instituerat in cantorem, ad
+            decanum, archidiaconum et archipresbyterum Abulenses nostras literas impetrarunt. Quarum
+            auctoritate, quum supradictus G. ab eisdem fuisset iudicibus evocatus, eisdem inhibuit,
+            ne per dictas literas procederent contra eum, quum in eis de sua electione facta per
+            archiepiscopum nulla mentio haberetur, et cum propter hoc, tum [etiam], quia prima
+            citatione ad loca remota peremptorie citatus exstiterat, tum etiam, quia iudices quosdam
+            ex electoribus dicti Paschasii consanguinitatis linea contingebant, ad sedem apostolicam
+            appellavit. Sed iudices nihilominus ad Salamantinam ecclesiam accedentes, saepedictum P.
+            in cantoriae possessionem causa rei servandae contra iustitiam induxerunt. Quum igitur
+            super his et aliis coram eodem cardinali procuratores ipsi aliquamdiu litigassent, et
+            ipse nobis fideliter retulisset, quae proposita fuerant coram eo, Quia nobis constitit a
+            Salamantino decano et eius sequacibus, post elapsum sex mensium spatium, infra quod
+            episcopus et capitulum, prout communiter spectabat ad eos, procedere ad electionem
+            cantoris neglexerant, electionem supradicti P. minus canonice celebratam, eandem
+            decernimus irritam et inanem, et appellationem a decano et suis fautoribus interpositam
+            factum archiepiscopi, ad quem iam erat eligendi auctoritas devoluta, nequivisse
+            aliquatenus impedire. †Quia vero contra personam ipsius G. quaedam obiecta fuerunt de
+            quibus nobis non potuit fieri plena fides, [discretioni vestrae per apostolica scripta]
+            Mandamus, quatenus, nisi iam dicto G. aliquod canonicum obviet, electionem de ipso
+            factam sublato appellationis obstaculo confirmetis, facientes ipsum eiusdem cantoriae
+            pacifica possessione gaudere; contradictores etc. [Dat. Lat. V. Kal. Nov. Ao. XIII.
+            1210.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

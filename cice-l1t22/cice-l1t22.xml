@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.22. DE CLERICIS PEREGRINIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.22. DE CLERICIS PEREGRINIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t22">
+        <head xml:id="cice-l1t22-Hd1e105">1.22. DE CLERICIS PEREGRINIS.</head>
+        <div xml:id="cice-l1t22-Dd1e108">
+          <head xml:id="cice-l1t22-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l1t22-d1e113">Ultramarini et valde remoti ordinationem suam probare debent per quinque episcoporum
+            sigilla.</p>
+          <p xml:id="cice-l1t22-d1e116">Alexander III. Cenomanensi Episcopo.</p>
+          <p xml:id="cice-l1t22-d1e119">Tua nos duxit fraternitas consulendos, quid sit agendum de clericis, qui in remotis
+            regionibus ordinati literas eorum ostendunt, a quibus sibi proponunt manus impositas, et
+            utrum episcoporum sigilla sint, quae repraesentant, incertum exsistit. Tuae igitur
+            consultationi significatione praesentium respondemus, tutius esse, ut in his statuta
+            Patrum veterum observentur, quam novum aliquid statuatur. Statutum autem est de
+            transmarinis, ut ad minus quinque episcoporum super ordinatione sua testimonio
+            muniantur, quod in aliis, si similiter sunt incogniti, credimus observandum, ita tamen
+            ut in suspensione aliquanto tempore habeantur in quo videntes plenius de actibus
+            instruantur ipsorum. Sed et de inferioribus ordinibus inquiri oportet, quia posset
+            contingere, ut aliquibus praetermissis saltum fecissent. His autem peractis, si digni
+            inventi fuerint, circa eos poterit dispensari. [Super eo vero etc. cf. c. 15. de off.
+            deleg. I. 29.]</p>
+        </div>
+        <div xml:id="cice-l1t22-Dd1e123">
+          <head xml:id="cice-l1t22-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t22-d1e128">Clericus peregrinus, qui iurat se ordinatum, nisi aliter probet, in illo ordine non
+            suscipietur, nec ad superiores promovebitur.</p>
+          <p xml:id="cice-l1t22-d1e131">Innocentius III. Constantinopolitano Patriarchae.</p>
+          <p xml:id="cice-l1t22-d1e134">Inter quatuor (Et infra: [cf. c. 8. de maior. et obed. I. 33.]) Consuluit nos iterum
+            tua fraternitas, utrum clericos ad te sine suorum ordinatorum literis venientes, et
+            offerentes praestare corporaliter iuramentum, quod sint in quovis ecclesiasticorum
+            ordinum constituti, debeas ad superiores ordines promovere. Nos igitur Inquisitioni tuae
+            taliter respondemus, quod, nisi de ipsorum ordinatione canonica per idonea tibi
+            constiterit argumenta, eos nec in illis suscipere, nec ad maiores debes ordines
+            promovere, praesertim antequam conversatio eorum fuerit approbata. [Edoceri quoque etc.
+            Dat. Ferentini IV. Non. Aug. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l1t22-Dd1e138">
+          <head xml:id="cice-l1t22-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t22-d1e143">Peregrinus, de cuius ordinatione non constat, non permittitur celebrare in publico, sed
+            in occulto sic.</p>
+          <p xml:id="cice-l1t22-d1e146">Idem Patriarchae Hierosolymitano.</p>
+          <p xml:id="cice-l1t22-d1e149">Tuae fraternitatis †discretio postulavit per sedem apostolicam edoceri, Utrum clericos
+            illos, qui ad partes Hierosolymitanas sine commendatitiis literis veniunt, permittere
+            debeas celebrare divina, †quum plerique illorum, de quorum canonica ordinatione non
+            constat, statim ut veniunt, praesumunt, non expetita licentia, celebrare? Nos autem tuam
+            in Domino sollicitudinem commendantes super primo articulo Respondemus, quod, nisi
+            legitime tibi constiterit, sive per literas sive per testes, de illorum ordinatione
+            canonica, qui penitus sunt ignoti, non debes ipsos permittere in tuis plebibus
+            celebrare; sed si forsitan eorum aliqui secreto ex devotione celebrare voluerint,
+            poteris sustinere. [Super secundo etc. cf. c. 3. de apostatis V. 9. Dat. Romae ap. S.
+            Petrum II. Kal. Febr. Ao. IX. 1207.]</p>
+        </div>
+        <div xml:id="cice-l1t22-Dd1e153">
+          <head xml:id="cice-l1t22-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t22-d1e158">Inferiores praelati sine dioecesanorum consensu, in ecclesiis suis peregrinos non
+            possunt instituere.</p>
+          <p xml:id="cice-l1t22-d1e161">Honorius III. Regino Episcopo.</p>
+          <p xml:id="cice-l1t22-d1e164">Te nobis proponente didicimus, quod quidam praelati ecclesiarum tuae iurisdictionis in
+            ecclesiis sibi commissis sine conscientia tua et assensu clericos de alienis
+            episcopatibus instituere non verentur. Attendentes igitur, id eis nulla ratione licere,
+            quum sit honestati contrarium et a sanctorum Patrum institutionibus alienum, ad exemplar
+            felicis recordationis Alexandri Papae praedecessoris nostri inquisitioni tuae taliter
+            respondemus, quod, si qui clerici de alienis episcopatibus in ecclesiis tuae
+            iurisdictionis sine conscientia et assensu tuo sunt vel fuerint in posterum instituti,
+            tibi licet eos exinde auctoritate nostra appellatione postposita removere, nisi aliquos
+            ex iis ex dispensatione in eisdem ecclesiis duxeris dimittendos.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

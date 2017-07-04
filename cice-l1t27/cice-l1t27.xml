@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.27. DE OFFICIO CUSTODIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.27. DE OFFICIO CUSTODIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t27">
+        <head xml:id="cice-l1t27-Hd1e105">1.27. DE OFFICIO CUSTODIS.</head>
+        <div xml:id="cice-l1t27-Dd1e108">
+          <head xml:id="cice-l1t27-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l1t27-d1e113">Ponit, quae spectant ad officium custodis. H. d.</p>
+          <p xml:id="cice-l1t27-d1e116">Ex libro Romani ordinis.</p>
+          <p xml:id="cice-l1t27-d1e119">Custos ecclesiae, cui ea, quae ecclesiae competunt, custodienda committuntur, oportet,
+            ut sui archidiaconi iussioni in cunctis obediat, in canonicis horis signa tintinabulorum
+            pulsanda, ipso archidiacono iubente, ab eo pulsentur, pallia vel linteamina altaris, seu
+            cuncta utensilia ecclesiae indesinenter custodiat, lampades et laternas in accendendo,
+            seu in exstinguendo pervigil exsistat, ne aut supra modum lucendo oleum depereat, aut
+            minus lucendo obscurior sit ecclesia; sed omnia cum discretione agantur, quae noscitur
+            omnium virtutum esse mater. §. 1. Si vero is, cui ecclesia custodienda traditur, minus
+            idoneus ad hoc peragendum exstiterit, ab archidiacono coerceatur, ut se emendit. Si
+            autem indomitus permanserit, archidiaconus episcopo denunciando provideat, ut indecente
+            eiecto aptus domui Dei constituatur minister, ut omnia in laudem et nomen Dei fiant,
+            qualiter placari possit Deus in ecclesia ab observientibus sibi.</p>
+        </div>
+        <div xml:id="cice-l1t27-Dd1e123">
+          <head xml:id="cice-l1t27-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t27-d1e128">Ad idem.</p>
+          <p xml:id="cice-l1t27-d1e131">Ex concilio Toletano.</p>
+          <p xml:id="cice-l1t27-d1e134">Custos vero sollicitus debet esse de omni ornamento ecclesiae, et luminariis sive
+            incenso, nec non panem et vinum omni tempore praeparatum ad missam habere debet, et per
+            singulas horas canonicas signum ex consensu archidiaconi sonare, et omnes oblationes seu
+            eleemosynas, seu decimas, cum eiusdem tamen consensu absente episcopo, inter fratres
+            dividat. §. 1. In his tribus ecclesiae columnis, ut sancta sanxit synodus, consistere
+            debet alma mater ecclesia, ut ad hoc opus tales ordinentur, quales plus meliores et
+            sanctiores esse viderint, ut nulla negligentia in sancta Dei ecclesia esse videatur. Hi
+            tres, archidiaconus, archipresbyter, custos, simul iuncti uno animo provide peragant et
+            perfecte, et non sit invidia neque zelus inter illos.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

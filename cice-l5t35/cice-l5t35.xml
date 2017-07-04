@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.35. DE PURGATIONE VULGARI.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.35. DE PURGATIONE VULGARI.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t35">
+        <head xml:id="cice-l5t35-Hd1e105">5.35. DE PURGATIONE VULGARI.</head>
+
+        <div xml:id="cice-l5t35-Dd1e108">
+          <head xml:id="cice-l5t35-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t35-d1e113">Duella et aliae purgationes vulgares prohibitae sunt, quia per eos multoties
+            condemnatur absolvendus, et Deus tentari videtur. H. d. totus titulus.</p>
+          <p xml:id="cice-l5t35-d1e116">Coelestinus III.</p>
+          <p xml:id="cice-l5t35-d1e119">Cura suscepti regiminis †nos inducit, ut fratrum nostrorum debeamus consultationibus
+            respondere, et ab eis, quantum humana permittit fragilitas, dubitationis scrupulum
+            amputare. Inde est, quod, Quum tua fraternitas duxerit sedem apostolicam consulendam,
+            utrum super ecclesiarum possessionibus duella debeant sustineri, tuae duximus
+            sollicitudini respondendum, quod in eo casu, vel in aliis etiam hoc non debes
+            aliquatenus tolerare. [Dat. Rom. ap. S. Petr.]</p>
+        </div>
+        <div xml:id="cice-l5t35-Dd1e123">
+          <head xml:id="cice-l5t35-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t35-d1e128">Summatum est supr. cap. proximo.</p>
+          <p xml:id="cice-l5t35-d1e131">Innocentius III. Priori S. Sergii Spoletani.</p>
+          <p xml:id="cice-l5t35-d1e134">Significantibus V. laico et fratribus eius ad nostram noveris audientiam pervenisse,
+            quod, quum quidam eos super furti crimine accusaret, cum eo praeter terrae consuetudinem
+            coacti sunt inire duellum, in quo, aliis peccatis suis praepedientibus, ceciderunt,
+            propter quod post appellationem ad nos interpositam per consules Spoletanos bonis
+            fuerunt propriis spoliati. Nunc vero furtum apud alios est inventum, et, quod ipsi
+            fuerint innocentes, est faciente Domino revelatum. Unde consulibus ipsis dedimus in
+            mandatis, ut ablata [eis] restituant universa. Ideoque discretioni tuae per apostolica
+            scripta mandamus, quatenus si ipsi mandatum nostrum neglexerint adimplere, tu partibus
+            convocatis et auditis hinc inde propositis quod iustum fuerit appellatione remota
+            decerneres, faciens quod decreveris per censuram ecclesiam firmiter observari etc. [Dat.
+            Lat. XI. Kal. Apr. 1203.]</p>
+        </div>
+        <div xml:id="cice-l5t35-Dd1e138">
+          <head xml:id="cice-l5t35-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t35-d1e143">Summatum est supra cap. I.</p>
+          <p xml:id="cice-l5t35-d1e146">Honorius III.</p>
+          <p xml:id="cice-l5t35-d1e149">Dilecti filii noviter in Livonia baptizati gravem ad nos querimoniam destinarunt, quod
+            fratres Templariorum ordinem in Livonia profitentes, et alii quidam advocati et iudices,
+            qui temporalem in eis potestatem exercent, si quando de aliquo alio crimine infamantur,
+            eos ferri candentis iudicium subire compellunt, quibus, si qua exinde sequatur adustio,
+            civilem poenam infligunt, qua re conversis et convertendis scandalum incutiunt et
+            terrorem. Quum igitur huiusmodi iudicium secundum legitimas et canonicas sanctiones sit
+            penitus interdictum, utpote, in quo Deus tentari videtur: mandamus, quatenus dictos
+            fratres et alios, ut ab huiusmodi conversorum gravamine omnino desistant, monitione
+            praemissa per censuram ecclesiasticam appellatione remota compellas.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

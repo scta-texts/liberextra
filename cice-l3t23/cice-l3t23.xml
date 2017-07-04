@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.23. DE SOLUTIONIBUS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.23. DE SOLUTIONIBUS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t23">
+        <head xml:id="cice-l3t23-Hd1e105">3.23. DE SOLUTIONIBUS.</head>
+
+        <div xml:id="cice-l3t23-Dd1e108">
+          <head xml:id="cice-l3t23-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t23-d1e113">Successor in beneficio tenetur solvere debita praedecessoris pro necessitate ecclesiae
+            contracta.</p>
+          <p xml:id="cice-l3t23-d1e116">Alexander I2. Decano et Capitulo Morinensibus.</p>
+          <p xml:id="cice-l3t23-d1e119">Ad hoc in apostolicae †[sedis specula sumus, licet immeriti, Domino disponente
+            constituti, ut aciem nostrae considerationis ad universas ecclesias extendamus, et earum
+            commodis et profectibus omnino intendamus. Pervenit autem ad audientiam nostram ex parte
+            venerabilis fratris episcopi vestri, quod ipse pro ecclesiae vestrae necessitatibus
+            magno sit onere debitorum praegravatus. Unde quasi vir providus et honestus nos obnixe
+            rogavit, ut vos pro eis reddendis sollicitos redderemus. Quia vero decet vos pro
+            utilitate ecclesiae et incremento diligentes et vigiles exsistere, dignitati vestrae
+            mandamus, quod, si contigerit eundem episcopum ante solutionem debitorum, quae pro
+            utilitate et necessitate ecclesiae sibi commissae contraxerit, ex hac luce migrare, de
+            reditibus, qui spectant ad mensam eius, donec alius loco eius substituatur, eadem debita
+            solvere studeatis. Quo substituto episcopum ad eorundem debitorum solutionem omnino
+            adducetis, et] Sicut filius debita patris solvere tenetur, ita praelatus sui
+            praedecessoris pro ecclesiae necessitate contracta.</p>
+        </div>
+        <div xml:id="cice-l3t23-Dd1e123">
+          <head xml:id="cice-l3t23-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t23-d1e128">Si praelatus obligat ecclesiam pro alienis debitis, est suspensus ipso facto ab
+            administratione spiritualium et temporalium, et ecclesia non tenetur.</p>
+          <p xml:id="cice-l3t23-d1e131">Gregorius IX. universis ecclesiarum Praelatis.</p>
+          <p xml:id="cice-l3t23-d1e134">Si quorundam †[praelatorum praesumptionem deo et nominibus exhorrendam iuste pensare
+            vellemus, pene non esset adhibenda dilatio, sed in transgressores celeris vindictae
+            severitas exercenda. Sicut enim ad nos valido et stupendo clamore pervenit, quidam non
+            contenti, quod, propriis commodis inhaerentes et quaerentes potius quae sua sunt, quam
+            quae Christi, commissas sibi ecclesias enormiter dilapidant et consumant, dum novo
+            alienationis et dilapidationis genere adinvento eas praesumant alienis debitis onerare:
+            sigilla sua, seu literas sigillatas de contrahendo mutuo quibusdam amicis suis clericis
+            et laicis concedendo, quarum occasione praedictae ecclesiae in tanta obligarunt pecuniae
+            quantitate, ad cuius solutionem postea compelluntur, quod vix aut numquam liberari
+            possunt ab onere debitorum. Volentes igitur Ecclesiarum indemnitatibus paterna
+            sollicitudine providere praesentium auctoritate] Firmiter inhibemus, ne quis praesumat
+            [de cetero] ecclesiam sibi commissam pro alienis gravare debitis, aut literas alicui seu
+            sigilla concedere, quibus possent ecclesiae obligari, decernentes, si secus [quod non
+            credimus,] fuerit attentatum, ad solutionem talium debitorum ecclesias non teneri. Si
+            quis autem contra praemissa de cetero venire praesumpserit, ab administratione
+            spiritualium et temporalium noverit se suspensum. [Dat. Reate II. Id. Febr. A. V.
+            1232.]</p>
+        </div>
+        <div xml:id="cice-l3t23-Dd1e138">
+          <head xml:id="cice-l3t23-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t23-d1e143">Si clericus non habeat unde satisfaciat suis creditoribus, non debet excommunicari nec
+            aliter molestari; praestabit tamen cautionem saltem iuratoriam de solvendo, quum venerit
+            ad pinguiorem fortunam.</p>
+          <p xml:id="cice-l3t23-d1e146">Idem Decano et I. Canonico Tullentibus.</p>
+          <p xml:id="cice-l3t23-d1e149">Odoardus clericus proposuit, quod, quum P. clericus, D. laicus et quidam alii ipsum
+            coram officiali archidiaconi Remensis super quibusdam debitis convenissent, idem in eum
+            recognoscentem huiusmodi debita, sed propter rerum inopiam solvere non valentem,
+            excommunicationis sententiam promulgavit. (Et infra:) Mandamus, quatenus, si constitent,
+            quod praedictus Odoardus in totum vel pro parte non possit solvere debita supra dicta,
+            sententiam ipsam sine difficultate qualibet relaxetis, recepta prius ab eo idonea
+            cautione, ut, si ad pinguiorem fortunam devenerit, debita praedicta persolvat.</p>
+        </div>
+        <div xml:id="cice-l3t23-Dd1e153">
+          <head xml:id="cice-l3t23-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t23-d1e158">Conquerens se indebite solvisse, hoc probare debet, nisi in casu hic posito.</p>
+          <p xml:id="cice-l3t23-d1e161">Idem.</p>
+          <p xml:id="cice-l3t23-d1e164">Is, qui conqueritur, indebitam pecuniam se solvisse, probare tenetur, quod indebite sit
+            soluta, nisi eius adversarius solutionem inficians exinde convincatur. Tunc enim
+            diffitenti onus incumbit probandi, quod debitum recepisset.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

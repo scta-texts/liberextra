@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.02. DE CALUMNIATORIBUS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.02. DE CALUMNIATORIBUS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t2">
+        <head xml:id="cice-l5t2-Hd1e105">5.02. DE CALUMNIATORIBUS.</head>
+
+        <div xml:id="cice-l5t2-Dd1e108">
+          <head xml:id="cice-l5t2-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t2-d1e113">Subdiaconus, calumniose accusans diaconum, subdiaconatu privatur, et publice verberibus
+            castigatur, et in exsilium mittitur.</p>
+          <p xml:id="cice-l5t2-d1e116">Gregorius Anthemio Subdiacono.</p>
+          <p xml:id="cice-l5t2-d1e119">Quum fortius punienda sint crimina, quae insontibus et maxime sacratis hominibus
+            inferuntur, quam sitis culpabiles omnes, qui in causa Ioannis diaconi resedistis,
+            attendite, ut Hilarium, criminatorem ipsius, nulla ex diffinitione vestra poena
+            conveniens castigaret. †[Nec illud ad excusationem vestram, credatis esse idoneum, quod
+            vobis, quasi iudicare volentibus, solus frater et coepiscopus noster Paschasius dicitur
+            distulisse. Nam si zelus in vobis rectitudinis vignisset, facilius uni a multis
+            rationabiliter suaderi, quam multi ab uno poterant sine causa differri.] Quia ergo
+            tantae nequitiae malum sine digna non debet ultione transire, iubemus eundem H. prius
+            subdiaconatus, quo indignus fungitur, privari officio, et verberibus publice castigatum
+            in exsilium deportari, ut unius poena multorum possit esse correctio etc.</p>
+        </div>
+        <div xml:id="cice-l5t2-Dd1e123">
+          <head xml:id="cice-l5t2-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t2-d1e128">Denunciator, in probatione criminum deficiens, ab officio et beneficio suspenditur,
+            donec innocentiam suam purget.</p>
+          <p xml:id="cice-l5t2-d1e131">Innocentius III. Zamorensi, Segobiensi et Abulensi Episcopis.</p>
+          <p xml:id="cice-l5t2-d1e134">Quum dilectus filius, magister scholarium Palentinus, ad sedem apostolicam accessisset,
+            et nobis de suo episcopo excessus varios nunciasset, venerabili fratri nostro quondam
+            episcopo Legionensi, nunc archiepiscopo Compostellano, et dilectis filiis de Valle bona,
+            et de Mataplana abbatibus dioecesis Palentinae examinationem commisimus excessuum
+            obiectorum. †[Qui super simonia duplici, dilapidatione, absolutione incidentium in
+            canonem sententiae promulgatae, quodque appellationibus ad nos interpositis deferre
+            contemneret, nec non quod in manibus suis ultra tempus in concilio Lateranensi
+            constitutum vacantem tenuerit dignitatem, et quod furtim quoddam subtraxerit
+            instrumentum, in quo a iure canonicorum iura episcopalia distinguuntur, et quibusdam
+            aliis, inquisita per testes plenius veritate, inquisitionem ipsam cum depositionibus
+            testium nobis fideliter transmiserunt.] Quum autem processum negotii et dicta testium
+            examinaverimus diligenter, nec intelligere potuerimus, probatum esse sufficienter
+            aliquid de praedictis, eundem episcopum de consilio fratrum nostrorum absolvendum
+            decernimus ab obiectis, vobis per apostolica scripta mandantes, quatenus memoratum
+            magistrum scholarum, donec canonice suam purgaverit innocentiam, scilicet quod non
+            calumniandi animo ad huiusmodi crimina proponenda processit, ab officio et beneficio
+            suspendatis, ut ceteri, simili poena perterriti, ad infamiam suorum facile non
+            prosiliant praelatorum. [Quod si non omnes etc. Dat. Later. V. Id. Maii Ao. X.
+            1207.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

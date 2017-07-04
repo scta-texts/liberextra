@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.10. DE ORDINE COGNITIONUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.10. DE ORDINE COGNITIONUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t10">
+        <head xml:id="cice-l2t10-Hd1e105">2.10. DE ORDINE COGNITIONUM.</head>
+
+        <div xml:id="cice-l2t10-Dd1e108">
+          <head xml:id="cice-l2t10-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l2t10-d1e113">Contra mulierem vindicantem aliquem in maritum admittitur exceptio consanguinitatis,
+            quae prius discutienda est, quam super matrimonio pronuncietur, et sufficit super ipso
+            principali pronunciare. H. d.</p>
+          <p xml:id="cice-l2t10-d1e116">Clemens III. Alatrino Episcopo.</p>
+          <p xml:id="cice-l2t10-d1e119">Intelleximus ex literis tuis, quod, quum quaedam mulier peteret quendam in virum,
+            testes ad suae intentionis assertionem induxit, per quos pars viri futurum sibi
+            praeiudicium metuens, exceptionem consanguinitatis obiecit, ex qua intendit petitionem
+            mulieris prorsus elidi. †Quia vero nos consulere voluisti, an prius sit de impedimento
+            consanguinitatis agendum, quam super causa matrimonii sententia proferatur, Inquisitioni
+            tuae taliter duximus respondendum, quod, quum exceptione probata quaestio principalis
+            perimatur, ante est cognoscendum de ipsa, quam ad diffinitionis articulum procedatur.
+            Quo facto virum ab impetitione mulieris, prout exposcit ratio iuris, absolvas.</p>
+        </div>
+        <div xml:id="cice-l2t10-Dd1e123">
+          <head xml:id="cice-l2t10-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t10-d1e128">Si reus contra actorem spoliatorem spoliationem opponit, aut excipiendo, et tunc prius
+            auditur, et ea probata respondere non cogitur, sed per hoc non restituitur; aut agendo,
+            et tunc simul utraque quaestio terminatur, et ea probata restituetur.</p>
+          <p xml:id="cice-l2t10-d1e131">Innocentius III. Episcopo Narmarinensi.</p>
+          <p xml:id="cice-l2t10-d1e134">Quum dilectus filius abbas de Ferentino ad nostram praesentiam accessisset, conquerens
+            de nobilibus viris O. et A. fratre ipsius et filiis R. dominis de Artone, partibus in
+            nostra praesentia constitutis, dilectum filium nostrum I. tit. S. Mariae trans Tiberim
+            et G. tit. S. Pudentianae presbyteros cardinales deputavimus auditores, in quorum
+            praesentia suam abbas deposuerit quaestionem, quod praefati nobiles, nulla requisitione
+            praemissa, manu armata et cum exercitu ad castrum monasterii Ferentilli et Gab.
+            venientes, in praedis animalium, segetum combustionibus, captionibus hominum, homicidiis
+            perpetratis et damnis aliis usque ad D. libras Lucenses praeter stragem hominum et
+            iniurias irrogatas, damnificare dictum coenobium praesumpserunt, de quibus et aliis
+            pariter, quae vellet proponere contra ipsos, iustitiam sibi fieri postulabat. Ei citra
+            litis contestationem sub forma exceptionis fuit ex adverso responsum, quod, quum abbas
+            ipse nobilibus viris O. et R. promiserat praestito iuramento, quod eos contra omnes
+            homines, exceptis Romano Pontifice, imperatore ac legatis ipsorum ad retinendum quod
+            tunc habebant in castris, villis et bonis aliis, et recuperandum sine fraude ac malo
+            ingenio, si eorum aliquid amitterent, adiuvaret, per ipsius dolum et violentiam castrum
+            Sirati amiserant fraudulenter, quod et progenitores eorum tenuerant, et ipsi possederant
+            in quiete, [Super quo ab ipsis saepe admonitus illud eis restituere denegavit. Quin
+            potius villas tres, Quadraginta scilicet, Casale et Carpium, quas pro se et parte sua
+            dictus abbas sub securitate receperat, foedere violato in animalibus, spoliis et
+            supellectilibus aliis ipse cum suis fuerat depraedatus, coniugatis tractatis turpiter,
+            mulieribus etiam acriter verberatis; etiam sacerdotem ligatis a tergo manibus ante se
+            duci fecit afflictum verberibus et vestibus penitus spoliatum. Homines quoque villarum
+            recludi fecit in carcerem, ubi unum ex ipsis contigit exspirare. Castro etiam, in quo
+            dicti nobiles habitabant, ignem abbas de nocte fecit apponi, per quem in praemissis
+            damnis et aliis multis usque centum marcas se spoliatos dibebant,] sibi petentes prius
+            restitui, quam petitionibus ipsius responderent, praesertim quum testes haberent
+            praesentes, per quos intentionem suam in continenti probare volebant, et quod restitutio
+            ante causae ingressum deberet fieri spoliatis utriusque iuris auctoritatibus ostendere
+            conabantur. Verum ex parte abbatis fuit taliter replicatum, quod libello suo secundum
+            regulam iuris, qua dicitur, ut qui prior appellat prior agat, debebat primitus
+            responderi, ab eo restitutio peti non poterat, qui non fuerat spoliator, praesertim quum
+            dictum castrum ad ius et proprietatem sui monasterii pertineret, quod etiam pars adversa
+            nullatenus denegabat. Unde et verus dominus, ad quem ab alio res sua possessa revertitur
+            etiam post tempora longiora, retentionis debebat commodum obtinere, et iudicium
+            restitutorium contra spoliatorem tantum competere dignoscitur. †Pro damnis quoque
+            illatis restitutio postulari non poterat, sed ad ea debebat actio competens intentari;
+            alioquin, quum et pars abbatis damna gravissima sibi quereretur illata, prius
+            restituenda fuerant, si pro huiusmodi esset restitutio facienda secundum tenorem regulae
+            memoratae. Capitula quoque de restitutione facienda loquentia locum habere in
+            criminalibus asserebant, et quando quis ab adversario spoliatur, et super re ipsa, qua
+            spoliatus fuerat, convenitur. Ceterum ex parte abbatis regulam introductam adversa pars
+            in mutuis petitionibus locum habere dicebat, quum causae vicissim tractatae una postea
+            sententia terminantur. Quumque vero pars aliqua per restitutionem vel alio modo aliquid
+            sibi deberi proponit, et altera in modum exceptionis se asserit spoliatam, nec ante
+            restitutionem suam ullatenus responsuram, de incidenti asserebat antea cognoscendum. Nos
+            autem distinguendum esse credimus, utrum spoliationis quaestio ab eisdem nobilibus sit
+            obiecta in modum actionis ad restitutionem petendam, an in forma exceptionis ad
+            intentionem adversarii repellendam; quum, ea in modum actionis proposita, intelligantur
+            mutuae petitiones sese tanquam diversae minime contingentes, ac per hoc iuxta regulam
+            iuris praemissam, qua dicitur: “qui prior appellat prior agat,” quae prius esset
+            proposita prius foret tractanda, quanquam in idem iudicium ambae deductae vicissimque
+            tractatae simul essent eadem sententia terminandae. Sed quoniam quaestio illa fuit ab
+            eisdem nobilibus tantum in modum exceptionis obiecta, de communi fratrum nostrorum
+            consilio interloquendo pronunciavimus, ut probationes eorum super ipsa exceptione
+            primitus audirentur, et ea probata legitime abbati non cogerentur respondere super
+            petitionibus memoratis, donec restituerentur ab ipso, quum spoliatori spoliatus ante
+            restitutionem non cogatur ullatenus respondere. §. 1. Verum spoliatione in modum
+            exceptionis tantum probata non est per hoc restitutio facienda, quemadmodum, si in modum
+            exceptionis aliquod crimen testi obiicitur, ut sic a testimonio repellatur, etsi [sic]
+            crimen contra eum civiliter probatum fuerit, non ideo sibi poena infligitur ordinaria,
+            sed eius duntaxat testimonio non creditur, quod ea ratione contingit, quoniam in ipsum
+            accusatio non procedit. Testes etiam, quorum testimonium reprobatur, inter infames quasi
+            ex falso testimonio non habentur. [Quum autem etc. Dat. Ameliae III. Non. Oct.
+            1198.]</p>
+        </div>
+        <div xml:id="cice-l2t10-Dd1e138">
+          <head xml:id="cice-l2t10-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t10-d1e143">Petenti hereditatem obstat exceptio nativitatis, quae prius debet coram ecclesiastico
+            iudice terminari. Hoc dicit secundum glossam, intelligendo, quod hic erat prius coram
+            iudice saeculari petita hereditas, et exceptum fuit de illegitimitate.</p>
+          <p xml:id="cice-l2t10-d1e146">Honorius III. Ludovico Regi Francorum.</p>
+          <p xml:id="cice-l2t10-d1e149">Tuam non credimus latere prudentiam, causam natalium carissimae in Christo filiae
+            nostrae illustris reginae Cypri ad examen nostrum, utpote quae ad forum ecclesiasticum
+            pertinet, iam dudum esse delatam. †Unde clarae memoriae Philippum regem Franciae patrem
+            tuum literis nostris curavimus praemonere, ut, si forsan regina ipsa super successione
+            comitatus Campaniae quaestionem proponeret coram eo, non audiret eandem, quousque
+            terminata esset praedicta causa natalium, ex qua illa noscitur dependere. Licet ergo,
+            sicut eidem patri tuo scripsimus, velimus reginam ipsam in suis iustis petitionibus
+            exaudiri, Quia vero, antequam natalium causa terminata esset, dependentem ex illa
+            successionis causam incipere nihil aliud esset quam diversis processibus intricare
+            negotium, et confusione quadam iudicii ordinem perturbare, si forte ab ipsa regina vel
+            nuncio eius seu quolibet alio fueris super hoc requisitus, donec iam dicta causa
+            natalium apostolico iudicio finem acceperit, patienter exspectes. [Dat. Lat. XVII. Kal.
+            Dec. Pont. nostr. Ao. VIII. 1223.]</p>
+        </div>
+        <div xml:id="cice-l2t10-Dd1e153">
+          <head xml:id="cice-l2t10-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l2t10-d1e158">Agens possessorio recuperandae non tenetur ante restitutionem suis spoliatoribus, nisi
+            super quaestione spoliationis, respondere; potest tamen ab agendo repelli per
+            exceptionem spoliationis. H. d.</p>
+          <p xml:id="cice-l2t10-d1e161">Gregorius IX.</p>
+          <p xml:id="cice-l2t10-d1e164">Super spoliatione conventus adversus restitutionem petemtem non est, nisi super
+            quaestione spoliationis, si eum reconveniat, audiendus, quum restitutionis petitio in
+            hoc privilegiata noscatur, ut ipsam intentans non cogatur ante restitutionem
+            spoliatoribus respondere, quanquam ab agendo spoliatione ab eis in modum exceptionis
+            proposita repellatur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

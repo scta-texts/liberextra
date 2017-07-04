@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.47. DE PURIFICATIONE POST PARTUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.47. DE PURIFICATIONE POST PARTUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t47">
+        <head xml:id="cice-l3t47-Hd1e105">3.47. DE PURIFICATIONE POST PARTUM.</head>
+
+        <div xml:id="cice-l3t47-Dd1e108">
+          <head xml:id="cice-l3t47-Hd1e110">CAP. UN.</head>
+          <p xml:id="cice-l3t47-d1e113">Mulier post partum statim potest ingredi ecclesiam, nec tenetur abstinere per aliquos
+            dies secundum legem Mosaicam.</p>
+          <p xml:id="cice-l3t47-d1e116">Innocentius III. Armachano Archiepiscopo.</p>
+          <p xml:id="cice-l3t47-d1e119">Volens †fraternitas tua per responsum apostolicum edoceri, humiliter a nobis expetiit,
+            utrum mulieres statim post partum debeant ecclesias ingredi, vel ab earum ingressu per
+            dies aliquot abstinere. Licet autem secundum legem Mosaicam certi dies determinati
+            fuissent, quibus mulieres post partum a templi cessarent ingressu: quia tamen lex per
+            Moysen data est, gratia et veritas per Iesum Christum facta est, nos, sanctorum Patrum
+            vestigiis inhaerentes, inquisitioni tuae taliter respondemus, quod, postquam umbra legis
+            evanuit, et illuxit veritas evangelii, si mulieres, post prolem emissam acturae gratias
+            ecclesiam intrare voluerint, nulla proinde peccati mole gravantur, nec est ecclesiarum
+            eis aditus aliquatenus denegandus, ne poena illis converti videatur in culpam. Si tamen
+            ex veneratione voluerint aliquamdiu abstinere, devotionem earum non credimus
+            improbandam. [Dat. Laterani. 1198.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

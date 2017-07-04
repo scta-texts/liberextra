@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.19. DE RERUM PERMUTATIONE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.19. DE RERUM PERMUTATIONE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t19">
+        <head xml:id="cice-l3t19-Hd1e105">3.19. DE RERUM PERMUTATIONE.</head>
+
+        <div xml:id="cice-l3t19-Dd1e108">
+          <head xml:id="cice-l3t19-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t19-d1e113">Princeps potest rem ecclesiae immobilem per permutationem acquirere, data re meliori
+            vel aequali. H. d. et in hoc, quod dicit, vel aequali, est casus notabilis.</p>
+          <p xml:id="cice-l3t19-d1e116">Ex concilio apud Silvan.</p>
+          <p xml:id="cice-l3t19-d1e119">Si princeps voluerit rem immobilem sanctis locis praestare, et accipere ab eis aliam
+            immobilem rem, eoque modo de communi voluntate permutationem contrahere, liceat ei hoc
+            facere, si causa rationabilis id exposcat, et res, quam praestiterit, maior fuerit vel
+            aequalis, divina pragmatica sanctione super hoc ab eo promulgata.</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e123">
+          <head xml:id="cice-l3t19-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t19-d1e128">Permutatio rerum ecclesisticarum, facta in casu non concesso, seu non servata
+            solennitate iuris, est revocanda per successorem.</p>
+          <p xml:id="cice-l3t19-d1e131">Ex concilio Belvacensi.</p>
+          <p xml:id="cice-l3t19-d1e134">Ut commutationes rerum ecclesiasticarum valde caveantur et subtilissime, si aliquo modo
+            fieri debent, inspiciantur; quae autem ab antecessore inconsulte factae sunt iuxta
+            decretum canonicum Hilarii Papae, vel ab aliis illicite commissae sunt, ab eo, qui
+            successor est, emendentur.</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e138">
+          <head xml:id="cice-l3t19-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t19-d1e143">Mancipia ecclesiae non debent permutari, nisi ad libertatem, vel nisi sint fugitiva H.
+            d. cum c. sequenti.</p>
+          <p xml:id="cice-l3t19-d1e146">Ex concilio apud Silvanectum.</p>
+          <p xml:id="cice-l3t19-d1e149">Mancipia ecclesiastica nisi ad libertatem non convenit commutari, videlicet ut
+            mancipia, quae pro ecclesiastico homine dabuntur, in ecclesiae servitute permaneant, et
+            ecclesiasticus homo, qui commutatur, fruatur perpetua libertate. Quod enim semel Deo
+            consecratum est ad humanos usus iam transferri non decet.</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e153">
+          <head xml:id="cice-l3t19-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t19-d1e158">Servi ecclesiae cum profanis permutari non possunt nec alienari, nisi sint
+            fugitivi.</p>
+          <p xml:id="cice-l3t19-d1e161">Ex eodem.</p>
+          <p xml:id="cice-l3t19-d1e164">Iniustum videtur et impium, ut mancipia, quae fideles viri seu feminae Deo et sanctis
+            eius pro remedio animae suae consecrarunt, cuiuscunque muneris mancipio vel
+            commutationis commercio iterum in servitutem saecularium redigantur, quum canonica
+            auctoritas servos tantummodo permittat distrahi fugitivos. Et ideo omnes ecclesiarum
+            rectores summopere caveant, ne eleemosyna unius alterius peccatum fiat. Et est absurdum,
+            ut ab ecclesiastica dignitate servus discedens humanae sit obnoxius servituti.</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e169">
+          <head xml:id="cice-l3t19-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t19-d1e174">Praebendae pacto praecedente permutari non possunt; episcopus tamen potest de loco ad
+            locum permutare personas.</p>
+          <p xml:id="cice-l3t19-d1e177">Urbanus III.</p>
+          <p xml:id="cice-l3t19-d1e180">Quaesitum est ex parte tua, si commutationes fieri valeant praebendarum, quum
+            commutatio dignitatum in Turonensi concilio fuerit interdicta. †Sunt enim quidam, qui
+            praebendae suae cedunt et iuri renunciant, ut maiorem praebendam obtineant, vel ex hoc
+            certam summam pecuniae consequantur, quod quidem honestati est contrarium, et simoniacam
+            procul dubio continet pravitatem. Generaliter itaque teneas, quod commutationes
+            praebendarum de iure fieri non possunt, praesertim pactione praemissa, quae circa
+            spiritualia vel connexa spiritualibus labem semper continet simoniae. Si autem episcopus
+            causam inspexerit necessariam, licite poterit de uno loco ad alium transferre personas,
+            ut quae uni loco minus sunt utiles alibi se valeant utilius exercere.</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e184">
+          <head xml:id="cice-l3t19-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l3t19-d1e189">Ecclesiae iure proprietatis possunt ad invicem permutari, et possesiones earum etiam
+            permutari possunt, et pro minus valentibus pretium suppleri.</p>
+          <p xml:id="cice-l3t19-d1e192">Clemens III.</p>
+          <p xml:id="cice-l3t19-d1e195">Ad quaestiones solvendas [quae per fratres et coepiscopos nostros sedi apostolicae
+            porriguntur, iuxta officii nostri debitum nos convenit sollicitudinem adhibere.]
+            Intelleximus itaque ex literis tuis, quod duae conventuales ecclesiae sunt in tua
+            dioecesi constitutae, quarum utraque parochialem habet ecclesiam cum possessionibus
+            magis alteri quam sibi vicinam. Illis autem eas desiderantibus permutare, quum illarum
+            altera respectu meliorum proventuum plus abundet, et ideo suae ecclesiae sibi postulet
+            adiici certam summam pecuniae numeratae, ut sic ad aequalitatem permutationis valeant
+            pervenire, utrum possit id licite fieri exstitit dubitatum; †quam ob causam sedem
+            apostolicam consulere voluisti. Licet itaque tuae discretionis industriam ignorare
+            minime putemus, quid super eodem articulo sit agendum, nihilominus [sic] tuae prudentiae
+            Respondemus, quod, quum de iam dictis parochialibus ecclesiis per se queat commutatio
+            celebrari, et in permutatione possessionum per se non sit inhibitum, si altera ratione
+            possessionum alteri praeponderet, pecuniam posse refundi de ipsarum quoque
+            possessionibus ad invicem, prout visum fuerit expedire, refusa certa pecuniae
+            quantitate, poterit contractus permutationis iniri, sic tamen, quod illi contractus
+            nequaquam sibi invicem misceantur.</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e199">
+          <head xml:id="cice-l3t19-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l3t19-d1e204">Beneficia sua perdunt qui ea propria permutant auctoritate.</p>
+          <p xml:id="cice-l3t19-d1e207">Innocentius III. Senonensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t19-d1e210">Quum olim ad nostram audientiam pervenisset, quod dilecti filii magister S. et B.
+            archidiaconatum et praeposituram ad invicem commutassent, †magistri eiusdem [B.] obtentu
+            causam super hoc bonae memoriae Matisconensi episcopo duximus delegandam. Quumque idem
+            B. ad praesentiam nostram postmodum accessisset, ut in negotio sine suspicione
+            procederet, obtentu ipsius dilectum filium abbatem Cluniacensem eidem episcopo duximus
+            adiungendum. Verum quum propter abbatis absentiam non fuisset a delegatis ipsis pariter
+            in causa processum, utraque partium se nostro conspectui praesentavit, et audientiam
+            obtinuit coram nobis. Et Licet praedictus magister ab initio sponte fuerit de
+            permutatione confessus, idem tamen B. eam inficiabatur omnino, assertive proponens, quod
+            et ipse praeposituram sine conditione qualibet resignavit, et post liberam resignationem
+            praedicti magistri archidiaconatum fuerat assecutus: †licet magister ipse [G.]
+            proponeret ex adverso, ipsum secum diutius de permutatione tractasse, et complevisse
+            tandem in manibus venerabilis fratris nostri Eduensis episcopi quod tractaverat. (Et
+            infra: [cf. c. 33. de off. iud. del. I. 29.]) Quum ergo nobis tum per publicam famam,
+            tum per validam praesumptionem et probationem etiam manifestam constaret, quod ipse B.
+            suum praestiterit permutationi consensum, praedictus autem magister suum publice
+            fateretur errorem, et hunc praepositura, et illum archidiaconatu curavimus spoliare,
+            super hoc diffinitivam contra eos sententiam proferentes. [Tandem vero etc. Dat. Lat.
+            Id. Ian. Ao. V. 1203.]</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e214">
+          <head xml:id="cice-l3t19-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l3t19-d1e219">Si permutatio beneficiorum completa est ex una parte, et per alteram stat, quo minus
+            impleatur, restituitur pars ad suum beneficium, et secundum hoc continet ius.</p>
+          <p xml:id="cice-l3t19-d1e222">Idem Archiepiscopo et Praeposito sancti Andreae Coloniensibus.</p>
+          <p xml:id="cice-l3t19-d1e225">Quum universorum †fidelium ab ipso Domino Iesu Christo pastoralis sit nobis cura
+            commissa, sollicitudini nostrae dignoscitur expedire, ut sic debeamus quoslibet in suis
+            rationibus confovere, quod aliquorum iura in conspectu ecclesiae dispendium non
+            sustineant, sed firma et illibata debeant permanere. Intelleximus siquidem dilecto filio
+            G. canonico S. Ioannis in Leodio referente, quod, quum ipse et L. clericus ducti quadam
+            animi levitate de permutatione praebendarum suarum inter se tractare coepissent, quam
+            utilitati utriusque imminere credebant, tamen idem L. clericus occasione dictae
+            permutationis praebenda eiusdem G., quam in ecclesia S. Mariae Namurcensis habuerat,
+            cuidam consanguineo suo assignata, praebendam suam ei, sicut promiserat, noluit
+            resignare, †et sic idem G., ut asserit, sua spe remansit omnino frustratus. Quumque
+            super hoc in praesentia venerabilis fratris nostri Leodiensis episcopi fuisset diutius
+            litigatum, tandem idem L. sedem apostolicam appellavit, et, quum dictus G. [ad nostram
+            praesentiam] non sine magno periculo et labore accessisset, idem L. nec venit, nec pro
+            se curavit sufficientem mittere responsalem. Quum igitur deceptis, et non decipientibus
+            iura subveniant, fraus etiam et dolus nemini debeant patrocinium impertiri, licet ipsi
+            per se de iure non possent ecclesiastica beneficia permutare, ut tamen simplicitati
+            venia tribuatur, discretioni vestrae per apostolica scripta mandamus, quatenus si
+            constiterit, praetaxatum G. taliter fuisse deceptum, amoto a praebenda sua, quam diu
+            dicitur possedisse, consanguineo ipsius L. vel quolibet alio illicito detentore, eam
+            sublato appellationis obstaculo restitui faciatis eidem et eundem ipsius pacifica
+            possessione gaudere [etc.].</p>
+        </div>
+        <div xml:id="cice-l3t19-Dd1e229">
+          <head xml:id="cice-l3t19-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l3t19-d1e234">Spirituale cum temporali permutari non potest.</p>
+          <p xml:id="cice-l3t19-d1e237">Gregorius IX. Beton. et Fungin. Abbatibus.</p>
+          <p xml:id="cice-l3t19-d1e240">Exhibita nobis [dilectorum filiorum] abbatis et conventus sancti Martini de Pannonia
+            petitio continebat, quod, quum super causa, quae inter ipsos ex una parte, et
+            praepositum Albanensem ex altera super quibusdam decimationibus [et arbitrio quodam
+            super his prolata] vertebatur, [post diversas commissiones ad dilectum filium E.
+            subdiaconum] ad C. capellanum nostrum, tunc in Hungaria commorantem, nostras literas
+            impetrassent, [demum] ipse ac magister M. [archidiaconus de Saswar] in quos utrinque
+            tanquam in arbitros [procurante parte altera] exstitit compromissum, [taliter] arbitrati
+            fuerunt, quod, si dictus praepositus obtineret decem millia solidorum regalium [quae
+            tenent in Posonio] a [carissimo in Christo filio nostro illustri] rege Hungariae [ab
+            ipso] concedi monasterio memorato, [ita quod in eodem loco ponerent eius praefatos
+            abbatem et conventum in possessionem salium praedictorum] ipsi ab earundem decimationum
+            petitione cessarent. †[Postmodum vero licet sales ipsos dicto monasterio rex ipse per
+            literas suas concesserit; tamen praepositus et capitulum supradicti nec in termino
+            constituto, nec post illum et plures alios exspectati possessiones ipsorum salium
+            dederunt eisdem, quamvis iam dictus abbas protestatione praemissa, quod non erat in
+            possessionem inductus ab eis, L. marcas frisaticorum pro reditu salium unius anni,
+            precibus quorundam inductus et compulsus quibusdam minis et terroribus recepisset.
+            Quumque indulto adhuc ipsis anni spatio inutiliter, sicut prius, duxerint exspectandum;
+            demum post querelas multiplices vocem ad nos appellationis emisit, octavas BB. App.
+            Petri et Pauli proximo praeteritas sibi terminum praefigendo; qui tandem in nostra
+            praesentia constitutus humiliter supplicavit, ut quum iidem praepositus et capitulum
+            conditioni non paruerint, quae in arbitrio continetur, mandaremus, eo non obstante de
+            iam dictis decimationibus eidem monasterio integre responderi.] Quocirca [discretioni
+            vestrae per apostolica scripta] mandamus, quatenus, si vobis constiterit de praemissis,
+            quum permutatio de spiritualibus ad temporalia improbetur, praedictum arbitrium, et
+            quicquid secutum est ex eo vel ob id, [absque morae dispendio auctoritate nostra,
+            sublato appellationis impedimento,] irritum decernatis, [super decimis postmodum etc.
+            Dat. Reate XIII. Kal. Nov. Ao. V. 1231.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.IV. DE SPONSA DUORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.IV. DE SPONSA DUORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t4">
+        <head xml:id="cice-l4t4-Hd1e105">4.IV. DE SPONSA DUORUM.</head>
+
+        <div xml:id="cice-l4t4-Dd1e108">
+          <head xml:id="cice-l4t4-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l4t4-d1e113">Contrahens successive per verba de praesenti cum duabus, tenetur adhaerere primae. Si
+            autem primo contraxit per verba de futuro, secundo per verba de praesenti, adhaerebit
+            secundae.</p>
+          <p xml:id="cice-l4t4-d1e116">Augustinus de fide pactionis et consensus.</p>
+          <p xml:id="cice-l4t4-d1e119">Duobus modis dicitur fides pactionis et consensus. Si aliquis alicui mulieri fidem
+            fecerit pactionis, non debet aliam ducere. Si aliam duxerit, poenitentiam debet agere de
+            fide mentita; maneat tamen cum illa, quam duxit. Non enim rescindi debet tantum
+            sacramentum. Si autem fecerit fidem consensus, non licet ei aliam ducere. Si autem
+            duxerit, dimittet ipsam, et adhaerebit uxori priori. Est autem fides pactionis, quando
+            aliquis promittit alicui fidem, quod eam ducet, si permiserit eum rem secum habere, vel
+            etiam pro consensu. Fides autem consensus est, quando, etsi non stringit manum, corde
+            tamen et ore consentit ducere, et mutuo se concedunt unus alii, et mutuo se
+            suscipiunt.</p>
+        </div>
+        <div xml:id="cice-l4t4-Dd1e123">
+          <head xml:id="cice-l4t4-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l4t4-d1e128">Ponit poenitentiam illius, qui alterius sponsam de praesenti sibi accepit in uxorem;
+            nec unquam in uxorem eam habere potest. H. d. iuxta literam.</p>
+          <p xml:id="cice-l4t4-d1e131">Ex Brocardo libro XXX.</p>
+          <p xml:id="cice-l4t4-d1e134">Accepisti illam in uxorem tibi, quam alter sibi desponsatam habuerat. Dimitte illam,
+            quia nunquam potest tibi fieri legitima, et XL. dies in pane et aqua, quod carinam
+            vocant, cum septem sequentibus annis poeniteas.</p>
+        </div>
+        <div xml:id="cice-l4t4-Dd1e138">
+          <head xml:id="cice-l4t4-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l4t4-d1e143">Sponsalia de praesenti non solvuntur per sequens matrimonium, etiam carnali copula
+            consummatum.</p>
+          <p xml:id="cice-l4t4-d1e146">Alexander III. Salernitano Archiepiscopo.</p>
+          <p xml:id="cice-l4t4-d1e149">Licet praeter solitum et amplius solito multis simus et variis negotiis praepediti ita,
+            quod non sit nobis facile aliquorum consultationibus respondere, illa tamen speciali
+            gratia, quam ad personam tuam habemus, et caritate cogimur fraterna, quid sentiamus de
+            his, super quibus consuluit nos prudentia tua, tibi, quantumcunque aliis simus intenti,
+            praesentibus literis aperire. Consuluisti nos siquidem, utrum, si inter virum et
+            mulierem, praestito vel non praestito sacramento, legitimus consensus intervenerit de
+            praesenti, carnali copula non secuta, liceat mulieri alii nubere, vel, si nupserit alii,
+            et carnalis fuerit copula subsecuta, an ab ipso debeat separari. Super hoc autem
+            Consultationi tuae taliter respondemus, quod, si inter virum et mulierem legitimus
+            consensus sub ea solennitate, quae fieri solet, praesente scilicet sacerdote aut etiam
+            notario, sicut etiam in quibusdam locis adhuc observatur, coram idoneis testibus,
+            interveniat de praesenti, ita quidem, quod unus alterum in suo mutuo consensu verbis
+            consuetis expresse recipiat, utroque dicente: “ego te accipio in meam, et: “ego te
+            accipio in meum,”’ sive sit iuramentum interpositum sive non, non licet mulieri alii
+            nubere. Et si nupserit, etiamsi carnalis copula sit secuta, ab eo separari debet, et, ut
+            ad primum redeat, ecclesiastica districtione compelli, quamvis alii aliter sentiant, et
+            aliter etiam a quibusdam praedecessoribus nostris sit aliquando iudicatum. Verum etc.
+            (cf. c. 2. de conv. coni. III. 32.]</p>
+        </div>
+        <div xml:id="cice-l4t4-Dd1e153">
+          <head xml:id="cice-l4t4-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l4t4-d1e158">Ei, qui appellat in causa matrimoniali, interdici debet, ne aliud matrimonium contrahat
+            lite pendente, et si contraxerit, debet separari.</p>
+          <p xml:id="cice-l4t4-d1e161">Idem Genuensi Archiepiscopo.</p>
+          <p xml:id="cice-l4t4-d1e164">Tua fraternitas nos consuluit, quid de his agere debeas, qui desponsant aliquas
+            mulieres, et processu temporis, antequam eas ducant vel cognoscant, accipiunt alias in
+            uxores. Super quo utique consultationi tuae taliter respondemus, quod, si vir et mulier
+            sese recipiunt expresso consensu de praesenti mutuo, neuter eorum altero superstite
+            poterit ad alia vota transire, etsi possit ad monasterium transmigrare. Verum si inter
+            ipsos non accessit consensus mutuus de praesenti, sed promissio de futuro, videlicet
+            quod uterque dixit alteri: “ego te recipiam in meam,” et: “ego te in meum,” si alius
+            mulierem illam desponsaverit et traduxerit, etiamsi inter primos iuramentum fuerit,
+            sicut diximus, de futuro, huius desponsationis intuitu secundum non poterit matrimonium
+            separari, sed eis est de violatione fidei poenitentia iniungenda. De his vero, qui coram
+            te super desponsatione, facta per consensum mutuum de praesenti, controversiam movent,
+            et appellatione pendente, quam ante sententiam vel cognitionem causae ad sedem
+            apostolicam interponunt, accipiunt alias in uxores, hoc arbitramur agendum, ut, si amodo
+            in tali casu duxerint appellandum, eis in ecclesia publice interdicas arctius, ne ante
+            decisionem causae aliud contrahant matrimonium. Et si contra interdictum ecclesiae ita
+            publice factum venire praesumpserint, matrimonium tam praesumptuose contractum poteris
+            irritare. [De illis autem etc. cf. c. 9. de desp. imp. IV. 2.]</p>
+        </div>
+        <div xml:id="cice-l4t4-Dd1e169">
+          <head xml:id="cice-l4t4-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l4t4-d1e174">Qui duas per verba de praesenti desponsat, primam desponsatam habebit in uxorem,
+            etiamsi prius secundam cognoverit: nec valet contraria consuetudo. Et hoc ultimum
+            additur ad cap. Licet supra eodem.</p>
+          <p xml:id="cice-l4t4-d1e177">Innocentius III. Mutinensi Episcopo.</p>
+          <p xml:id="cice-l4t4-d1e180">Tuas dudum (Et infra:) De consuetudine, quae diu in Mutinensi obtinuit civitate, ut, si
+            quis iuraret se aliquam ducturum, et citra carnis copulam desponsasset, si consequenter
+            desponsasset aliam et aliam cognovisset, primo cognita adiudicaretur viro, non quae
+            prius exstitit desponsata. (Et infra:) Ne vero turpis sit pars, quae suo non congruit
+            universo, et ecclesia Mutinensis tenere debeat humiliter et servare quod beati Petri
+            sedem et suam metropolim sequi viderit et docere: in matrimoniis de cetero contrahendis
+            illud te volumus observare, ut, postquam inter legitimas personas consensus legitimus
+            intervenerit de praesenti, qui sufficit in talibus iuxta canonicas sanctiones, et, si
+            solus defuerit, cetera, etiam cum ipso coitu celebrata, frustrantur, si personae iunctae
+            legitime cum aliis postea de facto contrahant, quod prius de iure factum fuerat non
+            poterit irritari.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

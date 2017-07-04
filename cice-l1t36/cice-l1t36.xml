@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.36. DE TRANSACTIONIBUS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.36. DE TRANSACTIONIBUS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t36">
+        <head xml:id="cice-l1t36-Hd1e105">1.36. DE TRANSACTIONIBUS.</head>
+
+        <div xml:id="cice-l1t36-Dd1e108">
+          <head xml:id="cice-l1t36-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t36-d1e113">Instrumenta et alia iura partium contraria transactione tolluntur.</p>
+          <p xml:id="cice-l1t36-d1e116">Gregorius I. A. Subdiacono et Dom. Abbati.</p>
+          <p xml:id="cice-l1t36-d1e119">Sicut grave †[et plenum vituperationis est, inter personas omnipotenti Deo militantes
+            de saecularibus negotiis ortam diu controversiam permanere, ita laudabile et studio est
+            religioso conveniens, terrenis gratam Deo pacem praeferre compendiis, et ex rebus
+            transitoriis mansura semper caritatis lucra mercari. Et ideo, qiua de possessionibus
+            Faiano, Nasoniano et Libiniano, positis in provincia Sicilia territorio Panormitano, de
+            quibus inter praepositos monasterii sanctorum Maximi et Agathae, quod Lucuscanum
+            dicitur, et e diverso administratores xenodochii in hac urbe Roma constituti, quod
+            Valerii nuncupatur, longa se traxit contentio, nunc vero inter te Antonium subdiaconum
+            nostrum memorati xenodochii praepositum, et e diverso dilectissimum filium nostrum
+            Dometium abbatem atque presbyterum praedicti monasterii pactis intervenientibus salubris
+            processit Deo auctore decisio, necesse est, ut omnis discordiae possit occasio
+            praeveniri, et quae gesta sunt interveniente auctoritate firmari.] Proinde Post salubrem
+            decisionem de controversia vestra factam decrevimus, ut omnia instrumenta, vel quicquid
+            aliud est, quod partibus, [quod absit, ad invicem contra se venire cupientibus] quoquo
+            modo, vel ex temporis praescriptione seu aliter opem de lege aut quocunque privilegio
+            ferre poterat, sit, sicut [et] vos poscitis, vacuum et omni virtute cassatum, et sola
+            pactorum inter vos nunc habitorum pagina validum perpetuumque robur obtineat. Cui si
+            quid forte incuria vel imperitia minus firmitatis insertum est, vires plenissimae
+            notionis ex hac nostra auctoritate suscipiat, [nec superesse etc. Mense Ianuar. Ind. II.
+            598.]</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e123">
+          <head xml:id="cice-l1t36-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t36-d1e128">Tenet compositio super decimis facta cum assensu superioris.</p>
+          <p xml:id="cice-l1t36-d1e131">Alexander III.</p>
+          <p xml:id="cice-l1t36-d1e134">Statuimus, ut, si super decimis inter vos et aliquam personam ecclesiasticam de assensu
+            episcopi vel archiepiscopi sui compositio facta fuerit, rata perpetuis temporibus et
+            inconcussa persistat.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e138">
+          <head xml:id="cice-l1t36-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t36-d1e143">Si capitulum consensit transactioni, quam fecit praelatus nomine ecclesiae, ulterius
+            dissentire non potest.</p>
+          <p xml:id="cice-l1t36-d1e146">Idem Dulmensi Episcopo.</p>
+          <p xml:id="cice-l1t36-d1e149">Contingit interdum, quod, licet abbas vel prior alicuius conventualis ecclesiae cum
+            ecclesiastica vel saeculari persona super his, de quibus inter eos controversia vertitur
+            coram delegato vel ordinario iudice transigat, literis capituli sui de ratihabitione
+            monstratis, ipsum capitulum tamen eandem transactionem nititur revocare. Unde quia nos
+            super hoc consulere voluisti, tibi respondemus, quod, si abbas vel prior a capitulo suo
+            de ratihabitione literas habuerit, transactionem, quam fecit, si fuerit aliquot annis
+            servata, capitulum, ac si non consenserit in eam, non poterit revocare.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e153">
+          <head xml:id="cice-l1t36-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t36-d1e158">Super ecclesiastico beneficio transigi non potest etiam cum iuramenti
+            interpositione.</p>
+          <p xml:id="cice-l1t36-d1e161">Idem Abbati de Strat. et Priori sancti Eusebii.</p>
+          <p xml:id="cice-l1t36-d1e164">Constitutus in nostra praesentia G. clericus sua nobis assertione monstravit, quod,
+            quum inter ipsum, et A. clericum super capella de Stratis controversia emersisset,
+            tandem per transactionem sopita fuit, et, licet transactio ipsa hinc inde fide praestita
+            firmata fuisset, eam tamen praefatus A. servare recusat. Quia igitur huiusmodi
+            transactiones speciem nonnunquam continent simoniae, et non solum a malo, sed etiam a
+            specie mali secundum Apostolum nos convenit abstinere, devotioni vestrae per apostolica
+            scripta praecipiendo mandamus, quatenus, quum propter hoc fueritis requisiti, partes
+            ante vestram praesentiam convocetis, et, revocata transactione in irritum, causam
+            diligentius audiatis etc.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e169">
+          <head xml:id="cice-l1t36-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l1t36-d1e174">Per transactionem factam sine auctoritate episcopi potest praelatus, sed non ecclesia
+            constitui censualis.</p>
+          <p xml:id="cice-l1t36-d1e177">Idem Carnotensi Episcopo.</p>
+          <p xml:id="cice-l1t36-d1e180">De cetero noveris, quod, quum aliquis ad extraordinarium iudicem literis impetratis cum
+            adversario suo componit, postmodum in ecclesia, de qua agitur, ius aliquod habiturus, si
+            compositio non est iuri contraria, non est a loci episcopo aliquatenus reprobanda; sed
+            census absque episcopali auctoritate cui praeest ecclesiae sub hoc praetextu solutus,
+            vitam eius, qui solverit, non excedit.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e184">
+          <head xml:id="cice-l1t36-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l1t36-d1e189">Si beneficium, quod per transactionem habetur, impetratur ut vacans, ab eo, qui fuit
+            transactionis mediator, non valet impetratio. H. d. quoad titulum.</p>
+          <p xml:id="cice-l1t36-d1e192">Idem Eboracensi Archiepiscopo et Wigorensi Episcopo.</p>
+          <p xml:id="cice-l1t36-d1e195">Ex literis vestris accepimus, quod, quum olim inter R. et A. clericos super ecclesia de
+            Vult. et capella de Torhec ad eandem ecclesiam pertinente coram te, frater episcope, qui
+            iudex fueras delegatus, auctoritate G., qui tunc eidem A. patrocinabatur in causa, et
+            testis inscriptus fuerat, transactio iam pridem facta fuisset, postmodum idem G. veniens
+            ad praesentiam nostram, et se mentiens clericum, quum nondum esset in clericum
+            tonsuratus, ad Dunelmensem episcopum et decanum Eboracensem, si bene meminimus, super
+            eadem ecclesia et capella tacito de transactione ipsa literas nostras impetravit. Quum
+            autem idem G. et responsales praedicti R. in nostra demum praesentia fuissent
+            constituti, nos ex literis vestris veritatem super his cognoscentes, et attendentes
+            etiam, quomodo praefatus G. non inficiaretur, se transactioni interfuisse, et nondum
+            fuisse tonsuratum, quum literas istas obtinuit, ei super praedicta ecclesia et capella
+            auctoritate apostolica silentium duximus imponendum.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e199">
+          <head xml:id="cice-l1t36-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l1t36-d1e204">Super ecclesiastico beneficio non potest transigi, sed amicabiliter componi. H. d. et
+            quotidie allegatur.</p>
+          <p xml:id="cice-l1t36-d1e207">Idem.</p>
+          <p xml:id="cice-l1t36-d1e210">Super eo, quod quaesivisti, utrum de ecclesiastico beneficio in litigium deducto possit
+            fieri transactio, tale damus, sicut iam pridem, si bene meminimus, alii non absimile
+            quaerenti dedimus responsum, quod secundum formam a canonibus in aliis transactionibus
+            adscriptam transigi super re sacra litigiosa non potest. Etenim res sacrae, ut
+            possideantur aliquo dato, vel retento sive promisso, speciem credimus habere simoniae.
+            Alias autem, si gratis et amicabiliter inter se litigantes componant, sacris canonibus
+            nequaquam dicimus obviare.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e214">
+          <head xml:id="cice-l1t36-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l1t36-d1e219">Transactio facta de rebus ecclesiae per praelatum sine superioris consensu non obligat
+            successorem.</p>
+          <p xml:id="cice-l1t36-d1e222">Idem Abbati de Straphor, et Priori de Phe.</p>
+          <p xml:id="cice-l1t36-d1e225">Veniens ad apostolicae sedis clementiam dilectus filius magister G. de Favill. sua
+            nobis insinuatione monstravit, quod monachi maioris monasterii terras in parochia
+            sanctae M. de Marchia excolunt, et ab eadem ecclesia coloni eorum omnia ecclesiastica
+            tam necessaria quam voluntaria suscipiunt sacramenta, et tamen eidem ecclesiae suas a
+            canonibus constitutas decimas solvere contradicunt. †Sed de frugibus tertiam partem
+            solvunt ei, et duas sibi retinere praesumunt, de reliquis autem minutis decimis, utpote
+            nutrimentis animalium et fructibus hortorum, nil penitus praestare non erubescunt.
+            Arbitrantur autem, ad hoc se posse tueri cuiusdam transactionis praetextu inter
+            praefatos monachos, et quendam sacerdotem memorati G. praedecessorem factae ita
+            videlicet, ut de duabus carruatis terrae, quas in dominio suo monachi tenent, tertiam
+            tantum decimarum partem [frugum] exsolvant, †reliquas sibi retinendo. Quo fit, ut, inde
+            occasionem sumentes malignandi, praedia ex agricolarum defectu ad eos devoluta monachi
+            in suum magis astute quam provide dominium convertant, et quatuor vel forte plures
+            carrucatas duabus aggregant, non aliter decimas praestantes de illis, quam de duabus
+            praestitissent, quum secundum compositionis tenorem integras de illis decimationes
+            solvere tenerentur. Quoniam igitur nos convenit ecclesiis providere, ne sua cuilibet
+            videantur iura deperire, fraternitati vestrae per apostolica scripta Mandamus, quatenus,
+            quum exinde fueritis requisiti, utraque parte ante praesentiam vestram convocata, rei
+            veritatem diligentius inquiratis, et, nisi privilegium [clementia] apostolicae sedis
+            sibi super hoc indultum coram vobis praefati monachi palam produxerint, vel nisi
+            praefati monachi transactionem praescriptam auctoritate apostolica confirmatam esse
+            docuerint, quum alias inter personas [ita] facta potius quam inter ecclesias videatur,
+            nec pacta inter alios acta aliis obesse patiamur, omni dilatione et appellatione remota
+            ipsos et agricolas [eorum] decimationes [universas] ex quibuslibet rebus provenientes ex
+            integro, absque [omni] diminutione ecclesiae S. Mariae de Marturen. iugi praestatione
+            singulis annis praestare, et [etiam] illarum, quas illicite detinuerant, iustam
+            aestimationem restituere eidem ecclesiae cum omni districtione compellatis. Quodsi
+            discretioni vestrae, secundum ea quae proponuntur nobis, in iudicio visum fuerit,
+            praefatos monachos, non nisi ad tertiae partis decimationum praestationem, secundum
+            iustitiam urgeri posse; tunc omnium eorum, quae canones decimanda decreverint,
+            appellatione remota, saepedictos monachos tertiam partem ecclesiae iam dictae,
+            auctoritate apostolica decimas praestare cogatis.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e229">
+          <head xml:id="cice-l1t36-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l1t36-d1e234">Sicut super iure praesentandi, ita super annexo non potest transigi, ut recedatur a
+            lite interveniente aliqua temporalitate.</p>
+          <p xml:id="cice-l1t36-d1e237">Lucius III. Ormensi Episcopo.</p>
+          <p xml:id="cice-l1t36-d1e240">Praeterea, quando inter laicos et viros religiosos de praesentatione alicuius ecclesiae
+            quaestione suborta transigitur inter eos ita, quod praesentationem laicus obtineat,
+            religiosi vero novam vel maiorem percipiant in ecclesia, in qua prius nullam vel minorem
+            habere consueverant portionem, an huiusmodi transactio teneat, quaesivisti. Quum igitur
+            ipsa pactio simoniaca merito videatur, respondemus, quod de iure non tenet, nec ex ea
+            religiosi ullum debent commodum obtinere.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e244">
+          <head xml:id="cice-l1t36-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l1t36-d1e249">Super spirituali subiectione non licet transigi.</p>
+          <p xml:id="cice-l1t36-d1e252">Coelestinus III.</p>
+          <p xml:id="cice-l1t36-d1e255">Praeterea quarto loco quaestio talis accessit, quod quaedam cella eximi voluit a
+            subiectione, qua matrici domui tenebatur. Quumque causa debito Marte percurreret,
+            fratres illius cellae, se confitentes in iure illi domui quondam fuisse subiectos,
+            referebant quaestionem olim de hac subiectione fuisse motam, et transactione sopitam,
+            videlicet eatenus, ut quendam annuum censum ecclesiae matrici reddendo fratres memoratae
+            cellulae penitus essent a subiectione principalis domus exempti. Ceterum ex adverso
+            prior maioris domus duo pariter allegabat, unum scilicet quod, ex quo confessi fuerant,
+            se dudum illi domui fuisse subiectos, et non ante transactionem illam exemptos,
+            constabat, illos fuisse rebelles eo ipso, quod ante transactionem et exceptionem se
+            contendebant ab eiusdem iurisdictione esse subtractos, nec transactio subsequens eos
+            poterat a tanto crimine inobedientiae relaxare. Alterum quoque Prior consequenter pro
+            maiori ecclesia proponebat, quod de spirituali subiectione contra votum professionis
+            transigere non liceret. Respondemus igitur, quod ex praedicta fratrum de cella
+            confessione contra eos sententia procedere debeat, praesertim quum illa transactio,
+            licet nobis de illo, quod cella determinate reddere tenebatur, clare constare
+            nequiverit, iniquitatem simoniacam continuisse putetur.</p>
+        </div>
+        <div xml:id="cice-l1t36-Dd1e260">
+          <head xml:id="cice-l1t36-Hd1e262">CAP. XI.</head>
+          <p xml:id="cice-l1t36-d1e265">Iudex potest et debet se interponere pro transactione inter partes facienda,
+            praeterquam in casibus, in quibus iura hoc non admittunt, ut super matrimonio. H. d.</p>
+          <p xml:id="cice-l1t36-d1e268">Honorius III. I. tituli sanctae Praxedis Presbytero cardinali.</p>
+          <p xml:id="cice-l1t36-d1e271">Ex parte tua †fuit propositum coram nobis, quod nonnulli Graeci furtive sacros ordines
+            a non suis episcopis receperunt, quidam etiam excommunicati celebrant in ecclesiis
+            interdictis, et Graecis ritibus pertinaciter inhaerentes in nullo volunt obedire
+            praelatis Latinis. Praeterea quidam Graeci et Latini episcopi consecrationes faciunt in
+            episcopatibus alienis, et decimas percipiunt in eisdem in episcoporum eorundem locorum
+            praeiudicium et gravamen, licet episcopi Graecorum nec percipere decimas, nec
+            consecrationes huiusmodi consueverint celebrare. Ad hoc laici Graeci uxores suas
+            secundum motum propriae voluntatis dimittere et alias superducere non verentur, ac
+            operari dominicis et festivis diebus quemadmodum in profestis. Porro quidam barones et
+            milites tam Latini quam Graeci abbatias et ecclesias alias cum hominibus et bonis aliis
+            earundem contra iustitiam detinentes, decimas non exsolvunt, et alios solvere recusantes
+            in suo errore defendunt, et, si pro his aut aliis excessibus feratur excommunicationis
+            sententia in eosdem, eam in animarum suarum periculum et aliorum scandalum vilipendunt.
+            Unde a nobis desideras edoceri, quid tibi agendum sit in omnibus supradictis, et
+            qualiter puniendus sit Neoportensis archidiaconus, qui quibusdam eundi cum mercibus in
+            Alexandriam contra statutum concilii generalis licentiam de facto tribuere non expavit.
+            Nos ergo discretioni tuae breviter respondemus, ut, quum iura canonica et civilia edita
+            sint super omnibus fere articulis praenotatis, procedas in his, quum necesse fuerit,
+            secundum canonicas et legitimas sanctiones. Poteris etiam ad componendum interponere
+            partes tuas, et interdum aliquid severitati detrahere, prout, statu imperii et
+            excedentium multitudine provida deliberatione pensatis, videris expedire: exceptis
+            nimirum casibus, qui compositionis sive dispensationis remedium non admittunt, utpote
+            coniugii sacramentum, quod, quum non solum apud Latinos et Graecos, sed etiam apud
+            fideles et infideles exsistat, a severitate canonica circa illud recedere non licebit.
+            In his vero, super quibus ius non invenitur expressum, procedas, aequitate servata,
+            semper in humaniorem partem maxime propter statum imperii adhuc debilem declinando,
+            secundum quod personas et causas, loca et tempora videris postulare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

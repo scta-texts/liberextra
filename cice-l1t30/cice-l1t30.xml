@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.30. DE OFFICIO LEGATI.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.30. DE OFFICIO LEGATI.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t30">
+        <head xml:id="cice-l1t30-Hd1e105">1.30. DE OFFICIO LEGATI.</head>
+        <div xml:id="cice-l1t30-Dd1e108">
+          <head xml:id="cice-l1t30-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l1t30-d1e113">Legatus Papa etiam per simplicem querelam adiri potest.</p>
+          <p xml:id="cice-l1t30-d1e116">Alexander III. universis Suffraganeis Cantuariensis ecclesiae.</p>
+          <p xml:id="cice-l1t30-d1e119">Quum non ignoretis, venerabilem fratrem nostrum Cantuariensem archiepiscopum vobis non
+            solum metropolitico, sed etiam legationis iure praeesse, †mirabile satis est, quod
+            quidam vestrum, sicut audivimus, asseverare praesumunt, quod idem archiepiscopus nullam
+            causam de episcopatibus vestris sive metropoleos sive legationis iure debeat audire,
+            nisi per appellationem ad ipsum deferatur. Sane licet forte idem archiepiscopus
+            metropolitico iure audire non debeat causas de episcopatibus vestris, nisi per
+            appellationem deferantur ad eum, legationis tamen obtentu universas causas de ipsis
+            episcopatibus, quae per appellationem vel querimoniam aliquorum perveniunt ad suam
+            audientiam, audire potest et debet, sicut qui in provincia sua vices nostras gerere
+            comprobatur. Mandamus itaque et praecipimus, ut causas quae de episcopatibus vestris ad
+            eundem archiepiscopum proferuntur, eius iudicio relinquatis nec quemlibet clericum vel
+            laicum vestrae iurisdictionis deterrere vel impedire tentetis, quominus causam ad
+            praefatum Archiepiscopum, si voluerit, possit transferre.</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e123">
+          <head xml:id="cice-l1t30-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t30-d1e128">De causa specialiter delegata a Papa legatus se intromittere non potest.</p>
+          <p xml:id="cice-l1t30-d1e131">Coelestinus III.</p>
+          <p xml:id="cice-l1t30-d1e134">Studuisti a nobis quaerere utrum de causa, quam alicui delegamus, alius, qui sit
+            generalis in provincia legatus, vel ante cognitionem, vel postea cognoscere valeat, vel
+            commissionis nostrae processum, quem iudici delegato transmittimus, taliter impedire.
+            Hanc itaque dubitationem de animo tuo amputare volentes Respondemus, quod, quum mandatum
+            speciale derogat generali, legatus commissionem alii vel aliis factam specialiter
+            impedire non debet nec potest, unde, et si secundum formam expressam mandati nostri
+            sententia iam fuerit promulgata, non poterit ipse legatus, nisi super hoc mandatum
+            speciale receperit, eam quomodolibet irritare. Ipsam tamen, si rationabiliter lata
+            fuerit, confirmare valebit et exsecutioni mandare.</p>
+          <p xml:id="cice-l1t30-d1e137">alius, nullus, solus, totus, ullus, unus ---&gt; -ius (gen.); -i (dat.) alter,
+            alterius; neuter, -trius; uter, -trius</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e141">
+          <head xml:id="cice-l1t30-Hd1e143">CAP. III.</head>
+          <p xml:id="cice-l1t30-d1e146">Legatus etiam de latere ex generali legatione non potest transferre episcopos, vel unam
+            ecclesiam cathedralem alteri subiicere, et alteri concedere ius primatiae, vel duos
+            episcopatus unire, vel unum dividere; excommunicatos tamen propter manuum iniectionem in
+            clericos absolvere potest. Hoc dicit cum c. seq.</p>
+          <p xml:id="cice-l1t30-d1e149">Innocentius III. tit. sancti Laurentii in Lucina Presbytero cardinali, sedis
+            apostolicae Legato.</p>
+          <p xml:id="cice-l1t30-d1e152">Nisi specialis illa dilectio, quam ad personam tuam habuimus et habemus, iustum, immo
+            iustissimum motum animi nostri temperaret, poena docente cognosceres, quantum in
+            personam tuam excesseris, quantumcunquae in Romanam ecclesiam deliqueris, matrem tuam,
+            quae quum te nutriverit et exaltaverit, tu eam penitus sprevisse videris, qui spretis
+            canonicis sanctionibus et consuetudine generali, motu proprio praesumpsisti, quod nec
+            factum fuit, nec auditum, venerabilem fratrem nostrum Troianum episcopum regni Siciliae
+            cancellarium praeter speciale mandatum nostrum de Troiana ecclesia ad Panormitanam de
+            facto, quia de iure non potuisti, transferre. [Sane etc. cf. c. 3. de usu et auct. pall.
+            I. 8.]</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e156">
+          <head xml:id="cice-l1t30-Hd1e158">CAP. IV.</head>
+          <p xml:id="cice-l1t30-d1e161">Summatum fuit supra in cap. praecedenti.</p>
+          <p xml:id="cice-l1t30-d1e164">Idem eidem.</p>
+          <p xml:id="cice-l1t30-d1e167">Quod translationem †pontificis de Troiano episcopatu ad Panormitanam metropolim a te
+            factam nolumus ratam habere, zelus utique non amaritudinis, sed rectitudinis nos
+            induxit, quia, Licet in regno Siciliae generalis sit tibi commissa legatio, ad ea tamen
+            sine speciali mandato nostro non debuisti manus extendere, quae in signum privilegii
+            singularis sunt tantum summo Pontifici reservata. Tamen Et si quaedam ex his, quae de
+            speciali concessione saepe fuere legatis indulta, ut illorum videlicet absolutio, qui
+            propter sacrilegas manuum iniectiones in clericos, incidunt in canonem promulgatae
+            sententiae, videantur ex ipso legationis officio iam licere legatis, an existimas, quia
+            vices nostras tanquam legato tibi commisimus exsequendas, quod Panormitanam ecclesiam
+            posses subiicere Messanensi, ut illam praeficeres isti, concesso sibi privilegio
+            primatiae? An putas, ex eadem causa tibi licere, duos episcopatus unire, vel unum
+            dividere sine licentia speciali? Non ergo in eius odium, vel ad iniuriam tui reputes
+            esse factum, sed ut privilegium Petri maneat inconcussum, quum et felicis memoriae
+            Alexander Papa, praedecessor noster, quasi simile fecerit, obviando praesumptioni
+            legati, quem in Hispaniam destinarat, volenti simile attentare. [Super eo vero etc. cf.
+            c. 11. de temp. ord. I. 11.]</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e172">
+          <head xml:id="cice-l1t30-Hd1e174">CAP. V.</head>
+          <p xml:id="cice-l1t30-d1e177">Ex quo legatus retulit causam Papae, illius desinit esse iudex.</p>
+          <p xml:id="cice-l1t30-d1e180">Idem Bononiensi Episcopo et M. Capellano, Subdiacono nostro.</p>
+          <p xml:id="cice-l1t30-d1e183">Licet Tranenses canonici ab initio dissensissent, tandem tamen omnes unanimiter
+            consenserunt, dilectum filium G. fratrem Cassinensis abbatis in archiepiscopum
+            eligentes, cuius electionem venerabilis frater noster Portuensis episcopus, tunc
+            apostolicae sedis legatus, examinari praecepit, †et examinationem redactam in scriptis
+            fecit sigillis dilectorum filiorum archidiaconi et magistri Petrarchae muniri, cum suo
+            quoque sigillo ad sedem apostolicam transmittendam. Literas quoque suas nobis pro dicto
+            fratre Cassinensis abbatis deprecatorias destinavit, quas cum decreto electionis omnium
+            canonicorum subscriptionibus roborato, nec non et literis suffraganeorum et populi, tres
+            de canonicis Tranensis ecclesiae, ab universo capitulo destinati, nobis humiliter
+            praesentarunt, petentes electionem canonicam de persona idonea celebratam auctoritate
+            apostolica confirmari. Nos autem ad maiorem cautelam a praedictis canonicis in
+            iuramentum recepimus, non a nobis exactum, sed ab ipsis oblatum, et factum electionis,
+            sicut est et moris et iuris, examinavimus diligenter. Interim vero Nuncius praefati
+            Cassinensis abbatis suas nobis literas praesentavit, gravem contra iam dictum legatum
+            querimoniam continentes, quod, postquam electionem examinaverat, et eam ad nostrae
+            deliberationis examen transtulerat, nunciis iam directis, iterum electionem eandem
+            malitiose nimis examinare praesumpsit. †Unde petebat per viros idoneos suspicione
+            carentes de ipso facto diligenter inquiri. Quumque praefatus supervenisset episcopus, et
+            ea, quae gesta sunt, intellexissemus ab ipso, De communi consilio fratrum nostrorum
+            examinationem secundam, tanquam a non suo iudice factam, postquam negotium ad nostrum
+            fuerat translatum examen, censuimus irritam et inanem. [Quia tamen etc. Dat. Lat. VIII.
+            Kal. Iul. 1202.]</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e187">
+          <head xml:id="cice-l1t30-Hd1e189">CAP. VI.</head>
+          <p xml:id="cice-l1t30-d1e192">Legatus de latere confert beneficium vacans, licet illud spectet ad praesentationem
+            alicuius clerici. Hoc dicit et est casus notabilis.</p>
+          <p xml:id="cice-l1t30-d1e195">Idem sancti P. et sancti Leonis Abbatibus, et R. archidiacono Tullensibus.</p>
+          <p xml:id="cice-l1t30-d1e198">Dilectus filius R. Metensis canonicus nobis humiliter intimavit, quod, quum venerabilis
+            frater noster Praenestinus episcopus, apostolicae sedis legatus, ecclesiam sancti
+            Trudonis ad resignationem proprii pastoris in manibus eius factam liberaliter
+            contulisset eidem, dilectus filius B. Metensis archidiaconus, ad quem illius ecclesiae
+            praesentatio pertinebat, asserens, quod eodem inconsulto conferri non potuit a legato,
+            donationi eius minus rationabiliter se opponens, canonicum ipsum super eadem ecclesia
+            indebite molestare praesumit. Quum igitur plus iuris habeat in concessione praelatus,
+            quam in praesentatione patronus, nec praeiudicetur praelato, si quando per apostolicae
+            sedis legatum eo inconsulto ecclesia concedatur, discretioni vestrae per apostolica
+            scripta mandamus quatenus dictum archidiaconum, ut ab eius super hoc indebita
+            molestatione desistat, monitione praemissa per censuram ecclesiasticam appellatione
+            remota cogatis. [Nullis literis etc. Dat. Anagniae X. Kal. Mart. Ao. VI. 1204.]</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e202">
+          <head xml:id="cice-l1t30-Hd1e204">CAP. VII.</head>
+          <p xml:id="cice-l1t30-d1e207">Legatus in pluribus locis potest in quolibet dictorum locorum iurisdictionem suam
+            exercere ita, quod facta unius loci potest in alio explicare. Hoc dicit Panorm.</p>
+          <p xml:id="cice-l1t30-d1e210">Idem illustri Regi Francorum.</p>
+          <p xml:id="cice-l1t30-d1e213">Novit ille, qui nihil ignorat, quod regiae sublimitati (Et infra:) Ex parte tua
+            querimoniam accepimus, videlicet quod, quum tibi legatus esset certa ratione suspectus,
+            post appellationem ad nos interpositam extra fines regni Francorum in terram tuam
+            interdicti sententiam promulgavit. †Qui etiam in animam tuam promiserunt et obtulerunt
+            iurare, quod tu coram legatis et delegatis nostris super hoc negotio stabis iuri, et
+            quod propter huiusmodi negotium nec per nos, nec per alium fueris ex parte nostra
+            citatus, ut iuri pareres, praedictam petens sententiam recepta huiusmodi cautione
+            relaxari. Ceterum ad ea, quae contra cardinalem obiecerant, et eis respondimus, et Tuae
+            magnificentiae respondemus, quod etsi fines regni Francorum exierat, nondum tamen fuerat
+            terminos suae legationis egressus, quum non solum in regno Francorum, sed in Viennensi,
+            Lugdunensi et Bisuntinensi provinciis iniunctam sibi a nobis legationis sollicitudinem
+            suscepisset.</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e217">
+          <head xml:id="cice-l1t30-Hd1e219">CAP. VIII.</head>
+          <p xml:id="cice-l1t30-d1e222">Praesente legato de latere minor legatus exsecutionem officii sui dimittere debet.</p>
+          <p xml:id="cice-l1t30-d1e225">Gregorius IX. Patriarchae Hierosolymitano.</p>
+          <p xml:id="cice-l1t30-d1e228">Volentes (Et infra:) Fraternitati tuae legationis officium in provincia tua duximus
+            committendum, ita tamen, quod, si legatum ad partes illas de latere nostro contigerit
+            destinari, exsecutionem ipsius officii, quamdiu legatus ipse ibi fuerit, pro sedis
+            apostolicae reverentia omnino dimittas.</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e232">
+          <head xml:id="cice-l1t30-Hd1e234">CAP. IX.</head>
+          <p xml:id="cice-l1t30-d1e237">Legatus, non de latere sed ratione personae, extra provinciam sibi decretam absolvere
+            nequit excommunicatos pro iniectione manuum in clericos, nec etiam in provincia, si
+            tales excommunicati aliunde veniant. Legatus vero ratione dignitatis nullos tales
+            absolvit. H. d. secundum communem intellectum.</p>
+          <p xml:id="cice-l1t30-d1e240">Idem.</p>
+          <p xml:id="cice-l1t30-d1e243">Excommunicatis pro iniectione manuum violenta ecclesiae Romanae legati, qui de ipsius
+            latere non mittuntur, extra provinciam sibi commissam, vel ibidem, si huiusmodi manuum
+            iniectores illuc contingat aliunde accedere, et qui ecclesiarum suarum praetextu
+            legationibus sibi vendicant dignitatem, etiam subditis, quamvis in provincia sua
+            exsistentes, beneficium absolutionis impertiri non possunt, nisi de speciali gratia
+            illis et istis amplius a sede apostolica concedatur.</p>
+        </div>
+        <div xml:id="cice-l1t30-Dd1e247">
+          <head xml:id="cice-l1t30-Hd1e249">CAP. X.</head>
+          <p xml:id="cice-l1t30-d1e252">Durant legati statuta etiam legatione finita, finitur tamen sui delegati iurisdictio,
+            si citatio non praecessit.</p>
+          <p xml:id="cice-l1t30-d1e255">Idem.</p>
+          <p xml:id="cice-l1t30-d1e258">Nemini dubium esse volumus, quin legatorum sedis apostolicae statuta edita in provincia
+            sibi commissa durent tanquam perpetua, licet eandem postmodum sint egressi; secus autem,
+            si causas duxerint aliquibus delegandas, quum iurisdictio istorum exspiret, si ante
+            illorum discessum horum citatio non praecessit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

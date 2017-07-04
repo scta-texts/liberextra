@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.09. DE APOSTATIS ET REITERANTIBUS BAPTISMA.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.09. DE APOSTATIS ET REITERANTIBUS BAPTISMA.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t9">
+        <head xml:id="cice-l5t9-Hd1e105">5.09. DE APOSTATIS ET REITERANTIBUS BAPTISMA.</head>
+
+        <div xml:id="cice-l5t9-Dd1e108">
+          <head xml:id="cice-l5t9-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t9-d1e113">Clericus, qui dimisso habitu et tonsura immiscet se enormitatibus, perdit privilegium
+            canonis: Si quis suadente, unde eum deprehendentes non incidunt in canonem. scil.
+            excommunicationem.</p>
+          <p xml:id="cice-l5t9-d1e116">Alexander III.</p>
+          <p xml:id="cice-l5t9-d1e119">Praeterea clerici, qui, relicto ordine clericali et habitu suo, in apostasia tanquam
+            laici conversantur, si in criminibus comprehensi teneantur, per censuram ecclesiasticam
+            non praecipimus liberari. Tales enim inter apostatas numerandos sanctorum Patrum statuta
+            declarant. [Sacerdotibus etc. cf. c. 2. Ne cler. vel mon. III. 50.]</p>
+        </div>
+        <div xml:id="cice-l5t9-Dd1e123">
+          <head xml:id="cice-l5t9-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t9-d1e128">Si crimen acolythi, qui rebaptizanti praebuit ministerium, est occultum, promoveri
+            potest; si publicum, non, nisi cum eo religionem intrante dispensetur.</p>
+          <p xml:id="cice-l5t9-d1e131">Idem Abbati S. Genovefae.</p>
+          <p xml:id="cice-l5t9-d1e134">Ex literarum tuarum tenore perpendimus, quod quidam, aegritudine longa confectus,
+            insano sortilegarum mulierum credens consilio, ut sanaretur, per iterationem fecit
+            iniuriam baptismatis sacramento. Adstitit autem huic sacrilegio adolescens quidam bonae,
+            ut videtur, indolis, acolythus, frater carnalis illius, in quo baptismus asseritur
+            iteratus, et ministerium in respondendo exhibuit presbytero baptizanti, et cooperator
+            exstitit rei nefandae. Quia ergo tua nos duxit prudentia consulendos, qualiter puniri
+            debeat vel purgari acolythus, quem etiam minor aetas et intentio fraternae salutis
+            corporeae excusare videtur aliquantulum, discretioni tuae praesentibus literis
+            respondemus, quod, quamvis multum non videatur poena plectendus, ad superiores tamen
+            ordines promoveri, si publicum est quod proponitur, non valebit, nisi ad religionem
+            transire voluerit, ut favore religionis ipsius circa eum valeat dispensari. Si vero
+            occultum est, promoveri poterit, et excessum suum dignis poenitentiae fructibus
+            expiare.</p>
+        </div>
+        <div xml:id="cice-l5t9-Dd1e138">
+          <head xml:id="cice-l5t9-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t9-d1e143">Infamatus de apostasia compellitur se purgare.</p>
+          <p xml:id="cice-l5t9-d1e146">Innocentius III.</p>
+          <p xml:id="cice-l5t9-d1e149">Tuae fraternitati (Et infra: [(cf. c. 3. de cler. per. I. 22.) Alii quoque, quos fama
+            publica monachos asserit vel canonicos regularis, in saeculari habitu incedentes se
+            saeculares monachos mentiuntur, de quibus, quum probari non possit, quod vitam
+            religiosam sint professi, responsum apostolicum expetisti, utrum ad partes remitti
+            debeant cismarinas, et episcoporum illorum et abbatum monasteriorum illorum, in quibus
+            dicuntur regularem habitum assumpsisse, literis doceant, se non esse monachos vel
+            canonicos regulares, vel debeant potius in saeculari habitu tolerari. Nos autem etc.
+            (cf. c. 3. de cler. peregr. I. 22.)] Super secundo vero articulo inquisitioni tuae
+            duximus respondendum, quod clerici, qui sunt de apostasiae crimine infamati, qui
+            videlicet abiecerunt habitum clericalem, non sunt in saeculari habitu tolerandi, sed per
+            districtionem ecclesiasticam coercendi, donec deficiente probatione, ad infamiam
+            abolendam purgationem canonicam curaverint exhibere. [Quaesivisti etc. Dat. Rom. ap. S.
+            Petr. II. Kal. Febr. Ao. IX. 1207.]</p>
+        </div>
+        <div xml:id="cice-l5t9-Dd1e153">
+          <head xml:id="cice-l5t9-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l5t9-d1e158">Baptizati alterius sectae vel fidei ritus dimittere compelluntur.</p>
+          <p xml:id="cice-l5t9-d1e161">Idem in concilio generali.</p>
+          <p xml:id="cice-l5t9-d1e164">Quidam, sicut accepimus, qui ad sacri undam baptismatis voluntarii accesserunt, veterem
+            hominem omnino non exuunt, ut novo perfectius induantur, quum, prioris ritus reliquias
+            retinentes, Christianae religionis decorem tali commixtione confundant. Quum autem
+            maledictus sit homo, qui terram duabus viis ingreditur, et indui veste non debeat lino
+            lanaque contexta: statuimus, ut per praelatos ecclesiarum talis observantia veteris
+            ritus omnimode compescatur, ut, quos Christianae religioni liberae voluntatis arbitrium
+            obtulit, salutiferae coactionis necessitas in eius observatione conservet; quum minus
+            malum exsistat viam Domini non agnoscere, quam post agnitam retroire.</p>
+        </div>
+        <div xml:id="cice-l5t9-Dd1e169">
+          <head xml:id="cice-l5t9-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l5t9-d1e174">Apostatae incarcerari et affligi possunt, ut habitum reassumant.</p>
+          <p xml:id="cice-l5t9-d1e177">Honorius III. Archiepiscopo Turonensi.</p>
+          <p xml:id="cice-l5t9-d1e180">A nobis expetiit tua fraternitas edoceri, quid de apostatis sit agendum, quum in
+            custodia detinentur, qui minis vel blanditiis nullatenus possunt induci, ut abiectum
+            monachalem habitum reassumant. Ad quod tibi breviter respondemus, quod tales, si
+            volueris, poteris sub gravi custodia carcerare, ita, quod solummodo vita sibi misera
+            reservetur, donec a suae praesumptionis nequitia resipiscant. [Dat. Romae II. Non. Mai.
+            1218.]</p>
+        </div>
+        <div xml:id="cice-l5t9-Dd1e184">
+          <head xml:id="cice-l5t9-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l5t9-d1e189">Monachus, in apostasia ordinatus, non potest sine dispensatione Papae in suscepto
+            ordine ministrare.</p>
+          <p xml:id="cice-l5t9-d1e192">Idem Archiepiscopo Lugdunensi.</p>
+          <p xml:id="cice-l5t9-d1e195">Consultationi tuae breviter respondemus, quod monachus, aliquem sacrum ordinem in
+            apostasia recipiens, quantumlibet suo fuerit reconciliatus abbati, et receperit
+            poenitentiam, absque tamen dispensatione Romani Pontificis ministrare non poterit in
+            ordine, sic suscepto. Inquisitioni etc. (cf. c. 7. de usu et auct. pall. I. 8.) [Dat.
+            Reate IV. (III.) Id. Aug. 1225.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

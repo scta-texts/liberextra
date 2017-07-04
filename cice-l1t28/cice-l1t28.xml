@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.28. DE OFFICIO VICARII.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.28. DE OFFICIO VICARII.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t28">
+        <head xml:id="cice-l1t28-Hd1e105">1.28. DE OFFICIO VICARII.</head>
+        <div xml:id="cice-l1t28-Dd1e108">
+          <head xml:id="cice-l1t28-Hd1e110">CAP. I.</head>
+
+          <p xml:id="cice-l1t28-d1e113">Vicarius, si beneficium curatum postea sit adeptus, vicaria privabitur.</p>
+          <p xml:id="cice-l1t28-d1e116">Alexander III. Episcopo Norvicensi et G. Archidiacono.</p>
+          <p xml:id="cice-l1t28-d1e119">Ad audientiam nostram pervenit, quod G. presbyter monachos de Rameseia et Thomam
+            clericum suum petendo vicariam [suam] ecclesiae de Burnel, a qua viginti annis
+            retrocessit, in diversis postea ecclesiis personatum adeptus, multipliciter vexare ac
+            fatigare praesumit. Quia igitur non est canonicum, ut qui curam animarum in diversis
+            habet ecclesiis vicarius in alienis exsistat, discretioni vestrae per apostolica scripta
+            praecipiendo mandamus, quatenus, rei veritate plenius inquisita, si ita est, praedictum
+            presbyterum a petitione supradictae vicariae desistere appellatione et occasione remotis
+            districtius compellatis, non obstantibus literis si quas tacita veritate per nuntium a
+            nobis impetravit. Exstirpari etenim debent, quae de avaritae radice procedunt, et
+            canonum contraria sunt rationi vel sanctioni.</p>
+        </div>
+        <div xml:id="cice-l1t28-Dd1e123">
+          <head xml:id="cice-l1t28-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t28-d1e128">Plures vicarias quis habere non potest.</p>
+          <p xml:id="cice-l1t28-d1e131">Idem Eliensi Episcopo.</p>
+          <p xml:id="cice-l1t28-d1e134">Provideas [autem] attentius, ne in episcopatu tuo patiaris aliquem plures vicarias
+            habere, quia, quum vicarii teneantur personis et ecclesiis deservire, alienum est ab
+            ordine iuris, ut vicariam quis habeat praeter unam.</p>
+        </div>
+        <div xml:id="cice-l1t28-Dd1e138">
+          <head xml:id="cice-l1t28-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t28-d1e143">Perpetuus vicarius per episcopum institutus per rectorem removeri, vel portione sua
+            fraudari non potest.</p>
+          <p xml:id="cice-l1t28-d1e146">Idem Vintoniensi Episcopo.</p>
+          <p xml:id="cice-l1t28-d1e149">Ad haec si persona alicuius ecclesiae vicario, quem in eadem ecclesia instituit, de
+            assensu et auctoritate dioecesani episcopi certam assignaverit portionem, is, qui
+            persona illa defuncta in personatum illius substituitur ecclesiae, non potest eundem
+            vicarium ab ecclesia removere, vel assignatam sibi minuere portionem, nisi aliquid
+            committat, propter quod per iudicem in vicaria sit vel beneficio condemnandus.</p>
+        </div>
+        <div xml:id="cice-l1t28-Dd1e153">
+          <head xml:id="cice-l1t28-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t28-d1e158">Vicarius non potest substituere vicarium.</p>
+          <p xml:id="cice-l1t28-d1e161">Idem Norwicensi Episcopo.</p>
+          <p xml:id="cice-l1t28-d1e164">Clericos [autem vel] in presbyteratu, vel in aliis inferioribus ordinibus constitutos,
+            in vicariis ecclesiarum, quas adepti sunt, alios sibi substituere non permittas, quum id
+            satis sit absonum et absurdum, et omni rationi contrarium.</p>
+        </div>
+        <div xml:id="cice-l1t28-Dd1e169">
+          <head xml:id="cice-l1t28-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l1t28-d1e174">Vicarius Papae in urbe iurisdictionem habet, non extra urbem.</p>
+          <p xml:id="cice-l1t28-d1e177">Innocentius III. Abbati S. Eugenii et Plebano S. Petri.</p>
+          <p xml:id="cice-l1t28-d1e180">Sua nobis venerabilis frater noster [Wulteranus episcopus fecit insinuatione monstrari,
+            quod, quum clerici plebis de Petiole iurassent sibi praepositum ad laicorum eligere
+            voluntatem, et electione taliter celebrata sibi praesentassent electum, ipse non solum
+            electionem ipsius renuit confirmare, verum etiam tam consules et alios laicos, qui ad
+            hoc impulerant clericos supradictos, quam ipsos clericos, pro his et aliis, in quibus
+            eidem inobedientes exstiterant, excommunicationis vinculo innodavit, et ad venerabilem
+            fratrem nostrum archiepiscopum Pisanum, et Lucanum episcopum destinari obtinuit scripta
+            nostra, ut sententiam, sicut fuerat rationabiliter promulgata, facerent appellatione
+            remota usque ad satisfactionem congruam firmiter observari. Pars autem adversa
+            venerabilis fratris nostri P. Portuensis episcopi vicarii nostri, ad eundem Lucanum
+            episcopum et dilectum filium P. tit. basilicae XII. Apostolorum presbyterum cardinalem
+            literas impetravit, qui occasione illarum dictos laicos et clericos absolverunt, contra
+            memoratum Wulteranum episcopum sententiam promulgantes, a qua idem episcopus, licet
+            ipsam multiplici ratione crediderit esse nullam, ex abundanti tamen nostram audientiam
+            appellavit.] Nos igitur vicarii literas aestimantes per surreptionem obtentas, quoniam
+            iurisdictio vicarii, quem Romanus Pontifex in Urbe reliquit, non extenditur extra illam,
+            nisi ei specialiter sit concessum, praesertim quum ipse moratur in sua provincia
+            speciali, videlicet inter Capuanam provinciam et Pisanam; discretioni vestrae per
+            apostolica scripta mandamus, quatenus, quicquid occasione literarum actum est, in
+            irritum revocetis, praefatam excommunicationis sententiam sicut rationabiliter lata est,
+            faciatis remoto appellationis obstaculo, firmiter observari.</p>
+        </div>
+        <div xml:id="cice-l1t28-Dd1e184">
+          <head xml:id="cice-l1t28-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l1t28-d1e189">Compelluntur vicarii ordinarii ecclesiis deservire per subtractionem proventuum et
+            vicariarum.</p>
+          <p xml:id="cice-l1t28-d1e192">Honorius III. Vigorensi Episcopo.</p>
+          <p xml:id="cice-l1t28-d1e195">Ex parte tua fuit propositum coram nobis, †quod quidam in ecclesiis, quibus perpetuas
+            obtinent vicarias, debitam residentiam facere, ac in presbyteros promoveri contemnunt.
+            Nolentes igitur abusum huiusmodi, sicuti nec debemus, aequanimiter sustinere,
+            fraternitati tuae mandamus, quatenus perpetuos vicarios, ut in ecclesiis, in quibus
+            vicarias obtinent, resideant, ut tenentur, et se in presbyteros, ut eorum cura exigit,
+            faciant promoveri, per subtractionem proventuum vel ipsarum vicariarum appellatione
+            remota compellas.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

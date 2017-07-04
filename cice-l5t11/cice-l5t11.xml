@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.11. DE INFANTIBUS ET LANGUIDIS EXPOSITIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.11. DE INFANTIBUS ET LANGUIDIS EXPOSITIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t11">
+        <head xml:id="cice-l5t11-Hd1e105">5.11. DE INFANTIBUS ET LANGUIDIS EXPOSITIS.</head>
+
+
+        <div xml:id="cice-l5t11-Dd1e108">
+          <head xml:id="cice-l5t11-Hd1e110">CAP. UN.</head>
+          <p xml:id="cice-l5t11-d1e113">Infama, expositus a patre vel alio, eo consentiente vel ratum habente, hoc ipso a
+            patris potestate liberatur. Idem in servo et liberto, qui ob praedictam causam
+            liberantura dominica potestate. Et idem iuris est in praedictis languidis cuiuscunque
+            aetatis sic expositis, vel si eis alimenta denegantur; hi tamen, quae praedictis
+            alimenta praestiterint, nullum ius in eis acquirunt.</p>
+          <p xml:id="cice-l5t11-d1e116">Gregorius IX.</p>
+          <p xml:id="cice-l5t11-d1e119">Si a patre, sive ab alio, sciente ipso aut ratum, habente, relegato pietatis officio
+            infans expositus exstitit: hoc ipso a potestate fuit patria liberatus. Nam et hoc casu
+            in ingenuitatem libertus, et servus in libertatem eripitur, quod et de praedictis
+            cuiuscunque aetatis languidis, si expositi fuerint, vel si alicui eorum alimenta impie
+            denegari contigerit, est dicendum. Sane, qui hos suscipiunt, non possunt propter hoc in
+            eorum personis ius aliquod vendicare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

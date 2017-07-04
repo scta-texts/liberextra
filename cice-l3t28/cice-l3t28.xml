@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.28. DE SEPULTURIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.28. DE SEPULTURIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t28">
+        <head xml:id="cice-l3t28-Hd1e105">3.28. DE SEPULTURIS.</head>
+        <div xml:id="cice-l3t28-Dd1e108">
+          <head xml:id="cice-l3t28-Hd1e110"> CAP. I.</head>
+
+          <p xml:id="cice-l3t28-d1e113">Decedens intestatus sepelitur in sepulcro maiorum, vel ubi eligitur sepultura;
+            parochialis tamen ecclesia habebit canonicam portionem eius, quod reliquerit ecclesiae
+            sepulturae. H. d. secundum veriorem intellectum.</p>
+          <p xml:id="cice-l3t28-d1e116">Leo III.</p>
+          <p xml:id="cice-l3t28-d1e119">Nos instituta maiorum patrum considerantes, illorum quoque decreta firmando statuimus,
+            quod sanctissimum est, unumquemque videlicet in maiorum suorum sepulcris iacere, ut
+            patriarcharum exitus docet. Nulli tamen negamus propriam eligere sepulturam, et etiam
+            alienam. Dominus enim et magister alienam elegit, ut propriam, qui sine peccato erat.
+            Sed quia dignus est operarius mercede sua, tertiam partem sui iudicii illi ecclesiae
+            iure dare censemus, in qua coelesti pabulo a principio sui exordii quotidie refici
+            consuevit, ut iuxta Apostolum [sic] sint consolationum socii, ut fuerunt et passionum,
+            et sic demum ubicunque libitum fuerit eligat sepulturam. Aliter ne fiat, auctoritate
+            Domini nostri Iesu Christi, qui per Prophetam locutus est, dicens: “Ne transgrediaris
+            terminos antiquos, quos posuerunt patres tui,” et Apostolorum P. et P. omniumque
+            sanctorum sub anathematis vinculo detestamur et contradicimus, quia nec nostrum est, nec
+            alicui unquam sacerdoti vel fideli laico unquam licuit, qualicunque ratione sine
+            manifesta delicti culpa in talibus inferre praeiudicium.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e123">
+          <head xml:id="cice-l3t28-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t28-d1e128">Qui convertitur ad monasterium, medietatem bonorum, quae pro anima sua disposuit,
+            tenetur relinquere ecclesiae parochiali.</p>
+          <p xml:id="cice-l3t28-d1e131">Leo Papa omnibus fidelibus per Dardaniam constitutis.</p>
+          <p xml:id="cice-l3t28-d1e134">Relatum est auribus nostris, †esse quosdam perverse agentes, qui subvertere nituntur
+            atque dividere conantur ecclesiae unitatem, videlicet abbates et monachi, qui non studio
+            caritatis, sed zelo rapacitatis invigilant et docent, atque seducere non cessant
+            saeculares homines, quos illaqueare possunt, ut res suas atque possessiones sive in
+            morte sive in vita monasteriis suis tradant, et ecclesiis, quibus subiecti esse
+            videntur, et a quibus baptismum, poenitentiam, eucharistiam, nec non pabulum vitae cum
+            lacte carnis acceperunt vel accipiunt, nihil de bonis [suis] relinquant. Hunc denique
+            fomitem discordiae nos animadvertendo modis omnibus inhibere volumus, et, ne amplius
+            fiat, omnino prohibemus, considerantes, non esse bonum, si illi, qui olim fuerunt socii
+            passionis secundum Apostolum, sint immunes a societate consolationum. Et quia dignus est
+            mercenarius mercede sua, ideo praecipimus atque Mandamus, ut quicunque amodo in
+            monasterio converti voluerit, sive in morte sive in vita omnium rerum et possessionum,
+            quas pro salute animae suae decreverit disponere, medietatem ecclesiae, ad quam
+            dignoscitur pertinere, relinquat, et sic in monasterio, prout libitum fuerit, eundi
+            convertendique habeat licentiam. Quicunque autem huius electi contradictor, convulsor ac
+            temerator exstiterit, gladio anathematis subiaceat. [Dat. Rom. mens. April. die XX. Ind.
+            V.]</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e138">
+          <head xml:id="cice-l3t28-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t28-d1e143">Ubi quis sepulcro maiorum relicto eligit sepulcrum in loco minus religioso, dolo
+            inductus, seu ex contemptu seu non dimissa ecclesiae suae canonica portione expresse vel
+            tacite non tenet electio. H. d. salvando istum textum, quantum fieri potest.</p>
+          <p xml:id="cice-l3t28-d1e146">Innocentius III. Genuensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t28-d1e149">Fraternitatem tuam non credimus ignorare, mortuorum sepulcra et coemeteria apud illas
+            ecclesias et monasteria ex antiquo esse disposita, in quibus religiosorum fratrum
+            conventus sunt constituti, et orationes atque missarum solennia tam pro vivis quam pro
+            defunctis frequentius celebrantur. Unde ipsorum devotioni et extremae voluntati, qui
+            apud huiusmodi ecclesias sepeliri desiderant, minime contradicendum est. Qui vero
+            relictis antiquis ecclesiis et patrum aliorumque parentum suorum sepulcris contra
+            consuetudinem Patrum veteris testamenti, qui cum patribus suis sepulti esse leguntur, ad
+            nova et minus religiosa loca se transferunt, irrationabiliter et contra antiquam
+            institutionem facere videntur. Unde, si forte P. de Castello contra tam antiquam et
+            rationabilem consuetudinem aliquid de corpore suo sepeliendo mandavit, hoc non
+            praeiudicat rationi, sed viribus debet carere, Quocirca per praesentia scripta mandamus,
+            et mandando praecipimus, quatenus corpus ipsius P. dilectis filiis nostris monachis
+            sancti Stephani reddi facias, et cum suis patribus sepeliri.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e153">
+          <head xml:id="cice-l3t28-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t28-d1e158">Si quis in aegritudine, de qua decedit, offert se et sua monasterio, ecclesia
+            parochialis habet inde canonicam portionem; secus si in sanitate.</p>
+          <p xml:id="cice-l3t28-d1e161">Alexander III. Episcopo Spalensi.</p>
+          <p xml:id="cice-l3t28-d1e164">De his, qui in infirmitate vel sanitate cum bonis suis ad religiosa loca se
+            transferunt, nihil tibi vel ecclesiis, a quibus receperunt salutis pabula, relinquentes,
+            hoc tuae volumus prudentiae innotescere, quod, si in aegritudine ipsa ad religionem
+            transeant, dummodo de aegritudine illa decedant, de bonis suis ipsis ecclesiis, a quibus
+            assumpti fuerint, canonica debet portio exhiberi. Si vero ad religiosa loca se in
+            sanitate transtulerint, de his, quae locis ipsis conferunt, cogi non possunt aliquid
+            praescriptis ecclesiis impertiri, quia liberum est eis tunc bona sua, non solum
+            religiosis locis, sed etiam quibuslibet privatis conferre personis.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e169">
+          <head xml:id="cice-l3t28-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t28-d1e174">Qui sepeliunt parochianum alienum, quem sepelire non debent, coguntur restituere
+            corpus, et quae ratione ipius obtinuerunt. Hoc dicit cum cap. sequenti.</p>
+          <p xml:id="cice-l3t28-d1e177">Idem.</p>
+          <p xml:id="cice-l3t28-d1e180">Ex parte canonicorum Obrigensium nobis est intimatum, quod prior de Insula quendam
+            parochianum suum post appellationem ad nos factam in sua ecclesia sepelivit. Unde,
+            quoniam hoc ecclesiasticae disciplinae contrarium esse dignoscitur, et a rationis
+            tramite penitus alienum, ut quis falcem mittat in messem alienam, fraternitati tuae per
+            apostolica scripta praecipiendo Mandamus, quatenus praefatum priorem moneas et districte
+            compellas, ut memoratis canonicis praedicti parochiani sui corpus restituat, et exinde
+            pacifice et amicabiliter conveniat cum eisdem, aut in praesentia nostra se non differat
+            exhibere.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e184">
+          <head xml:id="cice-l3t28-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l3t28-d1e189">Summatum est supr. cap. prox.</p>
+          <p xml:id="cice-l3t28-d1e192">Idem Decano et Magistro R. Ravennatensibus.</p>
+          <p xml:id="cice-l3t28-d1e195">Quum liberum sit †de universis institutioniobus sanctorum Patrum, apud religiosa loca
+            in ultima voluntate sibi eligere sepulturam, canonicae procul dubio obviat rationi, qui
+            devotioni extremae voluntatis decedentium in hac parte contradicere praesumit. Ad
+            audientiam nostram pervenit ex conquestione abbatis et fratrum sancti Martini
+            Laudonensis, quod, quum presbyter quidam corpus cuiusdam mulieris, prout in ultima
+            voluntate sua disposuit, ad eandem ecclesiam sepeliendum deferret, monachi S. Vincentii
+            Laudonensis corpus ipsius violenter rapere et in ecclesia sua sepelire minime
+            dubitarunt. †Et hoc idem de filio Radulfi Canis praesumpserunt. Super quo utique
+            vehementi sumus admiratione commoti, quum iidem monachi et sanctorum Patrum
+            institutionibus contrairent, et privilegia praedecessorum nostrorum et nostra, quae
+            praedicti fratres de libera se habere sepultura proponunt, satagunt violare. Inde est,
+            quod fraternitati vestrae per apostolica scripta Mandamus, quatenus, utraque parte ante
+            vos convocata rei veritatem super hoc inquiratis, et, si ita esse inveneritis, praefatos
+            monachos compellatis, ut ossa praefatae mulieris, et beneficia, quae occasione
+            sepulturae ipsius recepisse noscuntur, memoratis fratribus cum integritate restituant,
+            et de cetero talia facere non praesumant.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e199">
+          <head xml:id="cice-l3t28-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l3t28-d1e204">Mulier nupta libere potest sibi eligere sepulturam. – (Utrum etc.:) Pater filios
+            inpuberes, ubi voluerit, potest sepeliri facere, si hoc habet consuetudo loci. H. d.</p>
+          <p xml:id="cice-l3t28-d1e207">Lucius III.</p>
+          <p xml:id="cice-l3t28-d1e210">De uxore vero, utrum, quemadmodum et vir, liberam debeat habere sepulturam, nobis
+            videtur, quod nulla super hoc inter virum et mulierem sit facienda distinctio, sed
+            utrique in casu isto aequalem esse credimus facultatem, quum electio ista ad eum potius
+            statum pertineat, in quo mulier solvitur a lege viri. Utrum autem pater, quo magis
+            voluerit, minores filios valeat sepelire, non invenimus a sanctis Patribus diffinitum,
+            et propterea terrae consuetudini decernimus relinquendum.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e214">
+          <head xml:id="cice-l3t28-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l3t28-d1e219">Si parochianus ecclesiae cathedralis alibi sepelitur, de ipsius funeralibus seu
+            relictis ecclesiae sepulturae debetur quarta capitulo ecclesiae cathedralis.</p>
+          <p xml:id="cice-l3t28-d1e222">Idem Praeposito et Capitulo Faventinis.</p>
+          <p xml:id="cice-l3t28-d1e225">Quum super quodam capitulo, †quod religionis favore [a sede apostolica quibusdam
+            ecclesiis indulgetur, ut videlicet, quum aliqui apud eas eligunt sepulturam, Ecclesiis,
+            a quibus mortuorum corpora assumuntur, canonica iustitia reservetur, nonnunquam inter
+            viros ecclesiasticos scandalum suscitetur, interpretationem ipsius iustitiae diversam et
+            variam configentes; vobis et ecclesiae vestrae, quae in hoc gravem, sicut accepimus,
+            patitur laesionem, quibusdam religiosis viris excedentibus, quod eis in praedicto
+            capitulo a sede apostolica est indultum, de clementia sedis apostolicae et fratrum
+            nostrorum consilio duximus providendum.] Inde siquidem est, quod [vestris iustis
+            postulationibus inclinati] Praesentium auctoritate statuimus, ut, si aliquem
+            parochianorum vestrorum alibi contigerit eligere sepulturam, secundum statuta B.
+            Gregorii de testamento ipsius quarta vobis portio relinquatur. [Ad haec etc. Dat.
+            Veronae XV. Kal. April. 1186-7.]</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e229">
+          <head xml:id="cice-l3t28-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l3t28-d1e234">In quantitate canonicae, quae debetur ecclesiae parochiali, statur loci
+            consuetudini.</p>
+          <p xml:id="cice-l3t28-d1e237">Clemens III.</p>
+          <p xml:id="cice-l3t28-d1e240">Certificari voluisti a nobis, quomodo illa clausula, quae in privilegiis nostris solet
+            opponi de salva iustitia illarum ecclesiarum, a quibus mortuorum corpora assumuntur,
+            intelligi debeat et exponi. Quum autem super hoc articulo diversa antecessorum nostrorum
+            manaverint instituta, Leone iustitiam illam quandoque tertiam partem, quandoque vero
+            mediam partem, et Urbano III. quartam fore censentibus, nos tale praebemus in hac
+            varietate responsum, ut, sicut beatus Hieronymus inquit, unaquaeque provincia in suo
+            sensu abundet, secundum rationabilem consuetudinem regionis illa iustitia circa
+            medietatem, vel tertiam aut quartam partem pro locorum diversitatibus attendatur. [Dat.
+            Laterani Ao. II.]</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e244">
+          <head xml:id="cice-l3t28-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l3t28-d1e249">Privilegiati super iure funerandi sepelire possunt illos, qui apud eos eligunt
+            sepulturam solvendo tamen canonicam portionem ecclesiae parochiali. Si vero alios
+            sepeliunt, tenentur restituere quicquid occasione funeris receperunt.</p>
+          <p xml:id="cice-l3t28-d1e252">Innocentius III. Episcopo Claremontensi et Abbati Mauriensi.</p>
+          <p xml:id="cice-l3t28-d1e255">In nostra praesentia constitutis dilecto filio priore ecclesiae Montis Ferrandi, et B.
+            procuratore hospitalariorum Claremontensis dioecesis, venerabilem fratrem nostrum
+            Sabinensem episcopum concessimus auditorem, coram quo idem prior proposuit, quod
+            praedicti hospitalarii quosdam parochianos suos, quorum duo erant infra annos legitimos,
+            receperunt ad ecclesiasticam sepulturam, propter quod ecclesia eadem damnum sustinuit
+            plus quam quinque millium solidorum. Quare idem prior humiliter supplicavit, ut ipsis
+            hospitalariis interdicere, ne de cetero talia in eius praeiudicium attentarent, et ad
+            resarcienda damna, quae exinde sustinuit, eos compellere dignaremur. Econtra praedictus
+            proposuit procurator, quod tam ex privilegio quam ex indulgentia speciali licet
+            hospitalariis omnes passim, praeter excommunicatos et interdictos, ad ecclesiasticam
+            sepulturam recipere, qui apud illos elegerint sepeliri, fideique commissa in ultima
+            voluntate relicta possunt licenter accipere, soluta tantummodo quarta parochiali
+            ecclesiae, de cuius parochia mortuorum corpora assumuntur, praeterquam de equis et
+            armis, quae indulta sunt ipsis in subsidium terrae sanctae, de quibus quartam deducere
+            non tenentur. †Quum igitur haec et alia, quae coram episcopo fuerunt proposita, idem
+            vobis fideliter retulisset, auditis et intellectis attestationibus et allegationibus
+            universis, de fratrum nostrorum consilio, Talem super his duximus sententiam
+            proferendam, quod praedicti hospitalarii de cetero non recipiant parochianos ecclesiae
+            supra dictae ad ecclesiasticam sepulturam, nisi apud eos elegerint sepeliri. Et tunc
+            parochialis ecclesia de oblationibus, lectis et aliis, quae defunctus pro anima sua in
+            ultima dispositione reliquit, praeterquam de equis et armis, recipiat quartam partem, et
+            hospitalarii residuum habeant, nisi dolo vel fraude eorum defunctus inductus fuerit ad
+            dispositionem huiusmodi faciendam; nihilominus ipsis hospitalariis iniungentes, ut de
+            quarta parte trium millium solidorum priori satisfaciant memorato, quum constet, eos a
+            parochianis eius illos solidos recepisse, nec sit sufficienter ostensum, quod eorum
+            oblati vel conversi fuissent. Eisdem praeterea duximus iniungendum, quod, nisi
+            probaverint, quod G. parochianus prioris, qui fuit interfectus in campis, apud ipsos
+            elegerit sepulturam, universa, quae ipsius intuitu receperunt, priori restituant
+            memorato; alioquin quartam partem solummodo restituere teneantur. Pro illis vero, quos
+            constat infra annos legitimos decessisse, eisdem iniunximus, ut quae sepulturae eorum
+            gratia receperunt restituant universa. Quocirca discretioni vestrae per apostolica
+            scripta mandamus, quatenus quod a vobis est sententialiter diffinitum, vos appellatione
+            remota per censuram ecclesiasticam faciatis firmiter observari. [Dat. Ferentini II. Id.
+            Iun. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e260">
+          <head xml:id="cice-l3t28-Hd1e262">CAP. XI.</head>
+          <p xml:id="cice-l3t28-d1e265">Casualiter mortuus privari non debet ecclesiastica sepultura.</p>
+          <p xml:id="cice-l3t28-d1e268">Idem Archiepiscopo Turonensi.</p>
+          <p xml:id="cice-l3t28-d1e271">Ex parte parentum M. quondam iuvenculae nobis est intimatum, quod, quum in crepusculo
+            noctis nobilis vir N. dominus I. de insula Butardi dioeceseos Turonensis eidem
+            iuvenculae posuisset insidias, volens eam opprimere, quam sollicitaverat saepe de
+            stupro, et ipsa gartionibus, qui eam rapere nitebantur, super quendam pontem occurreret,
+            tandem ipsa fugiens manus illorum, in amnem de ponte cadens, fuit casu submersa. Ipsa
+            vero extracta de amne, dubitaverunt capellani eiusdem loci corpus tradere sepulturae, et
+            tu etiam requisitus duxisti super hoc responsum apostolicum requirendum. Quocirca
+            fraternitati tuae per apostolica scripta mandamus, quatenus, quum illa iuvencula non
+            sponte praecipitaverit se de ponte, sed, fugiens manus illorum, qui eam, sicut superius
+            est expressum, rapere nitebantur, casu ceciderit, corpus eius tradi facias
+            ecclesiasticae sepulturae, praesertim quum ex honesta causa fugisse noscatur, et cui
+            communicabatur viventi communicandum sit iam defunctae. [Dat. ap. S. Petr. IV. Non.
+            Mart. Pontif. nostr. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e275">
+          <head xml:id="cice-l3t28-Hd1e277">CAP. XII.</head>
+          <p xml:id="cice-l3t28-d1e280">Si ossa excommunicatorum sunt sepulta in ecclesiastico coemeterio, et discerni possunt,
+            debent exhumari et proiici; alias secus.</p>
+          <p xml:id="cice-l3t28-d1e283">Idem Nidrosiensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t28-d1e286">Sacris est canonibus institutum, et utentium consuetudine approbatum, ut quibus non
+            communicavimus vivis non communicemus defunctis, et ut careant ecelesiastica sepultura
+            qui prius erant ab ecclesiastica unitate praecisi, nec in articulo mortis ecclesiae
+            reconciliati fuerint. Unde, si contingat interdum, quod vel excommunicatorum corpora per
+            violentiam aliquorum, vel alio casu in coemeterio ecclesiastico tumulentur, si ab
+            aliorum corporibus discerni poterunt, exhumari debent et procul ab ecclesiastica
+            sepultura iactari. Quodsi discerni non poterunt, expedire non credimus, ut cum
+            excommunicatorum ossibus corpora extumulentur fidelium, quum, licet non obsit iustis
+            sepultura nulla vel vilis, impiis tamen celebris vel speciosa non prosit. [Distinguimus
+            etc. cf. c. 5. de his, quae vi I. 40.]</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e290">
+          <head xml:id="cice-l3t28-Hd1e292">CAP. XIII.</head>
+          <p xml:id="cice-l3t28-d1e295">Terra coemeteriata pro sepultura fodienda vendi non debet.</p>
+          <p xml:id="cice-l3t28-d1e298">Innocentius III. Episcopo Magalonensi.</p>
+          <p xml:id="cice-l3t28-d1e301">Abolendae consuetudinis, immo abominabilis corruptelae perversitas apud montem
+            Pessulanum, ut dicitur, inolevit, ut videlicet decedentibus non prius permittatur effodi
+            sepultura, quam pro terra, in qua sepeliendi sunt, certum pretium ecclesiae persolvatur.
+            †Quia igitur id longe est a regula pietatis et ab ecclesiae honestate, praesentium tibi
+            auctoritate Mandamus, quatenus, quum loci dioecesanus exsistas, inhibeas clericis, ne
+            quicquam omnino praesumant exigere hac de causa, iniungens laicis, ut laudabilem
+            consuetudinem, erga Dei ecclesiam pia devotione fidelium introductam, observent nec
+            fermento haereticae pravitatis illam corrumpere videantur sub praetextu ecclesiasticae
+            puritatis.</p>
+        </div>
+        <div xml:id="cice-l3t28-Dd1e305">
+          <head xml:id="cice-l3t28-Hd1e307">CAP. XIV.</head>
+          <p xml:id="cice-l3t28-d1e310">Excommunicatus, qui per suum presbyterum fuit absolutus in morte, in coemeterio
+            sepeliri debet, et ad satisfaciendum coguntur heredes.</p>
+          <p xml:id="cice-l3t28-d1e313">Gregorius IX. Episcopo N.</p>
+          <p xml:id="cice-l3t28-d1e316">Parochiano tuo, qui excommunicatus pro manifestis ex cessibus, videlicet homicidio,
+            incendio, violenta manuum iniectione in personas ecclesiasticas, ecclesiarum violatione
+            vel incestu fuit, dum ageret in extremis, per presbyterum suum iuxta formam ecclesiae
+            absolutus, non debent coemeterium et alia ecclesiae suffragia denegari, sed eius heredes
+            et propinqui, ad quos bona pervenerunt ipsius, ut pro eodem satisfaciant, censura sunt
+            ecclesiastica compellendi.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.20. DE FEUDIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.20. DE FEUDIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t20">
+        <head xml:id="cice-l3t20-Hd1e105">3.20. DE FEUDIS.</head>
+
+        <div xml:id="cice-l3t20-Dd1e108">
+          <head xml:id="cice-l3t20-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t20-d1e113">Si dominus a vasallo recipit feudum in pignus, abstinendo ab eius servitio, non tenetur
+            computare fructus in sortem. H. d. secundum intellectum communem, et est casus
+            singularis, qui alibi non legitur.</p>
+          <p xml:id="cice-l3t20-d1e116">Innocentius III. Mariensi Episcopo.</p>
+          <p xml:id="cice-l3t20-d1e119">Insinuatione tibi praesentium declaramus, quod gageria, quam de feudo ecclesiae tuae ab
+            M. dignosceris recepisse, Wiffredi fratris eius accedente consensu, a te potest libere
+            detineri, fructibus non computatis in sortem, ita videlicet, ut, quam diu fructus illos
+            perceperis in sortem minime computandos, idem M. a servitio, in quo tibi et ecclesiae
+            tuae pro feudo ipso tenetur, interim sit immunis. [Dat. Rom. ap. S. Petr. Kal. Mart.
+            Pont. nostr. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l3t20-Dd1e123">
+          <head xml:id="cice-l3t20-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t20-d1e128">Ponit tres casus, in quibus, non obstante iuramento de non infeudando, potest episcopus
+            antiquum feudum ad ecelesiam reversum novo vasallo concedere H. d. et est casus
+            notabilis, interpretans iuramentum de alienando.</p>
+          <p xml:id="cice-l3t20-d1e131">Innocentius III. Mediolanensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t20-d1e134">Ex parte tua nostro est apostolatui reseratum, quod saepius dubitasti, utrum, quum
+            contingit vasallum tuum decedere, et ad te feudum ipsius redire, feudum eius alii liceat
+            tibi dare, quamvis iuramento tenearis adstrictus non infeudare de novo Romano Pontifice
+            inconsulto. Ad haec, si vasallum tuum feudum alienare contingat, an ipsius filium vel
+            consanguineum eiusdem feudi consortem de ipso valeas investire. Alia quoque tua
+            dubitatio continebat, ut, quum feudum alienatum repereris, quod per te facile recuperare
+            non potes, utrum possis alicui laico in feudum illud concedere, qui et illud recuperet,
+            et in feudum per ecclesiam recognoscat. (Et infra:) In primo ergo casu feudum decedentis
+            libere, si videris expedire, concedas, atque in secundo filium vel consanguineum
+            alienantis investiens, in tertio feudum alienatum poteris ei licenter concedere, per
+            quem ipsa ecclesia valeat rehabere. [Dat. Ferentini X. Kal. Nov. Pont. nostr. Ao. XI.
+            1208.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

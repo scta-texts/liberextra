@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.36. DE INIURIIS ET DAMNO DATO.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.36. DE INIURIIS ET DAMNO DATO.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t36">
+        <head xml:id="cice-l5t36-Hd1e105">5.36. DE INIURIIS ET DAMNO DATO.</head>
+
+        <div xml:id="cice-l5t36-Dd1e108">
+          <head xml:id="cice-l5t36-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t36-d1e113">Propter eius brevitatem non summatur.</p>
+          <p xml:id="cice-l5t36-d1e116">In Exodo.</p>
+          <p xml:id="cice-l5t36-d1e119">Si rixati fuerint homines, et percusserit alter proximum suum lapide vel pugno, et ille
+            mortuus non fuerit, sed iacuerit in lecto, si surrexerit et ambulaverit foris super
+            baculum suum: innocens erit, qui percusserit, ita tamen, ut operas eius et impensas in
+            medicos restituat.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e123">
+          <head xml:id="cice-l5t36-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t36-d1e128">Breve est, et ideo non summatur.</p>
+          <p xml:id="cice-l5t36-d1e131">Ibidem.</p>
+          <p xml:id="cice-l5t36-d1e134">Si qui aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos vel
+            asinus in eam: dominus cisternae reddet pretium iumentorum; quod autem mortuum est,
+            ipsius erit.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e138">
+          <head xml:id="cice-l5t36-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t36-d1e143">Breve est, et ideo non summatur.</p>
+          <p xml:id="cice-l5t36-d1e146">Ibidem.</p>
+          <p xml:id="cice-l5t36-d1e149">Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit, vendent bovem
+            vivum, et divident pretium; cadaver autem mortui inter se dispertient. Si autem sciebat,
+            quod bos cornupeta fuerit ab heri et nudiustertius, et non custodivit eum dominus suus:
+            reddet bovem pro bove, et cadaver integrum accipiet.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e153">
+          <head xml:id="cice-l5t36-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l5t36-d1e158">Ibidem.</p>
+          <p xml:id="cice-l5t36-d1e161">Si laeserit quispiam agrum vel vineam, et dimiserit iumentum suum, ut depascat aliena:
+            quicquid optimum habuerit in agro suo vel vinea, pro damno aestimationem restituet.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e166">
+          <head xml:id="cice-l5t36-Hd1e168">CAP. V.</head>
+          <p xml:id="cice-l5t36-d1e171">Breve est, et non summatur.</p>
+          <p xml:id="cice-l5t36-d1e174">Ibidem.</p>
+          <p xml:id="cice-l5t36-d1e177">Si egressus ignis invenerit spinas, et comprehenderit acer vos frugum sive stantes
+            segetes in agris, reddet damnum qui ignem succenderit.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e181">
+          <head xml:id="cice-l5t36-Hd1e183">CAP. VI.</head>
+          <p xml:id="cice-l5t36-d1e186">Breve est, et quasi idem cum praecedenti.</p>
+          <p xml:id="cice-l5t36-d1e189">Ex poenitentiali Romano.</p>
+          <p xml:id="cice-l5t36-d1e192">Si quis domum vel aream cuiusquam incenderit voluntarie, sublata et incensa omnia
+            restituat, et tres annos poeniteat.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e196">
+          <head xml:id="cice-l5t36-Hd1e198">CAP. VII.</head>
+          <p xml:id="cice-l5t36-d1e201">Saecularis potestas, quae clericum bannivit, condemnari debet per iudicem
+            ecclesiasticum secundum aestimationem iniuriae in expensis et damnis. Et hodie adde
+            poenam in Clem. 1. de poenis.</p>
+          <p xml:id="cice-l5t36-d1e204">Honorius III. Episcopo Bononiensi.</p>
+          <p xml:id="cice-l5t36-d1e207">Olim scribentibus nobis venerabili fratri nostro, episcopo Mutinensi, ut, accedens
+            personaliter Florentiam, potestatem, consiliarios et populum civitatis Florentinae
+            moneret efficaciter et induceret ad satisfaciendum de damnis et iniuriis, irrogatis
+            venerabili fratri nostro episcopo et ecclesiis Fesulanis, et, si necesse foret, censura
+            ecclesiastica coarctaret, idem Mutinensis, mandatum nostrum quoad monitionem diligentius
+            exsecutus, datis induciis testes, lite non contestata, recepit. Quare nos, eius
+            processu, quoniam ad receptionem testium lite non contestata processerat, penitus
+            revocato, commune Florentinum, quia banniverat eundem episcopum Fesulanum contra Deum et
+            ecclesiasticam libertatem, propter iniuriam banni, et expensas, et damna tali occasione
+            secuta, taxatione iuramento praemissa, in mille libris usualis monetae praedicto
+            episcopo Fesulano sententialiter duximus condemnandum.</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e211">
+          <head xml:id="cice-l5t36-Hd1e213">CAP. VIII.</head>
+          <p xml:id="cice-l5t36-d1e216">Qui iurat statutum super non repetendis damnis, hoc non obstante, expensas repetere
+            poterit. H. d. vel sic: Statutum super damnis non repetendis ad expensas non
+            extenditur.</p>
+          <p xml:id="cice-l5t36-d1e219">Gregorius IX.</p>
+          <p xml:id="cice-l5t36-d1e222">In nostra et fratrum nostrorum praesentia proposuistis, quod olim cives Brixienses pro
+            restaurationibus damnorum illatorum ad invicem, quae propter multas civiles discordias
+            incurrerant, plurimum aggravati, statutum [per venerabilem fratrem nostrum patriarcham
+            Antiochenum, tunc Brixiensem electum] editum, [videlicet] de non petendo vel recipiendo
+            in posterum restaurationes huiusmodi a communi, generaliter approbarunt et firmarunt
+            etiam iuramento. †[Nuper vero non sine nostro labore et sollicitudine procurasti, quod
+            super discordia, quae graviter cives ipsos exagitat, consules et consilium praecise ac
+            absolute iurarunt, se mandatis tuis omnibus parituros, quem tamen, nisi per commune
+            Brixiense damna passis saltem in expensis, quas huiusmodi occasione fecerunt, provideri
+            contingat, perfecte sopire non potes quin sustineat recidivum. Super quo apostolicum
+            (postulasti) remedium adhiberi.] Quum igitur aliud sit damnorum restauratio quam
+            satisfactio expensarum, et ideo in iuramento exhibito super damnorum articulo intelligi
+            non debeat, quod factum expensarum fuerit comprehensum: [fraternitati tuae per
+            apostolica scripta] mandamus, quatenus, iuramento non obstante praedicto, auctoritate
+            nostra provideas, quod dictum commune pro bono concordiae ad expensarum satisfactionem
+            aliquid contribuat iuxta tuae discretionis arbitrium, a te, sicut expedierit,
+            moderandum. [Dat. Lat. XV. Kal. Apr. Pont. nostr. Ao. IV. 1230.]</p>
+        </div>
+        <div xml:id="cice-l5t36-Dd1e226">
+          <head xml:id="cice-l5t36-Hd1e228">CAP. IX.</head>
+          <p xml:id="cice-l5t36-d1e231">Habet plura dicta, et se summat.</p>
+          <p xml:id="cice-l5t36-d1e234">Idem.</p>
+          <p xml:id="cice-l5t36-d1e237">Si culpa tua datum est damnum vel iniuria irrogata, seu aliis irrogantibus opem forte
+            tulisti, aut haec imperitia tua sive negligentia evenerunt: iure super his satisfacere
+            te oportet, nec ignorantia te excusat, si scire debuisti, ex facto tuo iniuriam
+            verisimiliter posse contingere vel iacturam. Quodsi animalia tua nocuisse proponas,
+            nihilominus ad satisfactionem teneris nisi ea dando passis damnum velis liberare te
+            ipsum; quod tamen ad liberationem non proficit, si fera animalia, vel quae consueverunt
+            nocere, fuissent, et quam debueras non curasti diligentiam adhibere. Sane, licet qui
+            occasionem damnt dat damnum videatur dedisse: secus est tamen in illo dicendum, qui, ut
+            non accideret, de contingentibus nil omisit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

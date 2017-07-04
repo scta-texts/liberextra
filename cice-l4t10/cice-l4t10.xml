@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.X. DE NATIS EX LIBERO VENTRE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.X. DE NATIS EX LIBERO VENTRE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t10">
+        <head xml:id="cice-l4t10-Hd1e105">4.X. DE NATIS EX LIBERO VENTRE.</head>
+
+
+        <div xml:id="cice-l4t10-Dd1e108">
+          <head xml:id="cice-l4t10-Hd1e110">CAP. UN.</head>
+          <p xml:id="cice-l4t10-d1e113">Natus ex libera vel liberta liber est.</p>
+          <p xml:id="cice-l4t10-d1e116">Gregorius.</p>
+          <p xml:id="cice-l4t10-d1e119">Indecens esse credimus, ut progeniti ex liberta sive libera filii ad servitium
+            retrahantur. Propterea tibi [praesenti auctoritate] praecipimus, ut his ipsis
+            documentis, sicut et nos didicimus, [exuto a curis animo] diligenter intendas, quatenus,
+            si documenta nulla sint ab ecclesiae parte, quae documentis huiusmodi debeant obviare,
+            ab eius molestia sine aliqua retractatione compescas eandem. Durum est enim, ut, si alii
+            pro mercede sua libertates tribuunt, ab ecclesia, a qua fueri debent, revocentur.
+            [Iterum ergo etc.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

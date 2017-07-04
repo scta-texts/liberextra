@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.XVI. DE MATRIMONIO CONTRACTO CONTRA INTERDICTUM ECCLESIAE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.XVI. DE MATRIMONIO CONTRACTO CONTRA INTERDICTUM ECCLESIAE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t16">
+        <head xml:id="cice-l4t16-Hd1e105">4.XVI. DE MATRIMONIO CONTRACTO CONTRA INTERDICTUM ECCLESIAE.</head>
+
+        <div xml:id="cice-l4t16-Dd1e108">
+          <head xml:id="cice-l4t16-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l4t16-d1e113">Matrimonium, contra interdictum ecclesiae vel iudicis factum seu contractum, propter
+            hoc solum non dirimitur, imponitur tamen poenitentia sic contrahentibus, et separantur,
+            donec cognoscatur de causa interdicti. H. d. in effectu totus iste titulus.</p>
+          <p xml:id="cice-l4t16-d1e116">Alexander III. Paduano Episcopo.</p>
+          <p xml:id="cice-l4t16-d1e119">Literae, quas tua nobis fraternitas destinavit, expresse declarant, quod, quum quidam
+            parochianus tuus sororem suam iam nubilem cuidam se daturum in uxorem, ea praesente et
+            consentiente, praestito iuramento firmasset, et illa, non post multos dies dona et
+            munera viri secundum morem terrae sponte suscipiens, ipsum tanquam proprium virum saepe
+            amplexata fuisset, tandem mortuo fratre a proprio viri sui fratre se desponsari
+            permisit, et, quod ab illo cognita fuisset, mendaciter asseverat. Quumque ei
+            prohibuisses publice, ne cui illorum vel alicui se copularet: ipsa, spretis monitis
+            tuis, alii nubere non expavit. Demum quum utrumque ante te convocasses, et mulieri
+            praecepisses, ut ad domum matris rediret, ipsa ad nostram audientiam appellavit. Verum
+            quoniam sollicitudini nostrae incumbit excessus et enormitates aliorum corrigere, et ad
+            modum et ad formam rectitudinis revocare, fraternitati tuae per apostolica scripta
+            mandamus, quatenus, si est ita, ut superius est enarratum, praefatam mulierem, ne
+            mandatum tuum contemptible esse videatur, ad domum matris omni appellatione et
+            excusatione cessante redire compellas, et, imposita sibi de tanto excessu poenitentia
+            condigna, postquam ea in domo materna per mensem steterit, ad tertium reverti permittas,
+            et legitime sibi coniungi.</p>
+        </div>
+        <div xml:id="cice-l4t16-Dd1e123">
+          <head xml:id="cice-l4t16-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l4t16-d1e128">Sponsalia de futuro, cum una etiam contra interdictum ecclesiae contracta, non habent
+            dirimere matrimonium, postea contractum cum alia.</p>
+          <p xml:id="cice-l4t16-d1e131">Idem Vigoriensi et Baronensi Episcopis.</p>
+          <p xml:id="cice-l4t16-d1e134">Ex literis venerabilis fratris nostri Cantuariensis archiepiscopi apostolicae sedis
+            legati ad nos pervenit, quod, quum G. de sancto Leodegario M. filiam suam absentem
+            cuidam iuveni, R. nomine, desponsasset, postmodum, quibusdam ipsius mulieris
+            consanguineis procurantibus, memoratus R. cum ea praesente per verba praesentis temporis
+            contraxit, sicut dicitur, matrimonium; fide hinc inde corporaliter praestita, quod vir
+            mulierem sicut uxorem legitimam de cetero exhiberet, et ipsa reverenter ei sine
+            contradictione sicut viro legitimo obediret, nihilque defuit, nisi solennitas in facie
+            ecclesiae celebranda, quae propter tempus quadragesimae tunc non potuit effectui
+            mancipari. Postea orta suspicione, quod praefatus R. ad alia desideraret vota transire,
+            ad examen fuit iam dicti archiepiscopi causa perlata, qui sub anathematis interminatione
+            prohibuit, sicut ex literis ipsius accepimus, ne, antequam de praescripto negotio plene
+            constaret, vir ad secunda vota transiret. Sed ipse, praescripta prohibitione contempta,
+            filiam V. Matildam nomine in facie ecclesiae sibi solenniter copulavit uxorem. Postmodum
+            vero duabus mulieribus et viro coram archiepiscopo constitutis, praefatus R. publice
+            confessus est, se cum Maria, sicut superius dictum est, matrimonium contraxisse, et
+            aliam, scilicet Matildam, prava quorundam suggestione seductum postmodum accepisse.
+            Maria vero constanter asseruit, quod pater eius non moverat de voluntate eius querelam,
+            adiiciens, quod inter ipsam et praefatum R., excepta sola fide de contrahendo
+            matrimonio, nulla obligatio intercesserat, quam, quia ipse non servaverat, servare
+            minime tenebatur, et ideo, quia eam, quam secundo acceperat, relinquebat. Quum autem
+            praefatum R. illa tanquam proprium virum restitui postularet, et archiepiscopus vellet
+            de matrimonio primo cognoscere, ob id maxime, quia mulieres dicebantur sese
+            consanguinitate contingere, ac per hoc tam adulterii quam incestus vitium timebatur,
+            dicta M. ad sedem apostolicam appellationis vocem emisit, et festum circumcisionis
+            proxime praeteritum terminum appellationi praefixit. Cuius appellationi archiepiscopus
+            deferens, eidem Mariae sub periculo animae et excommunicationis interminatione
+            districtius interdixit, ne cui nuberet, donec causa ipsa coram nobis, vel coram
+            delegatis ab apostolica sede iudicibus finem debitum sortiretur. Ipsa tamen, de remedio
+            appellationis confisa, cuidam alii, V. nomine, nihilominus nupsit. Et super hoc citata
+            coram archiepiscopo noluit propter appellationem, quam obiecerat, apparere. Quum igitur
+            absentibus partibus non videretur nobis negotium finiendum, ipsum experientiae vestrae,
+            de qua plene confidimus, committentes, praesentium auctoritate Mandamus, quatenus,
+            partibus ante vestram praesentiam convocatis, inquiratis diligentius veritatem, et, si
+            nihil constiterit, quod impediat, praeter consensum de futuro, qui inter praefatos R. et
+            M. asseritur praecessisse, secunda matrimonia inviolabiliter observanda sublato
+            appellationis obstaculo iudicetis. Licet enim contra interdictum ecclesiae ad secunda
+            vota transire non debuerit, non est tamen conveniens, ut ob id solum sacramentum
+            coniugii dissolvatur. Alia tamen poenitentia eis debebit imponi, quia contra
+            prohibitionem ecclesiae hoc fecerunt. [Dat. Non. Febr.]</p>
+        </div>
+        <div xml:id="cice-l4t16-Dd1e138">
+          <head xml:id="cice-l4t16-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l4t16-d1e143">Si hi, qui dicebantur consanguinei, contraxerunt contra praeceptum iudicis, debent
+            separari, donec de causa cognoscatur.</p>
+          <p xml:id="cice-l4t16-d1e146">Idem Paduano Episcopo.</p>
+          <p xml:id="cice-l4t16-d1e149">De muliere (Et infra: [cf. c. 6. de spons. IV. 1.]) Illos autem, qui pro
+            consanguinitate prohibentur coniungi, et post contra interdictum ecclesiae se
+            receperint, excommunicationi debes subiicere, donec tamdiu separentur, quousque legitime
+            cognoscatur, utrum eorum matrimonium possit et debeat de iure stare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

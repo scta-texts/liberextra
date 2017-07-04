@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.21. DE TESTIBUS COGENDIS VEL NON.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.21. DE TESTIBUS COGENDIS VEL NON.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t21">
+        <head xml:id="cice-l2t21-Hd1e105">2.21. DE TESTIBUS COGENDIS VEL NON.</head>
+
+        <div xml:id="cice-l2t21-Dd1e108">
+          <head xml:id="cice-l2t21-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l2t21-d1e113">In causa civili monendi et inducendi testes sunt ad testificandum, et, si se subtrahant
+            odio, gratia etc., compelluntar.</p>
+          <p xml:id="cice-l2t21-d1e116">Alexander III. Papiensi Electo.</p>
+          <p xml:id="cice-l2t21-d1e119">Causam matrimonii, quae inter M. mulierem et filium R. Canis vertitur, ab examine tuo
+            ad audientiam nostram appellatione perlatam commisimus iudicibus terminandam. Ideoque
+            fraternitati tuae per apostolica scripta praecipiendo mandamus, quatenus testes ab
+            alterutra partium in suae assertionis testimonium invocatos, ne veritatem occultent,
+            diligentius moneas et inducas. Si autem videris, quod odio, vel gratia vel timore se
+            subtrahant, ne veritas occultetur, eos ad ferendum testimonium coram praefatis
+            iudicibus, vel eorum nuncio, quem ad hoc miserint, ecclesiastica districtione
+            compellas.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e123">
+          <head xml:id="cice-l2t21-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t21-d1e128">Ubi testimonium est necessarium, compellendi sunt testes ad illud ferendum, etiam per
+            suspensionis, excommunicationis et depositionis sententiam.</p>
+          <p xml:id="cice-l2t21-d1e131">Idem Presbyteris Pontiae.</p>
+          <p xml:id="cice-l2t21-d1e134">Quum super causa, quae vertitur inter venerabilem fratrem nostrum Praenestinensem
+            episcopum et dilectum filium Sublacensem abbatem, sit testimonium vestrum necessarium,
+            ne contrarium veritati contingat, praesentium auctoritate vobis mandamus, quatenus
+            quarta feria proxime sequentis hebdomadae perhibituri testimonium veritati omni
+            occasione et excusatione cessante apostolico vos conspectui praesentetis. Si vero tunc
+            non veneritis, sciatis vos ab officio et beneficio ecclesiastico apostolica auctoritate
+            suspensos, et, si nec sic veneritis, excommunicationis sententiam et depositionis
+            poteritis formidare.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e138">
+          <head xml:id="cice-l2t21-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t21-d1e143">Testis, qui timore adversae partis se subtrahit, testificari compellitur, adde: etiam
+            in criminali, secundum communem intellectum, et sic aliquid additur ad c. 1. supr. eod.
+            et c. Dilectorum. infr. eod.</p>
+          <p xml:id="cice-l2t21-d1e146">Idem Genuensi Archiepiscopo.</p>
+          <p xml:id="cice-l2t21-d1e149">Super eo †vero, quod certificari desideras, an, quum aliquis de aliquo facto manifesto
+            ante iudicem convenitur, hi, qui facto interfuerunt, cogendi sint ad ferendum
+            testimonium veritati, Consultationi tuae taliter respondemus, quod, si factum est
+            notorium, non eget testium depositionibus declarari, quum talia, sicut tua non ignorat
+            discretio, probationem vel ordinem iudiciarium non requirant. Verum si non est notorium,
+            et is, qui convenitur, factum negaverit, testes, qui interfuerunt facto, de consuetudine
+            Romanae ecclesiae monendi sunt, non cogendi ad ferendum testimonium veritati; nisi forte
+            timore adversae partis constiterit iudici, eos a ferendo testimonio revocari; licet ad
+            hoc forte passim possint de iuris humani rigore compelli. [Si vero presbyter etc. (cf.
+            c. 5. de for. comp. II. 2.)]</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e153">
+          <head xml:id="cice-l2t21-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l2t21-d1e158">Compelluntur testes etiam in criminali, quos accusatus malitiose accusatori subtraxit.
+            Hoc dicit secundum verum et communem intellectum. Abbas.</p>
+          <p xml:id="cice-l2t21-d1e161">Idem.</p>
+          <p xml:id="cice-l2t21-d1e164">Pervenit ad audientiam nostram, quod, quum I. Prior sancti Laurentii coram te fuisset
+            de simoniae et adulterii crimine accusatus, quendam, qui contra eum ducendus erat in
+            testimonium, induxit et iuramento adstrinxit, ut non deponeret contra ipsum. †Ideoque
+            dubitas, qualiter adversus reum sit procedendum, vel si testis supradictus sit cogendus
+            ad veritatis assertionem. Nos igitur attendentes, quod nemo debet adversario
+            instrumenta, quorum appellatione testes continentur, subtrahere, et quod tam ille, qui
+            surripit instrumenta, quam qui adversario parem advocationis seu defensionis copiam
+            subtrahit, iniquam ostendit a se litem foveri, et experiri debet in se iudicis
+            auctoritatem elusam, praesentium auctoritate tibi [taliter] respondemus, ad detegendum
+            tantae fraudis et calliditatis commentum ipsum testem merito esse compellendum.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e169">
+          <head xml:id="cice-l2t21-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l2t21-d1e174">Si res aliter probari non potest, etiam in causa criminali compellendi sunt testes. H.
+            d. secundum lecturam notabiliorem.</p>
+          <p xml:id="cice-l2t21-d1e177">Clemens III. Segobiensi Episcopo.</p>
+          <p xml:id="cice-l2t21-d1e180">Pervenit ad nos, quod, quum in episcopatu tuo saepe contingat, quod a laicis enormis et
+            intolerabilis iniuria clerico multis adstantibus et videntibus inferatur, [vel praesente
+            plebe in ecclesia cum diabolicae fraudis instinctu accidat horribiliter humanum
+            sanguinem perfundi,] et ob hoc iniuriantes in causam tracti negant se tantum facinus
+            commisisse. Et quum laesus eorum testimonio, qui praesentes exstiterant et viderant, hoc
+            probare desideret, illi, licet veritatem cognoverint, nolunt veritati testimonium
+            perhibere. †Sicque fit, quod ecclesiastica iustitia deperit, et ordo clericalis
+            vilescit. [Accidit etiam, quod quum plures frequenter in clericos violentas manus temere
+            iniiciant, ad sedem apostolicam plurimis nequeant obstaculis laborare. Et] quia super
+            his tua nos duxit fraternitas consulendos, Consultationi tuae taliter respondemus, quod
+            hi, qui de rebus ecclesiasticis testificari recusant, si aliter veritas nequiverit
+            elici, ad illud sunt per censuram ecclesiasticam compellendi. Si vero clerici passi
+            iniuriam veritatem [forte] aliquorum testimonio nequiverint comprobare, licet iuxta
+            rigorem canonum unius testimonio non sit standum, tamen iuxta consuetudinem Romanae
+            ecclesiae propter reverentiam clericalis ordinis ipsorum iuramento fidem volumus
+            adhiberi. [Illos autem etc. (cf. c. 17. de sent. exc. V. 39.)]</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e184">
+          <head xml:id="cice-l2t21-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l2t21-d1e189">Super consanguinitate probanda cogendi sunt testes. Ita communiter summatur. Sed
+            Panorm. non placet hoc summarium, et ideo summat, sicut c. 1. supra eod.</p>
+          <p xml:id="cice-l2t21-d1e192">Idem.</p>
+          <p xml:id="cice-l2t21-d1e195">Ceterum, quod super consanguinitate cogendus sit testis perhibere testimonium veritati,
+            non dubitatur a nobis, quum id tam ius scriptum approbet, quam consuetudo actibus
+            utentium approbata, ut, si ipsum constiterit odio vel gratia veritatem supprimere, seu
+            timore, cogendus sit, ut quod verum est penitus fateatur.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e199">
+          <head xml:id="cice-l2t21-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l2t21-d1e204">Testis synodalis, qui coram ordinario super matrimonio deposuit, non compellitur iurare
+            super eo coram delegato; hoc primo. Propter supervenientem infamiam a testimonio
+            repellitur; hoc secundo. Potest tamen, si erraverit, in continenti, non ex intervallo,
+            dictum suum corrigere. Hoc tertio.</p>
+          <p xml:id="cice-l2t21-d1e207">Coelestinus III.</p>
+          <p xml:id="cice-l2t21-d1e210">Praeterea si testes publici, quos tua civitas nuncupat synodales, super causa
+            matrimonii coram te vel tuo capitulo semel testimonium reddiderint, non debent compelli,
+            ut in praesentia alicuius delegati iudicis super eadem causa iterato praebeant
+            iuramentum, dummodo aliter fiat fides iudici delegate, nisi forte articulus novae
+            quaestionis emergat. Huiusmodi vero testes publico iure possunt propter infamiam a
+            perhibendo testimonio removeri, si eam, postquam in communi recepti fuerint, contigerit
+            publice contraxisse. Quorum testimonia, si quandoque, non tamen studiose, sed in ipso
+            proferendo erraverint, et se in continenti correxerint, reprobari non debent; secus
+            autem erit, si correctioni suae interposuerint intervallum.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e214">
+          <head xml:id="cice-l2t21-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l2t21-d1e219">Quum de fama vel vitio falsitatis inquiritur, cogendi sunt testes. Hoc dicit secundum
+            Ioan. Andr., sed secundum Panorm. nimis restringit textum.</p>
+          <p xml:id="cice-l2t21-d1e222">Innocentius III. Priori sancti Fridiani et Magistro P. Canonico Pisano.</p>
+          <p xml:id="cice-l2t21-d1e225">Super his (Et infra: [cf. c. 16. de accus. V. 1.]) Ceterum volumus et praesentium vobis
+            auctoritate mandamus, ut super inquisitionis articulis, tam de fama electi, quam literis
+            contra eum sub nomine longe maioris et sanioris partis capituli destinatis, cogatis
+            testes, qui nominati fuerint, perhibere testimonium veritati. [Dat. Lat. III. Id. Febr.
+            Pont. nostr. Ao. V. 1203.]</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e229">
+          <head xml:id="cice-l2t21-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l2t21-d1e234">Testes, qui se subtrahunt, etiam in criminali cogendi sunt.</p>
+          <p xml:id="cice-l2t21-d1e237">Idem Archidiacono Mediolanensi.</p>
+          <p xml:id="cice-l2t21-d1e240">Quum contra magistrum R. de Arca Mariana Novariensi dioecesis super eo, quod dicitur a
+            sede apostolica falsas literas reportasse, ac eis per se vel per procuratorem usum
+            fuisse, tibi direximus scripta nostra, postulasti per sedis apostolicae oraculum
+            edoceri, utrum super praefato vitio falsitatis testes compellere debeas nominatos. Nos
+            igitur fraternitati tuae breviter respondemus, quod testes praedicti, si se gratia, odio
+            vel timore subtraxerint, per censuram ecclesiasticam debes appellatione remota
+            compellere veritati testimonium perhibere.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e244">
+          <head xml:id="cice-l2t21-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l2t21-d1e249">Non summatur propter varietatem lecturarum, nec etiam dividitur.</p>
+          <p xml:id="cice-l2t21-d1e252">Honorius III. Abbati S. Eugenii, et Magistro G. canonico Senensi.</p>
+          <p xml:id="cice-l2t21-d1e255">Dilectorum filiorum Vulterani capituli ex parte una, et venerabilis fratris nostri
+            episcopi Vulterani ex altera procuratoribus in nostra praesentia constitutis, dilectum
+            filium tit. sanctorum Cosmae et Damiani diaconum cardinalem concessimus auditorem, coram
+            quo quum per conventionis et reconventionis modum super diversis capitulis, quae sub
+            bulla nostra vobis transmittimus interclusa, lis fuerit legitime contestata, etc. (Et
+            infra:) Testes autem, qui fuerint nominati, praeterquam super criminibus, si se gratia,
+            odio vel timore subtraxerint, per censuram ecclesiasticam cessante appellatione cogatis
+            veritati testimonium perhibere.</p>
+        </div>
+        <div xml:id="cice-l2t21-Dd1e260">
+          <head xml:id="cice-l2t21-Hd1e262">CAP. XI.</head>
+          <p xml:id="cice-l2t21-d1e265">Ad detegendam veritatem coniurationis coguntur socii, etiam iurati.</p>
+          <p xml:id="cice-l2t21-d1e268">Idem Episcopo Bononiensi et Magistro B.</p>
+          <p xml:id="cice-l2t21-d1e271">Venerabilis frater noster archiepiscopus Ravennatensis proposuit coram nobis, quod
+            cives Cervicenses cum M. et I. quondam clericis ecclesiae Ravennatensis quandam
+            praesumpserunt coniurationem facere contra eum, nihilominus in detrimentum eius dantes
+            eis quandam pecuniae quantitatem, et ad haec celanda se adstringentes vinculo iuramenti.
+            Unde idem archiepiscopus nobis humiliter supplicavit, ut, quum causam super his et
+            quibusdam articulis vobis eius obtentu duxerimus committendam, et ipse intentionem suam
+            probare non possit, nisi testimonio civium praedictorum, super hoc providere ei, ne pro
+            defectu testium pereat sua iustitia, dignaremur. Ideoque discretioni vestrae mandamus,
+            quatenus, monitione praemissa, per censuram ecclesiasticam appellatione remota cogatis
+            illos, quos videritis compellendos, ut ab huiusmodi iuramento absolvant illos, quos idem
+            archiepiscopus ad testimonium duxerit producendos; eos nihilominus, si se gratia, vel
+            odio vel timore subtraxerint, districtione simili compellentes ad perhibendum
+            testimonium veritati.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

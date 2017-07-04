@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.33. DE MAIORITATE ET OBEDIENTIA.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.33. DE MAIORITATE ET OBEDIENTIA.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t33">
+        <head xml:id="cice-l1t33-Hd1e105">1.33. DE MAIORITATE ET OBEDIENTIA.</head>
+
+        <div xml:id="cice-l1t33-Dd1e108">
+          <head xml:id="cice-l1t33-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t33-d1e113">Prius ordinatus, ceteris paribus, prior et maior habendus est.</p>
+          <p xml:id="cice-l1t33-d1e116">Gregorius Augustino Anglorum Episcopo.</p>
+          <p xml:id="cice-l1t33-d1e119">Quum certum †[sit, pro omnipotenti Deo laborantibus ineffabilia aeterni regni praemia
+            reservari, nobis tamen eis necesse est bonorum beneficia tribuere, ut in spiritualis
+            operis studio ex remuneratione valeant multiplicius insudare. Et quia nova Anglorum
+            ecclesia ad omnipotentis Dei gratiam eodem Domino largiente et te laborante perducta
+            est, usum tibi pallii in ea ad sola missarum solennia agenda concedimus ita, ut per loca
+            singula duodecim episcopos ordines, qui tuae ditioni subiaceant, quatenus Londoniensis
+            civitatis episcopus semper in posterum a synodo propria debeat consecrari, atque honoris
+            pallium ab hac sancta et apostolica, cui auctore Deo inservio, sede percipiat. Ad
+            Eboracam vero civitatem te volumus episcopum mittere, quem ipse iudicaveris ordinandum,
+            ita, ut si eadem civitas cum finitimis locis verbum Dei receperit, ipse quoque duodecim
+            episcopos ordinet, ut metropolitani honore perfruatur, quia ei quoque, si vita comes
+            fuerit, pallium tribuere Domino favente disponimus; quem tamen tuae fraternitatis
+            volumus dispositioni subiacere. Post obitum vero tuum ita episcopis, quos ordinaverit,
+            praesit, ut Londoniensis episcopi nullo modo ditioni subiaceat.] Sit vero inter
+            Londoniae et Eboracae civitatis episcopos in posterum honoris ista distinctio, ut ipse
+            prior et maior habeatur, qui prius communitatis consilio et concordi fuerit actione
+            ordinatus. [Tua vero etc. Dat. die X. Kal. Iul., imperante domino nostro Mauricio
+            Tiberio piissimo Augusto Ao. XIX. post consulatum eiusdem domini Ao. XVIII., Ind. IV.
+            601.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e123">
+          <head xml:id="cice-l1t33-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t33-d1e128">Veniens contra decretum vel constitutionem episcopi debet excommunicari.</p>
+          <p xml:id="cice-l1t33-d1e131">Idem.</p>
+          <p xml:id="cice-l1t33-d1e134">Si quis venerit contra decretum episcopi, ab ecclesia abiiciatur. In libro Regum
+            legitur: “Qui non obedierit principi, morte moriatur.” Et in concilio Agathensi, quod
+            anathematizetur.</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e138">
+          <head xml:id="cice-l1t33-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t33-d1e143">Clericus administratione carens non tenetur ad iuramentum obedientiae, vel ad faciendam
+            scripturam super ea.</p>
+          <p xml:id="cice-l1t33-d1e146">Leo Papa.</p>
+          <p xml:id="cice-l1t33-d1e149">Legebatur [quoque] in literis tuis, [quas iidem diaconi detulerunt,] quod frater
+            Atticus [Thessalonicam venisset, quodque consensum suum etiam scripturae professione
+            signasset, ut de illo non aliud a nobis posset intelligi, quam proprii arbitrii et
+            spontaneae devotionis fuisse, quod venerat, quodque] chartulam de obedientiae sponsione
+            conscripserat, in qua signum prodebatur iniuriae. Non enim necessarium fuerat, ut
+            obligaretur scripto, qui obedientiam suam ipso iam voluntarii adventus officio
+            comprobabat. [Unde deplorationibus etc.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e153">
+          <head xml:id="cice-l1t33-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t33-d1e158">Ab omnibus de dioecesi obediendum est episcopo.</p>
+          <p xml:id="cice-l1t33-d1e161">Clemens Papa III.</p>
+          <p xml:id="cice-l1t33-d1e164">Omnes principes terrae et ceteros homines episcopis obedire, [et capita sua submittere,
+            eorumque adiutores exsistere,] beatus Petrus praecipiebat, [ut omnes etc.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e169">
+          <head xml:id="cice-l1t33-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l1t33-d1e174">Non obediens canonicis institutis incurrit inobedientiae notam, id est infamiam.</p>
+          <p xml:id="cice-l1t33-d1e177">Innocentius III. Capitulo Herbipolensi.</p>
+          <p xml:id="cice-l1t33-d1e180">Illud Dominus in beato Petro (Et infra: [cf. c. 5. de cler. exc. V. 27.]) Munitiones
+            autem et oppida Herbipolensis ecclesiae in utilitatem ipsius se asseruit tenuisse, ne,
+            si ad alienas manus forsitan devenissent, non esset qui ea postmodum liberaret. Sed Quum
+            spiritualia sint temporalibus digniora, et obedientia melior sit quam victima, et
+            auscultare magis quam adipem arietum offerre, non debuerat Hildesemensis episcopus pro
+            temporali commodo Herbipolensis ecclesiae inobedientiae notam incurrere, et, apostolicis
+            iussionibus contraire. [V. Id. April. ao. II. 1200.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e184">
+          <head xml:id="cice-l1t33-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l1t33-d1e189">Imperium non praeest sacerdotio, sed subest, et ei obedire tenetur. Vel sic: Episcopus
+            non debet subesse principibus, sed praeesse. H. d. et est multum allegabile.</p>
+          <p xml:id="cice-l1t33-d1e192">Idem illustrissimo Constantinopolitano Imperatori.</p>
+          <p xml:id="cice-l1t33-d1e195">Solitae benignitatis affectu †recepimus literas, quas per dilectum filium archidiaconum
+            Durachii, virum providum et fidelem, imperialis nobis excellentia destinavit, per quas
+            intelleximus, quod literae, quas per dilectum filium I. capellanum nostrum, tunc
+            apostolicae sedis legatum, tibi transmisimus, imperio tuo praesentatae fuerant et
+            perlectae. §. 1. Mirata est autem imperialis sublimitas, sicut per easdem nobis literas
+            destinasti, quod te nisi fuimus in nostris literis aliquantulum increpare, licet non
+            increpandi animo, sed affectu potius commonendi quod scripsimus meminerimus nos
+            scripsisse. Huic autem tuae admirationi non causam, sed occasionem praebuit, sicut ex
+            eisdem coniecimus literis, quod legisti, beatum Petrum Apostolorum principem sic
+            scripsisse: “Subditi estote omni humanae creaturae propter Deum, sive regi, tanquam
+            praecellenti, sive ducibus, tanquam ab eo missis, ad vindictam malefactorum, laudem vero
+            bonorum.” †Volens enim, de quo nos rationabilius admiramur, imperatoria celsitudo per
+            haec et alia, quae induxit, imperium sacerdotio dignitate ac potestate praeferre, ex
+            auctoritate praemissa triplex trahere voluit argumentum, primum ex eo, quod legitur:
+            “subditi estote;” secundum ex eo, quod sequitur: “regi tanquam praecellenti;” tertium ex
+            eo, quod est adiectum subsequenter: “ad vindictam malefactorum, laudem vero bonorum;”
+            per primum subesse sacerdotium, per secundum imperium praeeminere, per tertium
+            imperatorem tam in sacerdotes quam laicos iurisdictionem, immo etiam gladii potestatem
+            accepisse praesumens. Quum enim et boni quidam sint sacerdotes, et quidam eorum
+            malefactores exsistant, is, qui secundum Apostolum gladium portat ad vindictam
+            malefactorum, laudem vero bonorum, in malefacientes presbyteros excessus praesumptos
+            potest ultore gladio vindicare, quum inter presbyteros et alios Apostolus non
+            distinguat. §. 2. Verum si et personam loquentis, et eorum, ad quos loquebatur, ac vim
+            locutionis diligentius attendisses, scribentis non expressisses taliter intellectum.
+            Scribebat enim Apostolus subditis suis, et eos ad humilitatis meritum provocabat. Nam si
+            per hoc, quod dixit: “subditi estote,” sacerdotibus voluit imponere iugum subiectionis,
+            et eis praelationis auctoritatem afferre, quibus eos subiectos esse monebat, sequeretur
+            ex hoc, quod etiam servus quilibet in sacerdotes imperium accepisset, quum dicatur:
+            “omni humanae creaturae.” Quod autem sequitur, “regi tanquam praecellenti,” non negamus,
+            quin praecellat imperator in temporalibus illos duntaxat, qui ab eo suscipiunt
+            temporalia. Sed Pontifex in spiritualibus antecellit, quae tanto sunt temporalibus
+            digniora, quanto anima praefertur corpori, licet non simpliciter dictum fuerit: “subditi
+            estote,” sed additum fuerit: “propter Deum,” nec pure sit subscriptum: “regi
+            praecellenti,” sed interpositum forsitan fuit non sine causa, “tanquam.” Quod autem
+            sequitur: “ad vindictam malefactorum, laudem vero bonorum,” intelligendum non est, quod
+            rex vel imperator super omnes et bonos et malos gladii acceperit potestatem, sed in eos
+            solummodo, qui utentes gladio eius sunt iurisdictioni commissi, †iuxta quod Veritas ait:
+            “Omnes, qui acceperint gladium, gladio peribunt.” Non enim potest aut debet quisquam
+            servum alterius iudicare, quum servus domino suo secundum Apostolum stet aut cadat. Ad
+            id etiam induxisti, quod, licet Moyses et Aaron secundum carnem fratres exstiterint,
+            Moyses tamen princeps populi, et Aaron sacerdotii potestate praeerat, et Iesus successor
+            ipsius imperium in sacerdotes accepit. David quoque rex Abiathar pontifici praeeminebat.
+            Ceterum licet Moyses dux populi fuerit, fuit etiam et sacerdos, qui Aaron in sacerdotem
+            unxit, et cui Propheta sacerdotium recognoscens: “Moyses” inquit “et Aaron in
+            sacerdotibus eius.” Quod vero de Iesu, id est Iosue, ad commendandam praelationem eius
+            scripsisti, magis secundum spiritum, quam literam debet intelligi, quia secundum
+            Apostolum litera occidit, spiritus autem vivificat, pro eo, quod ipse veri Iesu figuram
+            expressit, qui populum suum in terram promissionis induxit. David etiam quamvis diadema
+            regium obtineret, Abiathar sacerdoti non tam ex dignitate regia, quam auctoritate
+            prophetica imperabat. Verum quicquid olim fuerit in veteri testamento, nunc aliud est in
+            novo, ex quo Christus factus est sacerdos in aeternum secundum ordinem Melchisedech, qui
+            se non ut rex, sed ut sacerdos in ara crucis hostiam obtulit Deo Patri, per quam genus
+            redemit humanum, circa illum praecipue, qui successor est Apostoli Petri et vicarius
+            Iesu Christi. §. 3. Potuisses autem praerogativam sacerdotii ex eo potius intelligere,
+            quod dictum est: non a quolibet, sed a Deo; non regi, sed sacerdoti; non de regia
+            stirpe, sed de sacerdotali prosapia descendenti, de sacerdotibus videlicet, qui erant in
+            Anathot: “Ecce constitui te super gentes et regna, ut evellas et dissipes, aedifices et
+            plantes” †Dictum est etiam in divina lege: “Diis non detrahes, et principem populi tui
+            non maledices” quae sacerdotes regibus anteponens istos Deos et alios principes
+            appellavit. §. 4. Praeterea nosse debueras, quod fecit Deus duo magna luminaria in
+            firmamento coeli; luminare maius, ut praeesset diei, et luminare minus, ut praeesset
+            nocti; utrumque magnum, sed alterum maius, quia nomine coeli designatur ecclesia, iuxta
+            quod Veritas ait: “Simile est regnum coelorum homini patri familias, qui summo mane
+            conduxit operarios in vineam suam.” Per diem vero spiritualis accipitur, per noctem
+            carnalis secundum propheticum testimonium: “dies diei eructat verbum, et nox nocti
+            indicat scientiam.” Ad firmamentum igitur coeli, hoc est universalis ecclesiae, fecit
+            Deus duo magna luminaria, id est, duas magnas instituit dignitates, quae sunt
+            pontificalis auctoritas, et regalis potestas. Sed illa, quae praeest diebus, id est
+            spiritualibus, maior est; quae vero [noctibus, id est] carnalibus, minor, ut, quanta est
+            inter solem et lunam, tanta inter pontifices et reges differentia cognoscatur. Haec
+            autem si prudenter attenderet imperatoria celsitudo, non faceret aut permitteret
+            venerabilem fratrem nostrum Constantinopolitanum patriarcham, magnum quidem et
+            honorabile membrum ecclesiae, iuxta scabellum pedum suorum in sinistra parte sedere,
+            quum alii reges et principes archiepiscopis et episcopis suis, sicut debent, reverenter
+            assurgant, et eis iuxta se venerabilem sedem assignent. †Nam et piissimus Constantinus
+            quantum honoris exhibuerit sacerdotibus, tua sicut credimus, discretio non ignorat. §.
+            5. Nos autem etsi non increpando scripserimus, potuissemus tamen rationabiliter
+            increpare, †quum B. Paulus Apostolus episcopum instruens ad Timotheum scripisse legatur.
+            “Praedica verbum, insta opportune, importune, argue, obsecra, increpa in omni patientia
+            et doctrina.” Non enim os nostrum debet esse ligatum, sed patere debet ad omnes, ne
+            secundum propheticum verbum simus canes muti, non valentes latrare. Unde correctio
+            nostra tibi non debuit esse molesta, sed magis accepta, quia pater filium, quem diligit,
+            corripit, et Deus quos amat arguit et castigat. Debitum igitur pastoralis officii
+            exsequimur, quum obsecramus, arguimus, increpamus, et non solum alios, sed imperatores
+            et reges opportune et importune ad ea studemus inducere, quae divinae sunt placita
+            voluntati. §. 6. Nobis autem in B. Petro sunt oves Christi commissae; dicente Domino:
+            “Pasce oves meas,” non distinguens inter has oves et alias, ut alienum a suo
+            demonstraret ovili, qui Petrum et successores ipsius magistros non recognosceret et
+            pastores; ut illud tanquam notissimum omittamus, quod Dominus dixit ad Petrum, et in
+            Petro dixit ad successores ipsius: “Quodcunque ligaveris super terram, erit ligatum et
+            in coelis etc.,” nihil excipiens, qui dixit: “quodcunque.” †Verum his diutius insistere
+            nolumus, ne vel contendere videamur, vel in huiusmodi delectari, quum, si gloriari
+            expediat, non in honore, sed in onere, non in magnitudine, sed in sollicitudine sit
+            potius gloriandum, quum et Apostolus in infirmitatibus glorietur. Novimus esse scriptum:
+            “Omnis qui se exaltat, humiliabitur, et qui se humiliat, exaltabitur;” et iterum:
+            “Quanto maior es, humilia te in omnibus;” et alibi: “Deus superbis resistit, humilibus
+            autem dat gratiam.” Propter quod exaltationem nostram in humilitate ponimus, et
+            humilitatem nostram exaltationem maximam reputamus. Unde etiam servos non solum Dei, sed
+            etiam servorum Dei nos esse scribimus et fatemur, et tam sapientibus quam insipientibus
+            secundum Apostolum sumus debitores. §. 7. Utrum autem imperatoriam excellentiam ad bonum
+            et utile per literas nostras duxerimus invitandam, utrum tibi iusta suggesserimus et
+            honesta, tua sollicitudo discernat, quum non nisi ad utilitatem ecclesiae et terrae
+            Hierosolymitanae subsidium nos te meminerimus invitasse. [Inspiret igitur etc.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e199">
+          <head xml:id="cice-l1t33-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l1t33-d1e204">Ordinatus per Papam non per hoc eximitur a iurisdictione sui episcopi.</p>
+          <p xml:id="cice-l1t33-d1e207">Idem episcopo Florentino.</p>
+          <p xml:id="cice-l1t33-d1e210">Per tuas nobis literas †intimasti, quod, quum aliqui ecclesiae Romanae subdiaconi
+            praelationes in tua dioecesi assequuntur, pro quibus tibi tenentur obedientiam exhibere,
+            si quando exigente iustitia te contigerit exercere in ipsos ecclesiasticam disciplinam,
+            illi subdiaconatus privilegium allegantes, ea se asserunt non teneri, ac si per
+            huiusmodi subdiaconatus officium ab obedientia, qua tibi tenentur, ratione obtenti
+            beneficii sint exempti. Super quo Postulasti per sedis apostolicae oraculum edoceri,
+            utrum quis per ordinem subdiaconatus, a Romano Pontifice susceptum, a debita tibi
+            reverentia subtrahatur? Ad quod tibi breviter respondemus, quod, etsi decens sit, ut
+            illis [specialiter], quantum convenit, a te inter alios tibi subditos deferatur, quos
+            benignitas apostolica collatione ipsius ordinis honoravit, per eam tamen ab obedientia,
+            quam alias tibi debent, minime absolvuntur. [Dat. Romae ap. S. Petrum VII. Id. Apr. Ao.
+            IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e214">
+          <head xml:id="cice-l1t33-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l1t33-d1e219">Quando de obedientia vel subiectione agitur, nihil attentari debet in praeiudicium rei,
+            vel possessoris non citati.</p>
+          <p xml:id="cice-l1t33-d1e222">Idem Constantinopolitano Patriarchae.</p>
+          <p xml:id="cice-l1t33-d1e225">Inter quatuor †animalia quae in medio sedis et circuitu eius describuntur, facies
+            aquilae ab Ezechiele desuper ipsorum quatuor memoratur, quia inter quatuor patriarchales
+            ecclesias, Antiochenam, Alexandrinam, Hierosolymitanam, Constantinopolitanam, quae per
+            animalia supradicta signantur, quas apostolica sedes in medio habens quasi filias
+            amplectitur speciales, cui eaedem sunt in circuitu quasi famulae obsequentes, ipsa
+            Constantinopolitana post apostolicam sedem excellentia praeeminet dignitatis, ad cuius
+            exaltationem tanto libentius adspiramus, quanto ipsam tanquam honorabilius membrum
+            sacrosanctae Romanae ecclesiae arctius amplexantes, ipsius auxilio temporibus istis
+            eandem amplius noscimus indigere, ac tuas, qui eidem Domino disponente praeesse
+            dignosceris, petitiones libentius promovere disponimus, quibus non repugnat honestas,
+            nec aliis praeiudicium generatur, quum a nobis iniuriarum actio non debeat exoriri, a
+            quibus iura tanquam a fonte ad ceteros derivantur. Licet igitur, in quantum cum Deo
+            possumus, tuo velimus honori deferre, ac tuas preces effectui mancipare, petitionem
+            tamen illam nequivimus exaudire, qua postulasti a nobis, ut donationes ecclesiarum et
+            beneficiorum, a dilecto filio P. tit. S. Marcelli presbytero cardinali apostolicae sedis
+            legato factas te praesente ac penitus inconsulto, quum nimiam multitudinem ecclesiarum
+            contulerit, easque iure perpetuo absque tuo consensu et capituli maioris ecclesiae
+            tradiderit possidendas, dignaremur auctoritate apostolica irritare etc. Quamvis ergo
+            tuam propter praemissa petitionem iuxta tuum desiderium nequivimus exaudire, tuo tamen,
+            quantum cum nostra possumus honestate, volentes honori deferre, fraternitati tuae
+            duximus concedendum, ut ii, qui ecclesias illas seu beneficia possident, obedientiam
+            tibi debitam exhibeant et devotam, nisi forte aliqua illarum ecclesiarum ante captionem
+            regiae civitatis a iurisdictione patriarchae legitime fuisset exempta. Subsequentem vero
+            Petitionem contra ecclesias, quas tibi subiici postulabas, quae prius, quam
+            Constantinopolis civitas caperetur, Constantinopolitano patriarchae minime respondebant,
+            duplici ratione non duximus admittendam. Iuris namque ratio postulat, ut in eorum
+            praeiudicium, quibus eaedem ecclesiae sunt subiectae nihil ordinemus de ipsis, quum nec
+            citati sint, nec convicti, nec per contumaciam se absentent. †[Id etiam modo fieri
+            providentia dissuasit, ne Pisani ac Veneti aliique quamplures, apud Constantinopolim
+            huiusmodi habentes ecclesias, contra imperium provocarentur hoc tempore, qui sunt
+            alliciendi potius blandimentis donec illud soliditate immobili roboretur. Quod si ius
+            tuum contra illos prosequendum duxeris tempore opportuno, faciemus auctore Domino super
+            ipsis iustitiae tibi plenitudinem exhiberi.] Super obedientia vero, quam ut tibi impendi
+            faceremus ab archiepiscopo et episcopis regni Cypri similiter postulasti, fere idem,
+            quod in praecedenti petitione, tibi duximus respondendum, quum et ipsi ante tuam
+            promotionem fuerint exempti, quando videlicet Constantinopolitana ecclesia erat
+            inobediens et rebellis, et in eorum absentia circa statum ipsorum non debuerimus aliquid
+            immutare. Iustitiam tamen non negabimus tibi, quum eam duxeris postulandam. [Ex parte
+            tua etc. Dat. Ferentini IV. Non. Aug. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e229">
+          <head xml:id="cice-l1t33-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l1t33-d1e234">Abbates et sacerdotes, qui sunt dioecesani episcopi, ad eius synodum venire et sibi
+            obedire compelli possunt per censuram ecclesiasticam.</p>
+          <p xml:id="cice-l1t33-d1e237">Idem.</p>
+          <p xml:id="cice-l1t33-d1e240">Quod super his: (Et infra: cf. c. 5. de cons. et aff. IV. 14.) Similiter etiam Abbates
+            et sacerdotes dioecesana tibi lege subditos, qui ad tuam synodum venire contemnunt
+            [vocati], dummodo in ipsa synodo non ducas aliquid statuendum, quod forte canonicis
+            obviet institutis, per censuras ecclesiasticas ad synodum ipsam venire compellas, et
+            debitam tibi obedientiam et reverentiam exhibere. [Capellanis etc. Dat. Lat. II. Kal.
+            Ian. 1199.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e244">
+          <head xml:id="cice-l1t33-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l1t33-d1e249">Canonici regulares inobedientes priori suo per ipsum excommunicari possunt, et, si
+            fuerint incorrigibiles, de fratrum consortio expelli debent.</p>
+          <p xml:id="cice-l1t33-d1e252">Idem sancti Stephani et sancti Proculi abbatibus Bononiensibus.</p>
+          <p xml:id="cice-l1t33-d1e255">Quum in ecclesiis sancti Victoris et S. Ioannis de Monte (Et infra:) Nos igitur ad
+            reformationem earundem ecclesiarum, quae peccatis exigentibus et in temporalibus
+            deminutae, et in spiritualibus sunt multipliciter collapsae, diligenti sollicitudine
+            intendentes, universis canonicis dedimus firmiter in mandatis, ut priori suo in his,
+            quae ad eum pertinent, obedirent. Quumque omnes, quatuor duntaxat exceptis, se obedire
+            velle eius monitis et praeceptis concorditer respondissent, praedicti quatuor se contra
+            priorem in superbiam erigentes, licet de obedientia suo priori praestanda praestitissent
+            corporaliter iuramentum, tamen exhibiti iuramenti et districtae praeceptionis immemores,
+            suo priori per omnia restiterunt, et, quum pro contumacia sua nequivissent ad debitam
+            obedientiam revocari, dictus prior in eos dictante iustitia excommunicationis sententiam
+            promulgavit. Quum igitur praefati canonici ad apostolicam sedem accessissent, per
+            scripturas authenticas ex multorum testimonio praelatorum effecti de ipsorum contumacia
+            certiores, recepto secundum formam ecclesiae ab eisdem corporaliter iuramento, ipsis
+            fecimus absolutionis beneficium impendi, praecipientes eis sub debito iuramenti, ut ad
+            suum claustrum, de quo exierant, redeuntes, priori suo secundum Deum devote ac humiliter
+            obedirent. Ideoque nolentes, quod iidem canonici tam effrenata deinceps libertate
+            vagentur, discretioni vestrae per apostolica scripta mandamus, quatenus nostra freti
+            auctoritate praefatos canonicos, ut ad prioris sui obedientiam revertantur, sublato
+            cuiusvis appellationis diffugio per censuras ecclesiasticas compellatis, et, ne de sua
+            possint contumacia vel malitia gloriari, cogatis eos, si videritis expedire, ut
+            iuramentum, quod de parendo mandatis prioris pro absolutionis beneficio impetrando
+            superbe negaverant, humiliter praestare procurent; alioquin eos de fratrum ipsorum
+            consortio penitus excludatis.</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e260">
+          <head xml:id="cice-l1t33-Hd1e262">CAP. XI.</head>
+          <p xml:id="cice-l1t33-d1e265">Presbyteri et clerici capellarum subditarum titulo cardinalatus debent cardinali
+            obedientiam et reliqua, de quibus hic. Et vacante titulo succedit capitulum illius
+            ecclesiae, nisi pro bono pacis aliquid sit exemptum.</p>
+          <p xml:id="cice-l1t33-d1e268">Honorius III. G. Presbytero cardinali, et Capitulo sancti Laurentii in Damaso.</p>
+          <p xml:id="cice-l1t33-d1e271">His, quae pro ecclesia S. Laurentii in Damaso ex parte una et capellis sibi subiectis
+            ex altera super scrutinio, baptismo manuali obedientia, correctione, interdicio et
+            excommunicatione aliisque articulis fuere coram nobis proposita, diligenter auditis,
+            sententiando decrevimus, ut earundem capellarum presbyteri et clerici cardinali, qui
+            nunc est in ipsa ecclesia, et qui fuerint per tempora, manualem obedientiam et
+            reverentiam et honorificentiam omnem exhibeant, et ad ecclesiam ipsam pro scrutinio,
+            baptismo et capitulo celebrandis conveniant temporibus consuetis, correctionem ipsius
+            cardinalis recipientes humiliter, et excommunicationis, interdicti vel suspensionis
+            sententias, quas tulerit in eos et ecclesias eorundem, inviolabiliter observantes.
+            Quando autem ecclesia ipsa cardinali vacabit, capellani et clerici memorati nihilominus
+            eidem ecclesiae reverenter exhibeant omnia supradicta, eo duntaxat excepto, quod de
+            correctione, excommunicatione et suspensione ipsorum pro bono pacis nostrae providentiae
+            reservamus.</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e275">
+          <head xml:id="cice-l1t33-Hd1e277">CAP. XII.</head>
+          <p xml:id="cice-l1t33-d1e280">Licet abbatissa subditos excommunicare non possit, ipsi tamen sibi obedire
+            tenentur.</p>
+          <p xml:id="cice-l1t33-d1e283">Idem Abbati S. Michaelis Abradensis dioecesis.</p>
+          <p xml:id="cice-l1t33-d1e286">Dilecta in Christo filia abbatissa de Bubrigen. transmissa nobis petitione monstravit,
+            quod, quum ipsa plerumque canonicas suas et clericos suae iurisdictioni subiectos
+            propter inobedientias et culpas eorum officio beneficioque suspendat iidem confisi ex
+            eo, quod eadem abbatissa excommunicare eos non potest, suspensionem huiusmodi non
+            observant, propter quod ipsorum excessus remanent incorrecti. Quocirca discretioni tuae
+            mandamus, quatenus dictas canonicas et clericos, ut abbatissae praefatae obedientiam et
+            reverentiam debitam impendentes, eius salubria monita et mandata observent, monitione
+            praemissa ecclesiastica censura appellatione remota compellas. [Dat. Allatii II. Mens.
+            Iun. Pont. nostr. Ao. VI. 1222.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e290">
+          <head xml:id="cice-l1t33-Hd1e292">CAP. XIII.</head>
+          <p xml:id="cice-l1t33-d1e295">Si metropolitanus a suffraganeo iuramentum exigit ultra formam statutam a canone, in
+            eo, quod est ultra, suffraganeus non tenetur.</p>
+          <p xml:id="cice-l1t33-d1e298">Gregorius IX. Patriarchae Grandensi.</p>
+          <p xml:id="cice-l1t33-d1e301">Dilecti filii archidiaconus et capitulum Castellanum suam ad nos querimoniam
+            detulerunt, quod, quum a Castellano episcopo exigeres iuramentum praeter formam
+            canonicam, quam ceteri suffraganei metropolitanis suis consuevere praestare, iidem
+            conspicientes ex hoc ecclesiae suae praeiudicium generari, ad sedem apostolicam
+            appellarunt. (Et infra:) Quum igitur non deceat alii te fecisse quod ab alio fieri tibi
+            nolles, mandamus, quatenus contentus forma canonica, quam nos a coepiscopis nostris
+            nobis immediate subiectis recipimus, nil amplius a Castellano episcopo obtentu alicuius
+            consuetudinis exigas praetextu praestiti iuramenti, sciens, nos eundem episcopum ab
+            huiusmodi iuramento quoad alios articulos absolvisse, vel denunciasse potius non
+            teneri.</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e305">
+          <head xml:id="cice-l1t33-Hd1e307">CAP. XIV.</head>
+          <p xml:id="cice-l1t33-d1e310">Vacante episcopatu capitulum confirmat et infirmat electiones.</p>
+          <p xml:id="cice-l1t33-d1e313">Idem Priori fratrum Praedicatorum et archidiacono Rheginensi.</p>
+          <p xml:id="cice-l1t33-d1e316">Quum olim causa (Et infra:) Quocirca mandamus, quatenus, licet conventus monasterii
+            sancti Salvatoris Messanensis sint ipso iure hac vice eligendi potestate privati, de
+            gratia tamen eligendi seu postulandi detis ipsis auctoritate nostra liberam facultatem,
+            mandantes eisdem, ut quum ecclesia Messanensis vacet ad praesens, electionem suam
+            confirmandam, prout de iure fuerit, vel etiam infirmandam praesentent capitulo
+            Messanensi.</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e320">
+          <head xml:id="cice-l1t33-Hd1e322">CAP. XV.</head>
+          <p xml:id="cice-l1t33-d1e325">Qui maior est ordine, licet in ecclesia posterius receptus, in loco et portione
+            praefertur. H. d. secundum veram lecturam.</p>
+          <p xml:id="cice-l1t33-d1e328">Idem Archipresbytero sanctae Mariae maioris de Urbe.</p>
+          <p xml:id="cice-l1t33-d1e331">Statuimus, ut presbyteri primum locum, diaconi secundum, subdiaconi tertium, et sic de
+            reliquis obtineant ordinatim, etiamsi posterius admittantur. Et qui maior est ordine,
+            etiamsi postea sit receptus, in portione percipienda esse volumus potiorem, ac minores
+            facere servitia consueta.</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e335">
+          <head xml:id="cice-l1t33-Hd1e337">CAP. XVI.</head>
+          <p xml:id="cice-l1t33-d1e340">Si ecclesia sita in aliquo archidiaconatu erigitur in cathedralem, a iurisdictione
+            archidiaconatus eximitur.</p>
+          <p xml:id="cice-l1t33-d1e343">Idem Archiepiscopo Colocensi.</p>
+          <p xml:id="cice-l1t33-d1e346">Quum inferior superiorem solvere nequeat vel ligare, sed superior inferiorem liget
+            regulariter et absolvat, et satis [indignum et] absonum videatur, ut [maior subditus sit
+            minori et] filius potestatem habeat in parentem, miramur [non modicum et movemur], quod
+            quum tu monasterium de Cheur constitutum in Firmiensi archidiaconatu tuae dioecesis
+            ecclesiam erexeris cathedralem, [venerabilem fratrem nostrum Sirmiensem episcopum ad
+            titulum ipsius ecclesiae in episcopum consecrando], archidiaconus Firminensis in tantam
+            prorupit temeritatis audaciam, ut in episcopum ibi consecratum et ecclesiam suam
+            iurisdictionem exercere praesumat. [Quare idem episcopus nobis humiliter supplicavit ut
+            quum eodem archidiacono in ipsum et dictam ecclesiam iurisdictionem huiusmodi exercente,
+            ipse in eadem ecclesia episcopus quoddammodo non exsistat, provideri sibi super hoc
+            salubriter dignaremur. Nos igitur eiusdem episcopi et ecclesiae paterno compatientes
+            affectu, ipsos cum omnibus iuribus et pertinentiis eorundem, a iurisdictione ipsius
+            archidiaconi penitus eximentes] Mandamus, quatenus praefato archidiacono [ne in eis
+            iurisdictionem aliquam de cetero exercere praesumat, ex parte nostra districte studeas
+            inhibere], a cuius iurisdictione dictum episcopum denunciamus exemptum, id districte
+            studeas inhibere; provisio [prudenter] ut, si ex hoc archidiaconi Firmiensis iura
+            laeduntur, in dioecesi tua, ubi expedire videris, absque alieni iuris praeiudicio
+            recompensationem illi facias congruentem. [Contradictores etc. Dat. Reat. XII. Kal.
+            April. ao. V. 1232.]</p>
+        </div>
+        <div xml:id="cice-l1t33-Dd1e351">
+          <head xml:id="cice-l1t33-Hd1e353">CAP. XVII.</head>
+          <p xml:id="cice-l1t33-d1e356">Compositionem super iure primatiae unus solus, cuius interest, poterit impedire.</p>
+          <p xml:id="cice-l1t33-d1e359">Idem Lemovicensi Archidiacono et Priori sanctae Radegundis Pictaviensis.</p>
+          <p xml:id="cice-l1t33-d1e362">Humilis doctrina magistra (Et infra:) Mandamus, quatenus praelatorum Burdegalensis
+            provinciae in ea praesentium, et cathedralium capitulorum eiusdem, nec non Bituricensis
+            capituli super provisione, quam inter Bituricensem et Burdegalensem archiepiscopos in
+            causa primatiae duximus faciendam, requiratis assensum, quo habito providentiam nostram
+            solenniter publicetis. Si qui vero consensum praestare noluerint, vos supersedentes
+            publicationi praedictae, districte praecipiatis eisdem, ut personaliter, si praelati
+            fuerint, vel si alii, per procuratores idoneos, nostro se conspectui repraesentent,
+            prosecuturi coram nobis ius, si quod habere contendunt, et satisfacturi parti alteri, si
+            succubuerint, in expensis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

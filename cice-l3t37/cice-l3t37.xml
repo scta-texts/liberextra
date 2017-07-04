@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.37. DE CAPELLIS MONACHORUM ET ALIORUM RELIGIOSORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.37. DE CAPELLIS MONACHORUM ET ALIORUM RELIGIOSORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t37">
+        <head xml:id="cice-l3t37-Hd1e105">3.37. DE CAPELLIS MONACHORUM ET ALIORUM RELIGIOSORUM.</head>
+
+        <div xml:id="cice-l3t37-Dd1e108">
+          <head xml:id="cice-l3t37-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t37-d1e113">Ad curam monasterio subiectam non monachi, sed saeculares clerici praeficiuntur, et
+            episcopis subsunt.</p>
+          <p xml:id="cice-l3t37-d1e116">Urbanus III.</p>
+          <p xml:id="cice-l3t37-d1e119">In ecclesiis, ubi monachi habitant, populus per monachum non regatur; sed capellanus,
+            qui populum regat, ab episcopo per consilium monachorum instituatur, ita tamen, ut ex
+            solius episcopi arbitrio tam ordinatio eius quam depositio, et totius vitae pendeat
+            conversatio.</p>
+        </div>
+        <div xml:id="cice-l3t37-Dd1e123">
+          <head xml:id="cice-l3t37-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t37-d1e128">Si ecclesia non cathedralis vindicat sibi ius in alia ecclesia obtinebit solum quoad
+            ea, quae probabit sibi deberi praescriptioni vel alio legitimo modo. H. d. secundum
+            communem et verum intellectum.</p>
+          <p xml:id="cice-l3t37-d1e131">Innocentius III. Archipresbytero et Clericis sanctae Caeciliae.</p>
+          <p xml:id="cice-l3t37-d1e134">Dilectus filius M. syndicus ecclesiae vestrae, in nostra praesentia constitutus, ab
+            oeconomo sancti Laurentii de Piscinula in scrutiniis, baptismate, processionibus, et
+            capitulis et similibus subiectionem postulans, possessorium et petitorium intentabat.
+            Quum enim ecclesia sancti Laurentii sit in parochia vestra sita, debet de iure communi,
+            sicut idem syndicus proponebat, ecclesiae vestrae in praedictis omnibus subiacere, nisi
+            se posset vel speciali privilegio, vel legitima praescriptione tueri, quia nec
+            privilegium exemptionis habet, nec praescriptionem pro se poterat allegare, quum illa
+            ecclesia sanctae Caeciliae praescripsisset, sicut per testes dicebat legitime
+            comprobatum. Praeterea, quum olim coram bonae memoriae C. Papa praedecessore nostro
+            super praedictis inter vestram et praedictam ecclesiam quaestio verteretur, M. presbyter
+            eiusdem ecclesiae fuit sponte confessus, quod ecclesiae sanctae Caeciliae scrutinium et
+            baptisma debebat, sicque ad proprietatem vestram iustitiam recognovit. Quumque pars
+            vestra testes sufficientes et idoneos, qui se illum diversis temporibus ad capitulum
+            vocasse, ipsumque venisse firmiter asserebant, in medium produxisset, eis iurare
+            paratis, praedictus presbyter se vocatum ivisse ad capitulum est confessus. Unde
+            praedictus praedecessor noster ecclesiam vestram capitulo, quo se conquesta fuerat
+            spoliatam, salvo iure proprietatis ecclesiae sancti Laurentii revestire curavit, sicut
+            in eius literis continetur. Per hoc ergo et proprietatem quoad scrutinium et baptisma,
+            et possessionem quoad capitulum vester voluit syndicus comprobare. Ad haec autem sancti
+            Laurentii oeconomus ex adverso respondit, quod ecclesia illa nullo medio ad Romanam
+            ecclesiam pertinebat. Quum enim monasterium monialium fuerit, sicut ex multis scriptis
+            authenticis edocetur, et generaliter servetur in Urbe, ut nullum monasterium titulo sit
+            subiectum, incongruum videbatur, ut regulares saecularibus supponantur. Praeterea usque
+            hodie nos in ea institutionem et destitutionem liberam exercemus, †quum et bonae
+            memoriae C. Papa praedecessor noster dilectum filium M. scriptorem nostrum
+            archipresbyterum in ea sine contradictione cuiuslibet statuisset. Sic ergo ecclesiam
+            ipsam liberam et in possessione libertatis exsistere dictus voluit oeconomus comprobare.
+            Quum ergo pro eo habeat ius commune, in eo videlicet, quod universa monasteria Urbis ad
+            Romanam ecclesiam nullo pertinent mediante, affirmanti contrarium fides non est
+            aliquatenus adhibenda, nisi super hoc privilegium induxerit speciale. Quod autem dicitur
+            in parochia vestra sita, idem oeconomus penitus denegavit. Sed etsi hoc verum esset,
+            sufficienter tamen se poterat praedicta ratione tueri. Confessio autem M. presbyteri
+            super scrutinio et baptismo eidem ecclesiae praeiudicare non poterat, quum super his lis
+            contestata in eiusdem praedecessoris nostri praesentia non fuisset, sicut ex forma
+            petitionis et conclusionis apparet. Hac etiam sententia non fuerat hactenus ecclesia
+            vestra usa, sed eam duxerat usque ad haec tempora supprimendam. (Et infra:) Nos igitur,
+            auditis propositis, rationibus et allegationibus, instrumentis et attestationibus
+            plenius intellectis, et cum fratribus nostris deliberato consilio, oeconomum eiusdem
+            ecclesiae sancti Laurentii syndico vestro in baptismo, et scrutinio et processionibus
+            condemnamus, ita tamen, ut per hoc ecclesiae Romanae nullum praeiudicium generetur, si
+            quando forte ius suum duxerit prosequendum. In institutione autem et destitutione et
+            capitulo oeconomum ipsum ab impetitione syndici vestri prorsus absolvimus, syndico
+            vestro super hoc perpetuum silentium imponentes.</p>
+        </div>
+        <div xml:id="cice-l3t37-Dd1e138">
+          <head xml:id="cice-l3t37-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t37-d1e143">In prioratibus monachorum non possunt singuli monachi commorari; etiamsi super hoc
+            habeant rescriptum apostolicum, nisi in illo fiat mentio de Lateranensi concilio.</p>
+          <p xml:id="cice-l3t37-d1e146">Honorius III. Episcopo Venetensi.</p>
+          <p xml:id="cice-l3t37-d1e149">Ex parte tua fuit propositum †coram nobis, quod, conquerentibus olim abbate ac conventu
+            Rivensi Venetensis dioecesis, quod tu compellere moliebaris eosdem, ut instituerent
+            plures monachos in quibusdam suis prioratibus tuae dioecesis, in quorum singulis singuli
+            monachi hactenus steterant, quum pluribus facultates non suppetant eorundem, nos abbati
+            S. Albini Andegavensis et collegis eius per literas nostras dedimus in mandatis, ut de
+            ipsorum locorum facultatibus inquirentes, in eorum singulis facerent plures institui
+            monachos, si pluribus illorum sufficiunt facultates; alioquin tibi auctoritate
+            praesentium inhiberent, ne abbatem et conventum praedictos molestares super instituendis
+            pluribus in eisdem. Unde idem Abbas et conventus Rivenses Venetensis dioecesis occasione
+            literarum apostolicae sedis asserunt sibi esse concessum, ut in singulis locorum ipsorum
+            prioratibus singuli monachi commorentur, si pluribus non suppetunt facultates eorundem.
+            Quum autem id obviet Lateranensi concilio, de quo nulla mentio est in literis ante
+            dictis, postulasti nostro edoceri responso, utrum nostrae intentionis fuerit per
+            huiusmodi literas cum abbate et conventu praedictis contra ipsum concilium dispensare.
+            Nos ergo Fraternitati tuae breviter respondemus, quod tenoris huiusmodi literas ab
+            apostolica sede non credimus emanasse. Quodsi per occupationem forsitan emanaverint,
+            nolumus per hoc derogari concilio supra dicto.</p>
+        </div>
+        <div xml:id="cice-l3t37-Dd1e153">
+          <head xml:id="cice-l3t37-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t37-d1e158">Ordinarius compellit abbatem, ut monachos a prioratibus revocet ad claustrum, vel eis
+            socios adiungat.</p>
+          <p xml:id="cice-l3t37-d1e161">Idem Burdegalensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t37-d1e164">Ad audientiam nostram te significante pervenit, quod nonnulli monachi, lege tibi
+            dioecesana subiecti, in quibusdam prioratibus habitant solitarii contra statutum
+            generalis concilii. Ideoque fraternitati tuae mandamus, quatenus ipsorum monachorum
+            abbates seu priores, ut vel ipsos ad claustrum revocent, facientes in ipsis ecclesiis
+            deserviri per clericos saeculares, vel alios monachos eisdem associent, cum quibus vitam
+            possint ducere regularem, monitione praemissa per censuram ecclesiasticam appellatione
+            remota compellas, proviso, quod ad exemptos manum occasione mandati huiusmodi non
+            extendas.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

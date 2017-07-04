@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.16. DE ADULTERIIS ET STUPRO.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.16. DE ADULTERIIS ET STUPRO.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t16">
+        <head xml:id="cice-l5t16-Hd1e105">5.16. DE ADULTERIIS ET STUPRO.</head>
+
+        <div xml:id="cice-l5t16-Dd1e108">
+          <head xml:id="cice-l5t16-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t16-d1e113">Stuprans virginem tenetur eam dotare et ducere in uxorem, et, si non vult cum ea
+            contrahere, ultra dotem corporaliter castigabitur. H. d. cum cap. sequenti.</p>
+          <p xml:id="cice-l5t16-d1e116">In Exodo.</p>
+          <p xml:id="cice-l5t16-d1e119">Si seduxerit quis virginem nondum desponsatam, dormieritque cum ea, dotabit eam, et
+            habebit [eam] uxorem. Si vero pater virginis dare noluerit, reddet pecuniam iuxta modum
+            dotis, quam virgines accipere consueverunt.</p>
+        </div>
+        <div xml:id="cice-l5t16-Dd1e123">
+          <head xml:id="cice-l5t16-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t16-d1e128">Summatum est supra capitulo proximo.</p>
+          <p xml:id="cice-l5t16-d1e131">Gregorius Sipontino Episcopo.</p>
+          <p xml:id="cice-l5t16-d1e134">Pervenit ad nos, quod Felix nepos tuus quandam virginem, quod nefas est dici, stupro
+            decepit. Quod si verum est, quamvis [grave] esset de lege poena plectendus, nos tamen,
+            aliquatenus legis duritiem mollientes, hoc modo disponimus, ut aut quam stupravit uxorem
+            habeat, aut certe, si renuendum putaverit, districtius ac corporaliter castigatus
+            excommunicatusque, in monasterio, in quo agat poenitentiam, retrudatur, de quo ei nulla
+            sit egrediendi sine [nostra] praeceptione licentia. [Ita igitur fraternitas tua ut haec
+            compleantur studeat etc.]</p>
+        </div>
+        <div xml:id="cice-l5t16-Dd1e138">
+          <head xml:id="cice-l5t16-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t16-d1e143">Maritus, retinens adulteram coniugem non peracta poenitentia, particeps est delicti;
+            secus, si egit poenitentiam; non tamen debet eam saepe recipere.</p>
+          <p xml:id="cice-l5t16-d1e146">Ex concilio Arelatensi.</p>
+          <p xml:id="cice-l5t16-d1e149">Si vir sciens, uxorem suam deliquisse, quae non egerit poenitentiam, sed permanet in
+            fornicatione sua, vixerit cum illa: vir reus erit et eius peccati particeps. Quodsi
+            mulier dimissa egerit poenitentiam, et voluerit ad virum suum reverti, debet, sed non
+            saepe, recipere peccatricem, quae poenitentiam egit.</p>
+        </div>
+        <div xml:id="cice-l5t16-Dd1e153">
+          <head xml:id="cice-l5t16-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l5t16-d1e158">Maritus propter suspicionem potest accusare uxorem de adulterio, et in accusando
+            praefertur ceteris.</p>
+          <p xml:id="cice-l5t16-d1e161">Ex concilio Parisiensi.</p>
+          <p xml:id="cice-l5t16-d1e164">Maritis sane etiam ex suspicione uxores accusare permissum est, et ipsi plus ceteris de
+            adulterio et accusare possunt et defendere.</p>
+        </div>
+        <div xml:id="cice-l5t16-Dd1e169">
+          <head xml:id="cice-l5t16-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l5t16-d1e174">Ad solam mulieris confessionem, asserentis, se commisisse adulterium cum sacerdote, non
+            debet sacerdos puniri, sed sibi infamato potest indici purgatio; quam si praestiterit,
+            absolvitur, deficiens vero suspenditur ab officio.</p>
+          <p xml:id="cice-l5t16-d1e177">Alexander III.</p>
+          <p xml:id="cice-l5t16-d1e180">Significasti nobis, quendam presbyterum cum alterius coniuge instinctu diabolico infra
+            ecclesiam frequenter, sicut asseris, dormivisse, quae utique se et illum cuidam
+            sacerdoti huiusmodi delictum confessos fuise, publice tibi detexit, et hoc ipsum idem
+            sacerdos, nomen adulteri celans, in praesentia tua dixit. Super quo quid fieri debeat,
+            quum, negante adultero, mulier in confessione persistat, ab apostolica sede consilium
+            requisisti. Ideoque mandamus, quatenus condignam poenitentiam praefatae imponens
+            adulterae, ecclesiam praelibatam per aspersionem aquae benedictae reconciliare procures.
+            Praedicto autem sacerdoti, ne contra Apostolum infirmorum corda mala fama ipsius
+            percutiantur, et ne vituperetur ministerium nostrum, neque securiores presbyteri
+            exsistentes in peccatum licentius prolabantur, cum vicinis quinque presbyteris, quos se
+            nolle peierare cognoveris, iuxta arbitrium tuum purgationem indicas. Quem, si purgare se
+            poterit, in officio suo ministrare permittas; alioquin ab officio suo ipsum suspendere
+            non postponas.</p>
+        </div>
+        <div xml:id="cice-l5t16-Dd1e184">
+          <head xml:id="cice-l5t16-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l5t16-d1e189">Coniux coniugem de adulterio impetere non potest, si et ipse adulterium commisisse
+            convincatur.</p>
+          <p xml:id="cice-l5t16-d1e192">Innocentius III. Turonensi Archiepiscopo.</p>
+          <p xml:id="cice-l5t16-d1e195">Intelleximus tam per literas venerabilis fratris nostri Pictaviensis episcopi, quam per
+            ea, quae coram dilecto filio Andrea subdiacono et capellano nostro, super hoc auditore
+            concesso, proposita pro partibus exstiterunt, quod, quum S. laicus H. uxorem suam a
+            maritali consortio sine causa rationabili depulisset, idem episcopus dioecesanus eorum,
+            audiens, mulierem eandem cum quodam adultero fornicari, eam et illum vinculo
+            excommunicationis adstrinxit, quae, tandem adulterum abiurans, absolutione recepta coram
+            episcopo memorato praedictum virum sibi restitui postulavit. At ille, huiusmodi
+            obiiciens ei adulterium, de quo prolem genuisse dicebat eandem, et quod ab ipso non
+            expulsa, sed spontanea recessisset, restitutionem sui proposuit ei esse minime
+            faciendam; quod mulier memorata prorsus inficians, replicavit in ipsum, quod fuerat
+            fornicatus, †et de fornicatione sobolem procrearat, propter quod tali exceptione uti non
+            poterat contra ipsam. Quum autem, utrique parti probandi haec facultate concessa,
+            praefata mulier per quosdam testes eiusdem viri adulterium probavisset, quas vir ipse
+            dicebat tanquam minus idoneos reprobandos, tandem ab eo fuit ad nostram praesentiam
+            appellatum. Quocirca fraternitati tuae per apostolica scripta mandamus, quatenus, nisi
+            tibi constiterit, vel per evidentiam rei, vel per confessionem legitimam mulieris, quod
+            adulterata sponte fuisset adulterii etiam, quod vir dicitur commisisse, probatione
+            cessante, ipsum recipere compellas eandem. Quodsi praedicto modo de mulieris
+            fornicatione constiterit, nisi testes, per quos viri adulterium est probatum, fuerint
+            reprobati, quum matrimonii ius in utroque laesum consistat, et paria delicta mutua
+            compensatione tollantur: nihilominus eum cogas, ut eam recipiat, et maritali affectione
+            pertractet; alioquin mulieri praedictae silentium imponere non postponas. [Dat. Lat. VI.
+            Kal. Maii Ao. XI. 1208.]</p>
+        </div>
+        <div xml:id="cice-l5t16-Dd1e199">
+          <head xml:id="cice-l5t16-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l5t16-d1e204">Non debet separari matrimonium quoad torum propter adulterium, quando ambo coniuges
+            fuerunt adulterati.</p>
+          <p xml:id="cice-l5t16-d1e207">Idem Episcopo Ambianensi.</p>
+          <p xml:id="cice-l5t16-d1e210">Tua fraternitas requisivit a nobis, utrum, aliquo denegante uxori suae in adulterio
+            deprehensae debitum coniugale, si postmodum ipse cum alia perpetret adulterium
+            manifeste, an uxore agente poenitentiam de commisso et veniam humiliter postulante, vir
+            cogi debeat, ut eandem maritali affectione pertractet. Super quo tibi taliter
+            respondemus, quod, quum paria crimina compensatione mutua deleantur, vir huiusmodi
+            fornicationis obtentu suae uxoris nequit consortium declinare. [Dat. Anagniae Id. Iun.
+            Ao. XI. 1208.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

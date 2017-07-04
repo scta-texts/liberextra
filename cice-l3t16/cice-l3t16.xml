@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.16. DE DEPOSITO.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.16. DE DEPOSITO.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t16">
+        <head xml:id="cice-l3t16-Hd1e105">3.16. DE DEPOSITO.</head>
+
+        <div xml:id="cice-l3t16-Dd1e108">
+          <head xml:id="cice-l3t16-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t16-d1e113">Ex deposito, facto apud clericum ecclesiae, non tenetur ecclesias, nisi in utilitatem
+            ecclesiae sit versum.</p>
+          <p xml:id="cice-l3t16-d1e116">Alexander III. Londonensi Episcopo.</p>
+          <p xml:id="cice-l3t16-d1e119">Gravis illa et odibilis querimonia, quae usque ad nos super deposito tuo tibi hactenus
+            denegato pervenit, †duplici nos anxietate perstringit eo, quod tibi in hoc et deesse non
+            possumus, et adesse, prout velles, efficaciter non valemus. Quum enim non constet nobis,
+            pecuniam tuam, quam ille vir Belial impia et detestabili surreptione furatus est, in
+            ecclesiae utilitatem conversam, non debemus de iure, nec possumus contra canonicos
+            eiusdem ecclesiae praecise intentare iussionis instantiam, ut tibi eandem reddant
+            pecuniam, personae, ut dicitur, non ecclesiae commendatam. Quocirca discretioni tuae
+            consulimus, et internae caritatis diligentia suademus, ut in raptorem illum et furem
+            tuam interim dirigas actionem, eo, quod, ut audivimus, loculos habet, et ea, quae tibi
+            surrepta sunt, asportavit. Nam et nos ipsi iudicibus dedimus in mandatis, ut illum
+            iniquum sub duris quaestionibus ad rationem ponant, et etiam, si oportuerit, vinculis
+            macerent alligatum et affligant, ut dictam pecuniam reddere compellatur. †Ceterum circa
+            ecclesiam illum affectum te habere volumus, ut nil ab ea requiras indebitum. Si autem
+            cum eis amicabiliter poteris de redituum perceptione pacisci, noveris id nobis
+            acceptum.</p>
+        </div>
+        <div xml:id="cice-l3t16-Dd1e123">
+          <head xml:id="cice-l3t16-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t16-d1e128">Dicit, ad quid tenetur depositarius, et quomodo repetatur depositum.</p>
+          <p xml:id="cice-l3t16-d1e131">Gregorius IX.</p>
+          <p xml:id="cice-l3t16-d1e134">Bona fides abesse praesumitur, si, rebus tuis salvis exsistentibus, depositas amisisti.
+            De culpa quoque teneris, si te ipsum deposito obtulisti, vel si aliquid pro custodia
+            recepisses. Pacto vero, culpa vel mora praecedentibus, casus etiam fortuitus imputatur.
+            Sane depositori licuit pro voluntate sua depositum revocare, contra quod
+            compenpensationi vel deductioni locus non fuit, ut contractus, qui ex bona fide oritur,
+            ad perfidiam minime referatur, licet compensatio admittatur in aliis, si causa, ex qua
+            postulatur, sit liquida ita, quod facilem exitum credatur habere.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

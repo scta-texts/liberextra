@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.04. DE CLERICIS NON RESIDENTIBUS IN ECCLESIA VEL PRAEBENDA.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.04. DE CLERICIS NON RESIDENTIBUS IN ECCLESIA VEL PRAEBENDA.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t4">
+        <head xml:id="cice-l3t4-Hd1e105">3.04. DE CLERICIS NON RESIDENTIBUS IN ECCLESIA VEL PRAEBENDA.</head>
+        <div xml:id="cice-l3t4-Dd1e108">
+          <head xml:id="cice-l3t4-Hd1e110"> CAP. I.</head>
+
+          <p xml:id="cice-l3t4-d1e113">Episcopo non licet sine licentia Papae transire ad alium episcopatum, ipsum acceptando;
+            alias privatur habito et ambito. Hoc intendit cum glossa.</p>
+          <p xml:id="cice-l3t4-d1e116">Ex concilio Sardicensi.</p>
+          <p xml:id="cice-l3t4-d1e119">Non liceat episcopo de civitate sua transire ad aliam [civitatem]. Manifesta est enim
+            causa, pro qua facere hoc attentat, quum nullus in hac re sit inventus episcopus, qui ad
+            minorem de maiori civitate transiret.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e123">
+          <head xml:id="cice-l3t4-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t4-d1e128">Deponitur cardinalis, qui in suo titulo non residet. H. d. et est iste textus multum
+            notabilis.</p>
+          <p xml:id="cice-l3t4-d1e131">Leo III.</p>
+          <p xml:id="cice-l3t4-d1e134">Ex gestis (Et infra:) In synodo Anastasius presbyter cardinalis tituli beati Marcelli
+            ab omnibus canonice est depositus eo, quod parochiam suam per annos quinque contra
+            canonum instituta deseruit, et in alienis usque hodie demoratur.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e138">
+          <head xml:id="cice-l3t4-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t4-d1e143">Uni plures dignitates vel ecclesiae conferri non debent, et ecclesia est conferenda
+            illi, qui residere et regnare valeat per se ipsum; alias perdit ecclesiam, et donans
+            conferendi potestate privatur.</p>
+          <p xml:id="cice-l3t4-d1e146">Ex concilio Lateranensi.</p>
+          <p xml:id="cice-l3t4-d1e149">Quia nonnulli, modum avaritiae non ponentes, dignitates diversas ecclesiasticas et
+            plures ecclesias parochiales contra sacrorum canonum instituta nituntur accipere [ita],
+            ut, quum unum officium vix implere sufficiant, stipendia sibi vendicent plurimorum: ne
+            id de cetero fiat, districtius inhibemus. Quum igitur ecclesia vel ecclesiasticum
+            ministerium committi debuerit, talis ad hoc persona quaeratur, quae residere in loco et
+            curam eius per se ipsam valeat exercere. Quod si aliter actum fuerit, et qui receperit
+            quod contra sacros canones accepit amittat, et qui dederit largiendi potestate
+            privetur.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e153">
+          <head xml:id="cice-l3t4-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t4-d1e158">Praesentatus ad ecclesiam non confirmatus, si apparet, quod nolit residere, non debet
+            institui per superiorem; confirmatus autem et ex non iusta causa non residens privatur
+            appellatione remota.</p>
+          <p xml:id="cice-l3t4-d1e161">Alexander III. Eboracensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t4-d1e164">Relatum est nobis ex parte tua, quod, quum in Lateranensi concilio statutum sit, ut
+            personae tali ecclesia vel beneficium ecclesiasticum conferatur, quae residere in loco
+            et curam eius per se valeat exercere, nonnulli ad ecclesias praesentati hoc se posse
+            affirmant, sed efficere contradicunt. †Ideo [nos] consulere voluisti, an propter hoc
+            tales possis praesentatos repellere, vel institutos sublato appelationis obstaculo
+            removere. Quum igitur verba accipienda sint cum effectu, tales, si praesentati fuerint,
+            non debent admitti, et admissi, si instituti fuerint, licite poterunt amoveri; nisi
+            forte de licentia suorum praelatorum, vel studio literarum, vel pro aliis honestis
+            causis contigerit eos abesse. Nec patrocinari debet eis appellationis diffugium, si
+            contra huiusmodi intentionem decreti fuerit interiectum. [Quia autem etc. (cf. c. 5. de
+            iur. patr. III. 38.)]</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e169">
+          <head xml:id="cice-l3t4-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t4-d1e174">Idem Eboracensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t4-d1e177">Fraternitati tuae †duximus indulgendum, ut, si clerici, qui in ecclesiis tuae
+            iurisdictionis beneficium sunt adepti, ad aliam dioecesin absque licentia et assensu tuo
+            morandi causa transierint, liceat eos tibi beneficiis, quae a te habent, spoliare, nisi
+            forte scholasticis disciplinis invigilaverint, aut rationabilem causam tibi ostenderint,
+            quare reverti non debeant. Praeterea clericum alterius dioecesis absque commendatitiis
+            literis sui episcopi non debes recipere, nisi pro eo receperis ab apostolica sede preces
+            aut mandatum.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e181">
+          <head xml:id="cice-l3t4-Hd1e183">CAP. VI.</head>
+          <p xml:id="cice-l3t4-d1e186">Qui non residet in beneficio etiam modicae aestimationis, illo privatur.</p>
+          <p xml:id="cice-l3t4-d1e189">Idem.</p>
+          <p xml:id="cice-l3t4-d1e192">Conquerente nobis R. presbytero accepimus, quod G. clericus ab eo pro ecclesia sua, de
+            qua, sicut dicitur, vitae necessaria vix potest percipere, annuatim viginti solidos
+            extorquere conatur, asserens beneficium illud in eadem ecclesia sibi fuisse collatum,
+            †quanquam eidem ecclesiae, sicut accepimus, non deserviat, et alia ecclesiastica
+            beneficia sufficientia habeat et possideat ab ecclesia. Quoniam igitur indecens est et
+            non consentaneum rationi, ut idem, quum alia ecclesiastica beneficia sibi sufficientia
+            habeat et possideat, ab ecclesia, cui non deservit, beneficium quaerat, Fraternitati
+            tuae per apostolica scripta mandamus, quatenus, si tibi constiterit, quod dictus G.
+            habeat ecclesiastica beneficia sibi sufficientia, vel quod eidem ecclesiae non
+            deserviat, sibi super praescripto beneficio silentium sublato impedimento appellationis
+            imponas.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e196">
+          <head xml:id="cice-l3t4-Hd1e198">CAP. VII.</head>
+          <p xml:id="cice-l3t4-d1e201">Qui est in servitio episcopi, percipit fructus beneficii tanquam residens, praeter
+            distributiones quotidianas. Abbas.</p>
+          <p xml:id="cice-l3t4-d1e204">Idem.</p>
+          <p xml:id="cice-l3t4-d1e207">De cetero, †quia dignum est et conveniens, ut ecclesiae tuae canonici, donec circa te
+            in tuo servitio morantur, communitatis portionem recipiant, praesenti scripto Statuimus,
+            ne canonicis tuis, donec in servitio tuo fuerint, quicquam subtrahi debeat vel auferri,
+            quod de communitatis sibi beneficio debetur, nisi forte sint victualia, quae non
+            consueverunt absentibus exhiberi.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e211">
+          <head xml:id="cice-l3t4-Hd1e213">CAP. VIII.</head>
+          <p xml:id="cice-l3t4-d1e216">Privandus est prelatus vel clericus non residens, qui citatus non revertitur in termino
+            sibi praefixo, nisi habeat iustum impedimentum. H. d. cum duobus sequentibus.</p>
+          <p xml:id="cice-l3t4-d1e219">Coelestinus III.</p>
+          <p xml:id="cice-l3t4-d1e222">Ex parte vestra nostro fuit apostolatui reseratum, quod ecclesiae vestrae decanus, qui
+            in partibus Gallicanis sibi potius habitationem elegit, iam per decem annorum spatium
+            ecclesia vestra ipsius praesentiam habere nequivit. Quia ergo nolumus, ut eadem ecclesia
+            decani officio defraudetur, universitati vestrae per apostolica scripta mandamus,
+            quatenus scribatis eidem, quod ecclesiam vestram visitare et suum ibidem officium ut
+            decanus debeat exercere. Quodsi forte vocatus venire noluerit, eligendi alium, qui
+            praeesse ecclesiae vestrae valeat et prodesse, vobis extunc concedimus liberam
+            facultatem.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e226">
+          <head xml:id="cice-l3t4-Hd1e228">CAP. IX.</head>
+          <p xml:id="cice-l3t4-d1e231">Summatum est in capitulo praecedenti.</p>
+          <p xml:id="cice-l3t4-d1e234">Innocentius III. Capitulo Ragusino.</p>
+          <p xml:id="cice-l3t4-d1e237">Qualiter archiepiscopus vester temeritate propria recessit ab ecclesia Ragusinensi, nec
+            iam ultra quadriennium exspectatus redierit, et per literas etiam vestras revocatus,
+            †vestra universitas plene novit, quum saepius apud nos deposueritis super hoc de ipso
+            querelas, et vobis concedi postulaveritis licentiam eligendi. Nos autem exspectantes
+            diutius duximus exspectandum, si forte reverteretur ad cor, et ad ecclesiam suam, quant
+            taliter reliquerat, remearet. Nolentes igitur, quod diutius ecclesia ipsa pastoris
+            maneat solatio destituta, Discretioni vestrae per apostolica scripta mandamus atque
+            praecipimus, quatenus, nisi forsitan iam redierit, vos post mensem a receptione
+            praesentium personam vobis idoneam in archiepiscopum eligatis, et electionem vestram
+            nobis curetis quam citius praesentare. [Dat. Laterani. 1202.]</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e241">
+          <head xml:id="cice-l3t4-Hd1e243">CAP. X.</head>
+          <p xml:id="cice-l3t4-d1e246">Summa ut in capitulo Ex parte supr. eodem.</p>
+          <p xml:id="cice-l3t4-d1e249">Idem Constantinopolitano Patriarchae.</p>
+          <p xml:id="cice-l3t4-d1e252">Inter quatuor animalia (Et infra: [cf. c. 8. de mai. et ob. I. 33.]) De clericis autem,
+            qui ecclesias vel praebendas sibi concessas sine iusta et necessaria causa in hac
+            novitate deserunt, tuo praesertim non accedente consensu, hoc tibi duximus respondendum,
+            quod, postquam congruo tempore fuerint exspectati, nisi redierint ad illas, possunt eis
+            iuste privari, dummodo non sint iusto impedimento detenti. [De monasteriis etc. (cf. c.
+            5. de rel. dom. III. 36.) Dat. Ferentini IV. Non. Aug. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e257">
+          <head xml:id="cice-l3t4-Hd1e259">CAP. XI.</head>
+          <p xml:id="cice-l3t4-d1e262">Si nescitur, ubi sit clericus, tribus publicis edictis citabitur in ecclesia sua, et,
+            si infra sex menses non revertatur, privabitur ecclesia sua. H. d. usque ad vers. Contra
+            eos. – (Contra eos etc.) Iste versiculus non summatur propter varietatem lecturarum, et
+            quia secundum unum intellectum non facit ad rubricam.</p>
+          <p xml:id="cice-l3t4-d1e265">Idem Archiepiscopo Panormitano.</p>
+          <p xml:id="cice-l3t4-d1e268">Ex tuae devotionis †insinuatione recepimus, [quod, quum Latini regionem Achaiae
+            occupassent, quidam episcopi Graeci suffraganei tui timore perterriti de locis propriis
+            fugientes, suas ecclesias reliquerunt, quorum quidam, licet saepius moniti, ad sedes
+            tamen suas redire contemnunt, nonnulli propter guerrarum discrimina per certos nequeunt
+            nuncios commoneri. Unde nobis humiliter supplicasti, ut super hoc tibi salubriter
+            consulentes, qualiter circa illos et ipsorum dioeceses procedere debeas, tibi scribere
+            dignaremur. Nos igitur attendentes, quod propter novitatem mutationis illius terrae et
+            novitatum eventus sit cum maturitate plurima procedendum, devotioni tuae taliter
+            respondemus, ut illos non semel, sed saepe, videlicet primo, secundo et tertio citare
+            procures, et si comparere noluerint, sed in sua voluerint contumacia perdurare, nisi
+            forte se appellationis clypeo duxerint muniendos, quam intra tempus legitimum
+            prosequantur, ipsos per suspensionis et excommunicationis sententias ad tuam obedientam
+            venire compellas.] In ecclesiis autem eorum, qui se fraudulenter absentant, nec ad ipsos
+            valet citatio pervenire, trinae citationis edictum facias publicari, et, si nec sic
+            curaverint obedire, et ultra sex menses suas deseruerint ecclesias, iuxta sanctiones
+            canonicas eis debent merito spoliari. Contra eos quoque, sicut praescriptum est, etiam
+            procedatur, scilicet ut ipsos per suspensionis et excommunicationis sententiam ad tuam
+            obedientiam venire compellas. Quodsi nec sic eorum malitia poterit emolliri, eos
+            dilectus filius B. tit. sanctae Susannae presbyter cardinalis apostolicae sedis legatus
+            a spiritualium administratione removeat, et quibus praesunt ecclesiis de personis
+            idoneis faciat provideri; sed in eos degradationis sententiam non promulget, ut cum eis
+            misericorditer, si expediat, facilius agi possit. [Postulasti etc. Dat. Lat. XIII. Kal.
+            Mai. Ao. X. 1207.]</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e272">
+          <head xml:id="cice-l3t4-Hd1e274">CAP. XII.</head>
+          <p xml:id="cice-l3t4-d1e277">Privilegiatus ut absens in studio fructus praebendae recipiat. Exsistens in villa vel
+            castello, ubi nullum est vel minus competens studium, privilegio non utitur.</p>
+          <p xml:id="cice-l3t4-d1e280">Idem Altissiodorensi Episcopo.</p>
+          <p xml:id="cice-l3t4-d1e283">Tuae fraternitatis discretio postulavit (Et infra:) Quaesivisti praeterea, ut, quum
+            interdum canonici, quibus studiorum gratia est indultum, ut in absentia sua fructus
+            percipiant praebendarum suarum, accepta licentia se ad villas transferunt vel castella
+            in quibus nullum est vel minus competens studiorum exercitium, utrum praebendarum suarum
+            fructus sint talibus conferendi. Ad quod breviter respondemus, eis, qui huiusmodi
+            fraudem committunt, quum fraus et dolus nemini debeat patrocinium impertiri, praefatam
+            indulgentiam competere non debere. [Ceterum etc. (cf. c. 15. de usur. V. 19.) Dat. Lat.
+            XVII. Kal. Iun. Ao. X . 1207.]</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e287">
+          <head xml:id="cice-l3t4-Hd1e289">CAP. XIII.</head>
+          <p xml:id="cice-l3t4-d1e292">Qui iuravit in ecclesia residere, pro servitiis ecclesiae licite se absentat.</p>
+          <p xml:id="cice-l3t4-d1e295">Honorius III. Praeposito de Valeriis.</p>
+          <p xml:id="cice-l3t4-d1e298">Ex parte tua fuit propositum coram nobis, quod tempore, quo recepisti praeposituram de
+            Valeriis, praestitisti de facienda residentia iuramentum, †quae ligia nuncupatur, in
+            ecclesia S. Martini Turonensis, in qua praeposituram eandem obtines, praestito insuper
+            iuramento promittens, quod homines et iura ipsius praepositurae manuteneas et defendas.
+            Quum autem prosequendo praepositurae iura residere interdum in ecclesia memorata non
+            possis, de iuramento super ipsa residentia praestito metuens, provideri tibi super hoc a
+            nobis humiliter postulasti. Nos vero Postulationi tuae taliter respondemus, quod, si te
+            non absentando in fraudem praepositurae tuae iura fideliter prosequeris, quum ex hoc
+            censeri debeas residens, periurium non incurris.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e302">
+          <head xml:id="cice-l3t4-Hd1e304">CAP. XIV.</head>
+          <p xml:id="cice-l3t4-d1e307">Familiaris Papae, non obstante constitutione contraria, praebendae suae fructus
+            percipit in absentia.</p>
+          <p xml:id="cice-l3t4-d1e310">Idem Capitulo Metensi.</p>
+          <p xml:id="cice-l3t4-d1e313">Quum dilectus filius magister Otto, †scriptor noster, canonicus ecclesiae vestrae,
+            grata nobis iugiter impendat obsequia, et non minus, si sit absens, quam praesens, eidem
+            ecclesiae utilis habeatur, universitatem vestram rogandam duximus et monendam, per
+            apostolica vobis scripta Mandamus, quatenus, non obstante constitutione, quae contra
+            absentes canonicos inter vos dicitur emanasse, ob reverentiam apostolicae sedis et
+            nostram annuatim fructus praebendae suae integraliter assignetis eidem in nostro
+            servitio commoranti, satisfacientes sibi congrue de subtractis, quum familiares nostri,
+            qui circa nos se obsequiales exhibent universis, minori non debeant praerogativa
+            gaudere, quam vestrum singuli, quorum negotia per ipsos saepius promoventur.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e317">
+          <head xml:id="cice-l3t4-Hd1e319">CAP. XV.</head>
+          <p xml:id="cice-l3t4-d1e322">Duo canonici absentes cum episcopo, seu in eius servitio, fructus praebendarum suarum
+            percipiunt in absentia, constitutione ecclesiae contraria non obstante.</p>
+          <p xml:id="cice-l3t4-d1e325">Idem Meldensi Episcopo.</p>
+          <p xml:id="cice-l3t4-d1e328">Ad audientiam nostram te significante pervenit, quod, quum in Meldensi ecclesia quaedam
+            sit constitutio inita, vallata iuramento et auctoritate sedis apostolicae confirmata, ut
+            videlicet eius canonici, qui per sex menses non resident in eadem, suarum priventur
+            fructibus praebendarum, illis duntaxat exceptis, quos infirmitas proprii corporis
+            excusaret, sive in apostolicae sedis servitio contingeret detineri, †quosque
+            peregrinationis labor, aut studia traherent literarum, decanus et quidam alii canonici
+            Meldenses occasione constitutionis huiusmodi canonicos in tuo servitio commorantes
+            praebendarum suarum privare fructibus moliuntur. Unde, quum tibi plurimum expediat
+            aliquos canonicorum ipsorum in tuo servitio retinere, nobis humiliter supplicasti, ut
+            super hoc necessitati tuae apostolicae dignaremur provisionis moderamine providere.
+            Volentes igitur sic constitutionem moderari praedictam, ut dicta ecclesia fructum
+            sentiat ex eadem, et tu per eius abusum dispendium non incurras, praesentium
+            auctoritate, Decernimus, ut duo ex canonicis ecclesiae memoratae, in tuo servitio
+            exsistentes, suarum fructus integre percipiant praebendarum, quum absentes dici non
+            debeant, sed praesentes, qui tecum pro tuo et ipsius ecclesiae servitio commorantur.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e332">
+          <head xml:id="cice-l3t4-Hd1e334">CAP. XVI.</head>
+          <p xml:id="cice-l3t4-d1e337">Si ecclesia patitur ministrorum defectum, privilegiati super absentia per subtractionem
+            proventuum redire coguntur. H. d. et est bonus textus, et potest multum practicari.</p>
+          <p xml:id="cice-l3t4-d1e340">Gregorius IX. Patriarchae Antiochiae apostolicae sedis Legato.</p>
+          <p xml:id="cice-l3t4-d1e343">Quum ad hoc sint ecclesiastica beneficia deputata (Et infra:) Sane nobis innotuit, quod
+            ecclesia Antiochena multis ex servitoribus eius absentibus est fere destituta ministris.
+            Unde mandamus, quatenus, non obstantibus apostolicis indulgentiis et praedecessorum
+            tuorum licentia, absentes canonicos et assisios revoces ad residendum in ecclesia supra
+            dicta, et si non venerint, tu de ipsorum beneficiis, dum absentes fuerint, ipsi
+            ecclesiae facias congrue deserviri, in utilitatem eiusdem quod ex praefatis beneficiis
+            superfuerit convertendo.</p>
+        </div>
+        <div xml:id="cice-l3t4-Dd1e348">
+          <head xml:id="cice-l3t4-Hd1e350">CAP. XVII.</head>
+          <p xml:id="cice-l3t4-d1e353">Privatur beneficio clericus non residens, si monitus non redeat, nec iustam
+            excusationem alleget. H. d. et est casus notabilis.</p>
+          <p xml:id="cice-l3t4-d1e356">Idem.</p>
+          <p xml:id="cice-l3t4-d1e359">Clericos in ecclesiis tuae iurisdictionis beneficia, quae residentiam exigunt,
+            assecutos, si ad alterius dioecesim absque licentia tua morandi causa transierint,
+            liceat tibi, si moniti non redierint, dictis beneficiis, nisi excusationem rationabilem
+            ostenderint, spoliare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

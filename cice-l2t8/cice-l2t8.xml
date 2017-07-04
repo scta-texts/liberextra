@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.08. DE DILATIONIBUS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.08. DE DILATIONIBUS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t8">
+        <head xml:id="cice-l2t8-Hd1e105">2.08. DE DILATIONIBUS.</head>
+
+        <div xml:id="cice-l2t8-Dd1e108">
+          <head xml:id="cice-l2t8-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l2t8-d1e113">Summa sic, ne videatur convenire rubricae de appellationibus: Citatio vocatoria cum
+            peremptoria non debet esse nimis brevis, maxime ubi de rebus ecclesiasticis agitur; nisi
+            necessitas aliud suggerat.</p>
+          <p xml:id="cice-l2t8-d1e116">Alexander III. Cantuariensi et Vigoriensi Episcopis.</p>
+          <p xml:id="cice-l2t8-d1e119">Dilecti filii nostri, abbas et monachi de H. nobis insinuare curarunt, quod, quum
+            causam, quae vertitur inter ipsos et moniales de Leden., super ecclesia de Alten.,
+            decano et archidiacono Linconensibus commiserimus terminandam, ipsi timentes, se a
+            praedictis iudicibus aggravari, eo, quod ad primam citationem terminum sibi nimis brevem
+            et peremptorium statuerunt, ad nostram audientiam duxerunt appellandum; †ipsi
+            nihilominus praedictam ecclesiam praefatis monialibus adiudicaverunt (et infra). Quia
+            vero non spectat ad iuris ordinem, diem peremptorium, et maxime, quum de rebus
+            ecclesiasticis agitur, nisi forte necessitate urgente, taliter maturare, nec etiam in
+            eos, qui se contumaciter absentant, sententiam taliter promulgare, nisi ut pars adversa
+            in possessionem mittatur, ut sic taedio affecti iudicio stare cogantur, fraternitati
+            vestrae per apostolica scripta praecipiendo mandamus quatenus, si est ita, revocato in
+            irritum, si quid inveneritis post appellationem huiusmodi attentatum, in causa iuxta
+            priorum tenorem literarum procedatis.</p>
+        </div>
+        <div xml:id="cice-l2t8-Dd1e123">
+          <head xml:id="cice-l2t8-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t8-d1e128">Induciae deliberatoriae denegantur reo, si per literas citatorias plene potuit instrui,
+            et deliberare super eo, de quo quaeritur.</p>
+          <p xml:id="cice-l2t8-d1e131">Coelestinus III.</p>
+          <p xml:id="cice-l2t8-d1e134">Praeterea in tuo petitorio adiecisti, quod, quum causae tibi a sede apostolica
+            delegantur, in literis citatoriis rescriptum apostolicum inseris, ut, eo viso,
+            deliberare valeat qui ab altero convenitur; quumque non ad primam et secundam cononicam
+            citationem, sed ad tertiam peremtoriam tantummodo veniat, actore ad omnes citationes
+            veniente, et ipse actor intentionem suam in iure proponat, reus vexationi eius
+            intendens, tunc primo deliberatorias requirit inducias, quum actor eidem authenticum
+            offerat, ut conferat cum rescripto, quod in prima citatione recepit, asserens etiam,
+            quod tam longo citationum spatio, si voluerit, plenae deliberationis tempus potuit
+            habere. §. 1. Quia igitur, quid agendum sit in hoc casu desideras edoceri, taliter tibi
+            respondemus, quod, praedicto modo reo ad iudicium legitime convocato, si ex rescripto
+            sibi transmisso plene potuit instrui super eo, de quo in iudicio convenitur, induciae
+            deliberatoriae [sibi] non sunt ulterius indulgendae, sed procedendum potius est ad
+            examinationem causae, et finem et debitum imponendum. [Dat. Lat. Ao. III. 1193.]</p>
+        </div>
+        <div xml:id="cice-l2t8-Dd1e138">
+          <head xml:id="cice-l2t8-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t8-d1e143">Ex declaratione verbi generalis vel ambigui positi in libello novae induciae
+            deliberatoriae dandae non sunt, si per expressa potuit reus deliberare super ambiguitate
+            illa vel generalitate. H. d.</p>
+          <p xml:id="cice-l2t8-d1e146">Honorius III. Ferentino Episcopo.</p>
+          <p xml:id="cice-l2t8-d1e149">Literae tuae ac petitio dilecti filii presbyteri sanctarum Priscae et Aquilae de Urbe
+            nobis exhibitae continebant, †quod, quum causam, quae inter ipsum archipresbyterum ex
+            una parte, et nobiles viros Andream Alatrinum et G. ac fratres et filios eorum ex altera
+            super quibusdam possessionibus et rebus aliis vertitur, tibi duximus committendam, Idem
+            presbyter contra nobiles viros A. et G. libellum ecclesiae suae nomine obtulit,
+            continentem, quod pensio de dictis possessionibus soluta non fuerat ipsi ecclesiae,
+            elapsis iam tribus annis et ultra. Nobilibus vero ipsis petentibus, ut explicaret ipsis
+            spatium, quod per hanc adiectionem: “et ultra,” significari volebat, et ipso presbytero
+            exprimente, quod septem annis fuerat in dictae pensionis solutione cessatum, et iidem
+            nobiles dicentes, libellum esse huiusmodi expressione mutatum, longiores ad deliberandum
+            petierunt inducias. Quas quia denegasti eisdem, ad nostam audientiam appellaverunt. Nos
+            igitur appellationem huiusmodi frivolam reputantes, fraternitati tuae mandamus,
+            quatenus, ea nequaquam obstante, in negotio ipso ratione praevia procedas iuxta priorum
+            continentiam literarum.</p>
+        </div>
+        <div xml:id="cice-l2t8-Dd1e153">
+          <head xml:id="cice-l2t8-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l2t8-d1e158">Si citatus in causa ardua de longinquo vocatur pro publica utilitate, etiam ad locum
+            iudicii, ita, quod infra terminum citationis deliberare, et alia sibi necessaria ad
+            comparendum explicare non potuit, in termino respondere non cogitur, si reperiatur in
+            loco iudicii, sed habebit novas inducias. H. d. notabiliter.</p>
+          <p xml:id="cice-l2t8-d1e161">Gregorius IX. Abbati Aquae vivae Turonensis dioecesis et Archidiacono Turonensi.</p>
+          <p xml:id="cice-l2t8-d1e164">Exposuit nobis Bituricensis archiepiscopus (Et infra:) Burdegalensi archiepiscopo
+            dedimus in mandatis, ut super iure primatiae, quam in eo et in provincia sua dictus
+            Bituricensis archiepiscopus se habere proponit, ad initium proxime praeteritae
+            Quadragesimae, quod ei terminum peremptorium assignavimus, per se aut per procuratorem
+            idoneum se conspectui nostro praesentaret. Quumque postmodum personaliter vocatus pro
+            ecclesiae Romanae subsidio ad nostram audientiam accessisset, dictus Bituricensis
+            archiepiscopus apud sedem apostolicam constitutus postulavit instanter, ut in eodem
+            negotio procedere deberemus. Idem vero Burdegalensis archiepiscopus ad propria rediens
+            constituit pro se procuratorem in ipso negotio, qui, salvis exceptionibus sibi
+            competentibus in respondendo et defendendo ac aliis, omnia faceret, quae in propria erat
+            persona facturus. Petente ergo archiepiscopo supradicto, ut praefatus procurator
+            responderet eidem, ille excipiendo proproposuit, se ad hoc non teneri, quum pro alia
+            maiori causa, pro publica scilicet utilitate, dictus Burdegalensis vocatus, pro absente
+            reputari debuerat et revocandi domum privilegium habuisset. Nondum etiam super hoc
+            deliberaverat cum suffraganeis suis et aliis, quorum consilium tam ardua causa requirit,
+            nec tempus habuerat, in quo ad utrumque negotium valuerit, sicut expediret, esse
+            paratus. Sed pars altera econtra respondit, quod, quum super quaestione praedicta prius
+            fuerit evocatus, nostrae intentionis non fuerat primum mandatum per posterius revocare.
+            Temporis quoque spatium habuerat tam prolixum, ut potuisset, si voluisset, super causa
+            deliberare praedicta, sicut fecerat cum quibusdam, et commode utrique negotio imminere.
+            (Et infra:) Nos igitur de consilio fratrum nostrorum usque ad proximum venturum festum
+            Nativitatis dominicae dilationem adhuc sibi duximus indulgendam.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.23. DE DELICTIS PUERORUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.23. DE DELICTIS PUERORUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t23">
+        <head xml:id="cice-l5t23-Hd1e105">5.23. DE DELICTIS PUERORUM.</head>
+
+        <div xml:id="cice-l5t23-Dd1e108">
+          <head xml:id="cice-l5t23-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t23-d1e113">Impuberes praeter vitium carnis delinquere possunt; puniuntur tamen mitius quam
+            adulti.</p>
+          <p xml:id="cice-l5t23-d1e116">Gregorius.</p>
+          <p xml:id="cice-l5t23-d1e119">Pueris grandiusculis peccatum nolunt attribuere quidam, nisi ab annis XIV., quum
+            pubescere coeperint. Quod merito crederemus, si nulla essent peccata, nisi quae membris
+            genitalibus admittuntur. Quis vero audeat affirmare, furta, mendacia et periuria non
+            esse peccata? At his plena est puerilis aetas; quamvis in eis non ita, ut in maioribus,
+            punienda videantur.</p>
+        </div>
+        <div xml:id="cice-l5t23-Dd1e123">
+          <head xml:id="cice-l5t23-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t23-d1e128">Puer non debet ita severe puniri, sicut maior, nec pater ex delicto filii impuberis
+            tenetur.</p>
+          <p xml:id="cice-l5t23-d1e131">Alexander III. Hermonensi Episcopo.</p>
+          <p xml:id="cice-l5t23-d1e134">Referente nobis H. latore praesentium intelleximus, quod, quum filius eius, qui
+            decennis erat, cum aliis pueris sagittaret, quidam nepos eiusdem H. sagitta percussus
+            interiit, quod idem filius eius, quum inter alios luderet, fortuito casu dicitur
+            peregisse, licet id habeatur incertum. Propter quod dilectus filius noster abbas sancti
+            Remigii a praefato H. secundum consuetudinem illius terrae centum solidos instantius
+            requirebat. (Et infra:) Unde, quoniam in pueris relinqui solet inultum quod in aliis
+            provectioris aetatis humanae leges dicunt severius corrigendum, fraternitati tuae per
+            apostolica scripta praecipiendo mandamus, quatenus rem ipsam diligentius inquiras, et,
+            si tibi constiterit, filium praedicti H. infra XIV. aetatis suae annum eundem excessum
+            commisisse, memoratum abbatem moneas et auctoritate nostra appellatione remota
+            compellas, ut ab eodem H. praedictos centum solidos propter illam consuetudinem non
+            exigat, nec ab ipso pro temporali poena requirat. Quodsi praenominatus abbas eum super
+            hoc post commonitionem tuam duxerit impetendum, tu Haide et filium suum ab eius
+            impetitvione sublato appellationis remedio auctoritate nostra fretus absolvas.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

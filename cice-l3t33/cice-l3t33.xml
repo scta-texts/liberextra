@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.33. DE CONVERSIONE INFIDELIUM.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.33. DE CONVERSIONE INFIDELIUM.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t33">
+        <head xml:id="cice-l3t33-Hd1e105">3.33. DE CONVERSIONE INFIDELIUM.</head>
+
+        <div xml:id="cice-l3t33-Dd1e108">
+          <head xml:id="cice-l3t33-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t33-d1e113">Non potest quis illam habere in uxorem, cuius maritum occidit machinatione ipsius
+            mulieris; secus, si sine machinatione. Et est pulcher et quotidianus casus.</p>
+          <p xml:id="cice-l3t33-d1e116">Coelestinus III.</p>
+          <p xml:id="cice-l3t33-d1e119">Laudabilem (Et infra:) Ceterum quod Interrogasti de Sarracenis, qui, dum in captivitate
+            essent, quarundam Christianarum viros earum insidiis et machinationibus occiderunt,
+            utrum, quia postea per ipsas ad fidem Christianam conversi sunt, eas de iure possint
+            accipere in uxores, vel, si duxerint, ipsum coniugium teneat eorundem: hic Triburiensis
+            concilii regula contenti sumus, asserentis, quod, si in mortem ipsorum virorum malitiose
+            fuerint machinatae, licet earum studio ad ecclesiasticam fidem accesserint, tamen nec
+            eis adhaerere debent, nec sunt, si adhaeserint etiam, tolerandi. Non enim hic
+            dispensatio sine periculo posset admitti, quum tale damnum tali lucro ecclesia
+            compensare non velit. Ad hoc Sarraceni quidam, qui in bello sunt Christianos
+            interfecisse notati, et Christiani similiter Sarracenos, postea vero Sarraceni, ad
+            catholicam fidem a gentilitatis errore conversi, uxores eorum quos in belli certamine
+            occiderunt, sibi matrimonialiter copularunt, et id ipsum Christiani de Sarracenis
+            mulieribus conversis ad fidem fecisse noscuntur: quae tamen, postquam de priorum virorum
+            morte compererint veritatem, divortium instanter exposcunt. In his igitur respondemus,
+            quod, quum tales non procuraverint virorum interitum defunctorum, matrimonium inter
+            huiusmodi personas licite potest contrahi, et taliter copulati, cuiuscunque sexus
+            exsistant, divortium post mortem coniugum nequeunt postulare. Idem si quidem iuris erit
+            in sequenti casu, quem proponere studuisti, quum S. Christiano viro propter odium uxoris
+            Christum negante et sibi copulante paganam et ex ea filios procreante Christiana in
+            opprobrium Iesu Christi relicta, cum assensu archidiaconi sui ad secundas nuptias
+            convolavit et filios suscepit ex ipsis; non enim videtur nobis, quod si prior maritus
+            redeat ad unitatem ecclesiasticam, eadem a secundo debeat recedere et resignari priori,
+            maxime quum ab eo visa fuerit ecclesiae iudicio discessisse et teste Gregorio contumelia
+            creatoris solvat ius matrimonii circa eum qui relinquitur odio fidei Christianae. Quod
+            autem mulier possit primo viro qui ad fidem reversus est nolente ad vitam monasticam
+            remeare, vel utrum ille reversus ad eam, quam ritu gentili sibi coniunxit, et quae
+            propter eum ad fidem nostram cum liberis suis est conversa, mortua prima possit habere
+            uxorem, et an filii ante conversionem geniti obtentu nuptiarum, quae post conversionem
+            ritu ecclesiastico celebratae fuerunt, et similiter si filii illius, quae cum licentia
+            archidiaconi sui marito priore vivente sed facto infideli nupsit viro catholico,
+            legitimi sint habendi, tam regula quam doctrina Apostoli, qua dicitur: “si infidelis
+            discedit discedat; non enim frater aut soror subiectus est in huiusmodi servituti,” quam
+            illud decretum memorati Gregorii: “non est peccatum dimisso propter Deum si alii se
+            copulaverit; infidelis enim discedens et in Deum peccat et in matrimonium;” nihilominus,
+            quod praedecessor noster bonae memoriae Alexander III. ita dixerit: “tanta est vis
+            matrimonii, ut qui antea sunt geniti post contractum matrimonium legitimi habeantur:”
+            Nos in huiusmodi dubitare non sinunt, quin in his et liber aditus pateat ad religionem
+            migrare volenti, et ille qui ad fidem revertitur, eam, quae conversa est defuncta prima
+            sibi licite possit copulare, filii etiam in supradicto utroque casu legitimi censeantur.
+            Praeterea etc. [cf. c. 27. de test. II. 20.]</p>
+        </div>
+        <div xml:id="cice-l3t33-Dd1e123">
+          <head xml:id="cice-l3t33-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t33-d1e128">Si alter infidelium coniugum venit ad fidem, altero remanente in infidelitatis errore,
+            communis proles assignatur converso.</p>
+          <p xml:id="cice-l3t33-d1e131">Gregorius IX. Argentinensi Episcopo.</p>
+          <p xml:id="cice-l3t33-d1e134">Ex literis tuis accepimus, [perlatam fuisse ad synodum tuam huiusmodi quaestionem],
+            quod quidam de Iudaicae caecitatis errore ad Christum verum lumen [et viam veritatis]
+            adductus, uxore sua in Iudaismo relicta, in iudicio postulavit instanter, ut eorum
+            filius quadriennis assignaretur eidem, ad fidem catholicam, quam ipse susceperat,
+            perducendus. Ad quod illa respondit, quod, quum puer adhuc infans exsistat, propter quod
+            magis materno indiget solatio quam paterno, sibique ante partum onerosus, dolorosus in
+            partu, [ac] post partum laboriosus fuisse noscatur, ac ex hoc legitima coniunctio maris
+            et feminae magis matrimonium quam patrimonium nuncupetur, dictus puer apud eam debet
+            convenientius remanere, †[quam apud patrem ad fidem Christianam de novo perductum
+            transire debebat, aut saltem neutrius sequi, priusquam ad legitimam aetatem perveniat.
+            Hinc inde multis aliis allegatis: tu autem praedicto puero medio tempore in tua
+            potestate retento, quid tibi faciendum sit in hoc casu nos consulere voluisti.] Quum
+            autem filius in patris potestate consistat, cuius sequitur familiam, et non matris, et
+            in aetate tali quis non debet apud eas remanere personas, de quibus possit esse
+            suspicio, quod saluti vel vitae insidientur illius, et pueri post triennum apud patrem
+            non suspectum ali debeant et morari, materque pueri, si eum remanere contingeret apud
+            eam, [facile] posset illum adducere ad infidelitatis errorem: [fraternitati tuae] in
+            favorem maxime fidei Christianae respondemus, patri eundem puerum assignandum. [Dat.
+            Perusii XVII. Kal. Iun. A. II. 1229.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

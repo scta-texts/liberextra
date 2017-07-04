@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.09. NE SEDE VACANTE ALIQUID INNOVETUR.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.09. NE SEDE VACANTE ALIQUID INNOVETUR.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t9">
+        <head xml:id="cice-l3t9-Hd1e105">3.09. NE SEDE VACANTE ALIQUID INNOVETUR.</head>
+
+        <div xml:id="cice-l3t9-Dd1e108">
+          <head xml:id="cice-l3t9-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t9-d1e113">Vacante sede status eius mutari non debet.</p>
+          <p xml:id="cice-l3t9-d1e116">Innocentius III. Priori et Conventui Glastonensi.</p>
+          <p xml:id="cice-l3t9-d1e119">Novit ille, qui scrutator est cordium et cognitor secretorum, quod, licet bonae
+            memoriae C. Papa praedecessor noster ecclesiam vestram [in sedem] erexerit cathedralem,
+            ipsam Bathoniensi ecclesiae uniendo, ut idem esset episcopus utriusque, suamque
+            constitutionem non solum per privilegium suum, verum etiam per alia scripta multa
+            curaverit confirmare; quia tamen haec unio asserebatur a vobis esse confusio,
+            conquerentibus, eam in grave praeiudicium Glastonensis ecclesiae redundare, quum per
+            ipsam dissolveretur religio, et fraudaretur eleemosyna, et hospitalitas tolleretur nos
+            vestris supplicationibus inclinati ad relevandum ecclesiae vestrae statum coepimus
+            intendere, quantum decuit, diligenter. †Et quoniam absonum videbatur, ut subito
+            praedecessoris nostri evacuaremus in hac parte statutum, quum ei, quantum cum Deo
+            possumus, deferre velimus, sicut et volumus, quod, quantum cum Deo poterunt, nostri
+            nobis deferant successores, unione manente sic de ceteris disposuimus, quantumcunque
+            bonae memoriae Savarico Bathoniensi episcopo displiceret, frequenter ob hoc ad sedem
+            apostolicam laboranti, quod status ecclesiae vestrae videbatur in melius relevatus. Unde
+            post diversos tractatus et deliberationes multiplices, quod per viros providos et
+            honestos auctoritate mandati nostri super hoc exstitit ordinatum, ad petitionem eiusdem
+            episcopi, postquam aliud a nobis non potuit obtinere, apostolico tandem curavimus
+            munimine roborare. Vos autem post obitum praefati Bathoniensis episcopi ad nostram
+            praesentiam recurrentes humiliter postulastis, ut, quia tempus advenerat, quo sine
+            scandalo ecclesiae vestrae ruina poterat in statum pristinum relevari, quum et
+            Bathoniensis ecclesia et Wellensis id ipsum pariter postularet, rex quoque cum regni
+            magnatibus, et quidam episcopi cum multis abbatibus deposcerent illud idem, ut unione
+            penitus dissoluta monasterium vestrum reduceremus in statum antiquum, sub abbatis
+            regimine gubernandum. Nos attendentes igitur diligentius, quod, episcopali sede vacante,
+            non debet super hoc aliquid innovari, quum non sit qui episcopale ius tueatur, maxime ne
+            plus favisse personae quam ecclesiae videremur, si quod eo vivente concessimus post
+            obitum eius subito mutaremus, petitionem vestram ex toto absque damno conscientiae ac
+            periculo famae nequivimus exaudire. Ut autem solito more, quem et vobis utilem, et nobis
+            honorabilem estis experti, gradatim ab imo procedatur ad summum, auctoritate vobis
+            praedicta indulgentes, ut, quum Bathoniensis ecclesia de praesule fuerit ordinata, si
+            ostendere volueritis, quod ecclesiae vestrae nondum sit ad detrimentum vel praeiudicium
+            vitandum plene provisum, ius vestrum apud sedem apostolicam prosequendi facultatem
+            liberam habeatis; interim autem sub cura prioris idem monasterium libere gubernetur.
+            [Nulli ergo etc. Dat. Rom. ap. S. Petr. II. Id. Mart. Ao. IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l3t9-Dd1e123">
+          <head xml:id="cice-l3t9-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t9-d1e128">Beneficia spectantia ad collationem praelati non possunt conferri per capitulum sede
+            vacante.</p>
+          <p xml:id="cice-l3t9-d1e131">Honorius III. Episcopo Calmensi et Magistris V. et S. Canonicis Suessanensibus.</p>
+          <p xml:id="cice-l3t9-d1e134">Illa devotionis sinceritas †et sincera devotio, quam dilectus filius magister R.
+            decanus Teanensis ad personam nostram et sedem apostolicam hactenus habuisse
+            dignoscitur, nos inducunt, ut eum pro suae scientiae ac probitatis intuitu geramus in
+            visceribus caritatis, et ei denegare nolimus quae secundum Deum fuerint concedenda. Unde
+            nos Ecclesiam sancti Leucini de Capua cum omnibus pertinentiis suis, de qua magistrum R.
+            donationis nostrae gratia praecedente praebendae nomine de mandato nostro venerabilis
+            frater noster R. Capuanus archiepiscopus investivit, sibi duximus auctoritate apostolica
+            confirmandam, non obstante concessione per capitulum facta de ipsa ecclesia alii, seu
+            confirmatione nostra, si qua forte in forma communi apparet obtenta; quum nusquam
+            inveniatur cautum in iure, quod capitulum vacante sede fungatur vice episcopi in
+            collationibus praebendarum. Nec in eodem casu potest dici potestas conferendi praebendas
+            ad capitulum per superioris negligentiam devoluta, quum non fuerit ibi superior, qui eas
+            posset de facto vel de iure conferre. Quocirca discretioni vestrae mandamus, quatenus
+            eundem magistrum in corporalem ipsius ecclesiae possessionem sublato appellationis
+            obstaculo inducatis, et defendatis inductum.</p>
+        </div>
+        <div xml:id="cice-l3t9-Dd1e138">
+          <head xml:id="cice-l3t9-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t9-d1e143">Sede vacante iudicium habitum contra ecclesiam non tenet.</p>
+          <p xml:id="cice-l3t9-d1e146">Idem Episcopo Burginensi.</p>
+          <p xml:id="cice-l3t9-d1e149">Constitutis olim coram bonae memoriae I. Papa praedecessore nostro procuratore
+            ecclesiae sanctae Mariae de Castro forti et bonae memoriae G. Burginensi episcopo
+            praedecessore tuo, dictus procurator petebat ab eodem episcopo restitutionem tam super
+            libertate libere eligendi sibi praelatum, †quam etiam super terris ipsius ecclesiae et
+            rebus aliis, quibus omnibus pars sua spoliata fuerat, ut dicebat. (Et infra:) Lite
+            igitur coram eodem praedecessore nostro super praemissis legitime contestata, et
+            postmodum coram iudicibus delegatis, factis confessionibus et receptis testibus ab
+            eisdem causa fuit ad nos instructa remissa. Nos igitur procuratoribus partium in nostra
+            praesentia constitutis, quum super praemissis coram nobis diutius litigassent,
+            depositiones testium, qui vacante Burginensi ecclesia et carente legitimo defensore
+            fuerint recepti, duximus reprobandas.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

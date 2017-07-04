@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.13. DE TORNEAMENTIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.13. DE TORNEAMENTIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t13">
+        <head xml:id="cice-l5t13-Hd1e105">5.13. DE TORNEAMENTIS.</head>
+
+        <div xml:id="cice-l5t13-Dd1e108">
+          <head xml:id="cice-l5t13-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t13-d1e113">Torneamenta fieri non debent, et vulnerato in eis conceditur poenitentia; sed, si
+            moritur, denegatur ei sepultura ecclesiastica, si accessit animo pugnandi; secus, si
+            accessit alia causa, ut puta ut debita sibi exigeret. Hoc dicit cum cap. sequ.</p>
+          <p xml:id="cice-l5t13-d1e116">Ex concilio Lateranensi.</p>
+          <p xml:id="cice-l5t13-d1e119">Felicis memoriae Papae Innocentii et Eugenii praedecessorum nostrorum vestigiis
+            inhaerentes, detestabiles illas nundinas vel ferias, quas vulgo torneamenta vocant, in
+            quibus milites ex condicto convenire solent, et ad ostentationem virium suarum et
+            audaciae temere congredi, unde mortes hominum et animarum pericula saepe proveniunt,
+            fieri prohibemus. Quodsi quis eorum ibi mortuus fuerit, quamvis ei poscenti poenitentia
+            non negetur, ecclesiastica tamen careat sepultura.</p>
+        </div>
+        <div xml:id="cice-l5t13-Dd1e123">
+          <head xml:id="cice-l5t13-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t13-d1e128">Idem dicit, quod in superiori cap.</p>
+          <p xml:id="cice-l5t13-d1e131">Alexander III. Anatensi Episcopo.</p>
+          <p xml:id="cice-l5t13-d1e134">Ad audientiam nostram noveris pervenisse, quod, quum quidam ad locum, deputatum
+            torneamentis, causa requirendi sua debita †a quibusdam militibus, quos eo venturos
+            putabat, accessisset, accidit, ut violenter et inconsiderate ab equo, in quo sedebat,
+            super eum cadente compressus et mortuus est, sed prius dominicum corpus suscepit, et
+            sacri olei unctione perunctus est. Unde pro eo, quod in torneamento mortem accepit, a
+            sepultura fidelium prohibetur. Nos vero attendentes, quod his tantum, sicut credimus,
+            ecclesiastica sepultura debeat interdici, qui, ad torneamenta animo id faciendi tantum
+            accedentes, decedunt ibidem, fraternitati tuae mandamus, quatenus, si tibi constiterit,
+            quod praefatus I. ad praedictum torneamentum non animo ludendi, sed percipiendi credita,
+            pervenisset, licet ibi fortuito casu obierit, corpus eius dispensatione ecclesiasticae
+            tradi facias sepulturae, maxime si dominicum corpus susceperit, et sacri olei fuerit
+            unctione perunctus.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

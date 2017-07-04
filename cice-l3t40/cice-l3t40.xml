@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.40. DE CONSECRATIONE ECCLESIAE VEL ALTARIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.40. DE CONSECRATIONE ECCLESIAE VEL ALTARIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t40">
+        <head xml:id="cice-l3t40-Hd1e105">3.40. DE CONSECRATIONE ECCLESIAE VEL ALTARIS.</head>
+
+        <div xml:id="cice-l3t40-Dd1e108">
+          <head xml:id="cice-l3t40-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t40-d1e113">Amoto altari vel lapide, continente sigillum, reconsecrabitur altare, non autem
+            ecclesia.</p>
+          <p xml:id="cice-l3t40-d1e116">Alexander III.</p>
+          <p xml:id="cice-l3t40-d1e119">Ad haec, si altare motum fuerit, aut lapis ille solummodo supra positus, qui sigillum
+            continet, confractus, aut etiam diminutus exstiterit, debet denuo consecrari. Propter
+            hoc vero nequaquam reiterare suam consecrationem ecclesia consuevit, licet id quidam
+            canones innuere videantur. Non tamen id facere prohibetur.</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e123">
+          <head xml:id="cice-l3t40-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t40-d1e128">Diebus etiam non festis possunt ecclesiae consecrari.</p>
+          <p xml:id="cice-l3t40-d1e131">Innocentius III. Tornacensi Episcopo.</p>
+          <p xml:id="cice-l3t40-d1e134">Tua fraternitas †requiri fecit a nobis, utrum tibi dedicationes ecclesiarum tam diebus
+            dominicis quam privatis liceret celebrare; super quo Inquisitioni tuae taliter
+            respondemus, quod in dioecesi tua licet tibi ecclesiis dedicationem impendere tam diebus
+            dominicis quam privatis. [Dat. Romae VII. Id. Febr. A. VII. 1205.]</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e138">
+          <head xml:id="cice-l3t40-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t40-d1e143">Habet duo dicta, et primo idem dicit, quod cap. supr. eod. Secundum dictum dicit, quod
+            oleum non consecratum potest commisceri oleo consecrato, et totum fit consecratum.</p>
+          <p xml:id="cice-l3t40-d1e146">Idem Nidrosiensi Episcopo.</p>
+          <p xml:id="cice-l3t40-d1e149">Quod in dubiis (Et infra: [cf. c. 30. de sent. exc. V. 39.]) Altare vero, in quo
+            tabula, cui consecrationis benedictio pontificali ministerio adhibetur, si mota vel
+            enormiter fracta fuerit, debet non immerito consecrari. Nec negamus, quin oleum non
+            consecratum consecrato possit oleo commisceri. [Clerici autem etc. Dat. ap. civitatem
+            Castellanam VI. Id. Oct. 1198.]</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e153">
+          <head xml:id="cice-l3t40-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t40-d1e158">Reconciliatur ecclesia, quae propter homicidia et vulnera hominum ibidem perpetrata
+            polluta est.</p>
+          <p xml:id="cice-l3t40-d1e161">Idem Compostellano Archiepiscopo.</p>
+          <p xml:id="cice-l3t40-d1e164">Proposuisti nobis in nostra praesentia constitutus, quod, venientibus ad ecclesiam
+            sancti Iacobi ex diversis regionibus peregrinis, et volentibus aliis ab aliis per
+            contentiones et rixas altaris de nocte custodiam vindicare, homicidia contingunt fieri
+            interdum, et aliquando vulnera inferuntur; †propter quod humiliter postulasti, ut alio
+            modo, quam per reconsecrationis beneficium, dignaremur ipsi ecclesiae providere.
+            Fraternitati tuae taliter respondemus, quod, manente ecclesia et altari, ipsa
+            reconciliari poterit per aquam cum vino et cinere benedictam. [Dat. Viterbii XII. Kal.
+            Iul. Ao. X. 1207.]</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e169">
+          <head xml:id="cice-l3t40-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t40-d1e174">Plura altaria simul in eadem ecclesia consecrari possunt; et idem in pluribus
+            episcopis.</p>
+          <p xml:id="cice-l3t40-d1e177">Idem.</p>
+          <p xml:id="cice-l3t40-d1e180">Quum sis (Et infra: [cf. c. 6. de usu et auct. pall. I. 8.]) Noveris igitur, quod, ubi
+            exposcit necessitas, et plura in ecclesia una altaria et plures episcopos simul poteris
+            consecrare.</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e184">
+          <head xml:id="cice-l3t40-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l3t40-d1e189">Corruente tecto parietibus illaesis, et mensa altaris non enormiter fracta, nec altare,
+            nec ecclesia consecratur.</p>
+          <p xml:id="cice-l3t40-d1e192">Idem.</p>
+          <p xml:id="cice-l3t40-d1e195">Ligneis aedificiis ecclesiae vestrae casu quodam igne consumptis, parietibus tamen
+            illaesis, ac mensa principalis altaris in sua extremitate modicam passa fracturam,
+            †quaesivisti per sedem apostolicam edoceri, si propter hoc ipsius altaris, vel etiam
+            totius ecclesiae debeat consecratio innovari. Ad quod Inquisitioni tuae taliter duximus
+            respondendum, quod, quum parietes in sua integritate permanserint, et tabula altaris
+            mota vel enormiter laesa non fuerit, ob causam praedictam nec ecclesia, nec altare debet
+            denuo consecrari. [Dat. Lat. Non. Oct. Pont. nostr. Ao. XV. 1212.]</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e199">
+          <head xml:id="cice-l3t40-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l3t40-d1e204">Polluitur ecclesia vel coemeterium, si excommunicatus in ea sepelitur.</p>
+          <p xml:id="cice-l3t40-d1e207">Idem Senonensi Episcopo.</p>
+          <p xml:id="cice-l3t40-d1e210">Consuluisti (Et infra: [cf. c. 14. de foro comp. II. 2.]) Coemeteria vero, in quibus
+            excommunicatorum corpora sepeliri contingit per suorum violentiam propinquorum,
+            reconcilianda erunt aspersione aquae solenniter benedictae, sicut in dedicationibus
+            ecclesiarum fieri consuevit. [Procurationes autem etc. Dat. Lat. III. Kal. Mai. Pont.
+            nostr. Ao. XVI. 1213.]</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e214">
+          <head xml:id="cice-l3t40-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l3t40-d1e219">Qui fecit ecclesiam consecrari, tenetur eam dotare. H. d. et tene mente hunc casum.</p>
+          <p xml:id="cice-l3t40-d1e222">Honorius III. Reginae Hungariae.</p>
+          <p xml:id="cice-l3t40-d1e225">Quum, sicut ex relatione dilectorum filiorum capituli Oradiensis nobis innotuit,
+            devotionis zelo succensa eorum feceris ecclesiam consecrari, †profecto speramus, quod
+            zelus, ille, qui te ad eiusdem ecclesiae consecrationem induxit, te quoque, ut et dotem
+            ei conferas, debeat animare, et quidem, Quum non sit ecclesia, nisi de dote provisum ei
+            fuerit, consecranda, eo liberalius ad dotandam praedictam ecclesiam aperire manus
+            munificentiae tuae debes, quo et facilius potes id facere, et ad hoc fortius, tanquam ex
+            debito, iam teneris.</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e229">
+          <head xml:id="cice-l3t40-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l3t40-d1e234">Ecclesia polluta per sacerdotem simplicem reconciliari non potest, etiamsi aqua fuerit
+            per episcopum benedicta.</p>
+          <p xml:id="cice-l3t40-d1e237">Gregorius IX. Astoricensi Episcopo.</p>
+          <p xml:id="cice-l3t40-d1e240">Aqua per episcopum benedicta ecclesiam reconciliari posse per alium episcopum, non
+            negamus, per sacerdotes simplices hoc fieri de cetero prohibentes, non obstante
+            consuetudine provinciae Bracharensis, quae dicenda est potius corruptela; quia, licet
+            episcopus committere valeat quae iurisdictionis exsistunt, quae ordinis tamen
+            episcopalis sunt non potest inferioris gradus clericis demandare. Quod autem mandantibus
+            episcopis super reconciliatione factum est hactenus per eosdem, misericorditer
+            toleramus. [Ecclesiae etc. (cf. c. 9. de imm. eccl. III. 49.) Dat. Lat. XII. Kal. Iun.
+            Pont. nostr. Ao. VII. 1233.]</p>
+        </div>
+        <div xml:id="cice-l3t40-Dd1e244">
+          <head xml:id="cice-l3t40-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l3t40-d1e249">Ecclesia, etiam non consecrata, si polluitur, reconcilianda est.</p>
+          <p xml:id="cice-l3t40-d1e252">Idem eidem.</p>
+          <p xml:id="cice-l3t40-d1e255">Si ecclesia non consecrata cuiuscunque semine fuerit aut sanguinis effusione polluta,
+            aqua protinus exorcizata lavetur, ne divinae laudis [in ea] organa suspendantur; est
+            tamen, quam citius fieri poterit consecranda. [Dat. Lat. XII. Kal. Iun. Pont. nostr. Ao.
+            VII. 1233.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

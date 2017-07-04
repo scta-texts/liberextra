@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.42. DE ALIENATIONE IUDICII MUTANDI CAUSA FACTA.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.42. DE ALIENATIONE IUDICII MUTANDI CAUSA FACTA.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t42">
+        <head xml:id="cice-l1t42-Hd1e105">1.42. DE ALIENATIONE IUDICII MUTANDI CAUSA FACTA.</head>
+
+        <div xml:id="cice-l1t42-Dd1e108">
+          <head xml:id="cice-l1t42-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t42-d1e113">Is, in quem facta est alienatio rei causa mutandi iudicii, convenitur per rescriptum
+            impetratum contra alienantem.</p>
+          <p xml:id="cice-l1t42-d1e116">Alexander III.</p>
+          <p xml:id="cice-l1t42-d1e119">Ex quorundam certa relatione audivimus, quod, quum aliqui viri ecclesiastici de
+            provincia vestra pro prosequenda sua iustitia literas commissionis a nobis impetrant,
+            adversarii eorum, ut mandatum nostrum eludant, antequam literae nostrae ad iudices
+            perveniant, vel etiam postea, priusquam illi citentur ab eis, in vocem appellationis
+            prorumpunt, †aut commutationem facientes aliquos in possessionem eorum, de quibus
+            controversiae vertuntur, malitiose inducunt. Nos igitur contra praedictam calliditatem
+            et versutiam pastorali sollicitudine providere volentes, discretioni vestrae per
+            apostolica scripta praecipiendo mandamus, quatenus, si adversarii eorum, inter quos et
+            ipsum super ecclesia controversia est [diutius] agitata pro evacuando nostro mandato
+            taliter appellaverint, aut de possessione, de qua controversia vertitur, commutationem
+            fecerint, vel se malitiose duxerint absentandos, eos qui in possessione praedictae
+            [ecclesiae] se ingesserint, appellatione cessante cogatis sub vestro examine iuris
+            aequitati parere.</p>
+        </div>
+        <div xml:id="cice-l1t42-Dd1e123">
+          <head xml:id="cice-l1t42-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t42-d1e128">Clericus causa mutandi iudicium, non debet recipere cessionem a laico.</p>
+          <p xml:id="cice-l1t42-d1e131">Gregorius IX. Abbati S. Nicolai et decano Furnensi Morinensis dioecesis.</p>
+          <p xml:id="cice-l1t42-d1e134">Ex parte scabinorum Hipretis fuit propositum, quod inter laicos eiusdem loci
+            quaestionibus emergentibus, dirimendis per iudicium saeculare, quidam clerici sibi dono
+            vel pretio ab aliquibus laicorum ipsorum cedi faciunt actiones, ut adversarios ad
+            ecclesiasticum forum trahant, et praedam ex huiusmodi commercio assequantur. (Et infra:)
+            Quum igitur cessiones et emptiones litium legitimae prohibeant sanctiones ita, quod
+            iactura causae afficiant illos, qui sibi potentiorum patrocinium taliter advocare
+            praesumunt, et ex eo sint etiam odiosae, quod ex fonte cupiditatis videntur procedere,
+            mandamus, quatenus clericos memoratos a praesumptione huiusmodi per censuram
+            ecclesiasticam compescatis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

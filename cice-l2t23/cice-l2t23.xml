@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.23. DE PRAESUMPTIONIBUS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.23. DE PRAESUMPTIONIBUS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t23">
+        <head xml:id="cice-l2t23-Hd1e105">2.23. DE PRAESUMPTIONIBUS.</head>
+
+        <div xml:id="cice-l2t23-Dd1e108">
+          <head xml:id="cice-l2t23-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l2t23-d1e113">Sicut manifesto nocens est poenae obnoxius, ita et occultus, licet postea dicat, se
+            ioco fecisse.</p>
+          <p xml:id="cice-l2t23-d1e116">Salomon in Parabolis.</p>
+          <p xml:id="cice-l2t23-d1e119">Sicut noxius est, qui mittit lanceas et sagittas in mortem, ita vir, qui fraudulenter
+            nocet amico suo, et, quum fuerit deprehensus, dicit: ludens feci.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e123">
+          <head xml:id="cice-l2t23-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t23-d1e128">Ex violenta praesumptione fertur definitiva. Et est casus notabilis.</p>
+          <p xml:id="cice-l2t23-d1e131">Idem.</p>
+          <p xml:id="cice-l2t23-d1e134">Afferte mihi gladium. Quumque attulissent [gladium coram rege] ait: Dividite infantem
+            vivum [in duas partes], et date dimidiam partem uni, et dimidiam partem alteri. Dixit
+            autem mulier, cuius filius erat vivus, ad regem, (commota sunt quippe viscera eius super
+            filio suo): Obsecro domine, date illi infantem vivum, et non occidatur. E contrario alia
+            dicebat: Nec mihi, nec tibi sit, sed dividatur. Respondit rex et ait: Date huic infantem
+            vivum, et non occidatur. Haec est enim mater eius.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e138">
+          <head xml:id="cice-l2t23-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t23-d1e143">Conversatio in adolescentia facit praesumptionem in senectute.</p>
+          <p xml:id="cice-l2t23-d1e146">Hieronymus super Parabolis.</p>
+          <p xml:id="cice-l2t23-d1e149">“Ex studiis suis intelligitur puer.” Quemcunque enim virtutibus studere cum modestia
+            continentiae auditioni sapientum, [et] observantiae mandatorum Dei, et maxime
+            simplicitati et humilitati videris, huius munda [esse] et recta opera intellige. Quem
+            vero his contrarium corrige, aut si non potes, devita, ne ab eo corrumparis.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e153">
+          <head xml:id="cice-l2t23-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l2t23-d1e158">Praesumitur contra illum, qui dilationibus subterfugit iudicium.</p>
+          <p xml:id="cice-l2t23-d1e161">Bonifacius Papa Episcopis Galliae.</p>
+          <p xml:id="cice-l2t23-d1e164">Nullus dubitat, quod ita iudicium nocens subterfugit, quemadmodum ut absolvatur, qui
+            est innocens, quaerit, sed astuta cavillatio eorum, quae versutis agendum credunt esse
+            consiliis, nunquam innocentiae nomen accipiet. Confitetur enim de omnibus, quisquis se
+            subterfugere iudicium dilationibus putat. [Veniet etc. Dat. sub die Id. Iun. Monaxio XI.
+            V. C. Cons. 419.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e169">
+          <head xml:id="cice-l2t23-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l2t23-d1e174">Qui ex duobus illatis alterum negat, reliquum affirmare praesumitur.</p>
+          <p xml:id="cice-l2t23-d1e177">Gregorius in Homilia.</p>
+          <p xml:id="cice-l2t23-d1e180">“Nonne bene dicimus nos quia Samaritanus es tu, et daemonium habes? Respondit Iesus:
+            Ego daemonium non habeo.” Duo quippe ei illata fuerunt: unum negavit, alterum tacendo
+            concessit.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e184">
+          <head xml:id="cice-l2t23-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l2t23-d1e189">Ex praeteritis praesumitur circa futura.</p>
+          <p xml:id="cice-l2t23-d1e192">Idem Maximo Episcopo.</p>
+          <p xml:id="cice-l2t23-d1e195">Mandata coelestia efficacius gerimus, si nostra cum fratribus onera partiamur. Proinde
+            super cunctas ecclesias Siciliae te, [reverentissimum virum Maximianum] fratrem, et
+            coepiscopum nostrum vices sedis apostolicae ministrare decernimus ut quisquis illuc
+            religionis habitu censetur, fraternitati tuae ex nostra auctoritate subiaceat, quatenus
+            ei non sit necessarium pro parvulis ad nos causis tanta maris spatia transmeando
+            pervenire. Sed si qua fortasse difficilia exsistunt, quae fraternitatis tuae iudicio
+            nequaquam dirimi possint, haec solummodo nostrum iudicium flagitent, ut sublevali de
+            minimis in causis maioribus efficacius occupemur.] Quas videlicet vices non loco
+            tribuimus, sed personae, quia ex transacta in te vita didicimus, quid [etiam] de
+            subsequenti conversatione tua praesumamus. [Mense Decembr. Indict. X. 591.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e199">
+          <head xml:id="cice-l2t23-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l2t23-d1e204">Ex vicinitate praesumitur notitia facti loci vicini.</p>
+          <p xml:id="cice-l2t23-d1e207">Idem.</p>
+          <p xml:id="cice-l2t23-d1e210">Quosdam (Et infra:) Africa vero qualiter mortalitate et languoribus vastetur, quanto
+            viciniores estis, [tanto] credo quod subtilius cognovistis. [De oriente vero etc.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e214">
+          <head xml:id="cice-l2t23-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l2t23-d1e219">Praesumitur factum notum in vicino loco, quod est notum in remoto.</p>
+          <p xml:id="cice-l2t23-d1e222">Idem Victori Episcopo.</p>
+          <p xml:id="cice-l2t23-d1e225">Quanto †[laetitiae nobis est fratres nostros cognoscere erga filios suos paterna
+            caritate decenter esse sollicitos, tanto tristitiae deputamus, quando eos ab illicitis
+            nec aliorum fratrum reverentia, nec sacerdotii praevalet consideratio temperare. Quam
+            igitur gravis et aspera adversus fratrem nostrum Tegessis civitatis episcopum clericorum
+            eius vel eorum, qui in sacro sunt ordine positi, sit querela, fraternitati tuae liquere
+            non dubium est, quia] Latere te in vicino non potuit, quod ad nos in longinquo pervenit.
+            [Et quonian etc.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e229">
+          <head xml:id="cice-l2t23-Hd1e231">CAP. IX.</head>
+          <p xml:id="cice-l2t23-d1e234">Ex praeteritis praesumitur circa futura.</p>
+          <p xml:id="cice-l2t23-d1e237">Hieronymus super Osee.</p>
+          <p xml:id="cice-l2t23-d1e240">“Scribam eis multiplices leges meas.” Ex prius datis, et neglectis apparet, quod has
+            negligent.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e244">
+          <head xml:id="cice-l2t23-Hd1e246">CAP. X.</head>
+          <p xml:id="cice-l2t23-d1e249">Efficacior probatio requiritur ab eo, qui probare vult illud, quod non est
+            verisimile.</p>
+          <p xml:id="cice-l2t23-d1e252">Alexander III. Decano Cassiensi.</p>
+          <p xml:id="cice-l2t23-d1e255">Quia verisimile non est, quod H. presbyter personatum ecclesiae R. capellano
+            concesserit, et ab eo eiusdem ecclesiae acceperit vicariam, provideas attentius, ne
+            memorati W. super hoc probationem recipias, nisi communis loci fama id habeat, vel tales
+            personae appareant, de quibus verisimile non sit, quod debeant deierare; quoniam saepe
+            contingit, quod testes corrupti pretio facile inducantur ad falsum testimonium
+            proferendum.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e260">
+          <head xml:id="cice-l2t23-Hd1e262">CAP. XI.</head>
+          <p xml:id="cice-l2t23-d1e265">Per cohabitationem diutinam et famam de matrimonio et contractibus matrimonialibus ac
+            alia adminicula probatur matrimonium. Panorm.</p>
+          <p xml:id="cice-l2t23-d1e268">Idem Genuensi Archiepiscopo.</p>
+          <p xml:id="cice-l2t23-d1e271">Illud quoque nihilominus ex tua inquisitione nobis innotuit, quod, quum quaedam libera
+            mulier per decem annos et ultra cuidam servo scienter cohabitaverit, et ab eo fuerit
+            carnaliter cognita, nunc ipsum asserit suum non esse maritum pro eo, quod testes
+            desponsationis non comparent. Verum vir eam vendicans in uxorem ostendit publicum
+            instrumentum, in quo sese coniuges nominant, et per quod ipsum ei donationem propter
+            nuptias fecisse apparet. Mulier vero instrumentum illud asserens vitiosum, ut servo
+            dominus fraudaretur, plures testes produxit, quod servus ille ab amicis eius saepe
+            rogatus, ut eam desponsaret, et ille nec desponsasse, nec desponsaturum se ipsam
+            firmiter asserebat. Vir autem nonnisi praedicto instrumento, et quibusdam testibus, qui
+            viderant eam annulos deferentem, mulierem ipsam probavit esse uxorem; sed mulier de more
+            illarum mulierum, quae panes vendunt, se annulos detulisse dicebat. Verum, quia in
+            huiusmodi dubietate fama viciniae magis debet attendi, tuae sollicitudinis erit famam
+            loci diligenter inquirere, utrum praedictus vir eam in lecto et in mensa sicut suam
+            uxorem aut concubinam habuerit; et si fama loci habet, quod vir ipsam in lecto et in
+            mensa sicut uxorem tenuerit, quum matrimonium sit maris et feminae coniunctio,
+            individuam vitae consuetudinem retinens: cogenda est mulier, ut eidem viro affectu
+            serviat coniugali, praesertim si praescriptum instrumentum ab eo conditum fuerit, qui
+            officium suum fideliter adimplevit.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e275">
+          <head xml:id="cice-l2t23-Hd1e277">CAP. XII.</head>
+          <p xml:id="cice-l2t23-d1e280">Per violentam praesumptionem probatur carnis copula.</p>
+          <p xml:id="cice-l2t23-d1e283">Idem.</p>
+          <p xml:id="cice-l2t23-d1e286">Literis tuae fraternitatis receptis ex tenore illarum nobis innotuit, quod, quum P.
+            parochianus tuus ab A. muliere, quam in uxorem acceperat, tuo iudicio peteret separari,
+            accusatores matrimonii produxerunt testes firmiter asserentes, quod, postquam praedicta
+            mulier cum praedicto viro contraxerat matrimonium, consanguineum viri eiusdem solum cum
+            sola, nudum cum nuda, in eodem lecto iacentem, ea, ut credebant, intentione, ut eam
+            cognosceret carnaliter, viderunt, sed et in multis secretis locis, et latebris ad hoc
+            commodis, et tam horis electis †quam locis saepe praesentibus eis hoc contigisse
+            dixerunt. Et publica fama consentit, quod post contractum matrimonium se miscuerunt ad
+            invicem, quod in praesentia tua publice, ut asseris, sunt confessi, quamvis id se ante
+            contractum matrimonium fecisse negarent. Dicitur quoque de muliere praedicta, quod de
+            marito sese simulans concepisse, alienum partum iam baptizatum, ut fertur, se mentita
+            est peperisse, et rebaptizari faciens virum suum decepit. Procedente vero tempore, quum
+            fama empti alieni partus fraudem detegeret, parentibus, a quibus eum emerat, occulte
+            restituit, postea veneficum poculum et alias vitae insidias viro parasse eadem mulier
+            perhibetur. Quia ergo tua nos fraternitas duxit consulendos, si ad solvendum matrimonium
+            iam dictae probationes sufficiant, Consultationi tuae taliter respondemus, quod tum ex
+            confessione, tum ex huiusmodi violenta et certa suspicione fornicationis, praesertim, si
+            quod de partu et machinatione mortis dictum est probari valet, non immerito potest
+            sententia divortii promulgari, ita quidem, ut vir licentiam habeat mortua illa ducendi
+            aliam, muliere sine spe coniugii remanente.</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e290">
+          <head xml:id="cice-l2t23-Hd1e292">CAP. XIII.</head>
+          <p xml:id="cice-l2t23-d1e295">Idem dicit, ut praeced. cap.</p>
+          <p xml:id="cice-l2t23-d1e298">Clemens III.</p>
+          <p xml:id="cice-l2t23-d1e301">Tertio loco quaestionis huiusmodi nodum tua fraternitas petiit explicari, an iuvenis
+            sponsam, in quam per verba de praesenti consensit, debeat in uxorem habere, ad quorum
+            matrimonium impediendum neptis ipsius sponsae prosiliens, se a iuvene carnaliter
+            praecognitam proponebat. A qua producti testes dixerunt, se pro certo credere, quod illa
+            dicti iuvenis exstiterit concubina, et ei carnali commixtione coniuncta, adiicientes,
+            quod eos insimul viderant per plana et nemora, vias et invia pluries convagantes, et
+            testimonium viciniae se super hoc recepisse dicebant. Ad maiorem autem certitudinem,
+            quia minus sufficienter credidisti esse probatum quod eadem mulier asserebat, tam ipsa
+            quam iuvenis iuramentis adstricti seorsum confessi sunt, quod se invicem carnaliter
+            praecognoverant, licet iuvenis nollet ab ea, quum desponsaverat, separari. Nos autem
+            haec, quae dicta sunt, intelligentes, et attendentes viciniae famam, et dictorum
+            mulieris ac iuvenis consuetas confabulationes, et per solitudines vagos incessus per
+            testes esse probatos, ut de carnali cognitione eos per iuramentum separatim fuisse
+            confessos, praesertim quum hoc non dicatur occultum, sed quasi praedicetur a pluribus
+            manifestum, praedecessorum nostrorum vestigiis inhaerentes, et praesertim felicis
+            memoriae Alexandri III. statuta sectantes, consultius et securius esse credimus, ut
+            matrimonialiter non coniungantur, sed ab invicem solutis sponsalibus separentur. [Dat.
+            Laterani.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e305">
+          <head xml:id="cice-l2t23-Hd1e307">CAP. XIV.</head>
+          <p xml:id="cice-l2t23-d1e310">Propter praesumptionem etiam vehementem non debet quis de gravi crimine condemnari.</p>
+          <p xml:id="cice-l2t23-d1e313">Innocentius III. Nivernensi Episcopo et Archidiacono Bituricensi.</p>
+          <p xml:id="cice-l2t23-d1e316">Literas vestras accepimus continentes, quod, quum causa, quae vertitur inter
+            venerabilem fratrem Altissiodorensem episcopum, et quosdam Burgenses de Caritate, quos
+            idem episcopus de haeresi impetebat, vobis et dilecto filio abbati Collonensi, a sede
+            apostolica delegata fuisset, utraque pars tandem, ut negotii prolixitas posset facilius
+            expediri, vos duos sub certa poena sibi arbitros statuerunt, delegata vobis potestate
+            nihilominus reservata; G. autem lator praesentium, unus ex illis, quos praefatus
+            episcopus impetebat, haeresim suam apud Caritatem fuerat publica voce confessus, et de
+            quodam fratre suo similiter recognoverat, quod eodem secum laborabat errore. †Qui quum
+            de fide sua coram venerabili fratre nostro Bituricensi archiepiscopo conveniretur, eique
+            purgatio facienda per eundem W., qui vere poenitens et catholicus credebatur, esset
+            indicta, ipse W. fratrem suum, quem publice asseruerat [esse] haereticum, praestito
+            iuramento purgavit, et sic ab ipso et periurus et haereticus censebatur. E contrario
+            vero idem W. proposuit, quod, licet de se publice confessus fuisset, nihil tamen fuerat
+            de fratre confessus. Unde bene poterat illum purgasse, maxime quum a duobus capellanis
+            de Albiniaco, qui conscientiam illius noverant, audivisset, quod tanquam catholicum
+            poterat illum secure purgare, quorum literas postea vobis ostendit. Sed episcopus super
+            eo, quod de fratre negaverat, protinus eum per se ipsum et unum presbyterum et alium
+            diaconum coram vobis convicit; unde ipsum relapsum in haeresim appellabat. Vos igitur
+            has in praedicto W. contrarietates notabiles attendentes, ipsum cum literis vestris ad
+            nostram praesentiam transmisistis, bonis eius interim annotatis, donec de persona eius
+            et bonis quid statuendum foret statuere curaremus, adiicientes, quod, quum idem W. apud
+            vos cum quibusdam instaret, ut purgationem reciperetis ipsius, sicut aliorum quorundam,
+            vos iuramentum eius, quia sibi contrarius videbatur, admittere noluistis, purgatione
+            tamen pro eo per octavam manum bonorum virorum admissa. Nos vero, quia vulpeculae, quae
+            moliuntur vineam Domini demoliri, sagaci sunt studio capiendae, nam vulpes foveas
+            habent, et volucres coeli nidos, ex iis, quae praescripta sunt, praedictum G. suspectum
+            de haeresi vehementer habuimus, tum quia quod ante dixerat postea se dixisse negavit,
+            sicut convictus est coram vobis, tum quia vel mendacium prius dixit in fratrem,
+            asserendo illum haereticum, vel periurium postea commisit in Deum, purgando illum de
+            haeresi, quorum utrumque reddit illum valde suspectum; quanquam verisimilius videatur,
+            quod eo tempore, quo tanquam vere poenitens ab haeresi revertebatur ad fidem, tam grave
+            mendacium non dixisset, praesertim in fratrem, quem utique tanquam carissimum non
+            asseruisset haereticum, nisi fuisset accensus zelo fidei orthodoxae. Unde praesumitur,
+            quod, quum postea purgavit illum de haeresi, turpiter deieravit. Quocirca discretioni
+            vestrae per apostolica scripta [praecipiendo] mandamus, quatenus, quum propter solam
+            suspicionem, quamvis utique vehementem, nolumus illum de tam gravi crimine condemnari,
+            talem et tantam securitatem recipiatis ab ipso praeter iuratoriam cautionem, quod timore
+            poenae corporalis debeat coerceri, discretam ei poenitentiam iniungentes, ex qua valeat
+            apparere, utrum in tenebris ambulet, an in luce, utrumve sit vere poenitens, an ficte
+            conversus. Et si eum hoc modo verum catholicum cognoveritis, non sinatis ipsum indebite
+            molestari; alioquin eum tanquam haereticum condemnetis. [Dat. Ferentini Kal. Iun. Ao.
+            IX. 1206.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e320">
+          <head xml:id="cice-l2t23-Hd1e322">CAP. XV.</head>
+          <p xml:id="cice-l2t23-d1e325">Non praesumitur incontinens in senectute, qui in iuventute continuit, maxime si est
+            literatus.</p>
+          <p xml:id="cice-l2t23-d1e328">Idem Cenadiensi Episcopo et Abbati Deciquorum.</p>
+          <p xml:id="cice-l2t23-d1e331">Quum in iuventute sua venerabilis frater noster C. Quinqueecclesiensis episcopus adeo
+            se maturum, honestum et providum exhibuerit, ut propter suavem suae probitatis odorem ab
+            ecclesia Romana meruerit pallio decorari, non est de levi credendum, quod, postquam ad
+            senilem pervenit aetatem, turpiter abiecerit iugum Domini, foetores et foeditates
+            libidinis amplexando; quum labes huiusmodi, quae nonunquam in iuventute contrahitur, in
+            senectute frequentius expietur. Quis praeterea de facili crederet, quod vir praeditus
+            scientia literarum, propriae salutis oblitus, ad eam passionis ignominiam se
+            converteret, ut cum propria nepte abominabilem perpetraret incestum, quum, etiam
+            secundum sententias ethnicorum naturale foedus inter tales personas nihil permittat
+            saevi criminis suspiciari? Licet igitur illustris memoriae rex Hungariae eundem
+            episcopum nobis interdum per nuncios et literas de tali crimine detulisset, suppliciter
+            et instanter postulans, ut malum huiusmodi pernitiosum exemplo de Hungarica ecclesia
+            tolleremus, quia tamen eius suggestio non de caritatis radice, sed ex odii fomite
+            procedere videbatur, quum ipsum tanquam inimicum persequi non cessaret, sicut est in
+            tota provincia manifestum: noluimus aures nostras quasi malignis delationibus inclinare,
+            sed, ut probaremus, si spiritus esset ex Deo, bonae memoriae Auriensi episcopo dedimus
+            in mandatis, ut prudenter et caute a coepiscopis indagaret, utrum praefatum episcopum
+            crederent tali labe respersum. Qui nobis postmodum rescripserunt, quod eum virum
+            honestae conversationis esse credebant, personam illius multipliciter commendantes.
+            [Quia vero etc. (cf. c. 12. de purg. can. V. 34.) Dat. Ferentini Non. Iul. Ao. IX.
+            1206.]</p>
+        </div>
+        <div xml:id="cice-l2t23-Dd1e335">
+          <head xml:id="cice-l2t23-Hd1e337">CAP. XVI.</head>
+          <p xml:id="cice-l2t23-d1e340">Is, pro quo beneficiando scribitur cum clausula, si idoneus fuerit, non tenetur probare
+            se idoneum, quum idoneus praesumatur.</p>
+          <p xml:id="cice-l2t23-d1e343">Idem Archidiacono et Praeposito Mediolanensibus.</p>
+          <p xml:id="cice-l2t23-d1e346">Dudum bonae memoriae archidiacono Mediolanensi dedimus in mandatis, ut dilectum filium
+            C. scholarem a presbytero sancti Victoris XL. martyrum, qui solus in ipsa ecclesia
+            ministrabat, in qua, sicut scholaris idem assuerit, quondam ministraverunt clericus et
+            sacerdos, in clericum eiusdem ecclesiae recipi faceret et in fratrem, †cuius facultates
+            idem scholaris proponit nullatenus imminutas. Sed presbyter memoratus ipsius
+            archidiaconi malitiose declinans examen, I. clericum [pro se] ad nostram praesentiam
+            destinavit, cui et praefato C. venerabilem fratrem nostrum Tranensem archiepiscopum
+            apostolicae sedis legatum, tunc subdiaconum et capellanum nostrum, dedimus auditorem,
+            coram quo dictus Ioannes asseruit, quod nequaquam sufficiebant duobus clericis
+            facultates ecclesiae memoratae, adiiciens, quod praedictus C. non erat idoneus ad illius
+            ecclesiae beneficium obtinendum. †[Unde nos venerabili fratri nostro … Patriarchae
+            Hierosolymitano, tunc Episcopo Vercellensi, de illorum assensu mandavimus ut si
+            praedictus C. legitime coram ipso probaret quod facultates ecclesiae supradictae
+            imminutae non essent, sed duobus sufficerent, et persona eius esset idonea, presbyterum
+            supradictum ad receptionem ipsius per censuram ecclesiasticam appellatione remota
+            compelleret, contradictores vel rebelles, si qui forsitan apparerent, a praesumptione
+            sua districtione simili, cessante appellatione, compescens; alioquin perpetuum silentium
+            scholari super hoc imponeret memorato. Testes etiam qui nominarentur eidem, si se
+            gratia, odio, vel timore subtraherent, canonica districtione, cessante appellatione,
+            compelleret perhibere testimonium veritati. Quum autem praefatus scholaris ad probandum
+            quod facultates ecclesiae imminutae non essent, sed duobus sufficerent, ad praedicti
+            Patriarchae tunc Vercellensis Episcopi praesentiam multotiens accessisset, et idem
+            Episcopus testes nominatos ab ipso, quia monitione praemissa nolebant veritati
+            testimonium perhibere, interdicto supposuisset, venerabilis frater noster … tunc
+            Mediolanensis Archiepiscopus interdictum ipsum auctoritate propria relaxavit. Quare
+            supradictus C. ius suum non potuit obtinere. Unde tibi, fili Praeposite, dedimus
+            postmodum in praeceptis ut inspectis attestationibus iam receptis, quas voluimus ut per
+            censuram ecclesiasticam tibi faceres exhiberi, secundum eas et alias, si quas partes
+            legitime ducerent proferendas, quum nondum essent, quae receptae fuerant, publicatae,
+            causam ipsam iuxta tenorem praecedentium litterarum, sublato cuiuslibet contradictionis
+            et appellationis obstaculo, ratione praevia terminares. Partibus igitur propter hoc in
+            tua postmodum praesentia constitutis, quum dictus C. ad probandum quod facultates
+            ecclesiae suppetebant, quosdam patronos et parochianos ecclesiae ad ferendum testimonium
+            nominasset, et ipsi licet a te saepius moniti, nollent testimonium perhibere, quibusdam
+            se rationibus excusantes, tu eos, nisi usque ad quindecim dies ex tunc venirent ad
+            testimonium perhibendum, excommunicationis vinculo innodasti; sed ipsi ante praefixum
+            diem ad sedem apostolicam provocarunt; quare non fuit ulterius in causa processum.
+            Volentes igitur ut finis eidem controversiae imponatur,] Causam vobis duximus
+            committendam [praesentium vobis auctoritate praecipiendo mandantes, quatenus laicis
+            supradictis ad cautelam absotulionis beneficium impendatis, et causam ipsam iuxta
+            priorum literarum continentiam appellatione remota, ratione praevia terminetis;] ita, ut
+            ex illa clausula, scilicet si persona fuerit idonea, quae nostro rescripto reperitur
+            inserta, eidem scholari probandi se idoneum nulla necessitas imponatur, quum prima facie
+            praesumatur idoneus, nisi aliud contrarium ostendatur. [Testes autem etc. Dat. Later. V.
+            Id. Mai. Ao. X. 1207.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

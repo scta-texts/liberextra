@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.12. DE SCRUTINIO IN ORDINE FACIENDO.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.12. DE SCRUTINIO IN ORDINE FACIENDO.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t12">
+        <head xml:id="cice-l1t12-Hd1e105">1.12. DE SCRUTINIO IN ORDINE FACIENDO.</head>
+
+        <div xml:id="cice-l1t12-Dd1e108">
+          <head xml:id="cice-l1t12-Hd1e110">CAP. UN.</head>
+          <p xml:id="cice-l1t12-d1e113">Episcopus interrogatus in scrutinio episcopi ordinandi, potest respondere illum dignum,
+            si non novit illum indignum.</p>
+          <p xml:id="cice-l1t12-d1e116">Innocentius III.</p>
+          <p xml:id="cice-l1t12-d1e119">Ex parte tua fuit propositum (Et infra:) Quaesivisti praeterea per sedem apostolicam
+            doceri, ut, quum episcopi ad consecrationes episcoporum ab archiepiscopo vel etiam alio
+            evocentur, et ipsi metropolitano electum offerant consecrandum, dicentes: “Reverende
+            pater, postulat sancta mater ecclesia hunc electum in episcopum consecrari, et
+            interrogante archiepiscopo, si sciant, illum esse dignum, respondeant, quod illum sciunt
+            et credunt pariter esse dignum, et te in responsione huiusmodi, ne offenderes hominem,
+            Deum existimes offendisse, quandoque praeter, quandoque contra conscientiam respondendo,
+            quum electi conversatio aut minus tibi cognita aut penitus sit ignota, qualiter in
+            huiusmodi interrogationibus, salva conscientia, valeas respondere. Ad quod Fraternitati
+            tuae taliter respondemus, quod, quum nos aliquem in diaconum vel presbyterum promovemus,
+            prior diaconorum, qui nobis assistit, dicit: “Postulat sancta mater ecclesia catholica
+            hunc diaconum vel subdiaconum ad onus presbyteratus vel diaconatus assumi,” et nobis
+            interrogantibus, si eum cognoverit esse dignum, idem respondet, quod, quantum humana
+            fragilitas nosse sinit, et scit, et testificatur, illum ad huiusmodi onus officii esse
+            dignum. Unde in tali responsione aliquem peccare non credimus, dummodo contra
+            conscientiam non loquatur, quia non simpliciter illum asserit esse dignum, sed in
+            quantum humana fragilitas nosse sinit, quum illum, quem indignum esse non novit, dignum
+            debeat aestimare. Huiusmodi ergo responsione secure uti poteris, nisi forte de
+            indignitate tibi constiterit consecrandi. Si autem illum indignum esse cognoscis,
+            metropolitano, priusquam ad huiusmodi scrutinium veniatur, secreto studeas nunciare vel
+            intimare, quamvis, ut duximus, nos interrogationem huiusmodi non in consecratione
+            pontificis, sed in ordinatione diaconi vel presbyteri faciamus. [Postulasti etc. Dat.
+            Rom. ap. S. Petr. Id. Mart. Ao. IX. 1206.]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

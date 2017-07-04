@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1.24. DE OFFICIO ARCHIPRESBYTERI.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>1.24. DE OFFICIO ARCHIPRESBYTERI.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l1t24">
+        <head xml:id="cice-l1t24-Hd1e105">1.24. DE OFFICIO ARCHIPRESBYTERI.</head>
+
+        <div xml:id="cice-l1t24-Dd1e108">
+          <head xml:id="cice-l1t24-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l1t24-d1e113">Archipresbyter civitatis subest archidiacono, et principaliter praeest presbyteris et
+            presbyteralibus officiis.</p>
+          <p xml:id="cice-l1t24-d1e116">Ex concilio Toletano.</p>
+          <p xml:id="cice-l1t24-d1e119">Ut archipresbyter sciat se subesse archidiacono, et eius praeceptis sicut sui episcopi
+            obedire et, quod specialiter ad eius pertinet ministerium, super omnes presbyteros in
+            ordine presbyterali positos curam agere animarum, et assidue in ecclesia stare, et in
+            episcopi sui absentia ad vicem eius missarum solennia celebret, et collectam dicat, aut
+            cui ipse iniunxerit.</p>
+        </div>
+        <div xml:id="cice-l1t24-Dd1e123">
+          <head xml:id="cice-l1t24-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l1t24-d1e128">Ad idem.</p>
+          <p xml:id="cice-l1t24-d1e131">Leo Papa.</p>
+          <p xml:id="cice-l1t24-d1e134">Ministerium archipresbyteri in eo constituitur, ut diligenti cura provideat ministerium
+            sacerdotum cardinalium, qui solenne debent agere officium in communicatione corporis et
+            sanguinis Domini nostri Iesu Christi ita, ut vicissim eos sibimet succurrere faciat,
+            quatenus a sacrosancto die dominico incipiendo, per omnes horas canonicas
+            indeclinabiliter perseverent, ut opus Dei digne et sancte perficiatur ab eo, cui
+            committitur, †verens sententiam illius sapientissimi, ubi dicitur: “Maledictus homo, qui
+            negligenter facit opera Dei.” §. 1. Provideat etiam archipresbyter vitam sacerdotum
+            cardinalium, praeceptis sui obtemperando episcopi, ne aliquando cedant, aut scurrilitate
+            torpeant, †sed reminiscantur, quod labia sacerdotum custodiant scientiam, et legem
+            requirunt ex ore eius, qui angelus Domini exercituum est. §. 2. Si episcopus defuerit,
+            exceptis his, quae prohibita sunt, archipresbyter provideat cuncta, quae in sacerdotum
+            ministerio perfici debeant, [id est] fontes benedicere, infirmum oleo perungere,
+            poenitentem infirmum, consulto episcopo, reconciliare, poenitentiam cunctis aliis
+            sacerdotibus, quae ad purgationem animarum pertinet, iniungere. §. 3. In praecipuis
+            festivitatibus aut ipse celebrationem missae solenniter impleat, aut ad oris sui
+            iussionem, cui committitur, peragat veneranter.</p>
+        </div>
+        <div xml:id="cice-l1t24-Dd1e138">
+          <head xml:id="cice-l1t24-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l1t24-d1e143">Declarat, quod sit officium archipresbyteri civitatensis. Ant. de But.</p>
+          <p xml:id="cice-l1t24-d1e146">Idem.</p>
+          <p xml:id="cice-l1t24-d1e149">Officium archipresbyteri de urbe constat, quando ibi praesul defuerit, vice eius
+            officium inchoare, benedictiones presbyterales in ecclesia dare, missam, quando
+            voluerit, cantare, vel cui de sacerdotibus iusserit. Quando vero episcopus missam canit,
+            debet praecipere sacerdotibus, ut induant se vestibus sacris, et qualiter ad missam
+            procedant. Debet enim praecipere custodi ecclesiae, ut in sacrario eucharistia Christi
+            propter infirmos non desit. Debet infirmis providere, et providendo praecipere
+            sacerdotibus, ne forte sine confessione, vel confirmatione corporis et sanguinis Domini
+            nostri Iesu Christi moriantur; confessiones vero peccatorum eorum, qui a foris veniunt,
+            recipere cum omnibus sacerdotibus, et exinde per provisionem pontificis magnam debet
+            illis adhibere curam. Ad Christianos quoque faciendos, et baptizandos infantes, et ad
+            succurrendum, omnia a sacerdotibus per iussionem illius fiant.</p>
+        </div>
+        <div xml:id="cice-l1t24-Dd1e153">
+          <head xml:id="cice-l1t24-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l1t24-d1e158">Archipresbyter ruralis presbyterorum et laicorum plebaniae suae curam gerit: contra
+            decretum tamen episcopi nihil ordinare potest.</p>
+          <p xml:id="cice-l1t24-d1e161">Idem ex synodo Ravennae habita.</p>
+          <p xml:id="cice-l1t24-d1e164">Ut singulae plebes archipresbyterum habeant; propter assiduam erga populum Dei curam,
+            singulis plebibus archipresbyteros praeesse volumus, qui non solum imperiti vulgi
+            sollicitudinem gerant, verum etiam eorum presbyterorum, qui per minores titulos
+            habitant, vitam iugi circumspectione custodiant, et qua unusquisque industria divinum
+            opus exerceat, episcopo suo renunciet. §. 1. Nec contendat episcopus, non egere plebem
+            archipresbytero, quasi ipse eam gubernare valeat, quia, etsi valde idoneus sit, decet
+            tamen, ut sua onera partiatur, et sicut ipse matrici ecclesiae praeest, ita
+            archipresbyteri praesint plebibus, ut in nullo titubet ecclesiastica sollicitudo. Cuncta
+            tamen referant ad episcopum, nec aliquid contra eius decretum ordinare praesumant.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

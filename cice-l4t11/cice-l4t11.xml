@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>4.XI. DE COGNATIONE SPIRITUALI.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>4.XI. DE COGNATIONE SPIRITUALI.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l4t11">
+        <head xml:id="cice-l4t11-Hd1e105">4.XI. DE COGNATIONE SPIRITUALI.</head>
+
+        <div xml:id="cice-l4t11-Dd1e108">
+          <head xml:id="cice-l4t11-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l4t11-d1e113">Filii duorum compatrum, per quorum neutrum deventum est ad compaternitatem, licite
+            contrahunt, nisi consuetudo repugnet; separantur autem, si per eorum alterum vel
+            utrumque compaternitas est contracta. H. d. cum cap. Super eo, infra eod.</p>
+          <p xml:id="cice-l4t11-d1e116">Alexander III. Salernitano Archiepiscopo.</p>
+          <p xml:id="cice-l4t11-d1e119">Utrum autem filii aut filiae ante vel post compaternitatem geniti possint adinvicem
+            copulari, canones secundum diversorum locorum consuetudines contrarii inveniuntur. Et
+            licet primus canon exinde editus natos post compaternitatem adinvicem copulari
+            prohibeat, alter tamen canon posterius editus primum videtur corrigere, per quem
+            statuitur, ut, sive ante sive post compaternitatem geniti sunt, simul possint coniungi,
+            excepta illa persona duntaxat, per quam ad compaternitatem venitur. Unde tolerabilius
+            nobis videtur, ut secundum posteriorem canonem debeat observari: nisi consuetudo
+            ecclesiae, quae scandalum generet, aliter se habere noscatur.</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e123">
+          <head xml:id="cice-l4t11-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l4t11-d1e128">Compaternitas, scienter vel ignoranter superveniens inter coniuges, coniugium non
+            dissolvit.</p>
+          <p xml:id="cice-l4t11-d1e131">Idem eidem.</p>
+          <p xml:id="cice-l4t11-d1e134">Si vir vel mulier scienter vel ignoranter filium suum de sacro fonte susceperint, an
+            propter hoc ab invicem separari debeant et alii copulari, quia nos consulere voluisti,
+            Consultationi tuae taliter respondemus, quod, quamvis generaliter sit institutum, ut
+            debeant separari, quidam tamen, humanius et potius sentientes, aliter statuerunt.
+            Ideoque nobis videtur, quod, sive ex ignorantia sive ex malitia id fecerint, non sunt ab
+            invicem separandi, nec alter alteri debitum debet subtrahere, nisi ad continentiam
+            servandam possint induci: quia, si ex ignorantia id factum est, eos ignorantia excusare
+            videtur; si ex malitia, eis sua fraus non debet patrocinari vel dolus.</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e138">
+          <head xml:id="cice-l4t11-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l4t11-d1e143">Filii duorum compatrum, per quorum neutrum deventum est ad compaternitatem, licite
+            invicem contrahunt matrimonium; si tamen subest consuetudo, impediens et dirimens talia
+            matrimonia, servanda est loci consuetudo. H. d. secundum intellectum magis communem,
+            attingendo mentem capituli.</p>
+          <p xml:id="cice-l4t11-d1e146">Idem Vigiliensi Episcopo.</p>
+          <p xml:id="cice-l4t11-d1e149">Super eo, quod a nobis tua fraternitas requisivit de duorum compatrum filiis,
+            respondemus, quod si tales filii fuerint, per quorum alterum vel utrumque parentes ad
+            compaternitatem venerunt, eos coniungi nulla ratione sustineas, et coniunctos
+            pontificali auctoritate ab invicem ipsos non differas separare. Ceterum si per neutrum
+            eorum ad compaternitatem ventum fuerit, de his te volumus consuetudinem tuae
+            metropolitanae ecclesiae vel aliarum circumpositarum inquirere et diligentius imitari,
+            ita quidem, quod, si eiusdem ecclesiae consuetudo habeat inter eos non sustinere
+            coniugium fieri, nec factum firmitatis robur habere, tu simili modo in ecclesia tibi
+            commissa coniugium huiusmodi fieri non permittas, et, si quos taliter coniunctos
+            inveneris, iuxta earundem ecclesiarum consuetudinem ipsos separare ab invicem non
+            omittas. Verum si de consuetudine habeatur, ut talia coniugia sustineantur et
+            permittantur, id in ecclesia tua dissimulare poteris ita, quod nec tuum videaris
+            praestare assensum, quia, sicut grave est antiquam consuetudinem circumadiacentium
+            ecclesiarum super his contemnere, sic quoque gravius videtur, si propter eam huiusmodi
+            coniugiis tuum indulges assensum, quum posset sic in exemplum assumi.</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e153">
+          <head xml:id="cice-l4t11-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l4t11-d1e158">Inter patrem baptizati et uxorem levantis, prius ab eo cognitam, contrahitur
+            compaternitas efficax ad matrimonium dirimendum.</p>
+          <p xml:id="cice-l4t11-d1e161">Clemens III.</p>
+          <p xml:id="cice-l4t11-d1e164">Martinus Bertham duxit in uxorem, Tebergam sibi copulavit Lotharius, qui Berthae et
+            Martini filium de sacro fonte suscepit. L. vero et B. sublatis de medio, M. cum T.
+            praefata contraxit; quaerit a nobis tua fraternitas, utrum tales sint ab invicem
+            separandi. Nos autem consultationi tuae duximus respondendum, quod, quum secundum verbum
+            Domini vir et mulier efficiantur per connubium una caro, liquidum est, Tebergam non
+            posse matrimonialiter copulari Martino, qui compater eius fuerat, cum quo una caro ipsa
+            Teberga noscitur exstitisse. [Super alio etc. (cf. c. 5. de eo, qui cogn. IV. 13.) Dat.
+            Laterani.]</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e169">
+          <head xml:id="cice-l4t11-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l4t11-d1e174">Compaternitas, per catechismum contracta, impedit matrimonium contrahendum, sed
+            contractum non dirimit.</p>
+          <p xml:id="cice-l4t11-d1e177">Idem.</p>
+          <p xml:id="cice-l4t11-d1e180">Contracto matrimonio inter P. de Rigale et A. uxorem suam, sicut eiusdem P. nobis
+            conquestio patefecit, quum per biennium insimul habitassent, et filium ex ipsa uxore
+            memoratus P. suscepissset, quidam consanguinei eiusdem A., volentes eam separari a viro,
+            contra matrimonium obiecerunt, asserentes, quod eadem A. in primo sacrati salis pabulo
+            filium quondam concubinae ipsius P. tenuit, quum fuit primum in ecclesia inductus; et
+            propter hoc tuam praesentiam adeuntes dicebant, ipsam debere a viro per tuum iudicium
+            separari. Tua vero fraternitas, sicut accepimus, causa non cognita, iis carnale
+            commercium interdixit, prohibens ipsi P., ne debitum ab uxore requireret. Verum, si
+            constaret ecclesiae, vera esse quae diximus, non ideo tamen contractum matrimonium
+            solveretur, quae res utique vix contrahendo matrimonio impedimentum afferret. Ideoque
+            discretioni tuae per apostolica scripta Mandamus, quatenus praefato P. auctoritate
+            nostra firmiter iniungas, ut memoratam A. sicut uxorem propriam maritali affectione
+            pertractet, et carnale debitum ab ea licenter exigat et persolvat, sive, quod supra
+            dictum est, ipsam A. ante matrimonium contractum cum P., sive postea constiterit hoc
+            egisse; dum tamen, si in fraudem hoc fecerit causa matrimonii separandi, poenitentiam
+            pro praesumptione accipiat, matrimonio in sua firmitate durante.</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e184">
+          <head xml:id="cice-l4t11-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l4t11-d1e189">Inter patrem baptizati et levantem seu tenentem baptizatum contrahitur cognatio
+            spiritualis valida ad impediendum, et dirimendum matrimonium postcontractum.</p>
+          <p xml:id="cice-l4t11-d1e192">Innocentius III. Episcopo et Archidiacono Linconiensibus.</p>
+          <p xml:id="cice-l4t11-d1e195">Veniens ad apostolicam sedem C. Anglicus natione nobis exposuit, quod, quum olim in
+            adolescentia constitutus mulieri cuidam adhaesisset, quam quidam alius ante cognoverat,
+            de consilio matris suae factum est, ut eadem mulier quendam puerum, quem de alia soluta
+            ipse susceperat, de sacro fonte levaret ad suspicionem et infamiam utriusque delendam.
+            Deinde vero, quum in eius amorem vehementius exarderet, absque consilio amicorum eam
+            clanculo desponsavit. Quumque prolem ex ea procreare non posset, et increpationes a
+            patre suo gravissimas sustineret, quod eam desponsando deliquerat revolvens in animo,
+            ipsa dimissa, causa orationis Hierosolymam est profectus. Verum quum idem rediens de
+            partibus transmarinis prolem eam suscepisse de alio invenisset, ei noluit adhaerere; sed
+            propter adulterium, quod commisisse taliter videbatur, ea omnino dimissa, ad longinquam
+            se transferens regionem, et ad Eugubinam tandem veniens civitatem, quandam ibidem cum
+            terra competenti et dote decenti sibi matrimonialiter copulavit, de qua prolem se
+            confessus est suscepisse. Ea propter discretioni vestrae per apostolica scripta
+            Mandamus, quatenus super his inquiratis diligentius veritatem, et, si constiterit, H.
+            mulierem praedicti viri filium de sacro fonte levasse, antequam eam desponsasset uxorem,
+            vos inter eos divortium, appellatione postposita, celebretis, rei processum nobis per
+            literas vestras fideliter exponentes ut an cum secundo legitime commorari valeat
+            veritate cognita decernere valeamus. [Dat. ap. civitatem Castellanam VIII. Id. Oct.
+            1198.]</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e199">
+          <head xml:id="cice-l4t11-Hd1e201">CAP. VII.</head>
+          <p xml:id="cice-l4t11-d1e204">Si filii duorum compatrum, per quorum alterum deventum est ad compaternitatem,
+            matrimonium contrahant, separantur, et tempore contractus scientes impedimentum illud
+            denunciare tenentur.</p>
+          <p xml:id="cice-l4t11-d1e207">Idem Magistro S. Canonico Herfordensi.</p>
+          <p xml:id="cice-l4t11-d1e210">Tua nos duxit discretio consulendos, an natus ante compaternitatem filiam compatris sui
+            vel commatris procedente tempore sibi possit matrimonialiter copulare, et, si cum ea
+            contraxit, et pluribus annis simul permanserit, an postea debeant separari, et an
+            conscii talis matrimonii teneantur illud in publico accusare. Super quo discretioni tuae
+            taliter respondemus, quod huiusmodi personae non matrimonium contrahere, et, si
+            contraxerint, de iuris rigore possunt ab invicem separari, et, qui contractum sciverint,
+            debent ecclesiae illud nunciare. [Dat. Lat. XV. Kal. Apr. 1202.]</p>
+        </div>
+        <div xml:id="cice-l4t11-Dd1e214">
+          <head xml:id="cice-l4t11-Hd1e216">CAP. VIII.</head>
+          <p xml:id="cice-l4t11-d1e219">Inter baptizatum et filium baptizantis oritur cognatio spiritualis, impediens et
+            dirimens matrimonium inter eos contrahendum. H. d.</p>
+          <p xml:id="cice-l4t11-d1e222">Gregorius IX.</p>
+          <p xml:id="cice-l4t11-d1e225">Ex literis vestris accepimus, quod, quum M. mulier coram officiali Cantiuariensi Alanum
+            peteret in virum, et se affidatam ab eo ac carnaliter cognitam per testes idoneos
+            probavisset, dictorum tandem testium depositionibus publicatis, idem A. excipiendo
+            proposuit, quod eam habere non poterat in uxorem pro eo, quod ipsum pater mulieris
+            eiusdem, qui sacerdos exstitit, baptizavit. Sed quum idem officialis, exceptione
+            huiusmodi non admissa, diffinitivam tulerit sententiam contra ipsum, et idem ad sedem
+            apostolicam appellaverit, mandamus, quatenus, si est ita, eundem A. super hoc ab
+            impetitione mulieris absolvatis ipsius, eidem mulieri perpetuum silentium
+            imponentes.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

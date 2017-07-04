@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.06. DE CLERICO AEGROTANTE VEL DEBILITATO.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.06. DE CLERICO AEGROTANTE VEL DEBILITATO.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t6">
+        <head xml:id="cice-l3t6-Hd1e105">3.06. DE CLERICO AEGROTANTE VEL DEBILITATO.</head>
+
+        <div xml:id="cice-l3t6-Dd1e108">
+          <head xml:id="cice-l3t6-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t6-d1e113">Clericus infirmus integre percipit fructus beneficii sui.</p>
+          <p xml:id="cice-l3t6-d1e116">Gregorius Candido Episcopo Urbevetano.</p>
+          <p xml:id="cice-l3t6-d1e119">Quum percussio corporalis, †[utrum pro purgatione an pro vindicta contingat, Dei in hoc
+            iudicium ignoratur, non debet a nobis addi flagellatis afflictio, ne nos culpae,] quod
+            absit, offensa respiciat. Et quia praesentium lator Calumniosus pro hac percussione,
+            quam sustinet, consueta sibi commoda ab ecclesia vestra asserit negari, idcirco
+            Fraternitatem tuam praesentibus hortamur epistolis, quatenus latorem praesentium ad
+            percipienda beneficia, quae consueta sunt ab ecclesia tua, aegritudo sua non debeat
+            impedire; quia, si alii eius essent exemplo deterriti, forte non posset qui militaret
+            ecclesiae inveniri, sed secundum loci eius ordinem quaecunque ei, si sanus esset,
+            poterant ministrari, de ipsa exiguitate, quae ecclesiae potest accedere, fraternitas tua
+            divini contemplatione iudicii praebeat aegrotanti, [quatenus etc.]</p>
+        </div>
+        <div xml:id="cice-l3t6-Dd1e123">
+          <head xml:id="cice-l3t6-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t6-d1e128">Presbyter, cui medietas palmae cum duobus digitis est abscissa, missam non celebrat,
+            sed ceteris sacerdotalibus fungi potest.</p>
+          <p xml:id="cice-l3t6-d1e131">Eugenius Papa.</p>
+          <p xml:id="cice-l3t6-d1e134">Presbyterum, cuius duos digitos cum medietate palmae a praedone abscissos esse
+            significasti, missam non permittimus celebrare, quia nec secure propter debilitatem, nec
+            sine scandalo propter deformitatem membri hoc fieri posse confidimus. Ipsum autem
+            ceteris officiis sacerdotalibus fungi minime prohibemus. [Praeterea etc. (cf. c. 1. de
+            apostat. V. 9.)]</p>
+        </div>
+        <div xml:id="cice-l3t6-Dd1e138">
+          <head xml:id="cice-l3t6-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t6-d1e143">Si rector ecclesia sit leprosus, dandus est ei coadiutor.</p>
+          <p xml:id="cice-l3t6-d1e146">Lucius III.</p>
+          <p xml:id="cice-l3t6-d1e149">De rectoribos ecclesiarum leprae macula usque adeo infectis, quod altari servire non
+            possunt, nec sine magno scandalo eorum, qui sani sunt, ecclesias ingredi, hoc volumus te
+            tenere, quod eis dandus est coadiutor, qui curam habeat animarum, et de facultatibus
+            ecclesiae ad sustentationem suam congruam recipiat portionem.</p>
+        </div>
+        <div xml:id="cice-l3t6-Dd1e153">
+          <head xml:id="cice-l3t6-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t6-d1e158">Si rector ecclesiae sit leprosus, ab administrationis officio removetur; sed de bonis
+            ecclesiae sustentatur.</p>
+          <p xml:id="cice-l3t6-d1e161">Clemens III. Tua nos duxit fraternitas consulendos: (Et infra: [cf. c. 19. de sent.
+            exc. V. 39.]) De sacerdote vero, qui divino iudicio leprae morbo repercussus in
+            parochiali ecclesia praelationis officio fungitur, dicimus, quod pro scandalo et
+            abominatione populi ab administrationis debet officio removeri, ita quidem, quod iuxta
+            facultates ecclesiae sibi necessaria, quamdiu vixerit, ministrentur.</p>
+        </div>
+        <div xml:id="cice-l3t6-Dd1e166">
+          <head xml:id="cice-l3t6-Hd1e168">CAP. V.</head>
+          <p xml:id="cice-l3t6-d1e171">Episcopo, qui propter morbum incurabilem pastorale officium exercere non potest, dandus
+            est coadiutor.</p>
+          <p xml:id="cice-l3t6-d1e174">Innocentius III. Arelatensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t6-d1e177">Ex parte fuit propositum coram nobis, quod, quum venerabilis frater noster Aurasiensis
+            episcopus gravi et incurabili morbo fere iam per quadriennium labotaverit ita, quod
+            pastorale officium non potuit, nec potest ullatenus exercere, nobilis vir de Baucio
+            princeps terrae illius, consules ac cives civitatis eiusdem a te postulant incessanter,
+            ut tam ipsis quam Aurasicensi ecclesiae, quum sis metropolitanus eorum, studeas
+            providere. Verum quum tu ipsum ad cessionem compellere non possis, nec debeas ullo modo,
+            nec afflictio afflictio sit addenda, immo potius sit ipsius miseriae miserendum, eo,
+            quod idem vir bonus exstiterit et honestus, et ecclesiam salubriter sibi commissam
+            gubernaverit, quid super his agere debeas, sedem duxisti apostolicam consulendam. Nos
+            igitur volentes tam praefato episcopo quam ecclesiae suae salubriter providere,
+            fraternitati tuae taliter respondemus et per apostolica scripta mandamus, quatenus illi
+            coadiutorem associes virum providum et honestum, per quem tam episcopo quam populo sibi
+            commisso utiliter consulatur. [Dat. Rom. ap. S. Petr. IV. Non. Dec. Pont. nostr. Ao.
+            VII. 1204.]</p>
+        </div>
+        <div xml:id="cice-l3t6-Dd1e181">
+          <head xml:id="cice-l3t6-Hd1e183">CAP. VI.</head>
+          <p xml:id="cice-l3t6-d1e186">Honorius III. Episcopo Aversano.</p>
+          <p xml:id="cice-l3t6-d1e189">Consultationibus (Et infra:) Archidiacono autem, quem morbo paralytico laborantem
+            officium linguae asseris amisisse, coadiutor est merito adhibendus, maxime si de ipsius
+            processerit voluntate.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

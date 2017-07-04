@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2.15. DE EO, QUI MITTITUR IN POSSESSIONEM CAUSA REI SERVANDAE.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>2.15. DE EO, QUI MITTITUR IN POSSESSIONEM CAUSA REI SERVANDAE.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l2t15">
+        <head xml:id="cice-l2t15-Hd1e105">2.15. DE EO, QUI MITTITUR IN POSSESSIONEM CAUSA REI SERVANDAE.</head>
+
+        <div xml:id="cice-l2t15-Dd1e108">
+          <head xml:id="cice-l2t15-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l2t15-d1e113">Missus in possessionem ex primo decreto in reali, per lapsum anni veram et
+            incommutabilem illius rei possessionem acquirit, licet passus missionem habuerit infra
+            annum voluntatem cautionem praestandi, quam tamen non deduxit ad effectum suo defectu.
+            Hoc dicit secundum verum intellectum.</p>
+          <p xml:id="cice-l2t15-d1e116">Alexander III. Priori et Fratribus de Guiseburch.</p>
+          <p xml:id="cice-l2t15-d1e119">Constitutis in praesentia nostra dilecto filio nostro R. canonico vestro, et
+            responsalibus dilecti filii nostri G. praepositi de Beril. super possessione ecclesiae
+            de Lamento, in quam de mandato et auctoritate nostra per iudices delegatos, videlicet
+            Exoniensem episcopum et priorem de Chinelwi, causa rei servandae fueratis inducti, hinc
+            inde fuit coram nobis aliquamdiu disputatum. Tandem vero post rationes et allegationes
+            utrinque productas ex utriusque partis assertione tenuimus, quod licet causa rei
+            servandae tantum in eiusdem ecclesiae possessionem inducti fueritis, infra annum tamen
+            altera pars super eadem causa vobiscum standi iuri non praestitit cautionem: licet
+            voluntatem ipsam cautionem praestandi habuerit, et vos eam parati recipere fuissetis.
+            Inde est, quod nos de communi fratrum nostrorum consilio auctoritate apostolica
+            decernimus, ut vos amodo possessionem praescriptae ecclesiae, salvo iure, quod idem
+            praepositus in petenda ecclesia habere dignoscitur, libere et absque contradictione
+            qualibet habeatis, nec praefatus praepositus super eadem possessione vos audeat
+            aliquatenus de cetero vexationibus fatigare. Ut autem nostrae diffinitionis sententia
+            futuris temporibus inviolabiliter observetur, eam apostolico duximus patrocinio
+            roborandam, statuentes, ut nulli omnino hominum liceat hanc paginam nostrae
+            diffinitionis infringere. Si quis autem hoc attentare praesumpserit, indignationem
+            omnipotentis Dei et Apostolorum Petri et Pauli se asserit incursurum.</p>
+        </div>
+        <div xml:id="cice-l2t15-Dd1e123">
+          <head xml:id="cice-l2t15-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l2t15-d1e128">Tempus annale non currit missionem passo, si infra illud cautionem iudicibus vel alteri
+            eorum aliis absentibus obtulit, licet per eos seu per eum recepta non fuerit. Et est
+            casus notabilis secundum hunc intellectum.</p>
+          <p xml:id="cice-l2t15-d1e131">Clemens III. Episcopo et Archidiacono Eboracensibus.</p>
+          <p xml:id="cice-l2t15-d1e134">Quum, sicut accepimus, inter dilectum filium P. subdecanum Baiocensem et dilectas in
+            Christo filias, abbatissam et conventum sanctae Trinitatis de Cadomo super ecclesia de
+            Capit. quaestio verteretur, de Thaurino et de Corinth. abbates, ac archidiaconus Chima.
+            a sede apostolica delegati, moniales ipsas rei servandae causa in possessionem rei
+            petitae miserunt, quod in personas contumacium iuris videtur constitutio decrevisse.
+            Unde, quum hoc ad subdecani notitiam pervenisset, ad archidiaconum praedictum accessit,
+            et offerens ei sistendi iudicio cautionem, quoniam abbas de Corinth. profectus erat in
+            Angliam, et abbas Thaurinensis viam fuerat universae carnis ingressus, possessionem
+            infra annum sibi iuris ordine resignari cum instantia postulavit, sed non potuit
+            obtinere. †Processu vero temporis moniales, quas diximus, ad venerabilem fratrem nostrum
+            W. Rothomagensem archiepiscopum et dilectos filios abbatem S. Catharinae et I. de Veteri
+            Ponte archidiaconum Rothomagensem literas alias impetrarum, quorum iudicium ideo
+            subdecanus, sicut asserunt, subire recusat, quod praedictum archiepiscopum habet certa
+            ratione suspectum, et metuit, ne coniudices ad partem quamlibet eius auctoritate de
+            facili trahantur. Quia vero nemo invitus suspectorum iudicum compellitur iudicio
+            subiacere, Discretioni vestrae per apostolica scripta mandamus, quatenus, si certam
+            suspicionis causam contra archiepiscopum ostenderit subdecanus, audiatis negotium, et
+            appellatione remota mediante iustitia terminetis, in primis tamen, si, ita est sistendi
+            iudicio ab eo cautione recepta, ei possessionem restitui faciatis. Nec obstare volumus,
+            quod annus elapsus esse proponitur, si per eum non steterit, quo minus infra annum et
+            possessionem receperit, et dederit cautionem. Si quid autem per praedictas literas, ex
+            quo suspectos iudices recusavit, adversus eum super hoc noveritis contra iustitiam
+            innovatum, in statum debitum reducatis, in his omnibus sine appellationis obstaculo
+            processuri.</p>
+        </div>
+        <div xml:id="cice-l2t15-Dd1e138">
+          <head xml:id="cice-l2t15-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l2t15-d1e143">Si passus missionem, repetens possessionem, allegat se contumacem non fuisse,
+            restituitur in pristinum statum praestita cautione, et dilata condemnatione expensarum,
+            quam evitat, si postea constiterit, eum non fuisse contumacem.</p>
+          <p xml:id="cice-l2t15-d1e146">Innocentius III. Urbinati et Senagolensi Episcopis.</p>
+          <p xml:id="cice-l2t15-d1e149">Quum venissent ad apostolicam sedem dilecti filii abbas sancti Angeli pro monasterio
+            suo, et nobilis vir P. Gal. miles pro se, patre et uxore suis, idem P. proposuit coram
+            nobis, quod, quum praedictus abbas eum super quadam possessione coram dilecto filio
+            nostro Ioanne tit. S. Priscae presbytero cardinali, tunc apostolicae sedis legato in
+            Marchia traxit in causam, quod ei secundum bonam terrae consuetudinem responderet, coram
+            eodem asseruit cardinali. Verum legatus ipse causam ipsorum commisit iudicibus secundum
+            ius et bonam terrae illius consuetudinem terminandam. Qui quum secundum ius tantum, et
+            non huiusmodi consuetudinem vellent in causa procedere, praefatus P. ab eis, tanquam qui
+            formam mandati volebant excedere, ad nostram audientiam appellavit; sed iudices
+            nihilominus partem adversam in possessionem rerum petitarum inducendam causa custodiae
+            decreverunt ita, quod, si miles ipse usque ad annum et diem praestaret sistendi iudicio
+            cautionem, et parti alteri triginta libras restitueret pro expensis, et reciperet
+            possessionem eandem. Quumque postmodum dilectus filius noster G. tit. S. Mariae trans
+            Tiberim presbyter cardinalis sedis apostolicae legatus infra annum fuisset terram illam
+            ingressus, ipse cautionem standi iuri obtulit coram eo, et possessionem sibi restitui
+            postulavit. Sed idem legatus praedictum abbatem citavit ad causam, cui postmodum paratus
+            idem miles expensas restituere factas in lite, quae sex librarum summam, sicut asserit,
+            non excedunt; sed abbas triginta librarum sibi restitui petiit quantitatem. (Et infra:)
+            Nos igitur, quum saepe dictus miles possessionem sibi restitui peteret, abbas vero ex
+            secundo decreto verum possessorem se constitui postularet, intelligentes, abbatem ipsum
+            esse confessum in iure, quod saepe dictus miles infra legitimum tempus cardinalem
+            interpellasset eundem, immo etiam infra annum coram eodem cardinali cautionem obtulit
+            standi iuri, et cardinalis ad eum infra annum suas literas destinavit, licet ad
+            longiorem terminum citaretur, ipsum P. cautione praestita in possessionem credimus
+            reducendum, hoc etiam decernentes, ut, si consuetudinem illam, quam miles allegat,
+            laudabilem esse constiterit, quia ex hoc sequitur, eum rationabiliter appellasse, ad
+            restituendas expensas nullatenus compellatur. Alioquin, quodsi consuetudinem illam
+            inveneritis reprobandam, quum ex hoc appareat, eum frustratorie appellasse, ad
+            restitutionem cogatur expensarum illarum, quas abbatem constiterit propter hoc
+            necessarias in lite fecisse.</p>
+        </div>
+        <div xml:id="cice-l2t15-Dd1e153">
+          <head xml:id="cice-l2t15-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l2t15-d1e158">Contra absentem, qui non dimisit procuratorem, facta citatione domi, nullo defendente,
+            fit missio. H. d. supplendo ad literam maxime, ut dicitur in gloss. Et est verus et
+            notabilis intellectus.</p>
+          <p xml:id="cice-l2t15-d1e161">Gregorius IX.</p>
+          <p xml:id="cice-l2t15-d1e164">Si adversarius tuus post citationis edictum, ad remota loca se transferens,
+            procuratorem legitimum non dimisit, et denunciatione publice facta domi non apparet qui
+            defendat eundem, iure petere potes, ut in possessionem earum terrarum, de quibus
+            quaestio vertitur, causa custodiae inducaris.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

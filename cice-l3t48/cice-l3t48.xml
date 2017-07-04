@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3.48. DE ECCLESIIS AEDIFICANDIS VEL REPARANDIS.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>3.48. DE ECCLESIIS AEDIFICANDIS VEL REPARANDIS.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l3t48">
+        <head xml:id="cice-l3t48-Hd1e105">3.48. DE ECCLESIIS AEDIFICANDIS VEL REPARANDIS.</head>
+
+        <div xml:id="cice-l3t48-Dd1e108">
+          <head xml:id="cice-l3t48-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l3t48-d1e113">Habentes beneficium in ecclesia tenentur contribuere ad ipsius reparationem.</p>
+          <p xml:id="cice-l3t48-d1e116">Ex concilio Maguntino.</p>
+          <p xml:id="cice-l3t48-d1e119">Quicunque ecclesiasticum beneficium habent, omnino adiuvent ad tecta ecclesiae
+            restauranda, vel ipsas ecclesias emendandas, et nonam et decimam reddant.</p>
+        </div>
+        <div xml:id="cice-l3t48-Dd1e123">
+          <head xml:id="cice-l3t48-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l3t48-d1e128">Leprosi permitti debent, sine praeiudicio antiquarum parochiarum, habere ecclesiam
+            propriam et presbyterum, nec tenentur solvere decimas de hortis vel nutrimentis
+            animalium.</p>
+          <p xml:id="cice-l3t48-d1e131">Ex concilio Lateranensi.</p>
+          <p xml:id="cice-l3t48-d1e134">Quum dicat Apostolus, †abundantiorem honorem membris inferioribus deferendum, e contra
+            quidam, quae sua sunt, non quae Iesu Christi, quaerentes, leprosis, qui cum sanis
+            habitare, non possunt vel ad ecclesiam cum aliis convenire, ecclesias et coemeteria non
+            permittunt habere, nec proprii iuvari ministerio sacerdotis. Quod quia procul a pietate
+            Christiana esse dignoscitur, de benignitate sedis apostolicae Constituimus, ut ubicunque
+            tot simul leprosi sub communi vita fuerint congregati, quod ecclesiam cum coemeterio
+            sibi construere, et proprio gaudere valeant presbytero, sine contradictione aliqua
+            permittantur habere. Caveant tamen, ut iniuriosi veteribus ecclesiis de iure parochiali
+            nequaquam exsistant. Quod enim eis pro pietate conceditur, ad aliorum iniuriam nolumus
+            redundare. Statuimus etiam, ut de hortis et nutrimentis animalium suorum decimas
+            tribuere non cogantur.</p>
+        </div>
+        <div xml:id="cice-l3t48-Dd1e138">
+          <head xml:id="cice-l3t48-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l3t48-d1e143">Propter nimiam distantiam ecclesiae potest nova ecclesia in ipsius parochia aedificari,
+            et certa portio de antiqua sibi deputari.</p>
+          <p xml:id="cice-l3t48-d1e146">Alexander III. Eboracensi Archiepiscopo.</p>
+          <p xml:id="cice-l3t48-d1e149">Ad audientiam nostram noveris pervenisse, quod villa, quae dicitur H., tantum
+            perhibetur ab ecclesia parochiali distare, ut in tempore hiemali, quum pluviae inundant,
+            non possint parochiani sine magna difficultate ipsam adire, unde non valent congruo
+            tempore ecclesiasticis officiis interesse. Quia igitur dicta ecclesia ita dicitur in
+            reditibus abundare, quod praeter illius villae proventus minister illius convenienter
+            valeat sustentationem habere, fraternitati tuae per apostolica scripta mandamus,
+            quatenus si res ita se habet, ecclesiam ibi aedifices, et in ea sacerdotem, sublato
+            appellationis obstaculo, ad praesentationem rectoris ecclesiae maioris cum canonico
+            fundatoris assensu instituas, ad sustentationem suam eiusdem villae obventiones
+            ecclesiasticas percepturum providens tamen, ut competens in ea honor pro facultate loci
+            matrici ecclesiae servetur, quod quidem fieri posse videtur, quum eiusdem villae dominus
+            viginti acras terrae frugiferae velit ad usus sacerdotis conferre. Si vero persona
+            matricis ecclesiae virum idoneum praesentare distulerit, vel opus illud voluerit
+            impedire, tu nihilominus facias idem opus ad perfectionem deduci, et virum bonum
+            appellationis cessante diffugio instituere non omittas.</p>
+        </div>
+        <div xml:id="cice-l3t48-Dd1e153">
+          <head xml:id="cice-l3t48-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l3t48-d1e158">Rectores ecclesiarum possunt compelli, ut de reditibus, qui supersunt teneantur
+            conferre ad constructionem seu reparationem ecclesiae.</p>
+          <p xml:id="cice-l3t48-d1e161">Idem Lexoviensi Episcopo.</p>
+          <p xml:id="cice-l3t48-d1e164">De his sane, qui parochiales ecclesias habent, fraternitati tuae taliter duximus
+            respondendum, quod ad reparationem et institutionem ecclesiarum cogi debent, quum opus
+            fuerit, de bonis, quae sunt ipsius ecclesiae, si eis supersint, conferre, ut eorum
+            exemplo ceteri invitentur.</p>
+        </div>
+        <div xml:id="cice-l3t48-Dd1e169">
+          <head xml:id="cice-l3t48-Hd1e171">CAP. V.</head>
+          <p xml:id="cice-l3t48-d1e174">Saecularis ecclesia sine praeiudicio clericorum ad statum regularem potest reparari, et
+            collegio, quod nondum est, privilegium non confertur.</p>
+          <p xml:id="cice-l3t48-d1e177">Urbanus III.</p>
+          <p xml:id="cice-l3t48-d1e180">Ad audientiam nostram iam pridem pervenit, quod tu in ecclesia de Cologia, de qua in
+            episcopum vocatus et electus fuisti, regulares canonicos desideras ordinare, et eorum
+            institutioni de bonis tibi collatis congrue providere. Inde siquidem est, quod tuum nos
+            desiderium atque propositum multis modis in Domino laudibus commendantes, hoc devotioni
+            tuae auctoritate apostolica indulgemus, ut iuxta votum tuum canonicos regulares in
+            ecclesia praescripta, si tibi episcopus dioecesanus consenserit in hac parte, ad honorem
+            Dei et ecclesiae tuae secundum beati Augustini regulam valeas ordinare, et eos ibidem
+            nullius contradictione et eos appellatione obstante instituere. Verum si clerici
+            saeculares in ea fuerint, qui adhuc superesse noscuntur, volumus eis, dum vixerint, ibi
+            vel alibi necessaria secundum consuetudines provideri. Licet autem nobis instantius
+            supplicaveris, ut ecclesiae praedictae confirmationis privilegium faceremus de
+            canonicis, tibi non possumus de iure deferre, quum nulli canonici adhuc ibidem
+            exsistant, quibus privilegium concedatur. Eis utique, quum fuerint instituti, tam in his
+            quam in aliis precum tuarum obtentu in quibus cum Deo poterimus libentius deferemus.</p>
+        </div>
+        <div xml:id="cice-l3t48-Dd1e184">
+          <head xml:id="cice-l3t48-Hd1e186">CAP. VI.</head>
+          <p xml:id="cice-l3t48-d1e189">Non obstante iuramento de rebus ecclesiae non alienandis, potest episcopus propter
+            indigentiam novam ecclesiam aedificare.</p>
+          <p xml:id="cice-l3t48-d1e192">Coelestinus III.</p>
+          <p xml:id="cice-l3t48-d1e195">Tua nos duxit (Et infra:) Praeterea, quia occasione iuramenti, quod de rebus ecclesiae
+            non alienandis te asseris praestitisse, in locis tui episcopatus, in quibus populi
+            habitantes oratoriis plurimum egere videntur, ne praetextu novarum ecclesiarum commissa
+            tibi ecclesia destitui videatur, ecclesias formidas erigere, fraternitati tuae
+            praesentium significatione mandamus, quatenus illius iuramenti occasione nullatenus
+            praetermittas, quin populo indigenti super basilicarum institutione studeas salubriter
+            providere.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

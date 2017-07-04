@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.22. DE COLLUSIONE DETEGENDA.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.22. DE COLLUSIONE DETEGENDA.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t22">
+        <head xml:id="cice-l5t22-Hd1e105">5.22. DE COLLUSIONE DETEGENDA.</head>
+
+        <div xml:id="cice-l5t22-Dd1e108">
+          <head xml:id="cice-l5t22-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t22-d1e113">Accusatore desistente ab accusatione, poteet iudex ex officio suo inquirere super
+            crimine illato.</p>
+          <p xml:id="cice-l5t22-d1e116">Gregorius universis Episcopis de Corintho.</p>
+          <p xml:id="cice-l5t22-d1e119">Scripta fraternitatis vestrae relegentes agnovimus, quod hi, qui contra Hadrianum
+            episcopum aliqua dixerant, modo cum eodem episcopo in amicitiam convenissent, †et magna
+            nobis ad praesens facta est de eorum unitate laetitia. Sed, quoniam ea, quae dicta sunt,
+            indiscussa manere non patimur, sedis nostrae diaconum ad ea investiganda dirigimus. Quia
+            vero nunciati facinoris qualitas nos vehementer impellit, ut ea, quae audivimus,
+            dissimulare nullatenus debeamus, praesertim quum accusatores et accusatum inter se
+            fecisse gratiam indicaveritis, hoc nobis necesse est subtilius perscrutari, ne forte non
+            ex caritate, sed ex praemio eorum sit concordia comparata.</p>
+        </div>
+        <div xml:id="cice-l5t22-Dd1e123">
+          <head xml:id="cice-l5t22-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t22-d1e128">Desistente accusatore et accusato iudex prosequitur.</p>
+          <p xml:id="cice-l5t22-d1e131">Idem.</p>
+          <p xml:id="cice-l5t22-d1e134">Crimina semel audita Gregorius indiscussa nullo modo praeteribat, etiamsi accusatus cum
+            accusatore in gratiam rediisset.</p>
+        </div>
+        <div xml:id="cice-l5t22-Dd1e138">
+          <head xml:id="cice-l5t22-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t22-d1e143">Colludens in causa beneficiali privari debet beneficio.</p>
+          <p xml:id="cice-l5t22-d1e146">Alexander III. Norvicensi Episcopo.</p>
+          <p xml:id="cice-l5t22-d1e149">Audivimus, in episcopatu tuo et in aliis episcopatibus Angliae usque adeo clericorum
+            malitiam excrevisse, ut interdum, inter se collusione facta super beneficiis, quae
+            possident, se sustineant ab aliis molestari, et postea, ut quaestioni cedatur, et iidem
+            clerici beneficia quiete possideant, quasi nomine transactionis solvunt aliis de ipsis
+            beneficiis annuam pensionem, ut post mortem eorum in beneficiis illis, super quibus est
+            inter eosdem clericos collusio facta, ius sibi valeant vindicare. Unde, [quia] quid sit
+            tibi exinde faciendum, nos consulere voluisti, fraternitati tuae per apostolica scripta
+            praecipiendo mandamus, quatenus, si quos clericos tuae iurisdictionis per collusionem
+            huiusmodi fraudem legitime tibi constiterit commisisse, eos beneficiis, super quibus
+            collusum fuerit, non differas appellatione remota perpetuo spoliare, quia satis esset
+            indignum et absonum, si fraus et dolus, quae in praeiudicium tui iuris et aliorum
+            nituntur committere, in eorum non redundarent incommodum et iacturam.</p>
+        </div>
+        <div xml:id="cice-l5t22-Dd1e153">
+          <head xml:id="cice-l5t22-Hd1e155">CAP. IV.</head>
+          <p xml:id="cice-l5t22-d1e158">Absolutio de criminibus illatis, per collusionem facta, non impedit facultatem iterum
+            accusandi et inquirendi de illis criminibus.</p>
+          <p xml:id="cice-l5t22-d1e161">Gregorius IX. Barensi Archiepiscopo et Fratri Ioseph Monacho Florentino.</p>
+          <p xml:id="cice-l5t22-d1e164">In tantam clamor, qui adscendit contra Acherontinum archiepiscopum, invalescit, quod
+            dissimulare ipsum ulterius sine scandalo non valemus, nec sine periculo tolerare. (Et
+            infra:) Licet autem sedes apostolica frequentibus clamoribus excitata inquisitionem
+            quorundam excessuum suorum duxerit committendam, propter tergiversationes tamen ipsius,
+            ut dicitur, eodem cum inquisitoribus et examinatoribus colludente, nec non corruptis
+            testibus et inquisitoribus ac examinatoribus supra dictis, non solum praedicti excessus
+            remanserunt hactenus incorrecti, verum etiam peiora prioribus committere non expavit.
+            (Et infra:) Discretioni vestrae mandamus, quatenus, si de huiusmodi collusione ac
+            corruptione constiterit, ex integro super praemissis et aliis, alioquin super novis
+            duntaxat inquiratis, quae videritis inquirenda.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

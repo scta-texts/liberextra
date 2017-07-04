@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>5.10. DE HIS, QUI FILIOS OCCIDERUNT.</title>
+        <author ref="#RaymondOfPenyafort">Raymond Of Penyafort</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>5.10. DE HIS, QUI FILIOS OCCIDERUNT.</title>
+          <date when="2017-07-04">July 4, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879 Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-07-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cice-l5t10">
+        <head xml:id="cice-l5t10-Hd1e105">5.10. DE HIS, QUI FILIOS OCCIDERUNT.</head>
+
+        <div xml:id="cice-l5t10-Dd1e108">
+          <head xml:id="cice-l5t10-Hd1e110">CAP. I.</head>
+          <p xml:id="cice-l5t10-d1e113">Mulier, occidens sponte filium, debet perpetuo in monasterio poenitere; si tamen
+            tinetar de innocentia, datur vel saltem non denegatur sibi licentia nubendi.</p>
+          <p xml:id="cice-l5t10-d1e116">Alexander III. Tornacensi Episcopo.</p>
+          <p xml:id="cice-l5t10-d1e119">Venim ad nos M. mulier latrix praesentium lacrimabili lobis confessione monstravit,
+            quod, quum de quodam filium genuisset, et ille sibi saepe turgido vultu improperasset,
+            quod filius eius non esset, ipsa, iracundiae calore et furore animi ducta, eundum filium
+            interfecit. †Quo comperto comes Flandrensis eam totam terram usque ad septennium
+            abiurare coegit, nisi de nostra licentia remaneret. Quumque se nostro adspectui
+            praesentasset, et, quod crucem suscepisset Hierosolymam profectura, nobis assertione sua
+            proposuisset: nos eam, quia in partibus illis praesentia sua non posset esse utilis, sed
+            damnosa, ab Hierosolymitano itinere revocantes, ipsam fraternitati tuae duximus
+            remittendam, praesentium tibi auctoritate Mandamus, quatenus eam mulierem labores
+            inducere, ut ad aliquod monasterium tui episcopatus transeat, in quo peccata sua
+            perpetua poenitentia deploret. Si autem repugnante carnis fragilitate ad hoc induci
+            noluerit, ei licentiam in Domino nubendi tribuas, quia tutius nobis videtur, ut in
+            Domino nubat et uni soli, quam inhoneste multos admittat.</p>
+        </div>
+        <div xml:id="cice-l5t10-Dd1e123">
+          <head xml:id="cice-l5t10-Hd1e125">CAP. II.</head>
+          <p xml:id="cice-l5t10-d1e128">Mulier, occidens filium, propter hoc a viro separari non debet; sed alia poenitentia
+            sibi imponitur.</p>
+          <p xml:id="cice-l5t10-d1e131">Lucius III. Parisiensi Episcopo.</p>
+          <p xml:id="cice-l5t10-d1e134">Intelleximus ex literis tuis, quod, quum M. mulier latrix praesentium filiam parvam
+            haberet, furore accensa diabolico tandem ipsam, suggerente eo, qui de fidelium
+            perditione laetatur, letali vulnere iugulavit, propter quod dominus terrae maritum eius
+            et ipsam compulit abiurare. Quia vero illam alios habere filios intimasti, unde circa
+            ipsius exsilium debeat dispensari: nos, de discretione tua plenam fiduciam obtinentes,
+            eam tuae duximus prudentiae remittendam, per apostolica scripta mandamus, quatenus ita
+            super hoc provideas, quod sui sceleris poenam luat, et saluti eius ac filiorum ipsius
+            per tuam providentiam in Domino consulatur, et, non obstante proposito iuramento, quod a
+            viro dictus dominus proponitur extorsisse, eam, sicut expedire videris, eidem viro [suo]
+            et rebus suis restituas ita, quod filios suos libere possit et pacifice gubernare.</p>
+        </div>
+        <div xml:id="cice-l5t10-Dd1e138">
+          <head xml:id="cice-l5t10-Hd1e140">CAP. III.</head>
+          <p xml:id="cice-l5t10-d1e143">Se summat, ponens poenitentiam parentum, circa quos pueri reperiuntur oppressi.</p>
+          <p xml:id="cice-l5t10-d1e146">Idem.</p>
+          <p xml:id="cice-l5t10-d1e149">De infantibus autem, qui mortui reperiuntur cum patre et matre, et non apparet, utrum a
+            patre, vel a matre oppressus sit ipse, vel suffocatus, vel propria morte defunctus, non
+            debent inde securi esse parentes, nec etiam sine poena; sed tamen consideratio debet
+            esse pietatis, ubi non voluntas, sed eventus mortis causa fuerit. Si autem eos non
+            latet, ipsos interfectores esse, scire debent, se graviter deliquisse, quod Ancyritano
+            concilio probatur. Quidam autem poenitentiam trium annorum iudicant esse debere, quorum
+            unum peragant in pane et aqua.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
