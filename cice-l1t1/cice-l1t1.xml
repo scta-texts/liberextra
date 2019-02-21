@@ -53,14 +53,17 @@
     </front>
     <body>
       <div xml:id="cice-l1t1">
-        <head xml:id="cice-l1t1-Hd1e105">1.01. DE SUMMA TRINITATE ET FIDE CATHOLICA.</head>
+        <head xml:id="cice-l1t1-Hd1e105">1.01</head>
+        <head type="question-title">DE SUMMA TRINITATE ET FIDE CATHOLICA.</head>
         <div xml:id="cice-l1t1-Dd1e108">
           <head xml:id="cice-l1t1-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t1-d1e113">Tractat de trinitate et ipsius operibus; de fide et articulis fidei. – §. 3. Tractatur
-            hic de sacramentis ecclesiasticis. Abb. Sic.</p>
-          <p xml:id="cice-l1t1-d1e116">Innocentius III. in concilio generali, cap. I.</p>
+          <head type="question-title" xml:id="cice-l1t1-d1e113">Tractat de trinitate et ipsius operibus; de fide et articulis fidei. – §. 3. Tractatur
+            hic de sacramentis ecclesiasticis. Abb. Sic.</head>
+          <!--<p xml:id="cice-l1t1-d1e116"></p>-->
           <p xml:id="cice-l1t1-d1e119">
-            Firmiter credimus et simpliciter confitemur, quod unus solus est verus Deus, aeternus,
+            <ref><name>Innocentius III.</name> <title>in concilio generali</title>, cap. I.</ref>
+            <cit>
+              <quote source="http://scta.info/resource/lat4c1">Firmiter credimus et simpliciter confitemur, quod unus solus est verus Deus, aeternus,
             immensus et incommutabilis, incomprehensibilis, omnipotens et ineffabilis, Pater, et
             Filius et Spiritus sanctus: tres quidem personae, sed una essentia, substantia seu
             natura simplex omnino; Pater a nullo, Filius autem a Patre solo, ac Spiritus sanctus
@@ -71,16 +74,10 @@
             utramque de nihilo condidit creaturam spiritualem et corporalem, angelicam videlicet et
             mundanam, ac deinde humanam, quasi communem ex spiritu et corpore constitutam. Diabolus
             enim et alii daemones a Deo quidem natura creati sunt boni; sed ipsi per se facti sunt
-            mali. Homo vero diaboli suggestione peccavit.
-          </p>
-          <p>
-            1. Haec sancta trinitas, secundum
+            mali. Homo vero diaboli suggestione peccavit. 1. Haec sancta trinitas, secundum
             communem essentiam individua et secundum personales proprietates discreta, primo per
             Moysen et sanctos Prophetas aliosque famulos suos iuxta ordinatissimam dispositionem
-            temporum doctrinam humano generi tribuit salutarem.
-          </p>
-          <p>
-            2. Et tandem unigenitus Dei
+            temporum doctrinam humano generi tribuit salutarem. 2. Et tandem unigenitus Dei
             Filius Iesus Christus, a tota trinitate communiter incarnatus ex Maria semper virgine
             Spiritus sancti cooperatione conceptus, verus homo factus, ex anima rationali et humana
             carne compositus, una in duabus naturis persona, viam vitae manifestius demonstravit.
@@ -104,7 +101,10 @@
             quocunque rite collatum proficit ad salutem. Et si post susceptionem baptismi quisquam
             prolapsus fuerit in peccatum, per veram potest semper poenitentiam reparari. §. 5. Non
             solum autem virgines et continentes, verum etiam coniugati per fidem rectam et
-            operationem bonam placentes Deo ad aeternam merentur beatitudinem pervenire.</p>
+            operationem bonam placentes Deo ad aeternam merentur beatitudinem pervenire.</quote>
+              <bibl>Innocent</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t1-Dd1e123">
           <head xml:id="cice-l1t1-Hd1e125">CAP. II.</head>
@@ -114,8 +114,11 @@
             in trinitate concluditur quaternitas. Contrarium sentientes ut haeretici sunt censendi,
             nisi ab errore resipiscant, et correctioni apostolicae sedis se supponant. Abb.
             Siculus.</p>
-          <p xml:id="cice-l1t1-d1e131">Idem in eodem.</p>
-          <p xml:id="cice-l1t1-d1e134">Damnamus ergo et reprobamus libellum seu tractatum, quem Abbas Ioachim edidit contra
+          
+          <p xml:id="cice-l1t1-d1e134">
+            <ref>Idem in eodem.</ref>
+            <cit source="http://scta.info/resource/lat4c1">
+              <quote>Damnamus ergo et reprobamus libellum seu tractatum, quem Abbas Ioachim edidit contra
             magistrum Petrum Lombardum de unitate seu essentia trinititatis, appellans ipsum
             haereticum et insanum pro eo, quod in suis dixit sententiis: 
             <cit>
@@ -179,7 +182,9 @@
             qua firmiter confitetur, se illam fidem tenere, quam Romana tenet ecclesia, quae
             disponente Domino cunctorum fidelium mater est et magistra. §. 3. Reprobamus etiam et
             condemnamus perversissimum dogma impii Almarici, cuius mentem sic pater mendacii
-            excaecavit, ut eius doctrina non tam haeretica censenda sit quam insana.</p>
+            excaecavit, ut eius doctrina non tam haeretica censenda sit quam insana.</quote>
+            </cit>
+          </p>
         </div>
       </div>
     </body>
