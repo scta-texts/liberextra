@@ -108,13 +108,12 @@
         </div>
         <div xml:id="cice-l1t1-Dd1e123">
           <head xml:id="cice-l1t1-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t1-d1e128">Pater et Filius et Spiritus sanctus vera unione, non collectiva seu similitudinaria,
+          <head xml:id="cice-l1t1-d1e128" type="question-title">Pater et Filius et Spiritus sanctus vera unione, non collectiva seu similitudinaria,
             sunt una essentia, substantia seu natura; quae substantia non est generans, nec genita,
             nec procedens; quia illi actus non attribuuntur substantiae, sed personis: nec per hoc
             in trinitate concluditur quaternitas. Contrarium sentientes ut haeretici sunt censendi,
             nisi ab errore resipiscant, et correctioni apostolicae sedis se supponant. Abb.
-            Siculus.</p>
-          
+            Siculus.</head>
           <p xml:id="cice-l1t1-d1e134">
             <ref>Idem in eodem.</ref>
             <cit source="http://scta.info/resource/lat4c1">
@@ -183,6 +182,7 @@
             disponente Domino cunctorum fidelium mater est et magistra. §. 3. Reprobamus etiam et
             condemnamus perversissimum dogma impii Almarici, cuius mentem sic pater mendacii
             excaecavit, ut eius doctrina non tam haeretica censenda sit quam insana.</quote>
+              <bibl>Innocent, xxxx</bibl>
             </cit>
           </p>
         </div>
