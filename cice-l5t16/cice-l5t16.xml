@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t16-Dd1e108">
           <head xml:id="cice-l5t16-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t16-d1e113">Stuprans virginem tenetur eam dotare et ducere in uxorem, et, si non vult cum ea
-            contrahere, ultra dotem corporaliter castigabitur. H. d. cum cap. sequenti.</p>
+          <head xml:id="cice-l5t16-d1e113" type="question-title">Stuprans virginem tenetur eam dotare et ducere in uxorem, et, si non vult cum ea
+            contrahere, ultra dotem corporaliter castigabitur. H. d. cum cap. sequenti.</head>
           <p xml:id="cice-l5t16-d1e116">In Exodo.</p>
           <p xml:id="cice-l5t16-d1e119">Si seduxerit quis virginem nondum desponsatam, dormieritque cum ea, dotabit eam, et
             habebit [eam] uxorem. Si vero pater virginis dare noluerit, reddet pecuniam iuxta modum
@@ -66,7 +66,7 @@
         </div>
         <div xml:id="cice-l5t16-Dd1e123">
           <head xml:id="cice-l5t16-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t16-d1e128">Summatum est supra capitulo proximo.</p>
+          <head xml:id="cice-l5t16-d1e128" type="question-title">Summatum est supra capitulo proximo.</head>
           <p xml:id="cice-l5t16-d1e131">Gregorius Sipontino Episcopo.</p>
           <p xml:id="cice-l5t16-d1e134">Pervenit ad nos, quod Felix nepos tuus quandam virginem, quod nefas est dici, stupro
             decepit. Quod si verum est, quamvis [grave] esset de lege poena plectendus, nos tamen,
@@ -78,8 +78,8 @@
         </div>
         <div xml:id="cice-l5t16-Dd1e138">
           <head xml:id="cice-l5t16-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t16-d1e143">Maritus, retinens adulteram coniugem non peracta poenitentia, particeps est delicti;
-            secus, si egit poenitentiam; non tamen debet eam saepe recipere.</p>
+          <head xml:id="cice-l5t16-d1e143" type="question-title">Maritus, retinens adulteram coniugem non peracta poenitentia, particeps est delicti;
+            secus, si egit poenitentiam; non tamen debet eam saepe recipere.</head>
           <p xml:id="cice-l5t16-d1e146">Ex concilio Arelatensi.</p>
           <p xml:id="cice-l5t16-d1e149">Si vir sciens, uxorem suam deliquisse, quae non egerit poenitentiam, sed permanet in
             fornicatione sua, vixerit cum illa: vir reus erit et eius peccati particeps. Quodsi
@@ -88,17 +88,17 @@
         </div>
         <div xml:id="cice-l5t16-Dd1e153">
           <head xml:id="cice-l5t16-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t16-d1e158">Maritus propter suspicionem potest accusare uxorem de adulterio, et in accusando
-            praefertur ceteris.</p>
+          <head xml:id="cice-l5t16-d1e158" type="question-title">Maritus propter suspicionem potest accusare uxorem de adulterio, et in accusando
+            praefertur ceteris.</head>
           <p xml:id="cice-l5t16-d1e161">Ex concilio Parisiensi.</p>
           <p xml:id="cice-l5t16-d1e164">Maritis sane etiam ex suspicione uxores accusare permissum est, et ipsi plus ceteris de
             adulterio et accusare possunt et defendere.</p>
         </div>
         <div xml:id="cice-l5t16-Dd1e169">
           <head xml:id="cice-l5t16-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t16-d1e174">Ad solam mulieris confessionem, asserentis, se commisisse adulterium cum sacerdote, non
+          <head xml:id="cice-l5t16-d1e174" type="question-title">Ad solam mulieris confessionem, asserentis, se commisisse adulterium cum sacerdote, non
             debet sacerdos puniri, sed sibi infamato potest indici purgatio; quam si praestiterit,
-            absolvitur, deficiens vero suspenditur ab officio.</p>
+            absolvitur, deficiens vero suspenditur ab officio.</head>
           <p xml:id="cice-l5t16-d1e177">Alexander III.</p>
           <p xml:id="cice-l5t16-d1e180">Significasti nobis, quendam presbyterum cum alterius coniuge instinctu diabolico infra
             ecclesiam frequenter, sicut asseris, dormivisse, quae utique se et illum cuidam
@@ -116,8 +116,8 @@
         </div>
         <div xml:id="cice-l5t16-Dd1e184">
           <head xml:id="cice-l5t16-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t16-d1e189">Coniux coniugem de adulterio impetere non potest, si et ipse adulterium commisisse
-            convincatur.</p>
+          <head xml:id="cice-l5t16-d1e189" type="question-title">Coniux coniugem de adulterio impetere non potest, si et ipse adulterium commisisse
+            convincatur.</head>
           <p xml:id="cice-l5t16-d1e192">Innocentius III. Turonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t16-d1e195">Intelleximus tam per literas venerabilis fratris nostri Pictaviensis episcopi, quam per
             ea, quae coram dilecto filio Andrea subdiacono et capellano nostro, super hoc auditore
@@ -145,8 +145,8 @@
         </div>
         <div xml:id="cice-l5t16-Dd1e199">
           <head xml:id="cice-l5t16-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t16-d1e204">Non debet separari matrimonium quoad torum propter adulterium, quando ambo coniuges
-            fuerunt adulterati.</p>
+          <head xml:id="cice-l5t16-d1e204" type="question-title">Non debet separari matrimonium quoad torum propter adulterium, quando ambo coniuges
+            fuerunt adulterati.</head>
           <p xml:id="cice-l5t16-d1e207">Idem Episcopo Ambianensi.</p>
           <p xml:id="cice-l5t16-d1e210">Tua fraternitas requisivit a nobis, utrum, aliquo denegante uxori suae in adulterio
             deprehensae debitum coniugale, si postmodum ipse cum alia perpetret adulterium

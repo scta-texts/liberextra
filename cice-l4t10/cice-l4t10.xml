@@ -58,7 +58,7 @@
 
         <div xml:id="cice-l4t10-Dd1e108">
           <head xml:id="cice-l4t10-Hd1e110">CAP. UN.</head>
-          <p xml:id="cice-l4t10-d1e113">Natus ex libera vel liberta liber est.</p>
+          <head xml:id="cice-l4t10-d1e113" type="question-title">Natus ex libera vel liberta liber est.</head>
           <p xml:id="cice-l4t10-d1e116">Gregorius.</p>
           <p xml:id="cice-l4t10-d1e119">Indecens esse credimus, ut progeniti ex liberta sive libera filii ad servitium
             retrahantur. Propterea tibi [praesenti auctoritate] praecipimus, ut his ipsis

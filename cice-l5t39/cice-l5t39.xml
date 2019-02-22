@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l5t39-Dd1e108">
           <head xml:id="cice-l5t39-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t39-d1e113">Impubes, qui clericum percussit, ab episcopo absolvi potest, et qui ioco vel causa
+          <head xml:id="cice-l5t39-d1e113" type="question-title">Impubes, qui clericum percussit, ab episcopo absolvi potest, et qui ioco vel causa
             disciplinae percutit clericum, etiamsi sit maior, excommunicatus non est; qui vero ex
-            odio, sic, et per Papam absolvitur.</p>
+            odio, sic, et per Papam absolvitur.</head>
           <p xml:id="cice-l5t39-d1e116">Alexander III. Senonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e119">Super eo vero, quod a nobis consilium postulasti, †utrum scholares, si se invicem
             percusserint in plena vel minori aetate, clerici aut religiosi viri in claustro,
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e123">
           <head xml:id="cice-l5t39-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t39-d1e128">Monachos, se adinvicem percutientes, absolvit abbas. Idem in canonicis regularibus; et,
-            abbatis discretione deficiente, recurritur ad episcopum.</p>
+          <head xml:id="cice-l5t39-d1e128" type="question-title">Monachos, se adinvicem percutientes, absolvit abbas. Idem in canonicis regularibus; et,
+            abbatis discretione deficiente, recurritur ad episcopum.</head>
           <p xml:id="cice-l5t39-d1e131">Idem eidem.</p>
           <p xml:id="cice-l5t39-d1e134">Monachi vero et canonici regulares, quocunque modo se in claustro percusserint, non
             sunt ad apostolicam sedem mittendi, sed secundum providentiam et discretionem sui
@@ -86,11 +86,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e138">
           <head xml:id="cice-l5t39-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t39-d1e143">Ostiarius, qui clericum percussit non graviter, ab episcopo absolvi potest. Hoc primo.
+          <head xml:id="cice-l5t39-d1e143" type="question-title">Ostiarius, qui clericum percussit non graviter, ab episcopo absolvi potest. Hoc primo.
             Officialis, deliberate iniiciens manum in clericum, per Papam absolvitur. Hoc secundo.
             Qui repellendo vim vi clericum percutit, excommunicatus non est. Hoc tertio. Qui
             percutit clericum, turpiter inventum cum propinqua, excommunicatus non est; secus cum
-            remota, et dicitur propinqua, ut in litera.</p>
+            remota, et dicitur propinqua, ut in litera.</head>
           <p xml:id="cice-l5t39-d1e146">Idem eidem.</p>
           <p xml:id="cice-l5t39-d1e149">Si vero aliquis alicuius potestatis ostiarius, sub praetextu sui officii malignatus,
             clericum laeserit, ab episcopo suo potest absolvi, nisi forte eundem clericum graviter
@@ -108,9 +108,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e153">
           <head xml:id="cice-l5t39-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t39-d1e158">Qui percutit clericum, ignorans probabiliter eum clericum, excommunicatus non est;
+          <head xml:id="cice-l5t39-d1e158" type="question-title">Qui percutit clericum, ignorans probabiliter eum clericum, excommunicatus non est;
             ignorantiam tamen probare debet per iuramentum, et, si hoc praestare recusat, pro
-            excommunicato haberi debet.</p>
+            excommunicato haberi debet.</head>
           <p xml:id="cice-l5t39-d1e161">Idem.</p>
           <p xml:id="cice-l5t39-d1e164">Si vero aliquis in clericum nutrientem comam, ignorans, quod clericus fuerit, manus
             iniecerit violentas, propter hoc non debet apostolico praesentari conspectui, nec etiam
@@ -122,8 +122,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e169">
           <head xml:id="cice-l5t39-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t39-d1e174">Percutiens clericum vel religiosum excommunicatus est, nec ab alio quam a Papa
-            absolvitur, praeterquam in mortis articulo.</p>
+          <head xml:id="cice-l5t39-d1e174" type="question-title">Percutiens clericum vel religiosum excommunicatus est, nec ab alio quam a Papa
+            absolvitur, praeterquam in mortis articulo.</head>
           <p xml:id="cice-l5t39-d1e177">Idem.</p>
           <p xml:id="cice-l5t39-d1e180">Non dubium est vobis, sicut credimus, vel incertum, quod hi, qui violentas manus in
             clericos vel canonicos, aut cuiuslibet religionis conversos iniiciunt, ex constitutione
@@ -132,10 +132,10 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e184">
           <head xml:id="cice-l5t39-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t39-d1e189">Mulieres, quae inciderunt in canonem: Si quis suadente, absolvuntur ab episcopo. Idem
+          <head xml:id="cice-l5t39-d1e189" type="question-title">Mulieres, quae inciderunt in canonem: Si quis suadente, absolvuntur ab episcopo. Idem
             in personis, quae non sunt sui iuris, vel sunt delicatae, de quibus dubitatur, quod non
             possent commode accedere ad curiam. Et h. d. usque ad §. Illi. – §. 1. Mandans clericum
-            percuti, excommunicatus est, sicut percutiens. H. d.</p>
+            percuti, excommunicatus est, sicut percutiens. H. d.</head>
           <p xml:id="cice-l5t39-d1e192">Idem.</p>
           <p xml:id="cice-l5t39-d1e195">Mulieres vel etiam aliae personae, quae sui iuris non sunt, ab episcopo dioecesano
             absolvi possunt, si manus in clericum iniecerint violentas. De his vero, qui magnae sunt
@@ -149,8 +149,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e199">
           <head xml:id="cice-l5t39-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t39-d1e204">Excommunicatus per iniectionem manuum in clericum, licet occultus, absolvitur per solum
-            Papam.</p>
+          <head xml:id="cice-l5t39-d1e204" type="question-title">Excommunicatus per iniectionem manuum in clericum, licet occultus, absolvitur per solum
+            Papam.</head>
           <p xml:id="cice-l5t39-d1e207">Idem.</p>
           <p xml:id="cice-l5t39-d1e210">Porro, si aliqui violentas manus in fratres suos iniiciunt, et ducti poenitentia, non
             convicti, sed privatim, sicut asseris, a te veniam postulant, eos monere debes
@@ -160,8 +160,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e214">
           <head xml:id="cice-l5t39-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t39-d1e219">Etiam privilegiati tenentur vitare excommunicatum, et per iniectionem manuum in
-            clericum excommunicati sunt.</p>
+          <head xml:id="cice-l5t39-d1e219" type="question-title">Etiam privilegiati tenentur vitare excommunicatum, et per iniectionem manuum in
+            clericum excommunicati sunt.</head>
           <p xml:id="cice-l5t39-d1e222">Idem.</p>
           <p xml:id="cice-l5t39-d1e225">Nulli autem monachi Templarii se possunt privilegio apostolicae sedis tueri, quo minus
             excommunicatos vitare debeant, et pro violenta manuum iniectione in clericos sicut
@@ -169,8 +169,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e229">
           <head xml:id="cice-l5t39-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t39-d1e234">Percutiens monachum vel conversum religiosum debet denunciari excommunicatus, et
-            vitari, donec fuerit per Papam absolutus.</p>
+          <head xml:id="cice-l5t39-d1e234" type="question-title">Percutiens monachum vel conversum religiosum debet denunciari excommunicatus, et
+            vitari, donec fuerit per Papam absolutus.</head>
           <p xml:id="cice-l5t39-d1e237">Idem Episcopis et aliis Praelatis per Galliam constitutis.</p>
           <p xml:id="cice-l5t39-d1e240">Parochianos autem vestros, si qui in monachos vel conversos praefati ordinis violentas
             manus iniecerint, sublato appellationis remedio secundum tenorem generalis decreti
@@ -180,8 +180,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e244">
           <head xml:id="cice-l5t39-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t39-d1e249">Ponitur forma praecepti, quod sub virtute iuramenti fieri debet illi, qui pro violenta
-            manuum iniectione in clericum excommunicatus absolvitur.</p>
+          <head xml:id="cice-l5t39-d1e249" type="question-title">Ponitur forma praecepti, quod sub virtute iuramenti fieri debet illi, qui pro violenta
+            manuum iniectione in clericum excommunicatus absolvitur.</head>
           <p xml:id="cice-l5t39-d1e252">Idem Genuensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e255">Ex tenore literarum tuarum nobis innotuit, quod B. canonicus S. Mariae de Vineis in
             quendam subdiaconum manus iniecit violentas. (Et infra:) Mandamus itaque fraternitati
@@ -194,8 +194,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e260">
           <head xml:id="cice-l5t39-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t39-d1e265">Excommunicatum pro percussione clerici absolvit episcopus, si sine periculo Papam adire
-            nequit; debet tamen sibi mandare, quod adeat Papam impedimento cessante.</p>
+          <head xml:id="cice-l5t39-d1e265" type="question-title">Excommunicatum pro percussione clerici absolvit episcopus, si sine periculo Papam adire
+            nequit; debet tamen sibi mandare, quod adeat Papam impedimento cessante.</head>
           <p xml:id="cice-l5t39-d1e268">Idem Cenomanensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e271">De cetero noveris, quod, si quis pro violenta manuum iniectione in clericum est vinculo
             excommunicationis adstrictus, si habens capitales inimicitias, vel alias iustas
@@ -207,8 +207,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e275">
           <head xml:id="cice-l5t39-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t39-d1e280">Quum Papa absolutionem excommunicati delegat, mandat recipi cautionem de parendo
-            mandatis ecclesiae.</p>
+          <head xml:id="cice-l5t39-d1e280" type="question-title">Quum Papa absolutionem excommunicati delegat, mandat recipi cautionem de parendo
+            mandatis ecclesiae.</head>
           <p xml:id="cice-l5t39-d1e283">Urbanus III. Senonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e286">Ad haec autem, quum [nonnunquam] inter [aliquos] parochianos tuos, †vel inter eos et
             alios controversia coram delegatis iudicibus agitetur, saepius a iudicibus ipsis, ut
@@ -226,9 +226,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e290">
           <head xml:id="cice-l5t39-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t39-d1e295">Excommunicatus per canonem: “Si quis suadente,” sit dives vel pauper, per Papam
+          <head xml:id="cice-l5t39-d1e295" type="question-title">Excommunicatus per canonem: “Si quis suadente,” sit dives vel pauper, per Papam
             absolvendus est vel eius legatum; fallit in muliere, sive infirmo vel mutilato, qui per
-            episcopum absolvi possunt.</p>
+            episcopum absolvi possunt.</head>
           <p xml:id="cice-l5t39-d1e298">Clemens III.</p>
           <p xml:id="cice-l5t39-d1e301">Ea noscitur (Et infra:) Quod utique fraternitas tua diligenter attendens, certificari
             humliter postulavit de his, qui violentas manus in clericos aliqua temeritate iniiciunt,
@@ -246,9 +246,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e305">
           <head xml:id="cice-l5t39-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t39-d1e310">Ante denunciationem vitandus est excommunicatus pro violenta manuum iniectione in
+          <head xml:id="cice-l5t39-d1e310" type="question-title">Ante denunciationem vitandus est excommunicatus pro violenta manuum iniectione in
             clericos, nisi sit incultus. Hoc primo. Interficiens clericum, qui, contempto clericali
-            habitu, se enormitatibus immiscuit, excommunicatus non est. Hec secundo.</p>
+            habitu, se enormitatibus immiscuit, excommunicatus non est. Hec secundo.</head>
           <p xml:id="cice-l5t39-d1e313">Idem.</p>
           <p xml:id="cice-l5t39-d1e316">Quum non ab homine (Et infra:) A nobis itaque fuit ex parte tua quaesitum, an tenearis
             abstinere a communione illius, qui pro temeraria manuum iniectione in sententiam
@@ -286,9 +286,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e320">
           <head xml:id="cice-l5t39-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t39-d1e325">Ante absolutionem communicandum non est excommunicato, licet iuraverit parere mandatis
+          <head xml:id="cice-l5t39-d1e325" type="question-title">Ante absolutionem communicandum non est excommunicato, licet iuraverit parere mandatis
             ecclesiae, vel composuerit cum offenso. Hoc dicit primo. Infamato de excommunicatione
-            communicandum non est, nisi se purget, vel ad cautelam absolvatur. H. d. secundo.</p>
+            communicandum non est, nisi se purget, vel ad cautelam absolvatur. H. d. secundo.</head>
           <p xml:id="cice-l5t39-d1e328">Idem.</p>
           <p xml:id="cice-l5t39-d1e331">Quum desideres, †quid tua fraternitas observare debeat super his, quae dubietatem
             continent, apostolicae sedis rescripto plenius edoceri: nos, qui, licet immeriti, ex
@@ -329,8 +329,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e335">
           <head xml:id="cice-l5t39-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t39-d1e340">Sacerdos, eiiciens regularem de ecclesia, officia divina turbantem, excommunicatus non
-            est.</p>
+          <head xml:id="cice-l5t39-d1e340" type="question-title">Sacerdos, eiiciens regularem de ecclesia, officia divina turbantem, excommunicatus non
+            est.</head>
           <p xml:id="cice-l5t39-d1e343">Idem.</p>
           <p xml:id="cice-l5t39-d1e346">Veniens ad sedem apostolicam. I. lator praesentium sua nobis assertione proposita
             monstravit, quod, quum matutina officia celebraret, quaedam monialis, ecclesiam ipsam
@@ -344,8 +344,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e351">
           <head xml:id="cice-l5t39-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t39-d1e356">Excommunicati pro levi manuum iniectione in clericum possunt per episcopum absolvi. H.
-            d. secundum communem lecturam, et est textus singularis.</p>
+          <head xml:id="cice-l5t39-d1e356" type="question-title">Excommunicati pro levi manuum iniectione in clericum possunt per episcopum absolvi. H.
+            d. secundum communem lecturam, et est textus singularis.</head>
           <p xml:id="cice-l5t39-d1e359">Idem.</p>
           <p xml:id="cice-l5t39-d1e362">Pervenit ad nos (Et infra: [cf. c. 5. de test. cog. II. 21.]) Illos autem, qui
             valetudine praepediti pro absolutionis beneficio ad sedem apostolicam nequeunt laborare,
@@ -359,9 +359,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e366">
           <head xml:id="cice-l5t39-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t39-d1e371">Clericus, qui scienter et sponte participat excommunicato in divinis officiis,
+          <head xml:id="cice-l5t39-d1e371" type="question-title">Clericus, qui scienter et sponte participat excommunicato in divinis officiis,
             excommunicatus est excommunicatione maiori, et tantum absolvendus per Papam. H. d.
-            secundum Panorm.</p>
+            secundum Panorm.</head>
           <p xml:id="cice-l5t39-d1e374">Idem.</p>
           <p xml:id="cice-l5t39-d1e377">Significavit nobis (Et infra:) Verum clericos [illos], qui scienter et sponte
             participaverunt excommunicatis a nobis, et ipsos in officiis receperunt, eadem
@@ -370,8 +370,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e381">
           <head xml:id="cice-l5t39-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t39-d1e386">Excommunicatus pro iniectione manuum in clericum, vel incendiarius post publicationem a
-            solo Papa absolvitur.</p>
+          <head xml:id="cice-l5t39-d1e386" type="question-title">Excommunicatus pro iniectione manuum in clericum, vel incendiarius post publicationem a
+            solo Papa absolvitur.</head>
           <p xml:id="cice-l5t39-d1e389">Idem.</p>
           <p xml:id="cice-l5t39-d1e392">Tua nos duxit fraternitas consulendos, †an ii soli sint ad sedem apostolicam
             destinandi, qui in latae sententiae canonem incidentes, manus in clericos inverterunt
@@ -385,8 +385,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e396">
           <head xml:id="cice-l5t39-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l5t39-d1e401">Legati de latere absolvere possunt excommunicatos pro iniectione manuum in
-            clericos.</p>
+          <head xml:id="cice-l5t39-d1e401" type="question-title">Legati de latere absolvere possunt excommunicatos pro iniectione manuum in
+            clericos.</head>
           <p xml:id="cice-l5t39-d1e404">Idem.</p>
           <p xml:id="cice-l5t39-d1e407">Ad eminentiam sedis apostolicae †est recurrendum, quoties articulus dubitationis
             emergit, ut tanto quis promptiori conscientia recipiat et observet quod super re dubia
@@ -403,7 +403,7 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e411">
           <head xml:id="cice-l5t39-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l5t39-d1e416">Generalis excommunicatio non ligat, nisi subditos proferentis.</p>
+          <head xml:id="cice-l5t39-d1e416" type="question-title">Generalis excommunicatio non ligat, nisi subditos proferentis.</head>
           <p xml:id="cice-l5t39-d1e419">Idem.</p>
           <p xml:id="cice-l5t39-d1e422">A nobis fuit ex parte tua quaesitum, utrum, si quis ita pronunciaverit: “quisquis
             furtum fecerit, excommunicatus sit:” haec generalis clausula ad ipsius excommunicatoris
@@ -413,8 +413,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e426">
           <head xml:id="cice-l5t39-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l5t39-d1e431">Qui cum effractione spoliant ecclesias, excommunicati sunt, et per Papam tantum post
-            denunciationem absolvuntur.</p>
+          <head xml:id="cice-l5t39-d1e431" type="question-title">Qui cum effractione spoliant ecclesias, excommunicati sunt, et per Papam tantum post
+            denunciationem absolvuntur.</head>
           <p xml:id="cice-l5t39-d1e434">Idem.</p>
           <p xml:id="cice-l5t39-d1e437">Conquesti sunt nobis dilecti filii Reginenses canonici, quod I. de Malafrena et eius
             sequaces ecclesiam de Viliaco et alias quasdam ecclesias Reginensis episcopatus
@@ -428,9 +428,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e442">
           <head xml:id="cice-l5t39-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l5t39-d1e447">Percutiens vel etiam interficiens clericum, se, dimisso clericali habitu, saevis
+          <head xml:id="cice-l5t39-d1e447" type="question-title">Percutiens vel etiam interficiens clericum, se, dimisso clericali habitu, saevis
             enormitatibus immiscentem, non tenetur ire pro absolutione ad sedem apostolicam. Ita
-            generaliter summari potest.</p>
+            generaliter summari potest.</head>
           <p xml:id="cice-l5t39-d1e450">Idem.</p>
           <p xml:id="cice-l5t39-d1e453">Perpendimus ex literis tuis, quod quidam sacercdos tuae dioecesis pro eo, quod se
             filium regis falso nominare praesumpsit, et, armis acceptis, [in provincia] seditionem
@@ -445,8 +445,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e457">
           <head xml:id="cice-l5t39-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l5t39-d1e462">Iudex ecclesiasticus, faciens percuti clericum per laicnm, etiam causa disciplinae,
-            excommunicatus est, et ipse, et verberans pro absolutione tenentur ire ad Papam.</p>
+          <head xml:id="cice-l5t39-d1e462" type="question-title">Iudex ecclesiasticus, faciens percuti clericum per laicnm, etiam causa disciplinae,
+            excommunicatus est, et ipse, et verberans pro absolutione tenentur ire ad Papam.</head>
           <p xml:id="cice-l5t39-d1e465">Idem.</p>
           <p xml:id="cice-l5t39-d1e468">Universitatis vestrae consultationem accepimus, qua nos requisistis, utrum ille laicus
             incidat in excommunicationis edictum, qui ad iussionem abbatis, in cuius servitio
@@ -459,8 +459,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e472">
           <head xml:id="cice-l5t39-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l5t39-d1e477">Clericus, ut laicus incedens, tertio monitus non resipiscens, perdit privilegium
-            clericale.</p>
+          <head xml:id="cice-l5t39-d1e477" type="question-title">Clericus, ut laicus incedens, tertio monitus non resipiscens, perdit privilegium
+            clericale.</head>
           <p xml:id="cice-l5t39-d1e480">Idem.</p>
           <p xml:id="cice-l5t39-d1e483">In audientia nostra talis fuit ex parte tua proposita consultatio, utrum clerici, qui
             arma militaria relicto habitu clericali gestare nullatenus erubescunt, si eis fuerit
@@ -476,9 +476,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e487">
           <head xml:id="cice-l5t39-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l5t39-d1e492">Excommunicatus propter iniectionem manuum in clericum, impeditus ire ad curiam, potest
+          <head xml:id="cice-l5t39-d1e492" type="question-title">Excommunicatus propter iniectionem manuum in clericum, impeditus ire ad curiam, potest
             ab inferiore absolvi; sed impedimento cessante tenetur curiam visitare, suscepturus
-            mandatum apostolicum.</p>
+            mandatum apostolicum.</head>
           <p xml:id="cice-l5t39-d1e495">Idem.</p>
           <p xml:id="cice-l5t39-d1e498">Quod de his †etiam, in quibus non dubitas, et quid de his ipsis observari debeat
             plurimum agnovisti, sedis apostolicae responsa requiris, tanto fraternitatem tuam magis
@@ -501,8 +501,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e502">
           <head xml:id="cice-l5t39-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l5t39-d1e507">Ligatus pluribus excommunicationibus, licet ex eodem facto, obtinens absolutionem
-            expressa una causa seu una excommunicatione, non habetur pro absoluto quoad aliam.</p>
+          <head xml:id="cice-l5t39-d1e507" type="question-title">Ligatus pluribus excommunicationibus, licet ex eodem facto, obtinens absolutionem
+            expressa una causa seu una excommunicatione, non habetur pro absoluto quoad aliam.</head>
           <p xml:id="cice-l5t39-d1e510">Innocentius III. Archiepiscopo, Decano et Praecentori Lugdunensibus.</p>
           <p xml:id="cice-l5t39-d1e513">Quum pro causa, quae inter dilectos filios G. et F. Cabilonensis ecclesiae
             archidiaconos vertebatur, eis dilectum filium G. sancti Hadriani diaconum cardinalem
@@ -520,11 +520,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e517">
           <head xml:id="cice-l5t39-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l5t39-d1e522">Excommunicato, decedenti in excommunicatione, quantumcunque contritus decesserit, non
+          <head xml:id="cice-l5t39-d1e522" type="question-title">Excommunicato, decedenti in excommunicatione, quantumcunque contritus decesserit, non
             est communicandum ante absolutionem, nec pro eo orandum, licet sit quoad Deum absolutus.
             Sed si constat ecclesiae de contritione praecedenti, absolvetur etiam post mortem ab eo,
             a quo vivus fuerat absolvendus; et heredes eius compelluntur per ecclesiam ad
-            satisfaciendum pro eo.</p>
+            satisfaciendum pro eo.</head>
           <p xml:id="cice-l5t39-d1e525">Idem Abbati S. Andreae.</p>
           <p xml:id="cice-l5t39-d1e528">A nobis est saepe quaesitam, utrum, si aliquis excommunicatus, in quo indicia fuerint
             poenitentiae manifesta, nec per eum steterit, quo minus reconciliaretur ecclesiasticae
@@ -581,11 +581,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e533">
           <head xml:id="cice-l5t39-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l5t39-d1e538">Detinens clericum in custodia vel vinculis sine laesione, excommunicatus est. H. d.
+          <head xml:id="cice-l5t39-d1e538" type="question-title">Detinens clericum in custodia vel vinculis sine laesione, excommunicatus est. H. d.
             primo. Communicans excommunicato scienter in crimine excommunicatus est, et, nisi
             difficultas impediat, absolvi debet ab excommunicatore cum iuramento. Communicans vero
             extra crimen reconciliari potest per simlicem sacerdotem sine iuramento. H. d. usque ad
-            finem.</p>
+            finem.</head>
           <p xml:id="cice-l5t39-d1e541">Idem Wratislaviensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e544">Nuper a nobis tua discretio requisivit, quid de illis laicis sit faciendum, qui
             clericos violenter, sine laesione tamen, in custodia detinent publica vel privata, vel
@@ -620,10 +620,10 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e548">
           <head xml:id="cice-l5t39-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l5t39-d1e553">Iuramentum excommunicati de stando mandatis ecclesiae non habet vim absolutionis. H. d.
+          <head xml:id="cice-l5t39-d1e553" type="question-title">Iuramentum excommunicati de stando mandatis ecclesiae non habet vim absolutionis. H. d.
             primo. Excommunicato nullus communicare tenetur praeter personas exceptas; alias
             communicans excommunicato incurrit minorem, et est excommunicandus maiori, nisi ille
-            esset excommunicatus cum particibus suis, qui tunc esset excommunicatus maiori.</p>
+            esset excommunicatus cum particibus suis, qui tunc esset excommunicatus maiori.</head>
           <p xml:id="cice-l5t39-d1e556">Idem Strigonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e559">Quod in dubiis †nostro postulas certificari rescripto, ut iuxta illud tuae discretionis
             arbitrium modereris, fraternitatem tuam dignis in Domino laudibus commendamus. Sane
@@ -651,9 +651,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e563">
           <head xml:id="cice-l5t39-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l5t39-d1e568">Excommunicato communicare tenentur qui prius erant ei obligati ad obsequium familiare;
+          <head xml:id="cice-l5t39-d1e568" type="question-title">Excommunicato communicare tenentur qui prius erant ei obligati ad obsequium familiare;
             alii vero non tenentur de necessitate, licet interdum possint de necessitate
-            urgente.</p>
+            urgente.</head>
           <p xml:id="cice-l5t39-d1e571">Idem Doctoribus decretorum Bononiensibus.</p>
           <p xml:id="cice-l5t39-d1e574">Inter alia, quae venerabilis frater noster Strigoniensis archiepiscopus dudum
             apostolatui nostro proponi fecit humiliter consulendo, illud etiam, si bene meminimus,
@@ -686,11 +686,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e578">
           <head xml:id="cice-l5t39-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l5t39-d1e583">Si excommunicatus pro manuum iniectione scienter recipit ordines, si est clericus
+          <head xml:id="cice-l5t39-d1e583" type="question-title">Si excommunicatus pro manuum iniectione scienter recipit ordines, si est clericus
             saecularis, deponendus est; si regularis, exsecutione ordinis est suspensus. Qui,
             ignorans ius vel factum, sic excommunicatus recipit ordines, si est clericus saecularis,
             dispensat cum eo solus Papa; si regularis, dispensat abbas, si ignorantia est
-            probabilis, et factum non est grave.</p>
+            probabilis, et factum non est grave.</head>
           <p xml:id="cice-l5t39-d1e586">Idem.</p>
           <p xml:id="cice-l5t39-d1e589">Quum illorum absolutio, qui pro violenta manuum iniectione in clericos labem
             excommunicationis incurrunt, praeterquam in quibusdam casibus, a praedecessore nostro
@@ -736,8 +736,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e593">
           <head xml:id="cice-l5t39-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l5t39-d1e598">Monialis, percutiens monialem seu conversum, vel clericum saecularem, incidit in
-            excommunicationem, et ab episcopo loci absolvi potest.</p>
+          <head xml:id="cice-l5t39-d1e598" type="question-title">Monialis, percutiens monialem seu conversum, vel clericum saecularem, incidit in
+            excommunicationem, et ab episcopo loci absolvi potest.</head>
           <p xml:id="cice-l5t39-d1e601">Idem Pistoriensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e604">De monialibus tua a nobis fraternitas requisivit, per quem eis sit beneficium
             absolutionis impendendum, si vel in se invicem vel conversos vel conversas suas, aut
@@ -748,9 +748,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e608">
           <head xml:id="cice-l5t39-Hd1e610">CAP. XXXIV.</head>
-          <p xml:id="cice-l5t39-d1e613">Contractus etiam, qui sine communione explicari non potest, non dissolvitur, seu
+          <head xml:id="cice-l5t39-d1e613" type="question-title">Contractus etiam, qui sine communione explicari non potest, non dissolvitur, seu
             impeditur per excommunicationem, supervenientem in eum, qui tenetur aliquid praestare
-            non excommunicato.</p>
+            non excommunicato.</head>
           <p xml:id="cice-l5t39-d1e616">Idem universis Crucesignatis.</p>
           <p xml:id="cice-l5t39-d1e619">Si vere †vos poenitet de commisso, et plene proponitis satisfacere de peccato, Deum
             vobis credimus, immo novimus, iam placatum. Si ergo Veneti ad satisfactionem induci et
@@ -776,9 +776,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e624">
           <head xml:id="cice-l5t39-Hd1e626">CAP. XXXV.</head>
-          <p xml:id="cice-l5t39-d1e629">Praelatus potest et debet clericum, subiectum incorrigibilem, incarcerare, et laici
+          <head xml:id="cice-l5t39-d1e629" type="question-title">Praelatus potest et debet clericum, subiectum incorrigibilem, incarcerare, et laici
             citra metum excommunicationis de praelatorum licentia capere possunt clericos, et ad
-            iudicium ducere.</p>
+            iudicium ducere.</head>
           <p xml:id="cice-l5t39-d1e632">Idem Londonensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e635">Ut famae tuae †consulas et saluti, et sic malorum audaciam comprimas, ut ab eis bonorum
             innocentiam tuearis, super his nos humiliter consulis, quae officium pastorale
@@ -804,8 +804,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e639">
           <head xml:id="cice-l5t39-Hd1e641">CAP. XXXVI.</head>
-          <p xml:id="cice-l5t39-d1e644">Excommunicatus est qui in clericum, eiam volentem, manus iniecerit violentas, etiamsi
-            hoc faciat in satisfactionem praecedentis iniuriae. H. d. et est casus notabilis.</p>
+          <head xml:id="cice-l5t39-d1e644" type="question-title">Excommunicatus est qui in clericum, eiam volentem, manus iniecerit violentas, etiamsi
+            hoc faciat in satisfactionem praecedentis iniuriae. H. d. et est casus notabilis.</head>
           <p xml:id="cice-l5t39-d1e647">Idem Bracharensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e650">Contingit interdum in partibus tuis, et de consuetudine regionis habetur, sicut tua
             nobis fraternitas intimavit, quod clerici, si quem offendant, et satisfacere velint
@@ -825,10 +825,10 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e654">
           <head xml:id="cice-l5t39-Hd1e656">CAP. XXXVII.</head>
-          <p xml:id="cice-l5t39-d1e659">Servus excommunicatus pro iniectione manuum in clericum, tenetur pro absolutione ire ad
+          <head xml:id="cice-l5t39-d1e659" type="question-title">Servus excommunicatus pro iniectione manuum in clericum, tenetur pro absolutione ire ad
             sedem apostolicam. Sed, si ex hoc dominus, qui non fuit in culpa, grave damnum patiatur,
             vel servus hoc faciat in eius fraudem, absolvi potest ab episcopo, si laesio non fuit
-            enormis.</p>
+            enormis.</head>
           <p xml:id="cice-l5t39-d1e662">Idem Lugdunensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e665">Relatum est nobis, quod, quum aliqui servi tuae provinciae propter iniectionem manuum
             in clericum violentam in canonem incidunt sententiae promulgatae, allegantibus dominis
@@ -846,8 +846,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e669">
           <head xml:id="cice-l5t39-Hd1e671">CAP. XXXVIII.</head>
-          <p xml:id="cice-l5t39-d1e674">Excommunicatus propter participationem cum excommunicato, licet eum postea impugnet, ex
-            hoc solo pro absoluto non est habendus.</p>
+          <head xml:id="cice-l5t39-d1e674" type="question-title">Excommunicatus propter participationem cum excommunicato, licet eum postea impugnet, ex
+            hoc solo pro absoluto non est habendus.</head>
           <p xml:id="cice-l5t39-d1e677">Idem Strigonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e680">Sacris est canonibus institutum (Et infra: [cf. c. 12. de sepult. III. 28.]) Licet
             autem is, qui voluntarius excommunicatis illis communicaverat, qui cum omnibus
@@ -861,8 +861,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e684">
           <head xml:id="cice-l5t39-Hd1e686">CAP. XXXIX.</head>
-          <p xml:id="cice-l5t39-d1e689">Semel excommunicatus debet vitari semper ut excommunicatus, nisi legitime probet, se
-            fuisse absolutum.</p>
+          <head xml:id="cice-l5t39-d1e689" type="question-title">Semel excommunicatus debet vitari semper ut excommunicatus, nisi legitime probet, se
+            fuisse absolutum.</head>
           <p xml:id="cice-l5t39-d1e692">Idem Assuntinensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e695">Sicut nobis †tuis literis intimasti, quum aliquos tuae dioecesis clericos vel laicos,
             culpis suis exigentibus, excommunicationi supponis, ipsi, postmodum ad te, nulla
@@ -877,11 +877,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e699">
           <head xml:id="cice-l5t39-Hd1e701">CAP. XL.</head>
-          <p xml:id="cice-l5t39-d1e704">Si excommunicatus ab episcopo metropolitanum appellat, ab eo absolvi potest;
+          <head xml:id="cice-l5t39-d1e704" type="question-title">Si excommunicatus ab episcopo metropolitanum appellat, ab eo absolvi potest;
             metropolitanus tamen, volens suo suffraganeo deferre, potest illum sibi remittere,
             quando propter manifestum excessum fuit excommunicatus. Et ante absolutionem non auditur
             volens probare, se iniuste excommunicatum; secus, si probare vult, sententiam esse
-            nullam.</p>
+            nullam.</head>
           <p xml:id="cice-l5t39-d1e707">Idem Senonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t39-d1e710">Per tuas literas †nobis intimasti, quod, quum venerabilis frater noster
             Autissiodorensis episcopus in dilectum filium Autissiodorensem archipresbyterum
@@ -925,7 +925,7 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e715">
           <head xml:id="cice-l5t39-Hd1e717">CAP. XLI.</head>
-          <p xml:id="cice-l5t39-d1e720">Si Papa suis literis excommunicatum salutat, non propter hoc eum absolvit.</p>
+          <head xml:id="cice-l5t39-d1e720" type="question-title">Si Papa suis literis excommunicatum salutat, non propter hoc eum absolvit.</head>
           <p xml:id="cice-l5t39-d1e723">Idem.</p>
           <p xml:id="cice-l5t39-d1e726">Si aliquando forte contigerit, quod eis, qui auctoritate apostolica sunt
             excommunicationi subiecti, nostrae literae cum salutationis alloquio destinentur, non
@@ -943,9 +943,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e730">
           <head xml:id="cice-l5t39-Hd1e732">CAP. XLII.</head>
-          <p xml:id="cice-l5t39-d1e735">Excommunicatus a pluribus praelatis ab plures causas non est communioni restituendus,
+          <head xml:id="cice-l5t39-d1e735" type="question-title">Excommunicatus a pluribus praelatis ab plures causas non est communioni restituendus,
             licet de una causa velit satisfacere, et, si impetratur absolutio tacitis aliis causis,
-            non valet absolutio.</p>
+            non valet absolutio.</head>
           <p xml:id="cice-l5t39-d1e738">Idem C. sancti Laurentii in Lucina Presbytero cardinali apostolicae sedis Legato.</p>
           <p xml:id="cice-l5t39-d1e741">Officii (Et infra: [cf. c. 38. de elect. I. 6.]) Postremo quaesivisti, utrum is, qui
             propter plures excessus a pluribus praelatis, ius in ipsum habentibus, excommunicationis
@@ -958,9 +958,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e745">
           <head xml:id="cice-l5t39-Hd1e747">CAP. XLIII.</head>
-          <p xml:id="cice-l5t39-d1e750">Excommunicatis et interdictis praedicari potest licite verbum Dei. Hoc primo. Et
+          <head xml:id="cice-l5t39-d1e750" type="question-title">Excommunicatis et interdictis praedicari potest licite verbum Dei. Hoc primo. Et
             tempore generalis interdicti concedi potest baptismus et chrismatio in fronte, et
-            poenitentia morientium. H. d. secundo.</p>
+            poenitentia morientium. H. d. secundo.</head>
           <p xml:id="cice-l5t39-d1e753">Idem Ferrariensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e756">Responso nostro postulas edoceri, an, quum Ferrarienses cives excommunicationis et
             interdicti sententiis sint ligati, liceat tibi viros et mulieres semel in hebdomada vel
@@ -976,10 +976,10 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e760">
           <head xml:id="cice-l5t39-Hd1e762">CAP. XLIV.</head>
-          <p xml:id="cice-l5t39-d1e765">Si coniux scit pro certo impedimentum matrimonii, non debet reddere debitum, sed potius
+          <head xml:id="cice-l5t39-d1e765" type="question-title">Si coniux scit pro certo impedimentum matrimonii, non debet reddere debitum, sed potius
             excommunicationem pati; si autem hoc credat ex causa probabili et discreta, potest
             reddere debitum, non autem exigere; sed si ex levi et temeraria causa, deposita
-            conscientia potest reddere et exigere.</p>
+            conscientia potest reddere et exigere.</head>
           <p xml:id="cice-l5t39-d1e768">Idem.</p>
           <p xml:id="cice-l5t39-d1e771">Inquisitioni tuae breviter respondentes credimus distinguendum, utrum alter coniugum
             pro certo sciat impedimentum coniugii, propter quod sine mortali peccato non valeat
@@ -997,8 +997,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e775">
           <head xml:id="cice-l5t39-Hd1e777">CAP. XLV.</head>
-          <p xml:id="cice-l5t39-d1e780">Per dimissionem habitus et tonsurae non perdit clericus ante trinam monitionem
-            privilegium clericale.</p>
+          <head xml:id="cice-l5t39-d1e780" type="question-title">Per dimissionem habitus et tonsurae non perdit clericus ante trinam monitionem
+            privilegium clericale.</head>
           <p xml:id="cice-l5t39-d1e783">Idem.</p>
           <p xml:id="cice-l5t39-d1e786">Contingit interdum, †[quod, dum clerici charactere insigniti ad turpia lucra divertunt,
             et saecularibus se negotiis immiscent, clericale nomen abominabile reddunt cordibus
@@ -1020,7 +1020,7 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e790">
           <head xml:id="cice-l5t39-Hd1e792">CAP. XLVI.</head>
-          <p xml:id="cice-l5t39-d1e795">Ab excommunicati denunciatione repellitur qui non praemonuit, et ei communicavit.</p>
+          <head xml:id="cice-l5t39-d1e795" type="question-title">Ab excommunicati denunciatione repellitur qui non praemonuit, et ei communicavit.</head>
           <p xml:id="cice-l5t39-d1e798">Idem.</p>
           <p xml:id="cice-l5t39-d1e801">In praesentia dilecti filii (Et infra:) Nec canonici suo decano excommunicationem
             possunt obiicere, quum super hoc nec commonitus, nec impetitus fuerit, neque ipsi
@@ -1029,8 +1029,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e806">
           <head xml:id="cice-l5t39-Hd1e808">CAP. XLVII.</head>
-          <p xml:id="cice-l5t39-d1e811">Excommunicatus est dolose permittens clericum percuti, ex quo poterat prohibere, et non
-            prohibuit.</p>
+          <head xml:id="cice-l5t39-d1e811" type="question-title">Excommunicatus est dolose permittens clericum percuti, ex quo poterat prohibere, et non
+            prohibuit.</head>
           <p xml:id="cice-l5t39-d1e814">Idem.</p>
           <p xml:id="cice-l5t39-d1e817">Quantae praesumptionis et temeritatis exsistat in rectores ecclesiae manus iniicere
             violentas, †in evangelio Dominus protestatur, qui se in ministeriis suis affligi
@@ -1047,11 +1047,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e821">
           <head xml:id="cice-l5t39-Hd1e823">CAP. XLVIII.</head>
-          <p xml:id="cice-l5t39-d1e826">Praelatus excommunicare non debet subditum, nisi competente monitione praemissa, et ex
+          <head xml:id="cice-l5t39-d1e826" type="question-title">Praelatus excommunicare non debet subditum, nisi competente monitione praemissa, et ex
             causa manifesta et rationabili; et contra facienti imponitur poena hic expressa. Item
             punitur subditus, qui falso conquiritur, se excommunicatum iniuste, et subiicit, quid
             iuris, si praelatus, dicens se errasse, vult excommunicatum absolvere, et adversarius
-            appellat, ne absolvatur.</p>
+            appellat, ne absolvatur.</head>
           <p xml:id="cice-l5t39-d1e829">Idem in concilio generali.</p>
           <p xml:id="cice-l5t39-d1e832">Sacro approbante concilo prohibemus, ne quis in aliquem excommunicationis sententiam,
             nisi competenti admonitione praemissa, et personis praesentibus idoneis, per quas, si
@@ -1085,7 +1085,7 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e836">
           <head xml:id="cice-l5t39-Hd1e838">CAP. XLIX.</head>
-          <p xml:id="cice-l5t39-d1e841">Excommunicat haereticos et quoscunque violatores ecclesiasticae libertatis.</p>
+          <head xml:id="cice-l5t39-d1e841" type="question-title">Excommunicat haereticos et quoscunque violatores ecclesiasticae libertatis.</head>
           <p xml:id="cice-l5t39-d1e844">Honorius III. Episcopo Bononiensi.</p>
           <p xml:id="cice-l5t39-d1e847">Noverit fraternitas tua, †quod nos [nuper] in basilica principis Apostolorum, praesente
             carissimo in Christo filio nostro Frederico illustri Romanorum imperatore semper Augusto
@@ -1104,9 +1104,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e851">
           <head xml:id="cice-l5t39-Hd1e853">CAP. L.</head>
-          <p xml:id="cice-l5t39-d1e856">Fratres hospitalis Hierosolymitani, excommunicati pro iniectione manuum in clericum seu
+          <head xml:id="cice-l5t39-d1e856" type="question-title">Fratres hospitalis Hierosolymitani, excommunicati pro iniectione manuum in clericum seu
             confratrem, absolvi possunt per eorum priorem, nisi excessus fuerit difficilis et
-            enormis.</p>
+            enormis.</head>
           <p xml:id="cice-l5t39-d1e859">Idem Magistro et Fratribus hospitalis Hierosolymitani.</p>
           <p xml:id="cice-l5t39-d1e862">Canonica constitutione cavetur, quod monachi et canonici regulares, quocunque modo se
             in claustro percusserint, non sunt ad apostolicam sedem mittendi, sed secundum
@@ -1120,9 +1120,9 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e866">
           <head xml:id="cice-l5t39-Hd1e868">CAP. LI.</head>
-          <p xml:id="cice-l5t39-d1e871">Excommunicatus vel suspensus absolvi non debet, nisi prius iuramento praestito; si
+          <head xml:id="cice-l5t39-d1e871" type="question-title">Excommunicatus vel suspensus absolvi non debet, nisi prius iuramento praestito; si
             tamen sine scandalo iuramentum haberi non potest, poterit fieri absolutio per manualem
-            promissionem.</p>
+            promissionem.</head>
           <p xml:id="cice-l5t39-d1e874">Idem tituli sanctae Praxedis Presbytero cardinali apostolicae sedis Legato.</p>
           <p xml:id="cice-l5t39-d1e877">Super eo, quod monachi Graeci et Eremitae, propter inobedientiam sententia suspensionis
             et excommunicationis ligati, nolunt ad mandatum ecclesiae nisi per manualem promissionem
@@ -1133,8 +1133,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e881">
           <head xml:id="cice-l5t39-Hd1e883">CAP. LII.</head>
-          <p xml:id="cice-l5t39-d1e886">Quum de viribus sententiae dubitatur, potest quis absolvi ad cautelam iuramento
-            praestito.</p>
+          <head xml:id="cice-l5t39-d1e886" type="question-title">Quum de viribus sententiae dubitatur, potest quis absolvi ad cautelam iuramento
+            praestito.</head>
           <p xml:id="cice-l5t39-d1e889">Idem Bituricensi et Carnotensi Decanis et Subdiacono Arelatensi.</p>
           <p xml:id="cice-l5t39-d1e892">Venerabili fratre nostro Cenomanensi episcopo et dilecto filio H. canonico Turonensi,
             procuratore venerabilis fratris nostri Turonensis archiepiscopi, in nostra praesentia
@@ -1148,8 +1148,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e897">
           <head xml:id="cice-l5t39-Hd1e899">CAP. LIII.</head>
-          <p xml:id="cice-l5t39-d1e902">Excommunicantur officiales locorum, in quibus sunt statuta contra ecclesiasticam
-            libertatem, nisi ea deleri fecerint; et statutarii feudis ecclesiae sunt privati.</p>
+          <head xml:id="cice-l5t39-d1e902" type="question-title">Excommunicantur officiales locorum, in quibus sunt statuta contra ecclesiasticam
+            libertatem, nisi ea deleri fecerint; et statutarii feudis ecclesiae sunt privati.</head>
           <p xml:id="cice-l5t39-d1e905">Idem Episcopo Senensi.</p>
           <p xml:id="cice-l5t39-d1e908">Gravem venerabilis fratris nostri Pisani archiepiscopi recepimus quaestionem, quod A.
             B. et quidam alii cives Pisani, deputati a potestate ac pepulo ad statuta civitatis
@@ -1176,11 +1176,11 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e912">
           <head xml:id="cice-l5t39-Hd1e914">CAP. LIV.</head>
-          <p xml:id="cice-l5t39-d1e917">Alloquens excommunicatum in tendentibus ad salutem auimae, etiamsi alia verba
+          <head xml:id="cice-l5t39-d1e917" type="question-title">Alloquens excommunicatum in tendentibus ad salutem auimae, etiamsi alia verba
             interponat, excommunicatus non est. – §. 1. Praedicatores, praesertim qui alias
             sustentari non possunt, ab excommunicatis et detinentibus bona aliena eleemosynam
             recipere possunt. Hoc dic. – §. 2. Ponit quosdam casus, in quibus percutiens clericum
-            excommunicatus non est.</p>
+            excommunicatus non est.</head>
           <p xml:id="cice-l5t39-d1e920">Gregorius IX.</p>
           <p xml:id="cice-l5t39-d1e923">Quum voluntate ac proposito maleficia distinguantur, excommunicationis sententiam non
             incurrit qui excommunicato in his, quae ad absolutionem vel alias ad salutem animae
@@ -1199,8 +1199,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e927">
           <head xml:id="cice-l5t39-Hd1e929">CAP. LV.</head>
-          <p xml:id="cice-l5t39-d1e932">Communicans excommunicato in crimine damnabili incidit in excommunicationem
-            maiorem.</p>
+          <head xml:id="cice-l5t39-d1e932" type="question-title">Communicans excommunicato in crimine damnabili incidit in excommunicationem
+            maiorem.</head>
           <p xml:id="cice-l5t39-d1e935">Idem Astoricensi Episcopo.</p>
           <p xml:id="cice-l5t39-d1e938">Si concubinae publicae clericorum ecclesiasticae censurae districtione notentur, eosdem
             concubinarios non est dubium sententia maioris excommunicationis involvi, qui post latam
@@ -1209,15 +1209,15 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e942">
           <head xml:id="cice-l5t39-Hd1e944">CAP. LVI.</head>
-          <p xml:id="cice-l5t39-d1e947">Excommunicatus minori potest ab excommunicatione aliquem absolvere.</p>
+          <head xml:id="cice-l5t39-d1e947" type="question-title">Excommunicatus minori potest ab excommunicatione aliquem absolvere.</head>
           <p xml:id="cice-l5t39-d1e950">Idem.</p>
           <p xml:id="cice-l5t39-d1e953">Duobus collata potestas, ut a minori excommunicatione, si in ipsam inciderint, invicem
             se absolvant, utroque ligato vinculo excommunicationis huiusmodi, non exspirat.</p>
         </div>
         <div xml:id="cice-l5t39-Dd1e957">
           <head xml:id="cice-l5t39-Hd1e959">CAP. LVII.</head>
-          <p xml:id="cice-l5t39-d1e962">Permittitur ministris ecclesiarum semel in hebdomada celebrare tempore interdicti,
-            concurrentibus his, quae exprimuntur in textu.</p>
+          <head xml:id="cice-l5t39-d1e962" type="question-title">Permittitur ministris ecclesiarum semel in hebdomada celebrare tempore interdicti,
+            concurrentibus his, quae exprimuntur in textu.</head>
           <p xml:id="cice-l5t39-d1e965">Idem.</p>
           <p xml:id="cice-l5t39-d1e968">Permittimus ecclesiarum ministris semel in hebdomada tempore interdicti, non pulsatis
             campanis, voce submissa, ianuis clausis, excommunicatis et interdictis exclusis,
@@ -1226,8 +1226,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e972">
           <head xml:id="cice-l5t39-Hd1e974">CAP. LVIII.</head>
-          <p xml:id="cice-l5t39-d1e977">Satisfaciens clerico, quem verberavit, non potest propter hoc ab episcopo absolvi, nisi
-            in certis casibus hic expressis.</p>
+          <head xml:id="cice-l5t39-d1e977" type="question-title">Satisfaciens clerico, quem verberavit, non potest propter hoc ab episcopo absolvi, nisi
+            in certis casibus hic expressis.</head>
           <p xml:id="cice-l5t39-d1e980">Idem.</p>
           <p xml:id="cice-l5t39-d1e983">Quamvis incidens in canonem latae sententiae propter violentam manuum iniectionem iuxta
             proprias facultates eis satisfaciat, quibus iniurias irrogavit: non tamen taliter, quam
@@ -1242,8 +1242,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e988">
           <head xml:id="cice-l5t39-Hd1e990">CAP. LIX.</head>
-          <p xml:id="cice-l5t39-d1e993">Excommunicatio simpliciter lata intelligitur de maiori. H. d. et est textus notabilis,
-            et quotidie allegatur.</p>
+          <head xml:id="cice-l5t39-d1e993" type="question-title">Excommunicatio simpliciter lata intelligitur de maiori. H. d. et est textus notabilis,
+            et quotidie allegatur.</head>
           <p xml:id="cice-l5t39-d1e996">Idem.</p>
           <p xml:id="cice-l5t39-d1e999">Si quem sub hac forma verborum: “Illum excommunico,” vel simili, a iudice suo
             excommunicari contingat, dicendum est, eum non tantum minori, quae a perceptione
@@ -1252,8 +1252,8 @@
         </div>
         <div xml:id="cice-l5t39-Dd1e1003">
           <head xml:id="cice-l5t39-Hd1e1005">CAP. LX.</head>
-          <p xml:id="cice-l5t39-d1e1008">Beneficium, indultum ratione minoris aetatis, postquam coepit habere locum, non
-            exstinguitur, licet minor pervenerit ad maiorem aetatem.</p>
+          <head xml:id="cice-l5t39-d1e1008" type="question-title">Beneficium, indultum ratione minoris aetatis, postquam coepit habere locum, non
+            exstinguitur, licet minor pervenerit ad maiorem aetatem.</head>
           <p xml:id="cice-l5t39-d1e1011">Idem.</p>
           <p xml:id="cice-l5t39-d1e1014">Pueris, qui in canonem inciderunt sententiae promulgatae, sive ante sive post
             pubertatem postulent, se absolvi, potest dioecesanus episcopus absolutionis beneficium

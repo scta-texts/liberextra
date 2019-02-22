@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t38-Dd1e108">
           <head xml:id="cice-l1t38-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t38-d1e113">Non auditur quis tanquam alterius procurator, nisi habeat mandatum legitime factum.</p>
+          <head xml:id="cice-l1t38-d1e113" type="question-title">Non auditur quis tanquam alterius procurator, nisi habeat mandatum legitime factum.</head>
           <p xml:id="cice-l1t38-d1e116">Gregorius Maximo Salonensi Episcopo.</p>
           <p xml:id="cice-l1t38-d1e119">Alia quidem †[scripta ad fraternitatem tuam antea feceramus, sed tempore, quo homines
             tuos, quos ad nos misisti, relaxare voluimus.] Scripsisse te quibusdam nostris
@@ -72,8 +72,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e123">
           <head xml:id="cice-l1t38-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t38-d1e128">Non valet sententia, etiam expensarum condemnatoria, lata contra absentem, ex probabili
-            causa legitime per nuncium excusatum. H. d. quantum ad verum intellectum.</p>
+          <head xml:id="cice-l1t38-d1e128" type="question-title">Non valet sententia, etiam expensarum condemnatoria, lata contra absentem, ex probabili
+            causa legitime per nuncium excusatum. H. d. quantum ad verum intellectum.</head>
           <p xml:id="cice-l1t38-d1e131">Alexander III.</p>
           <p xml:id="cice-l1t38-d1e134">Querelam A. clerici accepimus, †quod, quum venerabilis frater noster Wigorniensis
             episcopus causam, quae vertitur inter ipsum et Salesberiensem episcopum super ecclesia
@@ -94,8 +94,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e138">
           <head xml:id="cice-l1t38-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t38-d1e143">Sententia lata cum procuratore revocato et de hoc certificato non praeiudicat domino.
-            H. d. secundum communem intellectum.</p>
+          <head xml:id="cice-l1t38-d1e143" type="question-title">Sententia lata cum procuratore revocato et de hoc certificato non praeiudicat domino.
+            H. d. secundum communem intellectum.</head>
           <p xml:id="cice-l1t38-d1e146">Clemens III.</p>
           <p xml:id="cice-l1t38-d1e149">Ex insinuatione dilecti filii nostri I. archidiaconi Sagiensis accepimus, quod, quum
             inter ipsum et magistrum G. de Sang. super quadum praebenda Lexonensis ecclesiae, quae
@@ -123,9 +123,9 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e153">
           <head xml:id="cice-l1t38-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t38-d1e158">Rescriptum super consecutivis iudiciis impetratum a procuratore revocato, et de hoc
+          <head xml:id="cice-l1t38-d1e158" type="question-title">Rescriptum super consecutivis iudiciis impetratum a procuratore revocato, et de hoc
             certificato, non valet, nec processus vel sententia lata per ipsum, si revocatio
-            pervenit ad adversarium. H. d. secundum glossam.</p>
+            pervenit ad adversarium. H. d. secundum glossam.</head>
           <p xml:id="cice-l1t38-d1e161">Innocentius III. Cabilonensi et Catalanensi Episcopis.</p>
           <p xml:id="cice-l1t38-d1e164">In nostra praesentia constitutus venerabilis frater noster Tullensis episcopus
             lacrimabiliter est conquestus, quod, quum olim ad procurandam causam, quae inter ipsum
@@ -173,8 +173,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e169">
           <head xml:id="cice-l1t38-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t38-d1e174">Si agitur de adulterio coram iudice saeculari ad poenam legalem, non intervenit
-            procurator; secus si coram ecclesiastico ad separationem.</p>
+          <head xml:id="cice-l1t38-d1e174" type="question-title">Si agitur de adulterio coram iudice saeculari ad poenam legalem, non intervenit
+            procurator; secus si coram ecclesiastico ad separationem.</head>
           <p xml:id="cice-l1t38-d1e177">Idem Brixiensi Episcopo.</p>
           <p xml:id="cice-l1t38-d1e180">Tuae fraternitatis (Et infra: [cf. c. 10. de eo, qui cogn. IV. 13.]) Consultationi tuae
             taliter respondemus, quod, si vir accuset uxorem de crimine adulterii coram iudice
@@ -193,7 +193,7 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e184">
           <head xml:id="cice-l1t38-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t38-d1e189">Qui de mandato domini causam procuravit, ab eo repetit expensas propter hoc factas.</p>
+          <head xml:id="cice-l1t38-d1e189" type="question-title">Qui de mandato domini causam procuravit, ab eo repetit expensas propter hoc factas.</head>
           <p xml:id="cice-l1t38-d1e192">Idem.</p>
           <p xml:id="cice-l1t38-d1e195">Quum pro causa, quae inter dilectos filios G. et F. Gabilonensis ecclesiae
             archidiaconos vertebatur, †procuratores utriusque partis ad nostram praesentiam
@@ -266,8 +266,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e199">
           <head xml:id="cice-l1t38-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t38-d1e204">Universitas etiam scholarium potest ad agendum et defendendum procuratorem
-            constituere.</p>
+          <head xml:id="cice-l1t38-d1e204" type="question-title">Universitas etiam scholarium potest ad agendum et defendendum procuratorem
+            constituere.</head>
           <p xml:id="cice-l1t38-d1e207">Idem Scholaribus Parisiensibus.</p>
           <p xml:id="cice-l1t38-d1e210">Quia in causis, quae contra vos et pro vobis moventur, interdum vestra universitas ad
             agendum et respondendum commode interesse non potest, postulastis a nobis, ut
@@ -277,9 +277,9 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e214">
           <head xml:id="cice-l1t38-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t38-d1e219">Si citatus ad totam causam constituit procuratorem, quem postea revocat, potest
+          <head xml:id="cice-l1t38-d1e219" type="question-title">Si citatus ad totam causam constituit procuratorem, quem postea revocat, potest
             nihilominus contra eum procedi, in quantum status causae patitur, sine alia citatione.
-            H. d. quoad intellectum.</p>
+            H. d. quoad intellectum.</head>
           <p xml:id="cice-l1t38-d1e222">Honorius III. Episcopo Egitanensi.</p>
           <p xml:id="cice-l1t38-d1e225">Auditis et intellectis quae super Ioannis Colimbriensis et Bartholomaei Egitanensis
             canonicorum, nec non et decani Civitatensis suorumque coniudicum delegatorum nostrorum
@@ -300,8 +300,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e229">
           <head xml:id="cice-l1t38-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t38-d1e234">Procurator episcopi causas episcopatus agit et defendit, licet non fuerit datus sub
-            nomine syndici vel actoris.</p>
+          <head xml:id="cice-l1t38-d1e234" type="question-title">Procurator episcopi causas episcopatus agit et defendit, licet non fuerit datus sub
+            nomine syndici vel actoris.</head>
           <p xml:id="cice-l1t38-d1e237">Idem M. et R. Canonicis Mutinensibus.</p>
           <p xml:id="cice-l1t38-d1e240">Petitio vestra nobis exhibita continebat, quod quum venerabilis frater noster
             Mutinensis episcopus in Livoniam profecturus vos vicarios suos et procuratores
@@ -317,8 +317,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e244">
           <head xml:id="cice-l1t38-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t38-d1e249">Providere debet iudex, maxime in causa matrimoniali, quod constituens procuratorem
-            gaudeat plena libertate.</p>
+          <head xml:id="cice-l1t38-d1e249" type="question-title">Providere debet iudex, maxime in causa matrimoniali, quod constituens procuratorem
+            gaudeat plena libertate.</head>
           <p xml:id="cice-l1t38-d1e252">Gregorius IX. nobili viro Ubaldo Civi Pisano.</p>
           <p xml:id="cice-l1t38-d1e255">Accedens ad apostolicam sedem (Et infra:) Mandamus, quatenus D. nobilem mulierem, quae
             sub tua potestate tenetur, plenae restituas libertati, faciens ipsam ad castrum de Massa
@@ -330,8 +330,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e260">
           <head xml:id="cice-l1t38-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t38-d1e265">Si procuratori generali denegantur induciae ad consulendum dominum, ex causa probabili
-            absentem, poterit procurator appellare.</p>
+          <head xml:id="cice-l1t38-d1e265" type="question-title">Si procuratori generali denegantur induciae ad consulendum dominum, ex causa probabili
+            absentem, poterit procurator appellare.</head>
           <p xml:id="cice-l1t38-d1e268">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l1t38-d1e271">Dilectus filius magister L. rector ecclesiae de Auna transmissa nobis petitione
             monstravit, quod, quum R. presbyter contra ipsum, causa studii Bononiae commorantem,
@@ -344,8 +344,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e275">
           <head xml:id="cice-l1t38-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t38-d1e280">Si reus recedit a iudicio, dimisso procuratore solummodo ad agendum, contumax est, et
-            condemnatur in expensis.</p>
+          <head xml:id="cice-l1t38-d1e280" type="question-title">Si reus recedit a iudicio, dimisso procuratore solummodo ad agendum, contumax est, et
+            condemnatur in expensis.</head>
           <p xml:id="cice-l1t38-d1e283">Idem Episcopo Lexonensi.</p>
           <p xml:id="cice-l1t38-d1e286">Constitutis in praesentia nostra H. priore Sagiensi et T. laico dilectum filium O.
             subdiaconum nostrum super causa, quae inter ipsos super quadam summa pecuniae vertitur,
@@ -360,8 +360,8 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e290">
           <head xml:id="cice-l1t38-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t38-d1e295">Tenet iudicium agitatum cum procuratore revocato, si revocationem iudex et adversarius
-            ignoraverunt. H. d. secundum communem intellectum et verum.</p>
+          <head xml:id="cice-l1t38-d1e295" type="question-title">Tenet iudicium agitatum cum procuratore revocato, si revocationem iudex et adversarius
+            ignoraverunt. H. d. secundum communem intellectum et verum.</head>
           <p xml:id="cice-l1t38-d1e298">Idem.</p>
           <p xml:id="cice-l1t38-d1e301">Mandato procuratoris post litem contestatam a domino revocato, si hoc ignorante iudice
             vel adversario factum fuerit, iudicium, quod idem quasi procurator postmodum expertus
@@ -369,11 +369,11 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e305">
           <head xml:id="cice-l1t38-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t38-d1e310">Filius familias potest esse procurator in iudicio, etiam ad futuras lites; et
+          <head xml:id="cice-l1t38-d1e310" type="question-title">Filius familias potest esse procurator in iudicio, etiam ad futuras lites; et
             procurator datus cum pluribus simul in solidum praefertur, si praeoccupavit negotium;
             secus, si diverso tempore fuit datus. Item procurator appellare debet a sententia, nisi
             ex causa excusetur; quo casu debet domino nunciare de sententia; appellationem tamen
-            prosequi non tenetur.</p>
+            prosequi non tenetur.</head>
           <p xml:id="cice-l1t38-d1e313">Idem.</p>
           <p xml:id="cice-l1t38-d1e316">Non iniuste iudex processit, qui filiumfamilias in procuratorem admisit, quamvis ad
             futuras controversias constitutum, qui, licet simul cum aliis datus fuerit, prius tamen
@@ -386,9 +386,9 @@
         </div>
         <div xml:id="cice-l1t38-Dd1e320">
           <head xml:id="cice-l1t38-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t38-d1e325">Procurator universitatis, cuius maiores et iurati sunt excommunicati, non repellitur ab
+          <head xml:id="cice-l1t38-d1e325" type="question-title">Procurator universitatis, cuius maiores et iurati sunt excommunicati, non repellitur ab
             impetrando; nisi illi in procuratorio sint expressi, vel eorum auctoritate factum sit,
-            vel ad id scienter sint admissi. H. d. et est decisio notabilis et subtilis.</p>
+            vel ad id scienter sint admissi. H. d. et est decisio notabilis et subtilis.</head>
           <p xml:id="cice-l1t38-d1e328">Idem.</p>
           <p xml:id="cice-l1t38-d1e331">Consulti sumus an constitutus ad impetrandum a communitate aliqua procurator ab
             impetrando deberet excludi pro eo, quod maiores et iurati, per quos eadem communitas

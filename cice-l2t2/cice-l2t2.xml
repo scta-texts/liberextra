@@ -57,7 +57,7 @@
         <div xml:id="cice-l2t2-Dd1e108">
           <head xml:id="cice-l2t2-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l2t2-d1e113">Clericus coram suo episcopo conveniri debet.</p>
+          <head xml:id="cice-l2t2-d1e113" type="question-title">Clericus coram suo episcopo conveniri debet.</head>
           <p xml:id="cice-l2t2-d1e116">Ex concilio Calcedonensi.</p>
           <p xml:id="cice-l2t2-d1e119">Si quis clericus adversus clericum negotium habeat, non deserat episcopum proprium, et
             ad saecularia percurrat iudicia, sed prius apud ipsum actio ventiletur, vel certe
@@ -66,7 +66,7 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e123">
           <head xml:id="cice-l2t2-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t2-d1e128">Iudex saecularis, si clericum per se distringit vel condemnat, excommunicari debet.</p>
+          <head xml:id="cice-l2t2-d1e128" type="question-title">Iudex saecularis, si clericum per se distringit vel condemnat, excommunicari debet.</head>
           <p xml:id="cice-l2t2-d1e131">Ex concilio Parisiensi.</p>
           <p xml:id="cice-l2t2-d1e134">Nullus iudicium neque presbyterum, neque diaconum aut clericum ullum, aut minores
             ecclesiae sine permissu pontificis per se distringere aut condemnare praesumat. Quod si
@@ -75,8 +75,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e138">
           <head xml:id="cice-l2t2-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t2-d1e143">Ratione rei, de qua agitur, sortitur quis forum ibi, ubi res est. Sic communiter
-            summatur.</p>
+          <head xml:id="cice-l2t2-d1e143" type="question-title">Ratione rei, de qua agitur, sortitur quis forum ibi, ubi res est. Sic communiter
+            summatur.</head>
           <p xml:id="cice-l2t2-d1e146">Ex concilio Africano.</p>
           <p xml:id="cice-l2t2-d1e149">Sane si episcopi, inter quos causa versatur, sint diversarum provinciarum, ille primas
             det iudices, in cuius provincia est locus, de quo contenditur. Si autem etc. (cf. c. 1.
@@ -84,9 +84,9 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e153">
           <head xml:id="cice-l2t2-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t2-d1e158">Episcopus ut suspectus recusatus, de cuius suspicione notorie constat, potest dare
+          <head xml:id="cice-l2t2-d1e158" type="question-title">Episcopus ut suspectus recusatus, de cuius suspicione notorie constat, potest dare
             delegatum partibus non suspectum, cuius sententiam poterit per se exsecutioni
-            mandare.</p>
+            mandare.</head>
           <p xml:id="cice-l2t2-d1e161">Gregorius Bonifacio Defensori Corsicae.</p>
           <p xml:id="cice-l2t2-d1e164">Si quis contra clericum causam habuerit, episcopum ipsius adeat, qui si ut suspectus
             fuerit recusatus, exsecutor [vel] ab eo deputetur, aut, si et hoc actor refugerit, ab
@@ -97,9 +97,9 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e169">
           <head xml:id="cice-l2t2-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t2-d1e174">Super re ecclesiae vel clerici potest laicus coram ecclesiastico iudice conveniri; sed
+          <head xml:id="cice-l2t2-d1e174" type="question-title">Super re ecclesiae vel clerici potest laicus coram ecclesiastico iudice conveniri; sed
             si probabiliter negat, rem esse ecclesiae vel clerici, ad iurisdictionem ecclesiasticam
-            declinandam, convenitur coram suo iudice.</p>
+            declinandam, convenitur coram suo iudice.</head>
           <p xml:id="cice-l2t2-d1e177">Alexander III.</p>
           <p xml:id="cice-l2t2-d1e180">Si vero presbyter, vel clericus alius aliquem laicum de rebus suis vel ecclesiae
             impetierit, et laicus res ipsas non esse ecclesiae vel presbyteri aut clerici, qui eum
@@ -109,9 +109,9 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e184">
           <head xml:id="cice-l2t2-Hd1e186">CAP.VI.</head>
-          <p xml:id="cice-l2t2-d1e189">Si quaestio feudalis est inter clericum et laicum, cognoscet dominus feudi; sed eo
+          <head xml:id="cice-l2t2-d1e189" type="question-title">Si quaestio feudalis est inter clericum et laicum, cognoscet dominus feudi; sed eo
             negligente cognoscet delegatus Papae, etiam ante negligentiam datus. H. d. secundum
-            lecturam gloss.</p>
+            lecturam gloss.</head>
           <p xml:id="cice-l2t2-d1e192">Idem.</p>
           <p xml:id="cice-l2t2-d1e195">Ex transmissa nobis insinuatione B. C. et W. militum ecclesiae tuae intelleximus, quod,
             quum R. de Cassaville eos super quadam possessione coram venerabili fratre nostro
@@ -125,10 +125,10 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e199">
           <head xml:id="cice-l2t2-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t2-d1e204">Per dominum feudi saecularem sive ecclesiasticum quaestio feudalis terminari debet,
+          <head xml:id="cice-l2t2-d1e204" type="question-title">Per dominum feudi saecularem sive ecclesiasticum quaestio feudalis terminari debet,
             etiamsi vasalli sint clerici, et, si plures praetendantur domini, non potest unus
             cognoscere, maxime alio absente, an feudum ad eum pertineat. H. d. secundum lecturam
-            magis notabilem.</p>
+            magis notabilem.</head>
           <p xml:id="cice-l2t2-d1e207">Idem.</p>
           <p xml:id="cice-l2t2-d1e210">Verum quoniam de quibusdam feudis adversus eundem praepositum quaestio mota fuit,
             statuimus, ut, ex quo episcopus fuerit in eadem ecclesia consecratus, qui plenam
@@ -138,7 +138,7 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e214">
           <head xml:id="cice-l2t2-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t2-d1e219">Malefactores ecclesiarum in utroque foro conveniri possunt.</p>
+          <head xml:id="cice-l2t2-d1e219" type="question-title">Malefactores ecclesiarum in utroque foro conveniri possunt.</head>
           <p xml:id="cice-l2t2-d1e222">Lucius III.</p>
           <p xml:id="cice-l2t2-d1e225">Quum sit generale, ut actor forum rei sequatur, †conveniens est, ut apud iudices
             saeculares raptores prius conveniantur. Sed si iustitiam exhibere contempserint, aut
@@ -151,10 +151,10 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e229">
           <head xml:id="cice-l2t2-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t2-d1e234">Causae clericorum secundum iura, non secundum consuetudines laicorum terminantur. Vel
+          <head xml:id="cice-l2t2-d1e234" type="question-title">Causae clericorum secundum iura, non secundum consuetudines laicorum terminantur. Vel
             sic: in loco temporalis iurisdictionis ecclesiae causae clericorum sunt secundum ius
             canonicum terminandae. Hoc dicit secundum gl. et utrumque summarium recipit
-            determinationem.</p>
+            determinationem.</head>
           <p xml:id="cice-l2t2-d1e237">Coelestinus III.</p>
           <p xml:id="cice-l2t2-d1e240">Quod clericis (Et infra:) Nullus episcoporum vel clericorum ad iudicia saecularia est
             trahendus. Habent enim illi suos iudices, nec quicquam est eis publicis commune cum
@@ -167,8 +167,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e244">
           <head xml:id="cice-l2t2-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t2-d1e249">Laicus laicum super re civili coram iudice ecclesiastico convenire non potest, nisi in
-            defectu iustitiae saecularis, vel nisi consuetudo id exposcat.</p>
+          <head xml:id="cice-l2t2-d1e249" type="question-title">Laicus laicum super re civili coram iudice ecclesiastico convenire non potest, nisi in
+            defectu iustitiae saecularis, vel nisi consuetudo id exposcat.</head>
           <p xml:id="cice-l2t2-d1e252">Innocentius III. Vercellensi Episcopo.</p>
           <p xml:id="cice-l2t2-d1e255">Licet ex suscepto †servitutis officio simus omnibus in iustitia debitores, sic tamen in
             iure suo nos quibusdam convenit providere, ne aliis iniuriam facere videamur, et, quod
@@ -196,8 +196,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e260">
           <head xml:id="cice-l2t2-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t2-d1e265">Vidua laicum coram iudice ecclesiastice convenire non potest, nisi super causa
-            ecclesiastica, vel in defectum iudicis saecularis.</p>
+          <head xml:id="cice-l2t2-d1e265" type="question-title">Vidua laicum coram iudice ecclesiastice convenire non potest, nisi super causa
+            ecclesiastica, vel in defectum iudicis saecularis.</head>
           <p xml:id="cice-l2t2-d1e268">Idem Archidiacono et Thesaurario Turonensibus.</p>
           <p xml:id="cice-l2t2-d1e271">Ex tenore literarum nobilis viri G. comitis Britanniae nostris est auribus intimatum,
             quod, quum causam, quae inter mulierem nobilem F. et nobilem virum I. de Meduano super
@@ -219,8 +219,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e275">
           <head xml:id="cice-l2t2-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t2-d1e280">Clericus non potest constituere sibi iudicem laicum, etiamsi proprium iuramentum et
-            adversarii consensus accedat.</p>
+          <head xml:id="cice-l2t2-d1e280" type="question-title">Clericus non potest constituere sibi iudicem laicum, etiamsi proprium iuramentum et
+            adversarii consensus accedat.</head>
           <p xml:id="cice-l2t2-d1e283">Idem Pisano Archiepiscopo.</p>
           <p xml:id="cice-l2t2-d1e286">Si diligenti Et infra: [cf. c. 17. de praescr. II. 26.] Super eo autem admiramur
             plurimum, et movemur, quod, quum te reputemus virum providum et discretum, et iuxta
@@ -246,8 +246,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e290">
           <head xml:id="cice-l2t2-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t2-d1e295">Clerici super escessibus coram suo episcopo conveniri debent, non coram his, quibus
-            serviunt, nisi consuetudo vel privilegium aliud inducat.</p>
+          <head xml:id="cice-l2t2-d1e295" type="question-title">Clerici super escessibus coram suo episcopo conveniri debent, non coram his, quibus
+            serviunt, nisi consuetudo vel privilegium aliud inducat.</head>
           <p xml:id="cice-l2t2-d1e298">Idem Belvacensi Episcopo.</p>
           <p xml:id="cice-l2t2-d1e301">Quum contingat interdum (Et infra: [cf. c. 28. de iureiur. II. 24.]) Insuper
             postulasti, an, quum aliqui clerici deputati servitio capituli Belvacensis aut aliorum
@@ -262,11 +262,11 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e305">
           <head xml:id="cice-l2t2-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t2-d1e310">Episcopus delicti condemnat clericum de delicto; sed non privat beneficio alibi
+          <head xml:id="cice-l2t2-d1e310" type="question-title">Episcopus delicti condemnat clericum de delicto; sed non privat beneficio alibi
             exsistente; sed episcopus beneficii privabit quasi exsequendo condemnationem iudicis
             delicti. H. d. secundum unum intellectum. Secundum alium intellectum h. d.: Episcopus
             delicti condemnat clericum de delicto, privando beneficio alibi sito; exsecutio realis
-            fit ab episcopo beneficii.</p>
+            fit ab episcopo beneficii.</head>
           <p xml:id="cice-l2t2-d1e313">Idem.</p>
           <p xml:id="cice-l2t2-d1e316">Postulasti per sedem apostolicam edoceri, utrum sacerdos habens ecclesiam in una
             dioecesi, et residens in eadem, domicilium vero patrimonii ratione in alia, ibi
@@ -279,8 +279,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e320">
           <head xml:id="cice-l2t2-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t2-d1e325">Miserabilis persona potest laicum interdicto unde vi coram iudice ecclesiastico
-            convenire, etiamsi res subtracta dicatur feudalis.</p>
+          <head xml:id="cice-l2t2-d1e325" type="question-title">Miserabilis persona potest laicum interdicto unde vi coram iudice ecclesiastico
+            convenire, etiamsi res subtracta dicatur feudalis.</head>
           <p xml:id="cice-l2t2-d1e328">Honorius III. Archiepiscopo, Decano et Archidiacono Turonensibus.</p>
           <p xml:id="cice-l2t2-d1e331">Ex parte carissimae in Christo filiae B. quondam Angliae reginae illustris fuit
             propositum coram nobis, quod, quum nobilem virum G. de Guerchia detentorem castri
@@ -326,8 +326,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e335">
           <head xml:id="cice-l2t2-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l2t2-d1e340">Laici usurpantes iura ecclesiastica velut sacrilegi per iudicem ecclesiasticum
-            compelluntur.</p>
+          <head xml:id="cice-l2t2-d1e340" type="question-title">Laici usurpantes iura ecclesiastica velut sacrilegi per iudicem ecclesiasticum
+            compelluntur.</head>
           <p xml:id="cice-l2t2-d1e343">Gregorius IX. Fratri Palmerio Canonico S. Trinitatis.</p>
           <p xml:id="cice-l2t2-d1e346">Conquestus est nobis [venerabilis frater noster] Bononiensis episcopus, quod potestas
             et commune Bononienses temporalem iurisdictionem, quae in [S. Ioannis in Persiceto,
@@ -377,9 +377,9 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e351">
           <head xml:id="cice-l2t2-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l2t2-d1e356">Privilegiatus ut non teneatur respondere nisi in certo loco. Si in alio loco respondere
+          <head xml:id="cice-l2t2-d1e356" type="question-title">Privilegiatus ut non teneatur respondere nisi in certo loco. Si in alio loco respondere
             vel solvere promittit, ibi poterit conveniri, et etiam ubi habet domicilium. Secundum
-            Ioan. Andr.</p>
+            Ioan. Andr.</head>
           <p xml:id="cice-l2t2-d1e359">Idem Episcopo Dulmensi.</p>
           <p xml:id="cice-l2t2-d1e362">Dilecti filii I. et A. cives Romani sua nobis petitione monstrarunt, quod, quum abbati
             S. Genovefae Parisiensis super quadam pecuniae summa contra R. praedecessorem tuum
@@ -396,9 +396,9 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e366">
           <head xml:id="cice-l2t2-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l2t2-d1e371">Quanquam laici possunt iurisdictionem non sui iudicis prorogare, clerici tamen non
+          <head xml:id="cice-l2t2-d1e371" type="question-title">Quanquam laici possunt iurisdictionem non sui iudicis prorogare, clerici tamen non
             possunt, nisi episcopi dioecesani consensus accedat, et iudex, cuius iurisdictionem
-            prorogare volunt, sit ecclesiasticus.</p>
+            prorogare volunt, sit ecclesiasticus.</head>
           <p xml:id="cice-l2t2-d1e374">Idem Abbati Trecensi.</p>
           <p xml:id="cice-l2t2-d1e377">Significasti nobis, quod P. clericus ad petitionem C. mercatoris se tuae iurisdictioni
             subiecit, si in termino nunc elapso de pecunia mutuata, non satisfecisset eidem (Et
@@ -409,8 +409,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e381">
           <head xml:id="cice-l2t2-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l2t2-d1e386">Legitime citatus tenetur coram iudice citante causam prosequi, non obstante, quod post
-            citationem mutaverit forum.</p>
+          <head xml:id="cice-l2t2-d1e386" type="question-title">Legitime citatus tenetur coram iudice citante causam prosequi, non obstante, quod post
+            citationem mutaverit forum.</head>
           <p xml:id="cice-l2t2-d1e389">Idem.</p>
           <p xml:id="cice-l2t2-d1e392">Proposuisti nobis, quod quidam subditus tuus ad petitionem cuiusdam adversarii sui a te
             legitime citatus ad causam, quia postmodum iurisdictionis alterius esse coepit, tuum
@@ -419,8 +419,8 @@
         </div>
         <div xml:id="cice-l2t2-Dd1e396">
           <head xml:id="cice-l2t2-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l2t2-d1e401">Quisque clericus potest in curia Romana conveniri, licet alias specifice forum ibi non
-            sortiatur; habet tamen ex causa ius revocandi domum.</p>
+          <head xml:id="cice-l2t2-d1e401" type="question-title">Quisque clericus potest in curia Romana conveniri, licet alias specifice forum ibi non
+            sortiatur; habet tamen ex causa ius revocandi domum.</head>
           <p xml:id="cice-l2t2-d1e404">Idem.</p>
           <p xml:id="cice-l2t2-d1e407">Licet ratione delicti, seu contractus, aut domicilii, sive rei, de qua contra
             possessorem causa movetur, quibus forum regulariter quis sortitur, episcopus vester apud

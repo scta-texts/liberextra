@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l4t2-Dd1e108">
           <head xml:id="cice-l4t2-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t2-d1e113">Pater pro filio impubere sponsalia contrahit, pro pubere vero non, nisi consentiat.</p>
+          <head xml:id="cice-l4t2-d1e113" type="question-title">Pater pro filio impubere sponsalia contrahit, pro pubere vero non, nisi consentiat.</head>
           <p xml:id="cice-l4t2-d1e116">Hormisda Eusebio Episcopo.</p>
           <p xml:id="cice-l4t2-d1e119">Tua nos requisivit fraternitas de filio adulto, quem pater matrimonium vult contrahere,
             si sine voluntate adulti filii facere potest. Ad quod dicimus, si aliquo modo non
@@ -67,7 +67,7 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e123">
           <head xml:id="cice-l4t2-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t2-d1e128">Impuberes ambo vel alter, nisi pro bono pacis, coniungi non debent.</p>
+          <head xml:id="cice-l4t2-d1e128" type="question-title">Impuberes ambo vel alter, nisi pro bono pacis, coniungi non debent.</head>
           <p xml:id="cice-l4t2-d1e131">Nicolaus Papa.</p>
           <p xml:id="cice-l4t2-d1e134">Ubi non est consensus (Et infra:) Huius ergo decreti auctoritate Districtius inhibemus,
             ne de cetero aliqui, quorum uterque vel alter ad aetatem legibus vel canonibus
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e138">
           <head xml:id="cice-l4t2-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t2-d1e143">Puberes sunt quoad matrimonium, qui ex habitu corporis concipere et generare
-            possunt.</p>
+          <head xml:id="cice-l4t2-d1e143" type="question-title">Puberes sunt quoad matrimonium, qui ex habitu corporis concipere et generare
+            possunt.</head>
           <p xml:id="cice-l4t2-d1e146">Isidorus.</p>
           <p xml:id="cice-l4t2-d1e149">Puberes a pube sunt vocati, id est a pudentia corporis nuncupati: quia haec loca tunc
             primo lanuginem ducunt. Quidam tamen ex annis pubertatem existimant, id est, eum esse
@@ -87,9 +87,9 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e153">
           <head xml:id="cice-l4t2-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t2-d1e158">Ex sponsalibus, contractis cum minore septennio, non oritur impedimentum publicae
+          <head xml:id="cice-l4t2-d1e158" type="question-title">Ex sponsalibus, contractis cum minore septennio, non oritur impedimentum publicae
             honestatis; secus, si cum maiore vel minore, consentiente post septennium. Et affinitas
-            sequens dissolvit sponsalia praecedentia de futuro.</p>
+            sequens dissolvit sponsalia praecedentia de futuro.</head>
           <p xml:id="cice-l4t2-d1e161">Alexander III. Herfordensi Episcopo.</p>
           <p xml:id="cice-l4t2-d1e164">Literas tuae fraternitatis accepimus, ex quarum tenore perpendimus, quod, quum quidam
             parochianus tuus A. nomine esset perfectae aetatis, quandam puellam in cunabulis
@@ -106,8 +106,8 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e169">
           <head xml:id="cice-l4t2-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t2-d1e174">Sponsalia, nulla ex defectu consensus, non creant publicae honestatis iustitiam:
-            sponsalia vero aliqua sic, licet legitimo modo fuerint dissoluta.</p>
+          <head xml:id="cice-l4t2-d1e174" type="question-title">Sponsalia, nulla ex defectu consensus, non creant publicae honestatis iustitiam:
+            sponsalia vero aliqua sic, licet legitimo modo fuerint dissoluta.</head>
           <p xml:id="cice-l4t2-d1e177">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l4t2-d1e180">Accessit ad praesentiam nostram nobilis vir W. filius G. cum literis tuis, ex quarum
             tenore perpendimus, quod, quum filiam cuiusdam nobilis viri, dum esset minoris aetatis,
@@ -151,10 +151,10 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e184">
           <head xml:id="cice-l4t2-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t2-d1e189">Si impubes, desponsata et traducta, petit licentiam pubes facta alteri nubendi, non
+          <head xml:id="cice-l4t2-d1e189" type="question-title">Si impubes, desponsata et traducta, petit licentiam pubes facta alteri nubendi, non
             auditur, si vir iurat, se eam cognovisse; nec auditur, si nondum pubes, sed proxima
             pubertati probetur cognita. Et ex sponsalibus, contractis cum impubere maiore septennio,
-            oritur publica honestas.</p>
+            oritur publica honestas.</head>
           <p xml:id="cice-l4t2-d1e192">Idem Norvicensi Episcopo.</p>
           <p xml:id="cice-l4t2-d1e195">Continebatur in literis tuis, quod, quum quaedam puella infra nubiles annos cuidam viro
             in uxorem tradita fuerit, et ab ipso traducta, suis parentibus asserentibus, eam
@@ -177,10 +177,10 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e199">
           <head xml:id="cice-l4t2-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t2-d1e204">Si maiores septennio contrahunt sponsalia, neuter antepubertatem resilire potest. Hoc
+          <head xml:id="cice-l4t2-d1e204" type="question-title">Si maiores septennio contrahunt sponsalia, neuter antepubertatem resilire potest. Hoc
             primo. Et ille, qui primo it pubes, alterum exspectabit. Hoc secundo. Quod si tempore
             contractus aliter erat pubes, non ille, sed alter factus pubes resilire potest. Hoc
-            tertis.</p>
+            tertis.</head>
           <p xml:id="cice-l4t2-d1e207">Idem Bathoniensi Episcopo.</p>
           <p xml:id="cice-l4t2-d1e210">De illis, qui infra annos aptos matrimoniis contrahendis [exsistentes] sponsalia
             contrahunt, sive uterque sive alter reclamet antequam ad annos matrimoniis contrahendis
@@ -195,8 +195,8 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e214">
           <head xml:id="cice-l4t2-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l4t2-d1e219">Impuberes, sponsalia contrahentes, ante pubertatem separari non debent, sed post
-            pubertatem possunt, si contradicunt sponsalibus, nisi copula carnalis intervenerit.</p>
+          <head xml:id="cice-l4t2-d1e219" type="question-title">Impuberes, sponsalia contrahentes, ante pubertatem separari non debent, sed post
+            pubertatem possunt, si contradicunt sponsalibus, nisi copula carnalis intervenerit.</head>
           <p xml:id="cice-l4t2-d1e222">Idem eidem.</p>
           <p xml:id="cice-l4t2-d1e225">A nobis tua discretio requisivit, utrum iis qui infra annos nubiles matrimonii nomine
             coniunguntur, vel eorum alteri, antequam ad annos aptos matrimonio perveniant, liceat a
@@ -209,8 +209,8 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e229">
           <head xml:id="cice-l4t2-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l4t2-d1e234">Minores, apti ad matrimonium, ex contractu matrimonii obligantur, nisi violentia
-            intercedat.</p>
+          <head xml:id="cice-l4t2-d1e234" type="question-title">Minores, apti ad matrimonium, ex contractu matrimonii obligantur, nisi violentia
+            intercedat.</head>
           <p xml:id="cice-l4t2-d1e237">Idem Genuensi Archiepiscopo.</p>
           <p xml:id="cice-l4t2-d1e240">De illis autem, qui in minori aetate desponsantur, traduntur et coniunguntur, et
             processu temporis divortium postulant, minorem allegantes aetatem, aut vim sibi a
@@ -223,7 +223,7 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e244">
           <head xml:id="cice-l4t2-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l4t2-d1e249">Contractus ante pubertatem, etiam cum nisu carnalis copulae, non facit matrimonium.</p>
+          <head xml:id="cice-l4t2-d1e249" type="question-title">Contractus ante pubertatem, etiam cum nisu carnalis copulae, non facit matrimonium.</head>
           <p xml:id="cice-l4t2-d1e252">Urbanus III. Cenomanensi Episcopo.</p>
           <p xml:id="cice-l4t2-d1e255">Attestationes super causa matrimonii, quae inter H. iuvenem et G. mulierem vertitur, a
             tua nobis fraternitate transmissas accepimus, et, ipsis diligenter inspectis et plenius
@@ -242,8 +242,8 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e260">
           <head xml:id="cice-l4t2-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l4t2-d1e265">Si maior invita contraxit sponsalia cum minore, non tenetur ipsum exspectare, donec
-            veniat ad aetatem adultam.</p>
+          <head xml:id="cice-l4t2-d1e265" type="question-title">Si maior invita contraxit sponsalia cum minore, non tenetur ipsum exspectare, donec
+            veniat ad aetatem adultam.</head>
           <p xml:id="cice-l4t2-d1e268">Idem Pisano Archiepiscopo.</p>
           <p xml:id="cice-l4t2-d1e271">Ex literis tuae fraternitatis accepimus, quod puella quaedam anno XII. iurata fuit et
             desponsata cuidam puero IX. vel X. annorum, et tempore procedente de voluntate parentum
@@ -262,9 +262,9 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e275">
           <head xml:id="cice-l4t2-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l4t2-d1e280">Sponsalia, contracta cum minore septennio, per cohabitationem mutuam post septennium
+          <head xml:id="cice-l4t2-d1e280" type="question-title">Sponsalia, contracta cum minore septennio, per cohabitationem mutuam post septennium
             convalescunt, et inducunt publicae honestatis iustitiam; solvuntur tamen per matrimonium
-            de praesenti.</p>
+            de praesenti.</head>
           <p xml:id="cice-l4t2-d1e283">Clemens III.</p>
           <p xml:id="cice-l4t2-d1e286">Duo pueri Guilielmus et Guilielma in tua dioecesi, quemadmodum accepimus,
             matrimonialiter sunt coniuncti, puero VI., puella vero VII. annum agente; qui simul per
@@ -294,8 +294,8 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e290">
           <head xml:id="cice-l4t2-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l4t2-d1e295">Accusari non potest matrimonium, quod non est, ut si cum minori septennio sit
-            contractum; denunciari tamen potest impedimentum, ne contrahatur in posterum.</p>
+          <head xml:id="cice-l4t2-d1e295" type="question-title">Accusari non potest matrimonium, quod non est, ut si cum minori septennio sit
+            contractum; denunciari tamen potest impedimentum, ne contrahatur in posterum.</head>
           <p xml:id="cice-l4t2-d1e298">Innocentius III. C. et P. quondam filiis Malebrancae.</p>
           <p xml:id="cice-l4t2-d1e301">Ad dissolvendum quod factum fuerat inter I. filium nobilis viri Leonis [de Monumento]
             et S. filiam quondam Matthaei [de Fortebrachio] super matrimonio contrahendo, in nostra
@@ -323,9 +323,9 @@
         </div>
         <div xml:id="cice-l4t2-Dd1e305">
           <head xml:id="cice-l4t2-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l4t2-d1e310">Si quis per verba de praesenti contrahit cum impubere, in qua aetatem malitia non
+          <head xml:id="cice-l4t2-d1e310" type="question-title">Si quis per verba de praesenti contrahit cum impubere, in qua aetatem malitia non
             supplet, intelligitur non matrimonium, sed sponsalia contraxisse, etiamsi subarrhatio
-            intercesserit.</p>
+            intercesserit.</head>
           <p xml:id="cice-l4t2-d1e313">Idem Episcopo Abbatensi.</p>
           <p xml:id="cice-l4t2-d1e316">Tuae nobis exhibitae literae continebant, quod quidam vir nobilis filiam suam, circiter
             XII. annos habentem, cuidam viro nobili desponsavit, qui subarrhavit eandem consensu

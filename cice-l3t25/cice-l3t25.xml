@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t25-Dd1e108">
           <head xml:id="cice-l3t25-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t25-d1e113">Quaesitum a rectore ecclesiae, tempore promotionis nihil habente, praesumitur de bonis
-            ecclesiae quaesitum.</p>
+          <head xml:id="cice-l3t25-d1e113" type="question-title">Quaesitum a rectore ecclesiae, tempore promotionis nihil habente, praesumitur de bonis
+            ecclesiae quaesitum.</head>
           <p xml:id="cice-l3t25-d1e116">Ex concilio Arelatensi.</p>
           <p xml:id="cice-l3t25-d1e119">Investigandum est, si nihil patrimonii habens presbyter, quamdo promotus est ad
             ecclesiasticum ordinem, postea emerit praedia, cuius iuris sint, quoniam ecclesiae, ad
@@ -66,23 +66,23 @@
         </div>
         <div xml:id="cice-l3t25-Dd1e123">
           <head xml:id="cice-l3t25-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t25-d1e128">De emptis per praelatum de bonis ecclesiae debet instrumentum confici nomine ecclesiae;
-            alias debet praelatus ab administratione removeri.</p>
+          <head xml:id="cice-l3t25-d1e128" type="question-title">De emptis per praelatum de bonis ecclesiae debet instrumentum confici nomine ecclesiae;
+            alias debet praelatus ab administratione removeri.</head>
           <p xml:id="cice-l3t25-d1e131">Ex eodem.</p>
           <p xml:id="cice-l3t25-d1e134">Presbyter, quum dioecesim tenet, de eis, quae superemerit, ad ipsius ecclesiae nomen
             scripturam faciat, aut ab eius, quam tenuit, ecclesiae ordinatione discedat.</p>
         </div>
         <div xml:id="cice-l3t25-Dd1e138">
           <head xml:id="cice-l3t25-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t25-d1e143">Quaesita per episcopum post consecrationem suam ecclesiae relinquenda sunt.</p>
+          <head xml:id="cice-l3t25-d1e143" type="question-title">Quaesita per episcopum post consecrationem suam ecclesiae relinquenda sunt.</head>
           <p xml:id="cice-l3t25-d1e146">Ex epistola Pii Papae.</p>
           <p xml:id="cice-l3t25-d1e149">Ut unusquisque presbyter res, quas post dies consecrationis acquisierit, propriae
             ecclesiae relinquat.</p>
         </div>
         <div xml:id="cice-l3t25-Dd1e153">
           <head xml:id="cice-l3t25-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t25-d1e158">Empta per praelatum ex emolumentis ecclesiae efficiuntur ecclesiae, licet praelatus
-            emerit nomine alieno.</p>
+          <head xml:id="cice-l3t25-d1e158" type="question-title">Empta per praelatum ex emolumentis ecclesiae efficiuntur ecclesiae, licet praelatus
+            emerit nomine alieno.</head>
           <p xml:id="cice-l3t25-d1e161">Ex concilio Remensi.</p>
           <p xml:id="cice-l3t25-d1e164">Inquirendum est, si quis presbyterorum de reditibus ecclesiae, vel oblationibus, vel
             votis fidelium alieno nomine res comparavit et ibi structuras fecerit, vel quae ad
@@ -98,9 +98,9 @@
         </div>
         <div xml:id="cice-l3t25-Dd1e169">
           <head xml:id="cice-l3t25-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t25-d1e174">Meliorationes, factae per praelatum in rebus ecclesiae, sunt suae in vita, etiami
+          <head xml:id="cice-l3t25-d1e174" type="question-title">Meliorationes, factae per praelatum in rebus ecclesiae, sunt suae in vita, etiami
             dimittat beneficium; sed de his testari non potest. H. d. secundum intellectum satis
-            notabilem.</p>
+            notabilem.</head>
           <p xml:id="cice-l3t25-d1e177">Ex concilio Toletano.</p>
           <p xml:id="cice-l3t25-d1e180">Si quis sane clericorum agella vel vincolas in terra ecclesiae sibi fecisse probabitur
             sustentandae vitae causa, usque ad diem obitus sui possideat; verum post suum de hac

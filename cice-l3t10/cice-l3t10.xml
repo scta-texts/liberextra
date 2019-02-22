@@ -57,15 +57,15 @@
 
         <div xml:id="cice-l3t10-Dd1e108">
           <head xml:id="cice-l3t10-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t10-d1e113">Non tenet alienatio rei ecclesiasticae absque approbatione capituli.</p>
+          <head xml:id="cice-l3t10-d1e113" type="question-title">Non tenet alienatio rei ecclesiasticae absque approbatione capituli.</head>
           <p xml:id="cice-l3t10-d1e116">Ex concilio apud Valentiam.</p>
           <p xml:id="cice-l3t10-d1e119">Irrita erit episcoporum donatio, vel venditio vel commutatio rei ecclesiasticae absque
             collaudatione et subscriptione clericorum.</p>
         </div>
         <div xml:id="cice-l3t10-Dd1e123">
           <head xml:id="cice-l3t10-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t10-d1e128">In temporali alienatione, quam facit praelatus, taciturnitas capituli habetur pro
-            consensu.</p>
+          <head xml:id="cice-l3t10-d1e128" type="question-title">In temporali alienatione, quam facit praelatus, taciturnitas capituli habetur pro
+            consensu.</head>
           <p xml:id="cice-l3t10-d1e131">Alexander III. Norvicensi Episcopo.</p>
           <p xml:id="cice-l3t10-d1e134">Continebatur †[in literis a te nobis transmissis, quod quum super decima de W. inter
             magistrum Hubertum et magistrum N. de mandato nostro coram te quaestio verteretur,
@@ -84,8 +84,8 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e138">
           <head xml:id="cice-l3t10-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t10-d1e143">Alienatio temporalis facta sine consensu capituli per ratificationem eius
-            roboratur.</p>
+          <head xml:id="cice-l3t10-d1e143" type="question-title">Alienatio temporalis facta sine consensu capituli per ratificationem eius
+            roboratur.</head>
           <p xml:id="cice-l3t10-d1e146">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l3t10-d1e149">Quum nos iam pridem, †si bene meminimus, tibi per literas nostras indulserimus, ut, si
             Io. praedecessor tuus reclamante capitulo ecclesiae tuae, abbati et fratribus de Oseneia
@@ -106,8 +106,8 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e153">
           <head xml:id="cice-l3t10-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t10-d1e158">Praelatus sine consilio capituli instituere vel destituere, vel alia negotia ecclesiae
-            tractare non debet. H. d. cum capitulo sequenti.</p>
+          <head xml:id="cice-l3t10-d1e158" type="question-title">Praelatus sine consilio capituli instituere vel destituere, vel alia negotia ecclesiae
+            tractare non debet. H. d. cum capitulo sequenti.</head>
           <p xml:id="cice-l3t10-d1e161">Idem Hierosolymitano Patriarchae.</p>
           <p xml:id="cice-l3t10-d1e164">Novit plenius, sicut credimus, tuae discretionis prudentia, qualiter tu et fratres tui
             unum corpus sitis, ita quidem, quod tu caput, et illi membra esse probantur. Unde non
@@ -123,9 +123,9 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e169">
           <head xml:id="cice-l3t10-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t10-d1e174">Summatum est supra capitulo proximo. Praelatus sine consilio capituli instituere vel
+          <head xml:id="cice-l3t10-d1e174" type="question-title">Summatum est supra capitulo proximo. Praelatus sine consilio capituli instituere vel
             destituere, vel alia negotia ecclesiae tractare non debet. H. d. cum capitulo
-            sequenti.</p>
+            sequenti.</head>
           <p xml:id="cice-l3t10-d1e177">Idem eidem.</p>
           <p xml:id="cice-l3t10-d1e180">Quanto †maiori dignitate dante Domino praeemines, tanto decet amplius et oportet te in
             omnibus eam diligentiam et gravitatem habere, quod omnia videaris sine nota et
@@ -151,9 +151,9 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e184">
           <head xml:id="cice-l3t10-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t10-d1e189">Si ecclesia collegiata habet praesentationem, praesentabit praelatus de consensu
+          <head xml:id="cice-l3t10-d1e189" type="question-title">Si ecclesia collegiata habet praesentationem, praesentabit praelatus de consensu
             capituli vel maioris partis, nisi de consuetudine vel privilegio competat soli
-            praelato.</p>
+            praelato.</head>
           <p xml:id="cice-l3t10-d1e192">Coelestinus III.</p>
           <p xml:id="cice-l3t10-d1e195">Ea noscitur †[sedis apostolicae dignitas, eidem ab ipso Domino in B. Petro concessa,
             ut, ubi emergit alicuius dubitationis articulus, ad ipsius oraculum referatur, et quod
@@ -174,8 +174,8 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e199">
           <head xml:id="cice-l3t10-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t10-d1e204">Tenet donatio, quam de solius dioecesani consensu facit laicus ecclesiae de decimis,
-            quas ab alia ecclesia habet in feudum ab antiquo, i. e. ante Lateranense concilium.</p>
+          <head xml:id="cice-l3t10-d1e204" type="question-title">Tenet donatio, quam de solius dioecesani consensu facit laicus ecclesiae de decimis,
+            quas ab alia ecclesia habet in feudum ab antiquo, i. e. ante Lateranense concilium.</head>
           <p xml:id="cice-l3t10-d1e207">Innocentius III. Archipresbytero et Magistro scholarium Bituricensibus.</p>
           <p xml:id="cice-l3t10-d1e210">Quum apostolica sedes, †cui, licet immeriti, praesidemus, universis per orbem ecclesiis
             non humana, sed divina institutione sit praelata, iustum est et conveniens, ut ad eam
@@ -214,8 +214,8 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e214">
           <head xml:id="cice-l3t10-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t10-d1e219">Non potest episcopus sine consensu capituli concedere ecclesias aliis ecclesiis,
-            etiamsi habeat ius patronatus in ecclesiis concessi.</p>
+          <head xml:id="cice-l3t10-d1e219" type="question-title">Non potest episcopus sine consensu capituli concedere ecclesias aliis ecclesiis,
+            etiamsi habeat ius patronatus in ecclesiis concessi.</head>
           <p xml:id="cice-l3t10-d1e222">Idem Metensi Archidiacono.</p>
           <p xml:id="cice-l3t10-d1e225">Tua nuper nobis (Et infra:) Adiecisti etiam, utrum episcopo vel electo cum solo
             archidiacono praeter assensum maioris ecclesiae, quum et ab ipsa eligatur episcopus, et
@@ -232,8 +232,8 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e229">
           <head xml:id="cice-l3t10-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t10-d1e234">Episcopus parochiales ecclesias, vel obventiones ipsarum, de consensu patroni sine
-            consensu capituli sui monasterio conferre non potest.</p>
+          <head xml:id="cice-l3t10-d1e234" type="question-title">Episcopus parochiales ecclesias, vel obventiones ipsarum, de consensu patroni sine
+            consensu capituli sui monasterio conferre non potest.</head>
           <p xml:id="cice-l3t10-d1e237">Idem Episcopo Heliensi.</p>
           <p xml:id="cice-l3t10-d1e240">Pastoralis officii diligentia (Et infra: [cf. c. 28. de off. iud. del. I. 29])
             Sollicite Praeterea quaesivisti, quum auctoritate Dionysii fuerint parochiae limitatae,
@@ -251,8 +251,8 @@
         </div>
         <div xml:id="cice-l3t10-Dd1e244">
           <head xml:id="cice-l3t10-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t10-d1e249">Ad concilia provincialia vocari debent et admitti cathedralium ecclesiarum
-            capitula.</p>
+          <head xml:id="cice-l3t10-d1e249" type="question-title">Ad concilia provincialia vocari debent et admitti cathedralium ecclesiarum
+            capitula.</head>
           <p xml:id="cice-l3t10-d1e252">Innocentius III. Archiepiscopo Senonensi et eius Suffraganeis.</p>
           <p xml:id="cice-l3t10-d1e255">Etsi membra corporis Christi (Et infra:) Provinciae Senonensis capitula cathedralium
             ecclesiarum suam ad nos querimoniam transmiserunt, quod archiepiscopus Senonensis et

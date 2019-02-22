@@ -57,10 +57,10 @@
 
         <div xml:id="cice-l5t30-Dd1e108">
           <head xml:id="cice-l5t30-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t30-d1e113">Qui furtive recipit ordinem, si contra hoc facientes lata erat excommunicatio, sine
+          <head xml:id="cice-l5t30-d1e113" type="question-title">Qui furtive recipit ordinem, si contra hoc facientes lata erat excommunicatio, sine
             dispensatione Papae in sic suscepto ministrare vel ad superiorem adscendere non potest;
             sed, si excommunicatio lata non erat, episcopus et abbas poterunt dispensare. H. d. cum
-            duobus sequentibus.</p>
+            duobus sequentibus.</head>
           <p xml:id="cice-l5t30-d1e116">Allexander III. Lingoniensi Episcopo.</p>
           <p xml:id="cice-l5t30-d1e119">Veniens ad nos P. lator praesentium nobis exposuit, se antiqui hostis versutia
             circumventum furtive diaconatus ordinem suscepisse. Unde fraternitati tuae respondemus,
@@ -75,7 +75,7 @@
         </div>
         <div xml:id="cice-l5t30-Dd1e123">
           <head xml:id="cice-l5t30-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t30-d1e128">Summatum est supra capitulo proximo.</p>
+          <head xml:id="cice-l5t30-d1e128" type="question-title">Summatum est supra capitulo proximo.</head>
           <p xml:id="cice-l5t30-d1e131">Coelestinus III.</p>
           <p xml:id="cice-l5t30-d1e134">Quum H. lator praesentium, sicut nobis sua quaestione monstravit, ad tuam ordinationis
             causa praesentiam accessisset, iuxta consuetudinem patriae sibi quatuor minores ordines
@@ -87,7 +87,7 @@
         </div>
         <div xml:id="cice-l5t30-Dd1e138">
           <head xml:id="cice-l5t30-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t30-d1e143">Summatum est supra capitulo primo.</p>
+          <head xml:id="cice-l5t30-d1e143" type="question-title">Summatum est supra capitulo primo.</head>
           <p xml:id="cice-l5t30-d1e146">Idem.</p>
           <p xml:id="cice-l5t30-d1e149">Innotuit nobis ex tenore tuarum literarum, quod G. clericus lator praesentium et alii
             duo de dioecesi tua ad G. quondam Seguntinum episcopum, ut ordines ab eo reciperent,

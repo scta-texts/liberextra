@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l3t39-Dd1e108">
           <head xml:id="cice-l3t39-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t39-d1e113">Ecclesiae fundandae debet pro dote tribui mansus, liber a quolibet servitio temporali;
+          <head xml:id="cice-l3t39-d1e113" type="question-title">Ecclesiae fundandae debet pro dote tribui mansus, liber a quolibet servitio temporali;
             ad ecclesiasticum tamen tenetur. Sed si aliquid confertur ecclesiae ultra mansum,
-            tenetur ecclesia ex eo solvere onera consueta. H. d. inhaerendo literae.</p>
+            tenetur ecclesia ex eo solvere onera consueta. H. d. inhaerendo literae.</head>
           <p xml:id="cice-l3t39-d1e116">Ex concilio apud Guarmaciam.</p>
           <p xml:id="cice-l3t39-d1e119">Sancitum est, ut unicuique ecclesiae unus mansus integer absque ullo servitio
             tribuatur. Et presbyteri in eis constituti non de decimis, neque de oblationibus
@@ -69,14 +69,14 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e123">
           <head xml:id="cice-l3t39-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t39-d1e128">Solutio tributi arguit subiectionem.</p>
+          <head xml:id="cice-l3t39-d1e128" type="question-title">Solutio tributi arguit subiectionem.</head>
           <p xml:id="cice-l3t39-d1e131">Augustinus super epistola ad Romanos.</p>
           <p xml:id="cice-l3t39-d1e134"><quote xml:id="cice-l3t39-Qoaspss" ana="rom13_1">Omnis anima sublimioribus potestatibus subdita sit</quote>. (Et infra:) Et vos subditi esse
             debetis. Ideo enim tributa praestatis, quia haec est probatio subiectionis.</p>
         </div>
         <div xml:id="cice-l3t39-Dd1e138">
           <head xml:id="cice-l3t39-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t39-d1e143">Non potest episcopus novum censum imponere monasterio.</p>
+          <head xml:id="cice-l3t39-d1e143" type="question-title">Non potest episcopus novum censum imponere monasterio.</head>
           <p xml:id="cice-l3t39-d1e146">Gregorius Stephano Cantori.</p>
           <p xml:id="cice-l3t39-d1e149">Scientes (Et infra:) Asseruit autem praedictus abbas, presbyterum praedictae Massae
             novas monasterio illi consuetudines velle imponere, †quae ex tempore conditi monasterii
@@ -87,7 +87,7 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e153">
           <head xml:id="cice-l3t39-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t39-d1e158">Caecus et pauper ad collectas non tenentur.</p>
+          <head xml:id="cice-l3t39-d1e158" type="question-title">Caecus et pauper ad collectas non tenentur.</head>
           <p xml:id="cice-l3t39-d1e161">Idem Constantino Episcopo.</p>
           <p xml:id="cice-l3t39-d1e164">Licet multum (Et infra: [cf. c. 1. de rest. spol. II. 13.]) Dixit quoque praedictus
             caecus, quod ad collectas inter alios civitatis Ianuensis habitatores et ipse pariter
@@ -98,7 +98,7 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e169">
           <head xml:id="cice-l3t39-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t39-d1e174">Petens censum debet rationem exprimere.</p>
+          <head xml:id="cice-l3t39-d1e174" type="question-title">Petens censum debet rationem exprimere.</head>
           <p xml:id="cice-l3t39-d1e177">Paschalis II. Comitissae Mathildae.</p>
           <p xml:id="cice-l3t39-d1e180">Pervenit ad nos, †quod Fraxinorensis abbas Carpensem ecclesiam fuerit depraedatus,
             occasione videlicet cuiusdam census, qui, ad quid solvi debeat, ignoratur. Inquisitioni
@@ -110,12 +110,12 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e184">
           <head xml:id="cice-l3t39-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t39-d1e189">Determinat concilium numerum equorum, quos secum ducere possunt praelati visitantes, et
+          <head xml:id="cice-l3t39-d1e189" type="question-title">Determinat concilium numerum equorum, quos secum ducere possunt praelati visitantes, et
             prohibet eis tunc uti venationibus, et sumptuosas epulas quaerere. Hoc primo usque ad
             vers. Prohibemus. – (Prohibemus etc.:) ­Praelati non debent gravare subditos talliis et
             exactionibus, permittitur tamen ex iusta causa petere ab eis moderatum auxilium. H. d.
             usque ad §. Sane. – (Sane etc.:) In effectu dicitur, quod numerus equorum statutus in
-            princ. cap. non debet trahi ad augendum numerum, alias solitum. Abbas.</p>
+            princ. cap. non debet trahi ad augendum numerum, alias solitum. Abbas.</head>
           <p xml:id="cice-l3t39-d1e192">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t39-d1e195">Quum Apostolus se ac suos propriis manibus decreverit exhibendos, ut locum praedicandi
             auferret pseudoapostolis, et illis, quibus praedicabat, non exsisteret onerosus: grave
@@ -145,8 +145,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e199">
           <head xml:id="cice-l3t39-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t39-d1e204">Novus census ecclesiis imponi non potest, nec antiquus augeri. H. d. et est de
-            principalioribus buius tituli.</p>
+          <head xml:id="cice-l3t39-d1e204" type="question-title">Novus census ecclesiis imponi non potest, nec antiquus augeri. H. d. et est de
+            principalioribus buius tituli.</head>
           <p xml:id="cice-l3t39-d1e207">Ex eodem.</p>
           <p xml:id="cice-l3t39-d1e210">Prohibemus insuper, ne ab abbatibus, vel episcopis vel aliis praelatis novi census
             imponantur ecclesiis, nec veteres augeantur, nec partem redituum suis usibus appropriare
@@ -156,8 +156,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e214">
           <head xml:id="cice-l3t39-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t39-d1e219">Praelatus seu rector ecclesiae non potest, praesertim post mortem, ecclesiam suam
-            propria auctoritate constituere censualem.</p>
+          <head xml:id="cice-l3t39-d1e219" type="question-title">Praelatus seu rector ecclesiae non potest, praesertim post mortem, ecclesiam suam
+            propria auctoritate constituere censualem.</head>
           <p xml:id="cice-l3t39-d1e222">Alexander III. Vigoriensi Episcopo.</p>
           <p xml:id="cice-l3t39-d1e225">Praeterea illi, qui, episcopo ignorante, auctoritate sua pensionem annuam de ecclesiis
             quadam illusione solverint sive receperint, eis defunctis, nisi ab iis, qui per
@@ -170,8 +170,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e229">
           <head xml:id="cice-l3t39-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t39-d1e234">Breve est, vel per alia verba summatur sic: Episcopus ecclesiae, de manu laici per se
-            ereptae, non potest ob hoc censum imponere.</p>
+          <head xml:id="cice-l3t39-d1e234" type="question-title">Breve est, vel per alia verba summatur sic: Episcopus ecclesiae, de manu laici per se
+            ereptae, non potest ob hoc censum imponere.</head>
           <p xml:id="cice-l3t39-d1e237">Idem Carnotensi Episcopo.</p>
           <p xml:id="cice-l3t39-d1e240">Ecclesiis autem, quas de novo episcopi de manibus laicorum eripiunt, praeter
             cathedraticum et iura omnia, quae aliis ecclesiis imponuntur, exactionem prohibemus
@@ -180,7 +180,7 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e244">
           <head xml:id="cice-l3t39-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t39-d1e249">Nova pedagia sine consensu principis imponens, communione privatur.</p>
+          <head xml:id="cice-l3t39-d1e249" type="question-title">Nova pedagia sine consensu principis imponens, communione privatur.</head>
           <p xml:id="cice-l3t39-d1e252">Idem.</p>
           <p xml:id="cice-l3t39-d1e255">Innovamus (Et infra: [cf. c. 2. de treuga I. 34.] Nec quisquam alicui novas pedagiorum
             exactiones sine auctoritate et consensu regum et principum statuere, [aut statutas
@@ -189,7 +189,7 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e260">
           <head xml:id="cice-l3t39-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t39-d1e265">Qui per collusionem constituit ecclesiam censualem, illa privabitur.</p>
+          <head xml:id="cice-l3t39-d1e265" type="question-title">Qui per collusionem constituit ecclesiam censualem, illa privabitur.</head>
           <p xml:id="cice-l3t39-d1e268">Idem Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l3t39-d1e271">Quum clerici (Et infra: [cf. c. 6. de pact. I. 35.]) Ad hoc, quia sunt clerici quidam,
             qui cum religiosis viris collusione facta, citra auctoritatem dioecesani episcopi
@@ -202,7 +202,7 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e275">
           <head xml:id="cice-l3t39-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t39-d1e280">Si collectores gravant ecclesias, privari debent officio.</p>
+          <head xml:id="cice-l3t39-d1e280" type="question-title">Si collectores gravant ecclesias, privari debent officio.</head>
           <p xml:id="cice-l3t39-d1e283">Idem.</p>
           <p xml:id="cice-l3t39-d1e286">Ea, quae de avaritiae (Et infra: [cf. c. 16. de sim. V. 3.]) Nihilominus etiam [vobis]
             praesentium auctoritate iniungimus, ut, quum ecclesias ipsas visitaveritis, secundum
@@ -217,8 +217,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e290">
           <head xml:id="cice-l3t39-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l3t39-d1e295">Qui recipit iuramentum de novo censu imposito ecclesiae persolvendo, compellitur
-            iurantem absolvere.</p>
+          <head xml:id="cice-l3t39-d1e295" type="question-title">Qui recipit iuramentum de novo censu imposito ecclesiae persolvendo, compellitur
+            iurantem absolvere.</head>
           <p xml:id="cice-l3t39-d1e298">Lucius III.</p>
           <p xml:id="cice-l3t39-d1e301">Significavit nobis T. rector ecclesiae de Fulsig., quod quum a dilectis filiis
             [nostris] abbate et monachis de Castig. ad regimen ipsius ecclesiae fuisset electus, de
@@ -238,8 +238,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e305">
           <head xml:id="cice-l3t39-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l3t39-d1e310">Archiepiscopus, visitans provinciam, etiam a monasteriis provinciae procurari
-            debet.</p>
+          <head xml:id="cice-l3t39-d1e310" type="question-title">Archiepiscopus, visitans provinciam, etiam a monasteriis provinciae procurari
+            debet.</head>
           <p xml:id="cice-l3t39-d1e313">Idem Ravennatensi Archiepiscopo.</p>
           <p xml:id="cice-l3t39-d1e316">Sopitae †iudicio sedis apostolicae quaestiones scripto ad memoriam perpetuam
             commendantur, ne per oblivionem processu temporis valeant suscitari. Ut autem sententia
@@ -262,8 +262,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e320">
           <head xml:id="cice-l3t39-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l3t39-d1e325">Patroni etiam clerici novum censum ecclesiae imponere non possunt, nec veterem augere,
-            et, si super hoc iuramenta vel cautiones exegerunt, coguntur absolvere.</p>
+          <head xml:id="cice-l3t39-d1e325" type="question-title">Patroni etiam clerici novum censum ecclesiae imponere non possunt, nec veterem augere,
+            et, si super hoc iuramenta vel cautiones exegerunt, coguntur absolvere.</head>
           <p xml:id="cice-l3t39-d1e328">Clemens III.</p>
           <p xml:id="cice-l3t39-d1e331">Gravis admodum †et correctione dignissima nuper querela in audientia nostra est
             proposita, quod salva conscientia sub dissimulatione transire non possumus.
@@ -287,9 +287,9 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e335">
           <head xml:id="cice-l3t39-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l3t39-d1e340">Qui tenetur procurare fratres alicuius domus, obligatur ad procurandum omnes, licet
+          <head xml:id="cice-l3t39-d1e340" type="question-title">Qui tenetur procurare fratres alicuius domus, obligatur ad procurandum omnes, licet
             illorum numerus nunc creverit, sed, si ex hoc gravaretur nimium, per iudicis officium
-            sibi providebitur, H. d. secundum lecturam magis communem.</p>
+            sibi providebitur, H. d. secundum lecturam magis communem.</head>
           <p xml:id="cice-l3t39-d1e343">Innocentius III. Abbati et Conventui Bellae villae.</p>
           <p xml:id="cice-l3t39-d1e346">Quanto creatori †vestro sub religionis habitu adstricti estis devotius famulari, tanto
             sollicitius nos convenit providere, ne per immoderati oneris gravitatem aliquatenus
@@ -311,10 +311,10 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e351">
           <head xml:id="cice-l3t39-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l3t39-d1e356">Omnes ecclesiae, nisi quae ab hoc per privilegium apostolicum sint exemptae, procurare
+          <head xml:id="cice-l3t39-d1e356" type="question-title">Omnes ecclesiae, nisi quae ab hoc per privilegium apostolicum sint exemptae, procurare
             tenentur legatos sedis apostolicae seu etiam eius nuncios, nec in hoc praescriptione
             iuvantur H. d. usque ad §. Sane. – (Sane etc.) Tractat de modo procurationis ipsorum et
-            legatorum et nunciorum. Abbas.</p>
+            legatorum et nunciorum. Abbas.</head>
           <p xml:id="cice-l3t39-d1e359">Idem Primicerio et Clero Mediolanensibus.</p>
           <p xml:id="cice-l3t39-d1e362">Quum instantia nostra quotidiana †sit secundum debitum apostolicae servitutis omnium
             ecclesiarum sollicitudo continua, quoties ipsarum negotiis promovendis non possumus
@@ -358,8 +358,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e366">
           <head xml:id="cice-l3t39-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l3t39-d1e371">Si ad unicam mensuram solvi solet quod debetur ex voto, ad illam in posterum solvi
-            debebit; si vero ad diversas, liberabitur solvens etiam, ad minorem.</p>
+          <head xml:id="cice-l3t39-d1e371" type="question-title">Si ad unicam mensuram solvi solet quod debetur ex voto, ad illam in posterum solvi
+            debebit; si vero ad diversas, liberabitur solvens etiam, ad minorem.</head>
           <p xml:id="cice-l3t39-d1e374">Idem Zamorensi et Salamantino Episcopis.</p>
           <p xml:id="cice-l3t39-d1e377">Ex parte venerabilis fratris nostri Compostellani archiepiscopi fuit propositum coram
             nobis, quod, quum hi, qui vota beati Iacobi continue persolverunt, ad communem terrae
@@ -382,8 +382,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e381">
           <head xml:id="cice-l3t39-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l3t39-d1e386">Ecclesiae tenentur episcopo, in cuius dioecesi sunt, respondere de procurationibus,
-            quarta decimarum et aliis episcopalibus. H. d. quoad titulum.</p>
+          <head xml:id="cice-l3t39-d1e386" type="question-title">Ecclesiae tenentur episcopo, in cuius dioecesi sunt, respondere de procurationibus,
+            quarta decimarum et aliis episcopalibus. H. d. quoad titulum.</head>
           <p xml:id="cice-l3t39-d1e389">Idem Caesaraugustensi Episcopo.</p>
           <p xml:id="cice-l3t39-d1e392">Quum olim + [ad aures nostras tuam querimoniam destinasses, quod te dilectus filius
             abbas S. Ioannis Pinnatensis quartis decimarum, quas in ecclesiis de Luna et de Taust.
@@ -474,8 +474,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e396">
           <head xml:id="cice-l3t39-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l3t39-d1e401">Solvendi sunt census ad antiquam monetam, in qua instituti fuerint, nisi sit in
-            alterius monetae solutione praescriptum. H. d. est casus not. et multum allegabilis.</p>
+          <head xml:id="cice-l3t39-d1e401" type="question-title">Solvendi sunt census ad antiquam monetam, in qua instituti fuerint, nisi sit in
+            alterius monetae solutione praescriptum. H. d. est casus not. et multum allegabilis.</head>
           <p xml:id="cice-l3t39-d1e404">Idem Spoletano Episcopo.</p>
           <p xml:id="cice-l3t39-d1e407">Olim causam, quam adversus clericos plebis Rupinae super synodatico proponebas,
             venerabili fratri nostro Tudertino episcopo et collegis suis commisimus terminandam,
@@ -519,8 +519,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e411">
           <head xml:id="cice-l3t39-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l3t39-d1e416">Episcopus, remittens ecclesiae servitia, quae sibi debebat, et statuens, quod aliud
-            servitium non imponatur, procurationem non intelligitur remisisse.</p>
+          <head xml:id="cice-l3t39-d1e416" type="question-title">Episcopus, remittens ecclesiae servitia, quae sibi debebat, et statuens, quod aliud
+            servitium non imponatur, procurationem non intelligitur remisisse.</head>
           <p xml:id="cice-l3t39-d1e419">Idem Priori sancti Stephani.</p>
           <p xml:id="cice-l3t39-d1e422">Quum venerabilis frater noster [M.] Favensis episcopus, †et tu in nostra essetis
             praesentia constituti, et de quaestione, quae inter vos super ecclesia S. Stephani
@@ -568,8 +568,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e426">
           <head xml:id="cice-l3t39-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l3t39-d1e431">Ecclesiae de novo conversae in procurationibus et aliis servabunt consuetudinem
-            vicinarum.</p>
+          <head xml:id="cice-l3t39-d1e431" type="question-title">Ecclesiae de novo conversae in procurationibus et aliis servabunt consuetudinem
+            vicinarum.</head>
           <p xml:id="cice-l3t39-d1e434">Idem Compostellano Archiepiscopo.</p>
           <p xml:id="cice-l3t39-d1e437">Super eo, quod fraternitas tua nos consulere voluit, ut, quia fere tota provincia
             Compostellana de novo est ad iurisdictionem ecclesiae tuae conversa, qualiter tibi
@@ -580,10 +580,10 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e442">
           <head xml:id="cice-l3t39-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l3t39-d1e447">Praelati tunc sunt procurandi, quum personaliter visitant, et debent tunc servare
+          <head xml:id="cice-l3t39-d1e447" type="question-title">Praelati tunc sunt procurandi, quum personaliter visitant, et debent tunc servare
             concilium Lateranense et praedicationi, correctoni et reformationi vacare. Legati et
             nuncii apostolici pro his diebus tantum, pro quibus moram trahunt, procurari debent, et
-            contra hanc constitutionem exactum restituitur duplicatum.</p>
+            contra hanc constitutionem exactum restituitur duplicatum.</head>
           <p xml:id="cice-l3t39-d1e450">Idem in concilio generali.</p>
           <p xml:id="cice-l3t39-d1e453">Procurationes, quae ratione visitationis debentur episcopis, vel archidiaconis vel
             quibuslibet aliis, etiam apostolicae sedis legatis aut nunciis, absque manifesta et
@@ -602,8 +602,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e457">
           <head xml:id="cice-l3t39-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l3t39-d1e462">Ecclesia, etiam civitatensis, tenetur procurare episcopum visitantem quanquam ipsum
-            nunquam procuravit.</p>
+          <head xml:id="cice-l3t39-d1e462" type="question-title">Ecclesia, etiam civitatensis, tenetur procurare episcopum visitantem quanquam ipsum
+            nunquam procuravit.</head>
           <p xml:id="cice-l3t39-d1e465">Honorius III. de Tiro et Iosaphat Abbatibus.</p>
           <p xml:id="cice-l3t39-d1e468">Venerabili fratre nostro Cenomanensi episcopo accepimus conquerente, quod, quum causa,
             quae inter ipsum ex parte una, et abbatem et conventum de Cultura Cenomanensis dioecesis
@@ -620,8 +620,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e472">
           <head xml:id="cice-l3t39-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l3t39-d1e477">Qui iure metropolitano vel legationis visitat provinciam, in provinciales, qui sibi
-            procurationes denegant, potest ferre sententiam.</p>
+          <head xml:id="cice-l3t39-d1e477" type="question-title">Qui iure metropolitano vel legationis visitat provinciam, in provinciales, qui sibi
+            procurationes denegant, potest ferre sententiam.</head>
           <p xml:id="cice-l3t39-d1e480">Gregorius IX.</p>
           <p xml:id="cice-l3t39-d1e483">Quum nuper archiepiscopus Beneventanus Beneventanam provinciam visitaret (Et infra:)
             Mandamus, quatenus, quum eundem archiepiscopum sive auctoritate propria sive nostra
@@ -632,8 +632,8 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e487">
           <head xml:id="cice-l3t39-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l3t39-d1e492">Ad antiquam monetam, vel, si non est in usu, ad eius aestimationem solvendae sunt
-            pensiones antiquae.</p>
+          <head xml:id="cice-l3t39-d1e492" type="question-title">Ad antiquam monetam, vel, si non est in usu, ad eius aestimationem solvendae sunt
+            pensiones antiquae.</head>
           <p xml:id="cice-l3t39-d1e495">Idem.</p>
           <p xml:id="cice-l3t39-d1e498">Quum canonicis maioris ecclesiae quandam summam pecuniae pro pensione ecclesiae tuae
             debitam aliquot annis persolveris, et iidem summam illam ex integro de meliori moneta
@@ -643,7 +643,7 @@
         </div>
         <div xml:id="cice-l3t39-Dd1e502">
           <head xml:id="cice-l3t39-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l3t39-d1e507">Propter privatum oratorium procuratio ratione visitationis non debetur.</p>
+          <head xml:id="cice-l3t39-d1e507" type="question-title">Propter privatum oratorium procuratio ratione visitationis non debetur.</head>
           <p xml:id="cice-l3t39-d1e510">Idem.</p>
           <p xml:id="cice-l3t39-d1e513">Auctoritate praesentium inhibemus, ne quis pro eo, quod in oratoriis, quae in grangiis
             vestris habetis, interdum aliqui vestrum celebrant, procurationes, quae ratione

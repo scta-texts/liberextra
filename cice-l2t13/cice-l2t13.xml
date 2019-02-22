@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t13-Dd1e108">
           <head xml:id="cice-l2t13-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t13-d1e113">Adversus restitutionem petentem, non est audiendus reus de proprietate opponens, nisi
-            actore consentiente.</p>
+          <head xml:id="cice-l2t13-d1e113" type="question-title">Adversus restitutionem petentem, non est audiendus reus de proprietate opponens, nisi
+            actore consentiente.</head>
           <p xml:id="cice-l2t13-d1e116">Gregorius IX. Episcopo Constan.</p>
           <p xml:id="cice-l2t13-d1e119">Licet multum †[fraternitatem vestram ad servandam sibi iustitiam Philagrii portitoris
             praesentium flagellum caecitatis invitet, veruntamen, quia ad restituenda quae sibi
@@ -75,10 +75,10 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e123">
           <head xml:id="cice-l2t13-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t13-d1e128">Petenti restitutionem beneficii non obstat renunciatio facta post spoliationem, quia
+          <head xml:id="cice-l2t13-d1e128" type="question-title">Petenti restitutionem beneficii non obstat renunciatio facta post spoliationem, quia
             praesumitur non spontanea. Et seriose addidi: “quia praesumitur non spontanea:” quoniam,
             etsi probaretur spontanea, deberet obstare talis exceptio vel renunciatio in
-            beneficialibus.</p>
+            beneficialibus.</head>
           <p xml:id="cice-l2t13-d1e131">Alexander III. Vigorniensi Episcopo.</p>
           <p xml:id="cice-l2t13-d1e134">Sollicite cures et diligenter perquirere, quo tempore H. renunciavit ecclesiae, et, si
             tibi constiterit, eum esse spoliatum, quum eidem ecclesiae renunciavit, si hac vice
@@ -91,8 +91,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e138">
           <head xml:id="cice-l2t13-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t13-d1e143">Petens restitutionem beneficii non auditur, etiamsi spoliationem probat, si probatur,
-            eum sponte illud beneficium prius resignasse.</p>
+          <head xml:id="cice-l2t13-d1e143" type="question-title">Petens restitutionem beneficii non auditur, etiamsi spoliationem probat, si probatur,
+            eum sponte illud beneficium prius resignasse.</head>
           <p xml:id="cice-l2t13-d1e146">Idem.</p>
           <p xml:id="cice-l2t13-d1e149">Accepta conquestione P. clerici, quod violenter fuerat ecclesia de Procebrant
             spoliatus, vobis per apostolica scripta, si bene meminimus, [praecipiendo] dedimus in
@@ -108,8 +108,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e153">
           <head xml:id="cice-l2t13-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t13-d1e158">In interdicto de retinenda succumbit reus, ipsius abiuratione probata. H. d. quoad
-            titulum.</p>
+          <head xml:id="cice-l2t13-d1e158" type="question-title">In interdicto de retinenda succumbit reus, ipsius abiuratione probata. H. d. quoad
+            titulum.</head>
           <p xml:id="cice-l2t13-d1e161">Idem Wigorensi Episcopo et Heliensi Archidiacono.</p>
           <p xml:id="cice-l2t13-d1e164">Audita querela dilecti filii nostri T. clerici carissimi in Christo filii nostri
             illustris Scotorum regis, quod H. persona ecclesiae de Sander, ipsum super ecclesia sua
@@ -161,8 +161,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e169">
           <head xml:id="cice-l2t13-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t13-d1e174">Petenti restitutionem beneficii quaestio institutionis non canonicae referri non
-            potest.</p>
+          <head xml:id="cice-l2t13-d1e174" type="question-title">Petenti restitutionem beneficii quaestio institutionis non canonicae referri non
+            potest.</head>
           <p xml:id="cice-l2t13-d1e177">Idem Brixiensi Episcopo.</p>
           <p xml:id="cice-l2t13-d1e180">In literis tuis (Et infra: [cf. c. 9. de off. iud. del. I. 29.]) Super illa quaestione,
             videlicet quum quis dicit, se de possessione violenter eiectum esse, et adversarius
@@ -172,7 +172,7 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e184">
           <head xml:id="cice-l2t13-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t13-d1e189">Non obstat exceptio criminis agenti interdicto unde vi, vel quod vi aut clam.</p>
+          <head xml:id="cice-l2t13-d1e189" type="question-title">Non obstat exceptio criminis agenti interdicto unde vi, vel quod vi aut clam.</head>
           <p xml:id="cice-l2t13-d1e192">Idem Exonensi Episcopo.</p>
           <p xml:id="cice-l2t13-d1e195">Item quum quis dicit, se de possessione violenter eiectum, vel adversarium clam
             possessionem intrasse, et adversarius ei crimen obiicit, ut eum ratione criminis a sua
@@ -182,7 +182,7 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e199">
           <head xml:id="cice-l2t13-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t13-d1e204">Spoliatus etiam a iudice, iuris ordine praetermisso, ante omnia restituatur.</p>
+          <head xml:id="cice-l2t13-d1e204" type="question-title">Spoliatus etiam a iudice, iuris ordine praetermisso, ante omnia restituatur.</head>
           <p xml:id="cice-l2t13-d1e207">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l2t13-d1e210">Conquerente nobis R. clerico latore praesentium accepimus, quod, quum vacaret
             scholasticis disciplinis, ipsum [non citatum] ecclesia de Werfort sine iudicio
@@ -199,8 +199,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e214">
           <head xml:id="cice-l2t13-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t13-d1e219">Restituitur coniunx viro probanti desponsationem et copulam, et de ipsius impunitate
-            caventi; nisi magna sit viri saevitia.</p>
+          <head xml:id="cice-l2t13-d1e219" type="question-title">Restituitur coniunx viro probanti desponsationem et copulam, et de ipsius impunitate
+            caventi; nisi magna sit viri saevitia.</head>
           <p xml:id="cice-l2t13-d1e222">Idem.</p>
           <p xml:id="cice-l2t13-d1e225">Ex transmissa nobis (Et infra:) Quia nobis de veritate liquere non potuit, causam
             experientiae vestrae duximus committendam; fraternitati vestrae per apostolica scripta
@@ -214,9 +214,9 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e229">
           <head xml:id="cice-l2t13-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t13-d1e234">Per solutionem pensionis rei donatae, factam donatorio cum auctoritate donatoris,
+          <head xml:id="cice-l2t13-d1e234" type="question-title">Per solutionem pensionis rei donatae, factam donatorio cum auctoritate donatoris,
             acquiritur illi donatario rei donatae possessio, adeo, quod, si ab illa expellitur, per
-            interdictum recuperandae agere poterit.</p>
+            interdictum recuperandae agere poterit.</head>
           <p xml:id="cice-l2t13-d1e237">Idem.</p>
           <p xml:id="cice-l2t13-d1e240">Quum venisset ad nos dilectus filius noster G. canonicus sanctae Trinitatis de Hasul. a
             suo priore et capitulo destinatus, in audientia nostra proposuit, quod, quum venerabilis
@@ -254,8 +254,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e244">
           <head xml:id="cice-l2t13-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t13-d1e249">Si, actore agente petitorio, reus super eadem re deducit possessorium, proceditur in
-            solo possessorio, suspenso petitorio.</p>
+          <head xml:id="cice-l2t13-d1e249" type="question-title">Si, actore agente petitorio, reus super eadem re deducit possessorium, proceditur in
+            solo possessorio, suspenso petitorio.</head>
           <p xml:id="cice-l2t13-d1e252">Lucius III. Archidiacono et I. Archipresbytero Turonensibus.</p>
           <p xml:id="cice-l2t13-d1e255">Ex conquestione B. mulieris ad nos noveritis pervenisse, quod, quum C. miles eam sibi
             matrimonio copulasset, et maritali affectione pertractans ex ipsa filiam suscepisset,
@@ -275,8 +275,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e260">
           <head xml:id="cice-l2t13-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t13-d1e265">Violentus rem cum fructibus etiam qui percipi potuissent, restituere, damna resarcire,
-            et de iniuriis satisfacere compellitur.</p>
+          <head xml:id="cice-l2t13-d1e265" type="question-title">Violentus rem cum fructibus etiam qui percipi potuissent, restituere, damna resarcire,
+            et de iniuriis satisfacere compellitur.</head>
           <p xml:id="cice-l2t13-d1e268">Coelestinus III.</p>
           <p xml:id="cice-l2t13-d1e271">Gravis ad nos querela (Et infra:) Ideoque fraternitati vestrae per apostolica scripta
             Mandamus firmiterque praecipimus, quatenus, partibus convocatis, si vobis constiterit de
@@ -301,9 +301,9 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e275">
           <head xml:id="cice-l2t13-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t13-d1e280">Ingressus possessionem ignorante domino, ad quem pertinet, potest per ipsum dominum,
+          <head xml:id="cice-l2t13-d1e280" type="question-title">Ingressus possessionem ignorante domino, ad quem pertinet, potest per ipsum dominum,
             statim quum sciverit, repelli etiam violenter, nec ex tali repulsione competit repulso
-            contra dominum interdictum possessorium. H. d.</p>
+            contra dominum interdictum possessorium. H. d.</head>
           <p xml:id="cice-l2t13-d1e283">Innocentius III. Episcopo et Capitulo Tridonensi.</p>
           <p xml:id="cice-l2t13-d1e286">Olim causam, quae inter vos nomine Tridonensis ecclesiae, et dilectos filios B.
             magistrum et fratres militiae templi in Lombardia, super domo Calventiae vertebatur,
@@ -357,10 +357,10 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e290">
           <head xml:id="cice-l2t13-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t13-d1e295">Si contra petentem restitutionem coniugis opponitur consanguinitas in gradu prohibito,
+          <head xml:id="cice-l2t13-d1e295" type="question-title">Si contra petentem restitutionem coniugis opponitur consanguinitas in gradu prohibito,
             et offeruntur probationes paratae, recepto ab opponente iuramento de malitia, negabitur
             restitutio quoad torum, et fiet quoad reliqua. Si vero probationes promptae non sint,
-            fiet plena restitutio, nisi sit magna viri saevitia.</p>
+            fiet plena restitutio, nisi sit magna viri saevitia.</head>
           <p xml:id="cice-l2t13-d1e298">Idem Bituricensi Archidiacono.</p>
           <p xml:id="cice-l2t13-d1e301">Literas tuas nuper recepimus, continentes, quod, quum quaedam matrimonialis causa
             venerabili fratre nostro Bituricensi archiepiscopo in remotis agente, in tua praesentia
@@ -448,9 +448,9 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e305">
           <head xml:id="cice-l2t13-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t13-d1e310">Per solam traductionem mulieris ad domum viri factam, non praecedentibus sponsalibus
+          <head xml:id="cice-l2t13-d1e310" type="question-title">Per solam traductionem mulieris ad domum viri factam, non praecedentibus sponsalibus
             vel invalidis, non acquiritur possessio, unde ea recedente propria auctoritate non
-            competit restitutio.</p>
+            competit restitutio.</head>
           <p xml:id="cice-l2t13-d1e313">Idem Vulterano Episcopo.</p>
           <p xml:id="cice-l2t13-d1e316">Ex parte M. mulieris fuit propositum coram nobis, quod, quum eam adhuc intra pubertatis
             tempora constitutam quidam patruus suus filio H. Senensis civis, nondum VII. annorum, in
@@ -476,8 +476,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e320">
           <head xml:id="cice-l2t13-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t13-d1e325">Interdictum unde vi non competit contra illum, qui non spoliavit, nec spoliari
-            mandavit, nec spoliationem ratam habuit.</p>
+          <head xml:id="cice-l2t13-d1e325" type="question-title">Interdictum unde vi non competit contra illum, qui non spoliavit, nec spoliari
+            mandavit, nec spoliationem ratam habuit.</head>
           <p xml:id="cice-l2t13-d1e328">Idem.</p>
           <p xml:id="cice-l2t13-d1e331">Quum ad sedem apostolicam accessissent olim A. venerabilis fratris nostri Cumani
             episcopi, et frater G. dilectorum filiorum fratrum hospitalis Hierosolymitani
@@ -529,8 +529,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e335">
           <head xml:id="cice-l2t13-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l2t13-d1e340">Exceptio inopiae, de qua constat, a clerico opposita, impedit exsecutionem sententiae,
-            etiam latae in possessorio. H. d. comprehendendo mentem literae et veram lecturam.</p>
+          <head xml:id="cice-l2t13-d1e340" type="question-title">Exceptio inopiae, de qua constat, a clerico opposita, impedit exsecutionem sententiae,
+            etiam latae in possessorio. H. d. comprehendendo mentem literae et veram lecturam.</head>
           <p xml:id="cice-l2t13-d1e343">Idem.</p>
           <p xml:id="cice-l2t13-d1e346">Olim vobis dedisse meminimus in mandatis, ut venerabilem fratrem nostrum Ovetensem
             episcopum ad debitam partis restitutionem Zamorensis dioecesis, quam tenebat, cum
@@ -543,9 +543,9 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e351">
           <head xml:id="cice-l2t13-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l2t13-d1e356">Per excommunicationis probationem non probatur quasi possessio iurisdictionis, licet
+          <head xml:id="cice-l2t13-d1e356" type="question-title">Per excommunicationis probationem non probatur quasi possessio iurisdictionis, licet
             aliquibus diebus fuerit observata; ideo petens restitutionem, hoc solo probato,
-            succumbit. Hoc dicit quoad intellectum.</p>
+            succumbit. Hoc dicit quoad intellectum.</head>
           <p xml:id="cice-l2t13-d1e359">Idem.</p>
           <p xml:id="cice-l2t13-d1e362">Olim inter te pro abbatia tua, et venerabilem fratrem nostrum Parisiensem episcopum
             nomine Parisiensis ecclesiae super possessione iuris parochialis in parochia de Monte
@@ -558,8 +558,8 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e366">
           <head xml:id="cice-l2t13-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l2t13-d1e371">Recipiens scienter rem invasam a spoliatore, tenetur eam spoliato restituere, licet non
-            probet dominium.</p>
+          <head xml:id="cice-l2t13-d1e371" type="question-title">Recipiens scienter rem invasam a spoliatore, tenetur eam spoliato restituere, licet non
+            probet dominium.</head>
           <p xml:id="cice-l2t13-d1e374">Idem in concilio generali.</p>
           <p xml:id="cice-l2t13-d1e377">Saepe contingit, quod spoliatus iniuste, per spoliatorem in alium re translata, dum
             adversus possessorem non subvenitur per restitutionis beneficium spoliato, commodo
@@ -572,10 +572,10 @@
         </div>
         <div xml:id="cice-l2t13-Dd1e381">
           <head xml:id="cice-l2t13-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l2t13-d1e386">Occupans certum locum, in quo quis iura libere possidebat, si per ipsius occupationem
+          <head xml:id="cice-l2t13-d1e386" type="question-title">Occupans certum locum, in quo quis iura libere possidebat, si per ipsius occupationem
             non potest possessor sua iura libere possidere sicut prius, conveniri potest possessorio
             pro libertate possidendi, et restitutio fieri non potest, nisi dimittat locum in
-            pristina libertate. H. d. valde singulariter.</p>
+            pristina libertate. H. d. valde singulariter.</head>
           <p xml:id="cice-l2t13-d1e389">Gregorius IX. Episcopo Lucano.</p>
           <p xml:id="cice-l2t13-d1e392">Pisanis ac Lucanis civibus per gravem discordiam, quam diu inter se habuerant,
             afflictis graviter et attritis (Et infra:) P. subdiacono nostro dedimus in mandatis, ut

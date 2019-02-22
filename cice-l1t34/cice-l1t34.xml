@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t34-Dd1e108">
           <head xml:id="cice-l1t34-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t34-d1e113">Statuit tempora treugarum et poenas violantium.</p>
+          <head xml:id="cice-l1t34-d1e113" type="question-title">Statuit tempora treugarum et poenas violantium.</head>
           <p xml:id="cice-l1t34-d1e116">Alexander III. in concilio Lateranensi.</p>
           <p xml:id="cice-l1t34-d1e119">Treugas a quarta feria post occasum solis usque ad secundam feriam in ortu solis, [et]
             ab Adventu Domini usque ad octavas Epiphaniae, et a Septuagesima usque ad octavas
@@ -74,7 +74,7 @@
         </div>
         <div xml:id="cice-l1t34-Dd1e123">
           <head xml:id="cice-l1t34-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t34-d1e128">Personae hic enumeratae plena securitate gaudent tempore guerrae.</p>
+          <head xml:id="cice-l1t34-d1e128" type="question-title">Personae hic enumeratae plena securitate gaudent tempore guerrae.</head>
           <p xml:id="cice-l1t34-d1e131">Idem.</p>
           <p xml:id="cice-l1t34-d1e134">Innovamus autem, ut presbyteri, [clerici], monachi, conversi, peregrini, mercatores,
             rustici, euntes et redeuntes, et in agricultura exsistentes, et animalia, quibus arant

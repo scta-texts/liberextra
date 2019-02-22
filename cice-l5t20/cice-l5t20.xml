@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t20-Dd1e108">
           <head xml:id="cice-l5t20-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t20-d1e113">Testis falsidicus tres laedit, Deum, iudicem et partem, et falsus est non solum, qui
-            mendacium dicit, sed etiam, qui veritatem occultat.</p>
+          <head xml:id="cice-l5t20-d1e113" type="question-title">Testis falsidicus tres laedit, Deum, iudicem et partem, et falsus est non solum, qui
+            mendacium dicit, sed etiam, qui veritatem occultat.</head>
           <p xml:id="cice-l5t20-d1e116">Augustinus.</p>
           <p xml:id="cice-l5t20-d1e119">Falsidicus testis tribus personis est obnoxius, primum Deo, cuius praesentiam
             contemnit; deinde iudici, quem mentiendo fallit; postremo innocenti, quam falso
@@ -67,7 +67,7 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e123">
           <head xml:id="cice-l5t20-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t20-d1e128">Sententia, lata per falsas literas, non debet exsecutioni mandari.</p>
+          <head xml:id="cice-l5t20-d1e128" type="question-title">Sententia, lata per falsas literas, non debet exsecutioni mandari.</head>
           <p xml:id="cice-l5t20-d1e131">Lucius III. Vigoriensi Episcopo.</p>
           <p xml:id="cice-l5t20-d1e134">Super eo vero, quod sententiam auctoritate literarum falsarum latam noluisti
             exsecutioni mandare, tuam plurimum prudentiam commendamus, mandantes, ut quoties aliqua
@@ -77,8 +77,8 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e138">
           <head xml:id="cice-l5t20-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t20-d1e143">Clericus, falsans sigillum principis, deponitur. Item ei character inprimitur, et in
-            exsilium mittitur.</p>
+          <head xml:id="cice-l5t20-d1e143" type="question-title">Clericus, falsans sigillum principis, deponitur. Item ei character inprimitur, et in
+            exsilium mittitur.</head>
           <p xml:id="cice-l5t20-d1e146">Urbanus III.</p>
           <p xml:id="cice-l5t20-d1e149">Ad audientiam nostram te significante pervenit, quod, quum quosdam per versos clericos,
             qui falsaverant sigillum carissimi in Christo filii nostri Philippi regis illustris
@@ -92,13 +92,13 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e153">
           <head xml:id="cice-l5t20-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t20-d1e158">Exsistens in curia literas apostolicas non recipiat, nisi de manibus Papae, vel
+          <head xml:id="cice-l5t20-d1e158" type="question-title">Exsistens in curia literas apostolicas non recipiat, nisi de manibus Papae, vel
             officialium ab ipso deputatorum; personae tamen solennes per nuncios recipere poterunt,
             de manibus tamen praedictorum. Contra faciens, si laicus est, excommunicationi subiacet;
             si clericus, ab officio et beneficio deponitur. Hoc dicit usque ad §. Adiicientes. – §.
             1. Per excommunicationis poenam providet contra non resignantes, nec destruentes literas
             falsas infra XX. dies; et absolutio Papae reservatur, et contra factum non tenet. H. d.
-            Abbas.</p>
+            Abbas.</head>
           <p xml:id="cice-l5t20-d1e161">Innocentius III.</p>
           <p xml:id="cice-l5t20-d1e164">Dura saepe mandata †[et institutiones interdum iniquas a sede apostolica emanare multi
             arguunt et mirantur, et in hoc ei culpam imponunt, in quo sinceritas eius culpae prorsus
@@ -152,7 +152,7 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e169">
           <head xml:id="cice-l5t20-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t20-d1e174">Ponit novem modos falsandi literas papales.</p>
+          <head xml:id="cice-l5t20-d1e174" type="question-title">Ponit novem modos falsandi literas papales.</head>
           <p xml:id="cice-l5t20-d1e177">Idem Archiepiscopo et Canonicis Mediolanensibus.</p>
           <p xml:id="cice-l5t20-d1e180">Licet ad regimen †apostolicae sedis, quae dante Domino universarum ecclesiarum mater
             est et magistra, insufficientes nos vita et scientia reputemus, quantum tamen nobis
@@ -220,8 +220,8 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e184">
           <head xml:id="cice-l5t20-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t20-d1e189">Falsae sunt literae papales, in quibus episcopus vocatur filius, vel inferior frater,
-            vel uni scribitur in plurali.</p>
+          <head xml:id="cice-l5t20-d1e189" type="question-title">Falsae sunt literae papales, in quibus episcopus vocatur filius, vel inferior frater,
+            vel uni scribitur in plurali.</head>
           <p xml:id="cice-l5t20-d1e192">Idem Attinacensi Episcopo.</p>
           <p xml:id="cice-l5t20-d1e195">Quam gravi poenae subiaceant, †[qui literas apostolicas falsare non timent, et veras a
             nobis impetratas literas occultantes, falsis uti literis non verentur, fraternitatem
@@ -259,10 +259,10 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e199">
           <head xml:id="cice-l5t20-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t20-d1e204">Qui per se, vel per alios literas Papae falsant, excommunicati sunt cum suis
+          <head xml:id="cice-l5t20-d1e204" type="question-title">Qui per se, vel per alios literas Papae falsant, excommunicati sunt cum suis
             fautoribus, et clerici officiis et beneficiis privati sunt, et degradandi et tradendi
             curiae saeculari, per quam laicus legitime punitur. Qui vero falsis literis utitur, si
-            clerericus est, officio et beneficio privatur; si laicus, excommunicatus est. H. d.</p>
+            clerericus est, officio et beneficio privatur; si laicus, excommunicatus est. H. d.</head>
           <p xml:id="cice-l5t20-d1e207">Idem.</p>
           <p xml:id="cice-l5t20-d1e210">Ad falsariorum confundendam malitiam iam alia vice recolimus apostolicas literas
             destinasse, in quibus falsitatis modos, ne quis se possit per ignorantiam excusare,
@@ -286,8 +286,8 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e214">
           <head xml:id="cice-l5t20-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t20-d1e219">Non praesumitur quis falsare literas de simplici iustitia, nec punitur, si, hoc
-            comperto, destiterit illis uti.</p>
+          <head xml:id="cice-l5t20-d1e219" type="question-title">Non praesumitur quis falsare literas de simplici iustitia, nec punitur, si, hoc
+            comperto, destiterit illis uti.</head>
           <p xml:id="cice-l5t20-d1e222">Idem.</p>
           <p xml:id="cice-l5t20-d1e225">Accedens †[ad praesentiam nostram P. presbyter lator praesentium sua nobis insinuatione
             monstravit, quod, quum olim missus ab archipresbytero et clericis de Casali novo pro
@@ -322,8 +322,8 @@
         </div>
         <div xml:id="cice-l5t20-Dd1e229">
           <head xml:id="cice-l5t20-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t20-d1e234">Propter paucarum literarum rasuram in loco non suspecto rescriptum non probatur
-            falsum.</p>
+          <head xml:id="cice-l5t20-d1e234" type="question-title">Propter paucarum literarum rasuram in loco non suspecto rescriptum non probatur
+            falsum.</head>
           <p xml:id="cice-l5t20-d1e237">Idem.</p>
           <p xml:id="cice-l5t20-d1e240">Ex continentia †[literarum dilectorum filiorum abbatis sanctae crucis de Waltham et
             magistri Simonis de Svelle nobis innotuit, quod, quum olim quaestio, quae vertebatur

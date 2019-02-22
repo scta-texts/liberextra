@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t32-Dd1e108">
           <head xml:id="cice-l3t32-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t32-d1e113">Si vir de uxoris licentia profitetur, et uxor ipsa suspecta nec continentiam vovet, nec
-            religionem ingreditur, episcopus uxori virum restituet. H. d. iuxta literam.</p>
+          <head xml:id="cice-l3t32-d1e113" type="question-title">Si vir de uxoris licentia profitetur, et uxor ipsa suspecta nec continentiam vovet, nec
+            religionem ingreditur, episcopus uxori virum restituet. H. d. iuxta literam.</head>
           <p xml:id="cice-l3t32-d1e116">Alexander III. Ubergensi Episcopo.</p>
           <p xml:id="cice-l3t32-d1e119">Praeterea, utrum laicus uxoratus, qui, praesentibus sacerdotibus et monachis, ignorante
             episcopo, de licentia et permissione uxoris suae monasterium est ingressus, et forte
@@ -73,8 +73,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e123">
           <head xml:id="cice-l3t32-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t32-d1e128">Ante matrimonium consummatum potest alter coniugum, etiam altero invito, religionem
-            ingredi; sed remanens in saeculo potest ad secunda vota transire.</p>
+          <head xml:id="cice-l3t32-d1e128" type="question-title">Ante matrimonium consummatum potest alter coniugum, etiam altero invito, religionem
+            ingredi; sed remanens in saeculo potest ad secunda vota transire.</head>
           <p xml:id="cice-l3t32-d1e131">Idem Salernitano Archiepiscopo.</p>
           <p xml:id="cice-l3t32-d1e134">Verum post [illum] consensum legitimum de praesenti licitum est alteri, altero etiam
             repugnante eligere monasterium, sicut etiam sancti quidam de nuptiis vocati fuerunt,
@@ -85,8 +85,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e138">
           <head xml:id="cice-l3t32-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t32-d1e143">Qui invita uxore professionem fecit, et ei postea restituitur, non compellitur mortua
-            uxore ad monasterium redire; matrimonium tamen contrahere non debet.</p>
+          <head xml:id="cice-l3t32-d1e143" type="question-title">Qui invita uxore professionem fecit, et ei postea restituitur, non compellitur mortua
+            uxore ad monasterium redire; matrimonium tamen contrahere non debet.</head>
           <p xml:id="cice-l3t32-d1e146">Idem Pisano Archiepiscopo.</p>
           <p xml:id="cice-l3t32-d1e149">Quidam intravit monasterium invita uxore, qua ipsum repetente coactus est ad eam
             redire. Ea mortua quaeris, an ipse cogatur reverti ad monasterium, an aliam possit
@@ -98,8 +98,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e153">
           <head xml:id="cice-l3t32-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t32-d1e158">Uxoratus religionem intrare non potest, nisi etiam uxor ingrediatur, vel nisi suspecta
-            non sit, et continentiam promittat. H. d. et est unum cap. de principalioribus tit.</p>
+          <head xml:id="cice-l3t32-d1e158" type="question-title">Uxoratus religionem intrare non potest, nisi etiam uxor ingrediatur, vel nisi suspecta
+            non sit, et continentiam promittat. H. d. et est unum cap. de principalioribus tit.</head>
           <p xml:id="cice-l3t32-d1e161">Idem Exonensi Episcopo.</p>
           <p xml:id="cice-l3t32-d1e164">Quum sis praeditus scientia literarum, ignorare non potes, nec debes, sanctorum Patrum
             constitutioni esse contrarium, ut vir, uxore sua in saeculo remanente, aut uxor, viro
@@ -114,7 +114,7 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e169">
           <head xml:id="cice-l3t32-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t32-d1e174">Coniugatus non est ordinandus ad sacros ordines, nisi uxor continentiam promittat.</p>
+          <head xml:id="cice-l3t32-d1e174" type="question-title">Coniugatus non est ordinandus ad sacros ordines, nisi uxor continentiam promittat.</head>
           <p xml:id="cice-l3t32-d1e177">Idem Strigoniensi et Colonensi Archiepiscopis.</p>
           <p xml:id="cice-l3t32-d1e180">Coniugatus †ad monasterium converti desiderans, prohibetur suscipi, nisi uxor eius
             [similiter] convertatur. Nam, dum unum utrorumque corpus coniugii copulatione sit
@@ -127,7 +127,7 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e184">
           <head xml:id="cice-l3t32-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t32-d1e189">Uxoratus in episcopum promoveri non potest, nisi uxor religionem profiteatur.</p>
+          <head xml:id="cice-l3t32-d1e189" type="question-title">Uxoratus in episcopum promoveri non potest, nisi uxor religionem profiteatur.</head>
           <p xml:id="cice-l3t32-d1e192">Idem eisdem.</p>
           <p xml:id="cice-l3t32-d1e195">Sane, si coniugati consenserint ordinari, uxoris etiam voluntas prius requirenda est,
             †ut sequestrato mansionis cubiculo religione promissa, postquam pariter conversi fuerint
@@ -141,8 +141,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e199">
           <head xml:id="cice-l3t32-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t32-d1e204">Sponsa de praesenti, non cognita, quae dicit, se velle religionem ingredi, compellitur
-            infra certum tempus profiteri, vel adhaerere marito.</p>
+          <head xml:id="cice-l3t32-d1e204" type="question-title">Sponsa de praesenti, non cognita, quae dicit, se velle religionem ingredi, compellitur
+            infra certum tempus profiteri, vel adhaerere marito.</head>
           <p xml:id="cice-l3t32-d1e207">Idem Brixiensi Episcopo.</p>
           <p xml:id="cice-l3t32-d1e210">Ex publico instrumento, quod nobis est praesentatum, et ex tuarum literarum tenore
             nobis innotuit, quod, quum venerabilis frater [noster O.] Veronensis episcopus de
@@ -168,7 +168,7 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e214">
           <head xml:id="cice-l3t32-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t32-d1e219">Summa ut supra eod. cap. Quum sis.</p>
+          <head xml:id="cice-l3t32-d1e219" type="question-title">Summa ut supra eod. cap. Quum sis.</head>
           <p xml:id="cice-l3t32-d1e222">Idem G. Priori et Fratibus sancti Ioannis.</p>
           <p xml:id="cice-l3t32-d1e225">Uxoratus autem sine licentia propriae uxoris inter vos nullatenus recipiatur, quae [si]
             integrae famae et opinionis ita exsistat, quod nulla marito suspicio habeatur, eam ad
@@ -182,9 +182,9 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e229">
           <head xml:id="cice-l3t32-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t32-d1e234">Coniugatus, faciens professionem uxore cousentiente, licet nunquam intravit
+          <head xml:id="cice-l3t32-d1e234" type="question-title">Coniugatus, faciens professionem uxore cousentiente, licet nunquam intravit
             monasterium, si mortua coniuge cum alia contrahat, non valet matrimonium, et monasterium
-            intrare compellitur.</p>
+            intrare compellitur.</head>
           <p xml:id="cice-l3t32-d1e237">Urbanus III. Priori sanctae Crucis.</p>
           <p xml:id="cice-l3t32-d1e240">Ex parte dilecti filii nostri abbatis sancti Petri de Romandine ad audientiam nostram
             pervenit, quod, quum D. de Cel., in infirmitate positus, consentiente uxore ipsius votum
@@ -199,8 +199,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e244">
           <head xml:id="cice-l3t32-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t32-d1e249">Professus religionem uxore sciente et dissimulante, ea mortua ad saeculum redire non
-            potest. H. d. secundum intellectum veriorem et singularem in materia.</p>
+          <head xml:id="cice-l3t32-d1e249" type="question-title">Professus religionem uxore sciente et dissimulante, ea mortua ad saeculum redire non
+            potest. H. d. secundum intellectum veriorem et singularem in materia.</head>
           <p xml:id="cice-l3t32-d1e252">Clemens III.</p>
           <p xml:id="cice-l3t32-d1e255">Consuluit nos G. sacerdos de sancta Columba, utrum vir mercator, negotiationi et uxori
             propter Deum renuncians, ad religionem transiens, et in ea per annum et amplius moram
@@ -212,8 +212,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e260">
           <head xml:id="cice-l3t32-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t32-d1e265">Coniux, quae continentiam vovit, tenetur reddere debitum coniugi, licet ad tempus voto
-            consenserit.</p>
+          <head xml:id="cice-l3t32-d1e265" type="question-title">Coniux, quae continentiam vovit, tenetur reddere debitum coniugi, licet ad tempus voto
+            consenserit.</head>
           <p xml:id="cice-l3t32-d1e268">Coelestinus III.</p>
           <p xml:id="cice-l3t32-d1e271">Carissimus †in Christo filius noster, R. illustris rex Suevorum, apostolatui nostro
             literis et nuncio humiliter nunciavit, quod, quum esset adolescens, et dilecta uxor eius
@@ -251,8 +251,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e275">
           <head xml:id="cice-l3t32-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t32-d1e280">Si alter coniugum altero ignorante religionem profitetur, et propter hoc de monasterio
-            educitur, illo mortuo ad monasterium redire non cogitur.</p>
+          <head xml:id="cice-l3t32-d1e280" type="question-title">Si alter coniugum altero ignorante religionem profitetur, et propter hoc de monasterio
+            educitur, illo mortuo ad monasterium redire non cogitur.</head>
           <p xml:id="cice-l3t32-d1e283">Idem.</p>
           <p xml:id="cice-l3t32-d1e286">Placet nobis, †et tuam prudentiam commendamus quod in causis dubiis sedis apostolicae
             consilium requiris. Licet enim praeditus sis scientia literarum, ad matrem tuam
@@ -274,7 +274,7 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e290">
           <head xml:id="cice-l3t32-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l3t32-d1e295">Summa ut supra eod. cap. IV. Quum sis.</p>
+          <head xml:id="cice-l3t32-d1e295" type="question-title">Summa ut supra eod. cap. IV. Quum sis.</head>
           <p xml:id="cice-l3t32-d1e298">Innocentius III. Pisano Archiepiscopo.</p>
           <p xml:id="cice-l3t32-d1e301">Ad apostolicam sedem (Et infra: [cf. c. 16. de regul. III. 31.]) Quum autem vir et uxor
             una caro sint per copulam coniugalem effecti, nec una pars converti possit ad Dominum,
@@ -285,8 +285,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e305">
           <head xml:id="cice-l3t32-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l3t32-d1e310">Per religionis professionem, non per propositum castitatis servandae in saeculo,
-            dissolvuntur sponsalia de praesenti.</p>
+          <head xml:id="cice-l3t32-d1e310" type="question-title">Per religionis professionem, non per propositum castitatis servandae in saeculo,
+            dissolvuntur sponsalia de praesenti.</head>
           <p xml:id="cice-l3t32-d1e313">Idem Lugdunensi Archiepiscopo.</p>
           <p xml:id="cice-l3t32-d1e316">Ex parte tua nostris est auribus intimatum, quod, quum quaedam mulier dioecesana tua
             velum viduitatis coram duobus abbatibus assumpsisset, benedictione solenni cum
@@ -322,7 +322,7 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e320">
           <head xml:id="cice-l3t32-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l3t32-d1e325">Maritus, factus monachus, a coniuge adulterata revocari non potest.</p>
+          <head xml:id="cice-l3t32-d1e325" type="question-title">Maritus, factus monachus, a coniuge adulterata revocari non potest.</head>
           <p xml:id="cice-l3t32-d1e328">Idem Rudinensi Episcopo.</p>
           <p xml:id="cice-l3t32-d1e331">Constitutus in praesentia nostra H. Vitalis, lator praesentium, sua nobis confessione
             monstravit, quod, quum esset in acolythatus ordine constitutus, quandam puellam R.
@@ -339,9 +339,9 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e335">
           <head xml:id="cice-l3t32-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l3t32-d1e340">Uxor non potest repetere maritum, de cuius licentia religionem intravit, si post
+          <head xml:id="cice-l3t32-d1e340" type="question-title">Uxor non potest repetere maritum, de cuius licentia religionem intravit, si post
             ingressum non continuit, licet ad consentiendum seu ad dandam licentiam dolo fuit
-            inducta.</p>
+            inducta.</head>
           <p xml:id="cice-l3t32-d1e343">Idem Pictaviensi Episcopo et Abbati de Boribarden Pictaviensis dioecesis.</p>
           <p xml:id="cice-l3t32-d1e346">Veniens ad praesentiam nostram dilectus filius L. lator praesentium nobis humiliter
             intimavit, quod, quum olim intrandi monasterium propositum concepisset, pluribus
@@ -370,8 +370,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e351">
           <head xml:id="cice-l3t32-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l3t32-d1e356">Uxor maritum professum repetere potest, non obstante licentia profitendi ab ea metu
-            extorta.</p>
+          <head xml:id="cice-l3t32-d1e356" type="question-title">Uxor maritum professum repetere potest, non obstante licentia profitendi ab ea metu
+            extorta.</head>
           <p xml:id="cice-l3t32-d1e359">Idem.</p>
           <p xml:id="cice-l3t32-d1e362">Accedens ad praesentiam nostram I. mulier lacrimabiliter proposuit coram nobis, quod,
             quum V. vir eius Eliensis dioecesis eam sibi legitime matrimonio copulasset, et per
@@ -394,8 +394,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e366">
           <head xml:id="cice-l3t32-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l3t32-d1e371">Uxor professi, quae dedit viro licentiam profitendi, non compellitur ingredi
-            religionem, si continens est, et non suspecta.</p>
+          <head xml:id="cice-l3t32-d1e371" type="question-title">Uxor professi, quae dedit viro licentiam profitendi, non compellitur ingredi
+            religionem, si continens est, et non suspecta.</head>
           <p xml:id="cice-l3t32-d1e374">Innocentius III. Episcopo, Decano et Thesaurario Linconiensibus.</p>
           <p xml:id="cice-l3t32-d1e377">Significavit nobis A. mulier, quod, quum ipsa F. militi viro suo coram decano S.
             Quiriaci Pruvinensis, vices bonae memoriae P. archiepiscopi Senonensis in hac parte
@@ -411,8 +411,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e381">
           <head xml:id="cice-l3t32-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l3t32-d1e386">Adultera, quam maritus reconciliare non vult, ad agendum poenitentiam in aliquo
-            claustro collocatur.</p>
+          <head xml:id="cice-l3t32-d1e386" type="question-title">Adultera, quam maritus reconciliare non vult, ad agendum poenitentiam in aliquo
+            claustro collocatur.</head>
           <p xml:id="cice-l3t32-d1e389">Gregorius. IX.</p>
           <p xml:id="cice-l3t32-d1e392">Gaudemus in Domino (Et infra:) Mulieres vero, quae relicto maritali toro lapsu carnis
             ceciderunt, si mariti earum, a te diligenter commoniti, eas ad frugem melioris vitae
@@ -421,8 +421,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e396">
           <head xml:id="cice-l3t32-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l3t32-d1e401">Si coniuges se ad invicem absolverunt continentiam promittendo, et uterque vel alter
-            eorum religionem profitetur, alter alterum repetere non potest.</p>
+          <head xml:id="cice-l3t32-d1e401" type="question-title">Si coniuges se ad invicem absolverunt continentiam promittendo, et uterque vel alter
+            eorum religionem profitetur, alter alterum repetere non potest.</head>
           <p xml:id="cice-l3t32-d1e404">Idem I. Moniali monasterii de Plauda.</p>
           <p xml:id="cice-l3t32-d1e407">Dudum a C. laico mota contra te, quam uxorem suam dicebat, materia quaestionis, R.
             sanctae M. in Cosmidin diaconum cardinalem dedimus auditorem. Coram quo dictus C.
@@ -459,8 +459,8 @@
         </div>
         <div xml:id="cice-l3t32-Dd1e411">
           <head xml:id="cice-l3t32-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l3t32-d1e416">Breve est, sed per alia verba sic potest summari: Post sententiam divortii quoad torum,
-            latam ob fornicationem spiritualem mariti, potest uxor libere religionem intrare.</p>
+          <head xml:id="cice-l3t32-d1e416" type="question-title">Breve est, sed per alia verba sic potest summari: Post sententiam divortii quoad torum,
+            latam ob fornicationem spiritualem mariti, potest uxor libere religionem intrare.</head>
           <p xml:id="cice-l3t32-d1e419">Idem.</p>
           <p xml:id="cice-l3t32-d1e422">Mulier, quae in fide remansit, potest, nolente viro, qui ab infidelitate revertitur,
             propter quam ab eo fuerat iudicio ecclesiae separata, ad religionem libere

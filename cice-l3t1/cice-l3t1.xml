@@ -57,7 +57,7 @@
         <div xml:id="cice-l3t1-Dd1e108">
           <head xml:id="cice-l3t1-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t1-d1e113">Quum celebratur, divisus esse debet clerus a populo.</p>
+          <head xml:id="cice-l3t1-d1e113" type="question-title">Quum celebratur, divisus esse debet clerus a populo.</head>
           <p xml:id="cice-l3t1-d1e116">Ex concilio Maguntino.</p>
           <p xml:id="cice-l3t1-d1e119">Ut laici secus altare, quando sacra mysteria celebrantur, tam ad vigilias quam ad
             missas penitus stare vel sedere inter clericos non praesumant; sed pars illa, quae
@@ -66,13 +66,13 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e123">
           <head xml:id="cice-l3t1-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t1-d1e128">Ex concilio Pictaviensi.</p>
+          <head xml:id="cice-l3t1-d1e128" type="question-title">Ex concilio Pictaviensi.</head>
           <p xml:id="cice-l3t1-d1e131">Clerici arma portantes et usurarii excommunicentur.</p>
         </div>
         <div xml:id="cice-l3t1-Dd1e135">
           <head xml:id="cice-l3t1-Hd1e137">CAP. III.</head>
-          <p xml:id="cice-l3t1-d1e140">Presbyter habens populum debet habere clericum, qui secum cantet et in aliis hic
-            expressis eum iuvet.</p>
+          <head xml:id="cice-l3t1-d1e140" type="question-title">Presbyter habens populum debet habere clericum, qui secum cantet et in aliis hic
+            expressis eum iuvet.</head>
           <p xml:id="cice-l3t1-d1e143">Ex concilio Maticensi.</p>
           <p xml:id="cice-l3t1-d1e146">Ut quisque presbyter, qui plebem regit, clericum habeat, qui secum cantet, et epistolam
             et lectionem legat, et qui possit scholas tenere, et admonere suos parochianos, ut
@@ -81,20 +81,20 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e150">
           <head xml:id="cice-l3t1-Hd1e152">CAP. IV.</head>
-          <p xml:id="cice-l3t1-d1e155">Gregorius IX.</p>
+          <head xml:id="cice-l3t1-d1e155" type="question-title">Gregorius IX.</head>
           <p xml:id="cice-l3t1-d1e158">Si quis ex clericis comam relaxaverit, anathema sit.</p>
         </div>
         <div xml:id="cice-l3t1-Dd1e163">
           <head xml:id="cice-l3t1-Hd1e165">CAP. V.</head>
-          <p xml:id="cice-l3t1-d1e168">Ex concilio Carthaginensi.</p>
+          <head xml:id="cice-l3t1-d1e168" type="question-title">Ex concilio Carthaginensi.</head>
           <p xml:id="cice-l3t1-d1e171">Clericus neque comam nutriat, neque barbam.</p>
         </div>
         <div xml:id="cice-l3t1-Dd1e175">
           <head xml:id="cice-l3t1-Hd1e177">CAP. VI.</head>
-          <p xml:id="cice-l3t1-d1e180">Clericus non professus, nec in sacris exsistens, potest uxorem ducere; sed iterum
+          <head xml:id="cice-l3t1-d1e180" type="question-title">Clericus non professus, nec in sacris exsistens, potest uxorem ducere; sed iterum
             tondebitur, si vult gaudere privilegio clericali, vel dispensative tenere beneficium. H.
             d. secundum modam, qui est magis consentaneus literae, secundum quem ponit unum casum
-            duntaxat.</p>
+            duntaxat.</head>
           <p xml:id="cice-l3t1-d1e183">Ex concilio Triburiensi.</p>
           <p xml:id="cice-l3t1-d1e186">Clericus, si tonsura dimissa uxorem acceperit, qui quidem sit sine gradu, nec
             monasterio a parentibus traditus, uxorem permittatur habere, et iterum tondeatur, nec in
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e190">
           <head xml:id="cice-l3t1-Hd1e192">CAP. VII.</head>
-          <p xml:id="cice-l3t1-d1e195">Clericus debet tonsuram deferre, et si non vult, potest invitus a suo superiore
-            tonderi.</p>
+          <head xml:id="cice-l3t1-d1e195" type="question-title">Clericus debet tonsuram deferre, et si non vult, potest invitus a suo superiore
+            tonderi.</head>
           <p xml:id="cice-l3t1-d1e198">Alexander III. Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l3t1-d1e201">Clericis (Et infra: [cf. c. 5. Ne cler. vel mon. III. 50.]) Clerici, qui comam nutriunt
             et barbam etiam inviti a suis archidiaconis tondeantur. Vestimentis etc. (cf. 5. Ne
@@ -111,8 +111,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e205">
           <head xml:id="cice-l3t1-Hd1e207">CAP. VIII.</head>
-          <p xml:id="cice-l3t1-d1e210">Frequentans monasteria monialium, et monitus non desistens, si clericus est, deponitur;
-            si laicus, excommunicatur.</p>
+          <head xml:id="cice-l3t1-d1e210" type="question-title">Frequentans monasteria monialium, et monitus non desistens, si clericus est, deponitur;
+            si laicus, excommunicatur.</head>
           <p xml:id="cice-l3t1-d1e213">Idem in concilio Lateranensi.</p>
           <p xml:id="cice-l3t1-d1e216">Monasteria praeterea sanctimonialium si quisquam clericus sine manifesta et rationabili
             causa frequentare praesumpserit, per episcopum arceatur, et, si non destiterit, ab
@@ -121,10 +121,10 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e220">
           <head xml:id="cice-l3t1-Hd1e222">CAP. IX.</head>
-          <p xml:id="cice-l3t1-d1e225">Episcopus potest statuere in ecclesia certum numerum clericorum secundum ipsius
+          <head xml:id="cice-l3t1-d1e225" type="question-title">Episcopus potest statuere in ecclesia certum numerum clericorum secundum ipsius
             facultates qui vivant in communi, et contradictores ad hoc compellere; et istos in
             communi viventes potest absolvere ab excommunicatione incursa propter iniectionem manuum
-            in socium.</p>
+            in socium.</head>
           <p xml:id="cice-l3t1-d1e228">Gregorius VII.</p>
           <p xml:id="cice-l3t1-d1e231">Quoniam, ut ait scriptura, †proni sunt sensus hominis ad malum ab adolescentia sua,
             sicut ex sensualitate caro vergit in culpam: ita vigore spiritus praecedente et
@@ -152,8 +152,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e235">
           <head xml:id="cice-l3t1-Hd1e237">CAP. X.</head>
-          <p xml:id="cice-l3t1-d1e240">Ecclesiastici iudices et delegati gratis iudicare debent, nec exigere possunt decimam
-            vel aliam quotam litis, etiamsi hoc habeat consuetudo.</p>
+          <head xml:id="cice-l3t1-d1e240" type="question-title">Ecclesiastici iudices et delegati gratis iudicare debent, nec exigere possunt decimam
+            vel aliam quotam litis, etiamsi hoc habeat consuetudo.</head>
           <p xml:id="cice-l3t1-d1e243">Innocentius III.</p>
           <p xml:id="cice-l3t1-d1e246">Quum ab omni specie mali praecipiat Apostolus abstinere †nos, qui, licet indigni,
             constituti sumus a Deo super gentes et regna, ut iuxta verbum propheticum evellamus et
@@ -178,8 +178,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e251">
           <head xml:id="cice-l3t1-Hd1e253">CAP. XI.</head>
-          <p xml:id="cice-l3t1-d1e256">Ad evitandum scandalum possunt religiosi diversi habitus, missi ad praedicandum de novo
-            conversis, se in unum superiorem habitum et propositum conformare.</p>
+          <head xml:id="cice-l3t1-d1e256" type="question-title">Ad evitandum scandalum possunt religiosi diversi habitus, missi ad praedicandum de novo
+            conversis, se in unum superiorem habitum et propositum conformare.</head>
           <p xml:id="cice-l3t1-d1e259">Idem Livoniensi Episcopo, et eis, qui cum ipso sunt, Fratribus.</p>
           <p xml:id="cice-l3t1-d1e262">Deus, qui ecclesiam suam nova semper prole foecundat, †volens moderna tempora
             conformare prioribus, et fidem catholicam propagare, praedecessoribus vestris et vobis
@@ -208,8 +208,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e266">
           <head xml:id="cice-l3t1-Hd1e268">CAP. XII.</head>
-          <p xml:id="cice-l3t1-d1e271">Ludi theatrales etiam praetextu consuetudinis in ecclesiis vel per clericos fieri non
-            debent.</p>
+          <head xml:id="cice-l3t1-d1e271" type="question-title">Ludi theatrales etiam praetextu consuetudinis in ecclesiis vel per clericos fieri non
+            debent.</head>
           <p xml:id="cice-l3t1-d1e274">Innocentius III.</p>
           <p xml:id="cice-l3t1-d1e277">Quum decorum domus Dei (Et infra: [cf. c. 15. de fil. presb. I. 15.]) Interdum ludi
             fiunt in eisdem ecclesiis theatrales, et non solum ad ludibriorum spectacula
@@ -227,8 +227,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e281">
           <head xml:id="cice-l3t1-Hd1e283">CAP. XIII.</head>
-          <p xml:id="cice-l3t1-d1e286">Clerici debent continere et caste vivere; contra facientes punit, et severius puniuntur
-            illi, qui possunt legitimo matrimonio uti.</p>
+          <head xml:id="cice-l3t1-d1e286" type="question-title">Clerici debent continere et caste vivere; contra facientes punit, et severius puniuntur
+            illi, qui possunt legitimo matrimonio uti.</head>
           <p xml:id="cice-l3t1-d1e289">Idem in concilio generali.</p>
           <p xml:id="cice-l3t1-d1e292">Ut clericorum mores et actus in melius reformentur, continenter et caste vivere
             studeant universi, praesertim in sacris ordinibus constituti, ab omni libidinis vitio
@@ -247,8 +247,8 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e296">
           <head xml:id="cice-l3t1-Hd1e298">CAP. XIV.</head>
-          <p xml:id="cice-l3t1-d1e301">Clericus crapulosus vel ebriosus monitus non desistens, ab officio vel beneficio
-            suspenditur.</p>
+          <head xml:id="cice-l3t1-d1e301" type="question-title">Clericus crapulosus vel ebriosus monitus non desistens, ab officio vel beneficio
+            suspenditur.</head>
           <p xml:id="cice-l3t1-d1e304">Idem in eodem.</p>
           <p xml:id="cice-l3t1-d1e307">A crapula et ebrietate omnes clerici diligenter abstineant, unde vinum sibi temperent,
             et se vino. Nec ad bibendum quispiam incitetur, quum ebrietas et mentis inducat exsilium
@@ -260,9 +260,9 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e311">
           <head xml:id="cice-l3t1-Hd1e313">CAP. XV.</head>
-          <p xml:id="cice-l3t1-d1e316">A negotiis, personis, locis, ludis, vestibus inhonestis et ornatu minus honesto
+          <head xml:id="cice-l3t1-d1e316" type="question-title">A negotiis, personis, locis, ludis, vestibus inhonestis et ornatu minus honesto
             praecipit clericos abstinere, et habitu honesto uti, cuius vanitatem in pluribus
-            exprimit et detestatur.</p>
+            exprimit et detestatur.</head>
           <p xml:id="cice-l3t1-d1e319">Idem in eodem.</p>
           <p xml:id="cice-l3t1-d1e322">Clerici officia vel commercia saecularia non exerceant, maxime inhonesta. Mimis,
             ioculatoribus et histrionibus non intendant. Et tabernas prorsus evitent, nisi forte
@@ -282,9 +282,9 @@
         </div>
         <div xml:id="cice-l3t1-Dd1e326">
           <head xml:id="cice-l3t1-Hd1e328">CAP. XVI.</head>
-          <p xml:id="cice-l3t1-d1e331">Clericus, qui tertio monitus a negotiationibus saecularibus non abstinet, interim
+          <head xml:id="cice-l3t1-d1e331" type="question-title">Clericus, qui tertio monitus a negotiationibus saecularibus non abstinet, interim
             perdit quoad bona privilegium clericale. H. d. Et est textus multum notab. et qui
-            quotidie allegatur.</p>
+            quotidie allegatur.</head>
           <p xml:id="cice-l3t1-d1e334">Honorius III. Ambianensi Episcopo.</p>
           <p xml:id="cice-l3t1-d1e337">Ex literis nobilis viri Pontini et Monsteroli comitis intelleximus, quod quidam solo
             nomine clerici terrae suae tabernarii declarati, qui beneficiis non contenti, sed potius

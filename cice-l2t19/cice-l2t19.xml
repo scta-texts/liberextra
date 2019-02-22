@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l2t19-Dd1e108">
           <head xml:id="cice-l2t19-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t19-d1e113">Reus actori suo propria instrumenta edere non tenetur. Ita communiter summatur.</p>
+          <head xml:id="cice-l2t19-d1e113" type="question-title">Reus actori suo propria instrumenta edere non tenetur. Ita communiter summatur.</head>
           <p xml:id="cice-l2t19-d1e116">Gregorius Tancredo Regi Vincestriae.</p>
           <p xml:id="cice-l2t19-d1e119">Ex epistolae verbis (Et infra:) Tua excellentia postulavit, ut [piissimo] imperatori
             scriberem, quatenus pacta in chartophylacio requireret, quae dudum inter piae memoriae
@@ -68,7 +68,7 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e123">
           <head xml:id="cice-l2t19-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t19-d1e128">Actor, qui plene probavit, non debet compelli iurare.</p>
+          <head xml:id="cice-l2t19-d1e128" type="question-title">Actor, qui plene probavit, non debet compelli iurare.</head>
           <p xml:id="cice-l2t19-d1e131">Alexander III.</p>
           <p xml:id="cice-l2t19-d1e134">Sicut consuetudo laudabilis †nulla debet novitate convelli, sic quod noscitur contra
             ius moribus introductum obvia ratione debet dissolvi. Sane quoniam apud vos consuetum
@@ -81,8 +81,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e138">
           <head xml:id="cice-l2t19-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t19-d1e143">In communi iudicio probant actor et reus; et si pariter probant, reus absolvitur, nisi
-            favorabilem causam foveat actor.</p>
+          <head xml:id="cice-l2t19-d1e143" type="question-title">In communi iudicio probant actor et reus; et si pariter probant, reus absolvitur, nisi
+            favorabilem causam foveat actor.</head>
           <p xml:id="cice-l2t19-d1e146">Lucius III. Cistrensi Episcopo.</p>
           <p xml:id="cice-l2t19-d1e149">Ex literis tuis intelleximus, te et archidiaconum confines habere praebendas in villis,
             quas singuli singulas possidetis, et praetextu terminorum inter vos controversiam*
@@ -103,8 +103,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e153">
           <head xml:id="cice-l2t19-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t19-d1e158">Non creditur marito asserenti etiam cum iuramento, uxorem se cognovisse, si uxor per
-            matronas attestantes per ipsius corporis aspectum probat contrarium.</p>
+          <head xml:id="cice-l2t19-d1e158" type="question-title">Non creditur marito asserenti etiam cum iuramento, uxorem se cognovisse, si uxor per
+            matronas attestantes per ipsius corporis aspectum probat contrarium.</head>
           <p xml:id="cice-l2t19-d1e161">Gregorius VIII. Praeposito sancti Cataldi.</p>
           <p xml:id="cice-l2t19-d1e164">Proposuisti nobis, dilecte fili praeposite, quod causa matrimonii, quae inter dilectum
             filium nostrum O. de Casa nova, et S. filiam O. de Pisco mulierem vertitur, tibi fuit de
@@ -118,8 +118,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e169">
           <head xml:id="cice-l2t19-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t19-d1e174">Singulares de universitate possunt ad commodum universitatis reprobare instrumentum
-            falso confectum nomine universitatis.</p>
+          <head xml:id="cice-l2t19-d1e174" type="question-title">Singulares de universitate possunt ad commodum universitatis reprobare instrumentum
+            falso confectum nomine universitatis.</head>
           <p xml:id="cice-l2t19-d1e177">Clemens III.</p>
           <p xml:id="cice-l2t19-d1e180">Tertio quippe loco fuit a nobis ita quaesitum: Ecce quidam regularis sigillo capituli
             quoddam instrumentum cuidam amico suo signavit, in quo facta ei alienatio quarundam
@@ -135,8 +135,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e184">
           <head xml:id="cice-l2t19-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t19-d1e189">Ubi agitur de matrimonio contrahendo, probato impedimento et publicatis attestationibus
-            alii testes super defectu impedimenti admittendi non sunt.</p>
+          <head xml:id="cice-l2t19-d1e189" type="question-title">Ubi agitur de matrimonio contrahendo, probato impedimento et publicatis attestationibus
+            alii testes super defectu impedimenti admittendi non sunt.</head>
           <p xml:id="cice-l2t19-d1e192">Idem.</p>
           <p xml:id="cice-l2t19-d1e195">Iuravit quidam, ut asseris se quandam in uxorem legitimam accepturum. Quam quum vellet
             traducere, quidam iuramentis secundum morem exhibitis legitime probaverunt, ipsos in
@@ -151,9 +151,9 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e199">
           <head xml:id="cice-l2t19-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t19-d1e204">Si per literas ordinarii probatur quis excommunicatus, a procuratione repelletur. H. d.
+          <head xml:id="cice-l2t19-d1e204" type="question-title">Si per literas ordinarii probatur quis excommunicatus, a procuratione repelletur. H. d.
             et haec summatio convenit textui et titulo, et nullam patitur calumniam, et ideo eam
-            tene.</p>
+            tene.</head>
           <p xml:id="cice-l2t19-d1e207">Innocentius III. Archidiacono Parisiensi.</p>
           <p xml:id="cice-l2t19-d1e210">Post cessionem †[dilecti filii abbatis olim S. Martini Trecensis, canonicorum eiusdem
             ecclesiae votis in electionem divisis, quidam ex ipsis dilectum filium Manassem,
@@ -229,7 +229,7 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e214">
           <head xml:id="cice-l2t19-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t19-d1e219">Si rogatus restituere totam hereditatem, eo sine liberis decedente intret monasterium,
+          <head xml:id="cice-l2t19-d1e219" type="question-title">Si rogatus restituere totam hereditatem, eo sine liberis decedente intret monasterium,
             evanescit fideicommissum, et hereditas applicatur monasterio; nec ad invalidandum
             ingressum sufficit probare minorem aetatem tempore ingressus, si ex adverso geminatus
             probetur ingressus. H. d. intelligendo, quod substitutio fuit fideicommissaria. Si vero
@@ -237,7 +237,7 @@
             per ingressum monasterii. Et tunc adde id, quod est in primo summario ibi: nec ad
             invalidandum etc., usque ad finem, et uterque intellectus est verus in se. Dico tamen,
             quod primus est verior, quod hic fuit substitutio fideicommissaria, licet Dom. Anton.
-            hic dicat, quod fuit compendiosa.</p>
+            hic dicat, quod fuit compendiosa.</head>
           <p xml:id="cice-l2t19-d1e222">Idem Abbati et Conventui Cassensi.</p>
           <p xml:id="cice-l2t19-d1e225">In praesentia dilecti filii nostri G. sancti Hadriani diaconi cardinalis G. subdiaconus
             et B. mulier soror eius, Verulanenses fratres cum vestro syndico constitutos coram ipso
@@ -283,10 +283,10 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e229">
           <head xml:id="cice-l2t19-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t19-d1e234">Si actor et reus in interdicto retinendae possessionis probant, obtinet is, qui
+          <head xml:id="cice-l2t19-d1e234" type="question-title">Si actor et reus in interdicto retinendae possessionis probant, obtinet is, qui
             antiquiorem possessionem probat titulo maxime iustificatam, vel meliores probationes
             respectu possessionis adduxit. H. d. notabiliter, et probatur satis summarium in versic.
-            ex praemissis, ponderato versic. “maxime.”</p>
+            ex praemissis, ponderato versic. “maxime.”</head>
           <p xml:id="cice-l2t19-d1e237">Idem.</p>
           <p xml:id="cice-l2t19-d1e240">Licet causam, quae vertitur inter ecclesiam Ravennatensem et commune Faventiae super
             iurisdictione, honores, ac districtu in villa Luci, sancti P. et castro Arioli, quod de
@@ -362,8 +362,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e244">
           <head xml:id="cice-l2t19-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t19-d1e249">Si qui nominent aliquem filium, et ita communiter reputatur, non creditur postea alteri
-            eorum iuranti contrarium.</p>
+          <head xml:id="cice-l2t19-d1e249" type="question-title">Si qui nominent aliquem filium, et ita communiter reputatur, non creditur postea alteri
+            eorum iuranti contrarium.</head>
           <p xml:id="cice-l2t19-d1e252">Idem.</p>
           <p xml:id="cice-l2t19-d1e255">Per tuas nobis literas intimasti, quod, quum T. Tiburtinus civis quandam per septennium
             habuerit concubinam, nec prolem susceperit interim ex eadem, ac ipsa postmodum divertens
@@ -392,9 +392,9 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e260">
           <head xml:id="cice-l2t19-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t19-d1e265">Iudex debet habere notarium vel duos viros idoneos, qui scribant acta iudicii; alias,
+          <head xml:id="cice-l2t19-d1e265" type="question-title">Iudex debet habere notarium vel duos viros idoneos, qui scribant acta iudicii; alias,
             si quid difficultatis emerserit, per superiorem punietur, nec creditur ei super
-            processu, nisi in quantum per acta vel alias per legitima documenta constabit.</p>
+            processu, nisi in quantum per acta vel alias per legitima documenta constabit.</head>
           <p xml:id="cice-l2t19-d1e268">Idem in concilio generali.</p>
           <p xml:id="cice-l2t19-d1e271">Quoniam contra falsam assertionem iniqui iudicis innocens litigator quandoque non
             potest veram negationem probare, quum negantis factum per rerum naturam nulla sit
@@ -416,8 +416,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e275">
           <head xml:id="cice-l2t19-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t19-d1e280">Si probari potest, reum deliquisse, eius probatio, quod non deliquerit, non est
-            admittenda.</p>
+          <head xml:id="cice-l2t19-d1e280" type="question-title">Si probari potest, reum deliquisse, eius probatio, quod non deliquerit, non est
+            admittenda.</head>
           <p xml:id="cice-l2t19-d1e283">Honorius III. Archiepiscopo Londonensi et eius Suffraganeis.</p>
           <p xml:id="cice-l2t19-d1e286">Ad nostram noveritis audientiam pervenisse, quod sacerdotes et clerici Daciae legi
             regni, per quam negativa probatur, contra canones et legitimas sanctiones temere
@@ -435,7 +435,7 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e290">
           <head xml:id="cice-l2t19-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t19-d1e295">Fines dioecesium probantur per libros antiquos, adminicula, testes et famam.</p>
+          <head xml:id="cice-l2t19-d1e295" type="question-title">Fines dioecesium probantur per libros antiquos, adminicula, testes et famam.</head>
           <p xml:id="cice-l2t19-d1e298">Idem Aurelianensi et Lametensi Episcopis.</p>
           <p xml:id="cice-l2t19-d1e301">Quum causam, quae inter venerabiles fratres nostros Colubriensem et Egitanensem
             episcopos super suarum limitatione dioecesum vertitur, vobis duximus committendam,
@@ -446,7 +446,7 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e305">
           <head xml:id="cice-l2t19-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t19-d1e310">Possunt reprobari matronae, per quas virginitas probatur.</p>
+          <head xml:id="cice-l2t19-d1e310" type="question-title">Possunt reprobari matronae, per quas virginitas probatur.</head>
           <p xml:id="cice-l2t19-d1e313">Idem Episcopo et Archidiacono Senonensibus.</p>
           <p xml:id="cice-l2t19-d1e316">Causam matrimonii, quae inter V. iuvenem et G. puellam Senonensem, quae se virginem et
             monacham profitetur, noscitur agitari, †quia non ita instructam misisti, frater
@@ -465,8 +465,8 @@
         </div>
         <div xml:id="cice-l2t19-Dd1e320">
           <head xml:id="cice-l2t19-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t19-d1e325">Acta etiam litis ordinatoria facta coram primis iudicibus, fidem faciunt coram
-            secundis.</p>
+          <head xml:id="cice-l2t19-d1e325" type="question-title">Acta etiam litis ordinatoria facta coram primis iudicibus, fidem faciunt coram
+            secundis.</head>
           <p xml:id="cice-l2t19-d1e328">Gregorius IX. Praeposito sanctae Mariae Magdeburgensis et Decano Misinensi.</p>
           <p xml:id="cice-l2t19-d1e331">Quum bonae memoriae (Et infra:) Quum acta originalia dicantur apud priores iudices
             remansisse, mandamus, quatenus ea cum omni diligentia requirentes, ipsa, si potuerint

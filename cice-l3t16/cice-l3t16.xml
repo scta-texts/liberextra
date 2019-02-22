@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l3t16-Dd1e108">
           <head xml:id="cice-l3t16-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t16-d1e113">Ex deposito, facto apud clericum ecclesiae, non tenetur ecclesias, nisi in utilitatem
-            ecclesiae sit versum.</p>
-          <p xml:id="cice-l3t16-d1e116">Alexander III. Londonensi Episcopo.</p>
+          <head xml:id="cice-l3t16-d1e113" type="question-title">Ex deposito, facto apud clericum ecclesiae, non tenetur ecclesias, nisi in utilitatem
+            ecclesiae sit versum.</head>
+          <head xml:id="cice-l3t16-d1e116" type="question-title">Alexander III. Londonensi Episcopo.</head>
           <p xml:id="cice-l3t16-d1e119">Gravis illa et odibilis querimonia, quae usque ad nos super deposito tuo tibi hactenus
             denegato pervenit, †duplici nos anxietate perstringit eo, quod tibi in hoc et deesse non
             possumus, et adesse, prout velles, efficaciter non valemus. Quum enim non constet nobis,
@@ -78,8 +78,8 @@
         </div>
         <div xml:id="cice-l3t16-Dd1e123">
           <head xml:id="cice-l3t16-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t16-d1e128">Dicit, ad quid tenetur depositarius, et quomodo repetatur depositum.</p>
-          <p xml:id="cice-l3t16-d1e131">Gregorius IX.</p>
+          <head xml:id="cice-l3t16-d1e128" type="question-title">Dicit, ad quid tenetur depositarius, et quomodo repetatur depositum.</head>
+          <head xml:id="cice-l3t16-d1e131" type="question-title">Gregorius IX.</head>
           <p xml:id="cice-l3t16-d1e134">Bona fides abesse praesumitur, si, rebus tuis salvis exsistentibus, depositas amisisti.
             De culpa quoque teneris, si te ipsum deposito obtulisti, vel si aliquid pro custodia
             recepisses. Pacto vero, culpa vel mora praecedentibus, casus etiam fortuitus imputatur.

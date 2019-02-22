@@ -57,7 +57,7 @@
         <div xml:id="cice-l1t28-Dd1e108">
           <head xml:id="cice-l1t28-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l1t28-d1e113">Vicarius, si beneficium curatum postea sit adeptus, vicaria privabitur.</p>
+          <head xml:id="cice-l1t28-d1e113" type="question-title">Vicarius, si beneficium curatum postea sit adeptus, vicaria privabitur.</head>
           <p xml:id="cice-l1t28-d1e116">Alexander III. Episcopo Norvicensi et G. Archidiacono.</p>
           <p xml:id="cice-l1t28-d1e119">Ad audientiam nostram pervenit, quod G. presbyter monachos de Rameseia et Thomam
             clericum suum petendo vicariam [suam] ecclesiae de Burnel, a qua viginti annis
@@ -72,7 +72,7 @@
         </div>
         <div xml:id="cice-l1t28-Dd1e123">
           <head xml:id="cice-l1t28-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t28-d1e128">Plures vicarias quis habere non potest.</p>
+          <head xml:id="cice-l1t28-d1e128" type="question-title">Plures vicarias quis habere non potest.</head>
           <p xml:id="cice-l1t28-d1e131">Idem Eliensi Episcopo.</p>
           <p xml:id="cice-l1t28-d1e134">Provideas [autem] attentius, ne in episcopatu tuo patiaris aliquem plures vicarias
             habere, quia, quum vicarii teneantur personis et ecclesiis deservire, alienum est ab
@@ -80,8 +80,8 @@
         </div>
         <div xml:id="cice-l1t28-Dd1e138">
           <head xml:id="cice-l1t28-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t28-d1e143">Perpetuus vicarius per episcopum institutus per rectorem removeri, vel portione sua
-            fraudari non potest.</p>
+          <head xml:id="cice-l1t28-d1e143" type="question-title">Perpetuus vicarius per episcopum institutus per rectorem removeri, vel portione sua
+            fraudari non potest.</head>
           <p xml:id="cice-l1t28-d1e146">Idem Vintoniensi Episcopo.</p>
           <p xml:id="cice-l1t28-d1e149">Ad haec si persona alicuius ecclesiae vicario, quem in eadem ecclesia instituit, de
             assensu et auctoritate dioecesani episcopi certam assignaverit portionem, is, qui
@@ -91,7 +91,7 @@
         </div>
         <div xml:id="cice-l1t28-Dd1e153">
           <head xml:id="cice-l1t28-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t28-d1e158">Vicarius non potest substituere vicarium.</p>
+          <head xml:id="cice-l1t28-d1e158" type="question-title">Vicarius non potest substituere vicarium.</head>
           <p xml:id="cice-l1t28-d1e161">Idem Norwicensi Episcopo.</p>
           <p xml:id="cice-l1t28-d1e164">Clericos [autem vel] in presbyteratu, vel in aliis inferioribus ordinibus constitutos,
             in vicariis ecclesiarum, quas adepti sunt, alios sibi substituere non permittas, quum id
@@ -99,7 +99,7 @@
         </div>
         <div xml:id="cice-l1t28-Dd1e169">
           <head xml:id="cice-l1t28-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t28-d1e174">Vicarius Papae in urbe iurisdictionem habet, non extra urbem.</p>
+          <head xml:id="cice-l1t28-d1e174" type="question-title">Vicarius Papae in urbe iurisdictionem habet, non extra urbem.</head>
           <p xml:id="cice-l1t28-d1e177">Innocentius III. Abbati S. Eugenii et Plebano S. Petri.</p>
           <p xml:id="cice-l1t28-d1e180">Sua nobis venerabilis frater noster [Wulteranus episcopus fecit insinuatione monstrari,
             quod, quum clerici plebis de Petiole iurassent sibi praepositum ad laicorum eligere
@@ -125,8 +125,8 @@
         </div>
         <div xml:id="cice-l1t28-Dd1e184">
           <head xml:id="cice-l1t28-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t28-d1e189">Compelluntur vicarii ordinarii ecclesiis deservire per subtractionem proventuum et
-            vicariarum.</p>
+          <head xml:id="cice-l1t28-d1e189" type="question-title">Compelluntur vicarii ordinarii ecclesiis deservire per subtractionem proventuum et
+            vicariarum.</head>
           <p xml:id="cice-l1t28-d1e192">Honorius III. Vigorensi Episcopo.</p>
           <p xml:id="cice-l1t28-d1e195">Ex parte tua fuit propositum coram nobis, †quod quidam in ecclesiis, quibus perpetuas
             obtinent vicarias, debitam residentiam facere, ac in presbyteros promoveri contemnunt.

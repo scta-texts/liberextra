@@ -57,15 +57,15 @@
 
         <div xml:id="cice-l3t7-Dd1e108">
           <head xml:id="cice-l3t7-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t7-d1e113">Numerus clericorum debet institui in ecclesiis collegiatis secundum facultatem
-            ipsarum.</p>
+          <head xml:id="cice-l3t7-d1e113" type="question-title">Numerus clericorum debet institui in ecclesiis collegiatis secundum facultatem
+            ipsarum.</head>
           <p xml:id="cice-l3t7-d1e116">Ex concilio Arelatensi.</p>
           <p xml:id="cice-l3t7-d1e119">Non amplius suscipiantur in monasterio monachorum aut clericorum, seu etiam puellarum,
             quam quot se regere de bonis ecclesiae absque penuria ecclesiae possint.</p>
         </div>
         <div xml:id="cice-l3t7-Dd1e123">
           <head xml:id="cice-l3t7-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t7-d1e128">Laici in canonicos non possunt institui.</p>
+          <head xml:id="cice-l3t7-d1e128" type="question-title">Laici in canonicos non possunt institui.</head>
           <p xml:id="cice-l3t7-d1e131">Eugenius.</p>
           <p xml:id="cice-l3t7-d1e134">In ecclesia vestra certum numerum canonicorum, sicut nobis innotuit, communiter
             instituere curavistis, †et institutionem vestram religione firmare iuramenti. Unde, quia
@@ -82,7 +82,7 @@
         </div>
         <div xml:id="cice-l3t7-Dd1e138">
           <head xml:id="cice-l3t7-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t7-d1e143">Institutio beneficiorum spectat ad episcopos vel eorum officiales.</p>
+          <head xml:id="cice-l3t7-d1e143" type="question-title">Institutio beneficiorum spectat ad episcopos vel eorum officiales.</head>
           <p xml:id="cice-l3t7-d1e146">Alexander III. Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l3t7-d1e149">Ex frequentibus querelis personarum satis manifeste didicimus, in partibus vestris
             consuetudinem pravam admodum et enormem, et sanctorum Patrum constitutionibus omnimodo
@@ -105,7 +105,7 @@
         </div>
         <div xml:id="cice-l3t7-Dd1e153">
           <head xml:id="cice-l3t7-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t7-d1e158">Ultra facultates non debet quis institui invitis clericis ecclesiae.</p>
+          <head xml:id="cice-l3t7-d1e158" type="question-title">Ultra facultates non debet quis institui invitis clericis ecclesiae.</head>
           <p xml:id="cice-l3t7-d1e161">Clemens III. Clero Constantinopolitano.</p>
           <p xml:id="cice-l3t7-d1e164">Auctoritate apostolicae sedis †debitoque officii nostri compellimur, viros
             ecclesiasticos oculo benigniori prospicere, eisque, ne graventur molestiis, pastorali
@@ -122,8 +122,8 @@
         </div>
         <div xml:id="cice-l3t7-Dd1e169">
           <head xml:id="cice-l3t7-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t7-d1e174">Quum in ecclesiis oportet extraneos institui, non debent institui clerici certae
-            originis tantum, sed undecunque sint; dum tamen sint idonei.</p>
+          <head xml:id="cice-l3t7-d1e174" type="question-title">Quum in ecclesiis oportet extraneos institui, non debent institui clerici certae
+            originis tantum, sed undecunque sint; dum tamen sint idonei.</head>
           <p xml:id="cice-l3t7-d1e177">Innocentius III. S. Marcelli et S. Susannae cardinali apostolicae sedis legato.</p>
           <p xml:id="cice-l3t7-d1e180">Ad decorem †et commodum tam ecclesiae S. Sophiae, quam aliarum ecclesiarum, quae sunt
             in urbe Constantinopolitana constructae, noscitur pertinere, ut literati viri et morum
@@ -148,10 +148,10 @@
         </div>
         <div xml:id="cice-l3t7-Dd1e184">
           <head xml:id="cice-l3t7-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t7-d1e189">Institutiones et custodiae possunt de iure speciali ad non episcopum pertinere, et
+          <head xml:id="cice-l3t7-d1e189" type="question-title">Institutiones et custodiae possunt de iure speciali ad non episcopum pertinere, et
             pendente lite cum diocesano defenditur in possessione. H. d. Vel sic: Si possidet ius
             instituendi is, ad quem de iure communi non spectat, pendente iudicio proprietatis in
-            posessione defenditur.</p>
+            posessione defenditur.</head>
           <p xml:id="cice-l3t7-d1e192">Idem Heliensi Episcopo et Archidiacono Norvicensi.</p>
           <p xml:id="cice-l3t7-d1e195">Quum venissent ad apostolicam sedem dilecti filii magister Honorius archidiaconus
             Richemundiae, et magister Columbus subdiaconus noster I. de Eboraco, et R. Avenel et
@@ -239,7 +239,7 @@
         </div>
         <div xml:id="cice-l3t7-Dd1e199">
           <head xml:id="cice-l3t7-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t7-d1e204">Is, ad quem spectat collatio dignitatum, se ipsum instituere non potest.</p>
+          <head xml:id="cice-l3t7-d1e204" type="question-title">Is, ad quem spectat collatio dignitatum, se ipsum instituere non potest.</head>
           <p xml:id="cice-l3t7-d1e207">Idem Episcopo Trecensi et Archidiacono Parisiensi.</p>
           <p xml:id="cice-l3t7-d1e210">Quum ad nostram †[dudum audientiam pervenisset, quod in ecclesia Peronensi dignitas
             quaedam, quae custodia vulgariter appellatur, contra statuta Lateranensis concilii per

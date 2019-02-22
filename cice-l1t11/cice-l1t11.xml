@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t11-Dd1e108">
           <head xml:id="cice-l1t11-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t11-d1e113">Diebus dominicis vel sabbato Pentecostes sacri ordines ab alio, quam a Papa, conferri
-            non debent.</p>
+          <head xml:id="cice-l1t11-d1e113" type="question-title">Diebus dominicis vel sabbato Pentecostes sacri ordines ab alio, quam a Papa, conferri
+            non debent.</head>
           <p xml:id="cice-l1t11-d1e116">Alexander III. Batoniensi Episcopo.</p>
           <p xml:id="cice-l1t11-d1e119">Subdiaconos autem nulli, nisi Romano Pontifici, liceat in diebus dominicis ordinare,
             quamvis consecrandi Deo dicatas virgines, et minores ordines his diebus habeant
@@ -67,7 +67,7 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e123">
           <head xml:id="cice-l1t11-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t11-d1e128">Non valet consuetudo, quod extra statuta tempora sacri ordines conferantur.</p>
+          <head xml:id="cice-l1t11-d1e128" type="question-title">Non valet consuetudo, quod extra statuta tempora sacri ordines conferantur.</head>
           <p xml:id="cice-l1t11-d1e131">Idem Episcopo Herfordensi.</p>
           <p xml:id="cice-l1t11-d1e134">Sane super eo, quod moris esse dixisti in ecclesiis quibusdam Scotiae et Valliae in
             dedicationibus ecclesiarum vel altarium extra ieiunia quatuor temporum clericos ad
@@ -79,8 +79,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e138">
           <head xml:id="cice-l1t11-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t11-d1e143">Minores ordines conferri possunt diebus festis, sacri vero conferri debent in quatuor
-            temporibus, vel sabbato sancto, vel sabbato de passione.</p>
+          <head xml:id="cice-l1t11-d1e143" type="question-title">Minores ordines conferri possunt diebus festis, sacri vero conferri debent in quatuor
+            temporibus, vel sabbato sancto, vel sabbato de passione.</head>
           <p xml:id="cice-l1t11-d1e146">Idem eidem.</p>
           <p xml:id="cice-l1t11-d1e149">De eo autem, quod quaesivisti, an liceat extra ieiunia quatuor temporum aliquos in
             ostiarios, lectores, exorcistas, vel acolythos promovere, aut etiam subdiaconos
@@ -91,8 +91,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e153">
           <head xml:id="cice-l1t11-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t11-d1e158">Criminosus occultus moneri potest, ne promoveatur ad ordines, sed prohiberi non
-            debet.</p>
+          <head xml:id="cice-l1t11-d1e158" type="question-title">Criminosus occultus moneri potest, ne promoveatur ad ordines, sed prohiberi non
+            debet.</head>
           <p xml:id="cice-l1t11-d1e161">Idem.</p>
           <p xml:id="cice-l1t11-d1e164">Ex tenore tuarum literarum accepimus, quod N. clericus adeo deliquit, quod, si peccatum
             eius esset publicum, de gradaretur ab ordine, quem suscepit, et amplius non posset ad
@@ -105,7 +105,7 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e169">
           <head xml:id="cice-l1t11-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t11-d1e174">Religiosus contra prohibitionem praelati sui ordinari non debet.</p>
+          <head xml:id="cice-l1t11-d1e174" type="question-title">Religiosus contra prohibitionem praelati sui ordinari non debet.</head>
           <p xml:id="cice-l1t11-d1e177">Lucius III. Archiepiscopo Turonensi.</p>
           <p xml:id="cice-l1t11-d1e180">Ad aures nostras te significante pervenit, quod religiosi quidam zelum Dei habentes ad
             superiores desiderant ordines promoveri, putantes, maius praemium cumulandum, quo in
@@ -122,8 +122,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e184">
           <head xml:id="cice-l1t11-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t11-d1e189">Metropolitanus ab omnibus suffraganeis consecratur; suffraganeus vero a tribus,
-            metropolitano iubente.</p>
+          <head xml:id="cice-l1t11-d1e189" type="question-title">Metropolitanus ab omnibus suffraganeis consecratur; suffraganeus vero a tribus,
+            metropolitano iubente.</head>
           <p xml:id="cice-l1t11-d1e192">Idem.</p>
           <p xml:id="cice-l1t11-d1e195">Si archiepiscopus [diem] obierit, et alter fuerit ordinandus archiepiscopus [electus],
             omnes episcopi eiusdem provinciae ad sedem metropolitanam conveniant, ut ab omnibus ipse
@@ -135,7 +135,7 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e199">
           <head xml:id="cice-l1t11-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t11-d1e204">Dicit idem, quod in praecedenti.</p>
+          <head xml:id="cice-l1t11-d1e204" type="question-title">Dicit idem, quod in praecedenti.</head>
           <p xml:id="cice-l1t11-d1e207">Ex concilio Arelatensi.</p>
           <p xml:id="cice-l1t11-d1e210">Ne episcopi sine metropolitani permissu, nec episcopus metropolitanus sine tribus vel
             duobus episcopis comprovincialibus praesumat episcopum ordinare, ita, ut alii episcopi
@@ -145,7 +145,7 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e214">
           <head xml:id="cice-l1t11-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t11-d1e219">Ordinatus extra tempora suspenditur, donec dispensetur cum eo, et ordinans punitur.</p>
+          <head xml:id="cice-l1t11-d1e219" type="question-title">Ordinatus extra tempora suspenditur, donec dispensetur cum eo, et ordinans punitur.</head>
           <p xml:id="cice-l1t11-d1e222">Urbanus III. Archiepiscopo Pisano.</p>
           <p xml:id="cice-l1t11-d1e225">Quum quidam †episcopi Sardi, sicut nobis est ex tua parte propositum, quibusdam
             pecuniam, sicut iuramento tenebantur adstricti, non solverint, et quidam episcopus
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e229">
           <head xml:id="cice-l1t11-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t11-d1e234">Graeci a Latinis ordinari non debent, nec econtra, si in ritu ordinandi sunt
-            diversi.</p>
+          <head xml:id="cice-l1t11-d1e234" type="question-title">Graeci a Latinis ordinari non debent, nec econtra, si in ritu ordinandi sunt
+            diversi.</head>
           <p xml:id="cice-l1t11-d1e237">Coelestinus III. Hidronensi Archiepiscopo.</p>
           <p xml:id="cice-l1t11-d1e240">Quum secundum regulas ecclesiasticas †et sanctorum instituta Pontificum sacri sunt
             ordines in certis temporibus conferendi, quidam Graeci episcopi ritus sui et
@@ -196,8 +196,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e244">
           <head xml:id="cice-l1t11-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t11-d1e249">Si monachus unius ordinis in secundo ordine, ad quem transivit, recipit sacerdotium, ad
-            primum ordinem rediens, in eo libere ministrabit.</p>
+          <head xml:id="cice-l1t11-d1e249" type="question-title">Si monachus unius ordinis in secundo ordine, ad quem transivit, recipit sacerdotium, ad
+            primum ordinem rediens, in eo libere ministrabit.</head>
           <p xml:id="cice-l1t11-d1e252">Innocentius III. Abbati et Conventui Cariloci.</p>
           <p xml:id="cice-l1t11-d1e255">Ex parte vestra nostro fuit apostolatui reseratum, quod quidam monachus vester, se ad
             nigros monachos transferens, et habitum eorum nigrum ibidem assumens, ad sacerdotii
@@ -209,8 +209,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e260">
           <head xml:id="cice-l1t11-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t11-d1e265">Si Graecus episcopus Latino subiectus ordinatur sine Latini licentia a Graeco,
-            interdicitur sibi exsecutio: si vero de licentia, tunc toleratur.</p>
+          <head xml:id="cice-l1t11-d1e265" type="question-title">Si Graecus episcopus Latino subiectus ordinatur sine Latini licentia a Graeco,
+            interdicitur sibi exsecutio: si vero de licentia, tunc toleratur.</head>
           <p xml:id="cice-l1t11-d1e268">Idem C. Presbytero Cardinali, apostolicae sedis Legato.</p>
           <p xml:id="cice-l1t11-d1e271">Quod translationem pontificis (Et infra: [cf. c. 4. de off. leg. I. 30]) Super eo vero,
             quod nos consulere voluisti, quod multi Graecorum clerici consistentes, in dioecesibus
@@ -228,7 +228,7 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e275">
           <head xml:id="cice-l1t11-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t11-d1e280">Ordinatus a Papa sine licentia Papae ad superiores ordines non promovetur.</p>
+          <head xml:id="cice-l1t11-d1e280" type="question-title">Ordinatus a Papa sine licentia Papae ad superiores ordines non promovetur.</head>
           <p xml:id="cice-l1t11-d1e283">Idem Mutinensi Episcopo.</p>
           <p xml:id="cice-l1t11-d1e286">Quum in distribuendis †[ordinibus constitutiones canonicae tempora certa distinguant,
             quae praecipue circa sacros ordines approbata quoque consuetudo docuit observanda,
@@ -247,8 +247,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e290">
           <head xml:id="cice-l1t11-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t11-d1e295">Duo sacri ordines non possunt conferri eidem uno die, vel duobus, continuato
-            ieiunio.</p>
+          <head xml:id="cice-l1t11-d1e295" type="question-title">Duo sacri ordines non possunt conferri eidem uno die, vel duobus, continuato
+            ieiunio.</head>
           <p xml:id="cice-l1t11-d1e298">Idem eidem et Magistro H. Subdiacono nostro.</p>
           <p xml:id="cice-l1t11-d1e301">Literas vestras recepimus responsivas super inordinata ordinatione [A.] Imolensis
             electi, quem [G.] Bononiensis episcopus praecedenti sabbato in diaconum, et sequenti die
@@ -272,8 +272,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e305">
           <head xml:id="cice-l1t11-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t11-d1e310">Ordinans puerum tredecim annorum in diaconum, suspenditur a collatione ordinum: et
-            ordinatus ab ipsius executione usque ad aetatem legitimam.</p>
+          <head xml:id="cice-l1t11-d1e310" type="question-title">Ordinans puerum tredecim annorum in diaconum, suspenditur a collatione ordinum: et
+            ordinatus ab ipsius executione usque ad aetatem legitimam.</head>
           <p xml:id="cice-l1t11-d1e313">Honorius III. Episcopo et Archidiacono Legionensi.</p>
           <p xml:id="cice-l1t11-d1e316">Vel non est compos sui episcopus Conventrensis, vel nimis videtur a se scientiam
             repulisse, aut probatur ex malignitate peccasse, qui ut alia, quae de ipso dicuntur,
@@ -291,8 +291,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e320">
           <head xml:id="cice-l1t11-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t11-d1e325">Episcopus conferens eidem una die plures sacros ordines, etiamsi de mandato
-            metropolitani hoc fecerit, ab ordinandi potestate suspenditur.</p>
+          <head xml:id="cice-l1t11-d1e325" type="question-title">Episcopus conferens eidem una die plures sacros ordines, etiamsi de mandato
+            metropolitani hoc fecerit, ab ordinandi potestate suspenditur.</head>
           <p xml:id="cice-l1t11-d1e328">Idem Leton. et Cala. Abb.</p>
           <p xml:id="cice-l1t11-d1e331">Dilectus filius G. Humiliensis canonicus nostro dudum apostolatui reseravit, quod
             Humiliensi ecclesia suo viduata pastore, canonici sui, de substituendi pastoris
@@ -360,8 +360,8 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e335">
           <head xml:id="cice-l1t11-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l1t11-d1e340">Ordinatus ad sacros extra tempora statuta, ordinem recipit, et post poenitentiam cum eo
-            dispensat episcopus.</p>
+          <head xml:id="cice-l1t11-d1e340" type="question-title">Ordinatus ad sacros extra tempora statuta, ordinem recipit, et post poenitentiam cum eo
+            dispensat episcopus.</head>
           <p xml:id="cice-l1t11-d1e343">Gregorius IX. Archiepiscopo Baranensi.</p>
           <p xml:id="cice-l1t11-d1e346">Consultationi tuae taliter respondemus, quod eos, qui extra tempora statuta sacros
             ordines receperunt, characterem non est dubium recepisse, quos pro transgressione
@@ -371,9 +371,9 @@
         </div>
         <div xml:id="cice-l1t11-Dd1e351">
           <head xml:id="cice-l1t11-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l1t11-d1e356">Occultus criminosus, praeter homicidam, post poenitentiam in susceptis ministrat, et ad
+          <head xml:id="cice-l1t11-d1e356" type="question-title">Occultus criminosus, praeter homicidam, post poenitentiam in susceptis ministrat, et ad
             superiores adscendit; ante poenitentiam monetur, ut etiam in susceptis non
-            ministret.</p>
+            ministret.</head>
           <p xml:id="cice-l1t11-d1e359">Idem.</p>
           <p xml:id="cice-l1t11-d1e362">Quaesitum est de sacerdotibus vel aliis clericis, qui per reatum adulterii, periurii,
             homicidii vel falsi testimonii bonum conscientiae rectae perdiderunt (Et infra:)

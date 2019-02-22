@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l4t1-Dd1e108">
           <head xml:id="cice-l4t1-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t1-d1e113">Matrimonium solo consensu contrahitur, nec invalidatur, si consuetudo patriae non
-            servetur.</p>
+          <head xml:id="cice-l4t1-d1e113" type="question-title">Matrimonium solo consensu contrahitur, nec invalidatur, si consuetudo patriae non
+            servetur.</head>
           <p xml:id="cice-l4t1-d1e116">Ex concilio Triburiensi.</p>
           <p xml:id="cice-l4t1-d1e119">De Francia nobilis quidam homo nobilem mulierem de Saxonia lege Saxonum duxit in
             uxorem, tenuitque eam multis annis, et ex ea, filios procreavit. Verum quia non eisdem
@@ -70,7 +70,7 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e123">
           <head xml:id="cice-l4t1-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t1-d1e128">Sponsalia de futuro dissolvuntur, si sponsi se dissolvunt, etiamsi fuerint iurata.</p>
+          <head xml:id="cice-l4t1-d1e128" type="question-title">Sponsalia de futuro dissolvuntur, si sponsi se dissolvunt, etiamsi fuerint iurata.</head>
           <p xml:id="cice-l4t1-d1e131">Innocentius III. Exonensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e134">Praeterea hi, qui de matrimonio contrahendo pure et sine omni conditione fidem dederunt
             [aut] iuramentum fecerunt, commonendi sunt et diligentius exhortandi, et modis omnibus
@@ -82,8 +82,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e138">
           <head xml:id="cice-l4t1-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t1-d1e143">Si maior septennio duxit in uxorem minorem septennio, et eam traduxit ad domum, oritur
-            ex tali contractu publicae honestatis iustitia. H. d. inhaerendo literae. Panorm.</p>
+          <head xml:id="cice-l4t1-d1e143" type="question-title">Si maior septennio duxit in uxorem minorem septennio, et eam traduxit ad domum, oritur
+            ex tali contractu publicae honestatis iustitia. H. d. inhaerendo literae. Panorm.</head>
           <p xml:id="cice-l4t1-d1e146">Eugenius Papa.</p>
           <p xml:id="cice-l4t1-d1e149">Iuvenis ille, qui puellam nondum septennem duxit, quamvis aetas repugnaret, ex humana
             tamen fragilitate forsan tentavit quod complere non potuit. Quia igitur in his, quae
@@ -93,7 +93,7 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e153">
           <head xml:id="cice-l4t1-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t1-d1e158">Ex sponsalibus, contractis cum consanguinea, oritur publicae honestatis iustitia.</p>
+          <head xml:id="cice-l4t1-d1e158" type="question-title">Ex sponsalibus, contractis cum consanguinea, oritur publicae honestatis iustitia.</head>
           <p xml:id="cice-l4t1-d1e161">Alexander III. Papiensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e164">Ad audientiam nostri apostolatus pervenit, quod, quum H. Albericus, Papiensis civis,
             filiam suam cuidam filiorum L. dare vellet uxorem, iuravit, quod, si ille, cui
@@ -109,9 +109,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e169">
           <head xml:id="cice-l4t1-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t1-d1e174">Si sponsus de futuro ante copulam ad remota se transfert, sponsa libere cum alio
+          <head xml:id="cice-l4t1-d1e174" type="question-title">Si sponsus de futuro ante copulam ad remota se transfert, sponsa libere cum alio
             contrahit: si tamen per eam stetit, quo minus matrimonium perficeretur, sibi poenitentia
-            imponitur.</p>
+            imponitur.</head>
           <p xml:id="cice-l4t1-d1e177">Idem Panormitano Archiepiscopo.</p>
           <p xml:id="cice-l4t1-d1e180">De illis autem, qui praestito iuramento promittunt, se aliquas mulieres ducturos, et
             postea eis incognitis dimittunt terram, se ad partes alias transferentes, hoc tibi
@@ -122,7 +122,7 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e184">
           <head xml:id="cice-l4t1-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t1-d1e189">Non omnis violentia impedit contractum matrimonii. H. d. quoad titulum.</p>
+          <head xml:id="cice-l4t1-d1e189" type="question-title">Non omnis violentia impedit contractum matrimonii. H. d. quoad titulum.</head>
           <p xml:id="cice-l4t1-d1e192">Idem Paduano Episcopo.</p>
           <p xml:id="cice-l4t1-d1e195">De muliere quae est invita tradita viro et detenta, quum inter vim et vim sit
             differentia, et utrum postea consensus intercesserit, certum nobis nihil postea
@@ -131,8 +131,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e199">
           <head xml:id="cice-l4t1-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t1-d1e204">Si aliqui, apti ad matrimonium, contrahunt per verba obscura, communem verborum
-            intellectum sequi tenentur.</p>
+          <head xml:id="cice-l4t1-d1e204" type="question-title">Si aliqui, apti ad matrimonium, contrahunt per verba obscura, communem verborum
+            intellectum sequi tenentur.</head>
           <p xml:id="cice-l4t1-d1e207">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l4t1-d1e210">Ex litteris, quas super causa matrimonii cuiusdam iuvenis R. nomine, et Mariae filiae
             Gileberti de sancto Leodegario transmisisti, sollicitudo nobis innotuit, quam in ipsius
@@ -156,16 +156,16 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e214">
           <head xml:id="cice-l4t1-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l4t1-d1e219">Inter sponsam et consanguineos sponsi oritur impedimentum publicae honestatis,
-            impediens et dirimens matrimonium inter eos contrahendum.</p>
+          <head xml:id="cice-l4t1-d1e219" type="question-title">Inter sponsam et consanguineos sponsi oritur impedimentum publicae honestatis,
+            impediens et dirimens matrimonium inter eos contrahendum.</head>
           <p xml:id="cice-l4t1-d1e222">Idem Vigiliensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e225">Sponsam autem alterius, maxime si est nubili aetati proxima, nullus consanguineorum
             aliquo modo sibi potest matrimonio copulare.</p>
         </div>
         <div xml:id="cice-l4t1-Dd1e229">
           <head xml:id="cice-l4t1-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l4t1-d1e234">Si vir et mulier invicem promittunt, quod ab eo tempore se pro coniugibus habebunt,
-            contractum est matrimonium de praesenti. H. d. et est casus notabilis.</p>
+          <head xml:id="cice-l4t1-d1e234" type="question-title">Si vir et mulier invicem promittunt, quod ab eo tempore se pro coniugibus habebunt,
+            contractum est matrimonium de praesenti. H. d. et est casus notabilis.</head>
           <p xml:id="cice-l4t1-d1e237">Idem Abbatibus sancti Eadmundi et Demer.</p>
           <p xml:id="cice-l4t1-d1e240">Ex parte C. mulieris nobis intimatum est, quod Andreas sibi coram sacerdote quodam et
             diacono, et aliis plerisque tam clericis quam laicis ad hoc convocatis, iuramentum
@@ -188,8 +188,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e244">
           <head xml:id="cice-l4t1-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l4t1-d1e249">Qui iuravit cum aliqua contrahere, si non subest impedimentum, per censuram
-            ecclesiasticam contrahere compellitur.</p>
+          <head xml:id="cice-l4t1-d1e249" type="question-title">Qui iuravit cum aliqua contrahere, si non subest impedimentum, per censuram
+            ecclesiasticam contrahere compellitur.</head>
           <p xml:id="cice-l4t1-d1e252">Idem Pictaviensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e255">Ex literis venerabilis fratri nostri Silvani episcopi accepimus, quod, quum duo nobiles
             viri sui episcopatus, G. scilicet de Monstra et B. de Mauritania filios et filias
@@ -213,8 +213,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e260">
           <head xml:id="cice-l4t1-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l4t1-d1e265">Per censuram ecclesiasticam pater compellitur restituere filio eius uxorem, quam
-            iniuste detinuit vel detinet.</p>
+          <head xml:id="cice-l4t1-d1e265" type="question-title">Per censuram ecclesiasticam pater compellitur restituere filio eius uxorem, quam
+            iniuste detinuit vel detinet.</head>
           <p xml:id="cice-l4t1-d1e268">Idem Archiepiscopis, Episcopis et aliis Praelatis per Angliam constitutis.</p>
           <p xml:id="cice-l4t1-d1e271">Non est vobis, sicut arbitramur, incognitum, qualiter Henricus illustris rex Anglorum
             pro discordia, quae inter ipsum et filios suos peccatis exigentibus est suborta, uxores
@@ -247,8 +247,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e275">
           <head xml:id="cice-l4t1-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l4t1-d1e280">Dictum unius, asserentis impedimentum, impedit matrimonium contrahendum non
-            iuratum.</p>
+          <head xml:id="cice-l4t1-d1e280" type="question-title">Dictum unius, asserentis impedimentum, impedit matrimonium contrahendum non
+            iuratum.</head>
           <p xml:id="cice-l4t1-d1e283">Idem Episcopo sanctae Agathae.</p>
           <p xml:id="cice-l4t1-d1e286">Praeterea de muliere, quae a viro impetitur, cuius consanguineus cum ea se deliquisse
             proponit, sed, hoc publice confiteri recusat propter metum et potentiam mulieris,
@@ -257,10 +257,10 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e290">
           <head xml:id="cice-l4t1-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l4t1-d1e295">Si mulier invita cum aliquo contrahat, nec in eum postea consentiat, tenet matrimonium,
+          <head xml:id="cice-l4t1-d1e295" type="question-title">Si mulier invita cum aliquo contrahat, nec in eum postea consentiat, tenet matrimonium,
             si alteri postea nubit. Ita communiter summatur. Et secundum hunc intellectum esset hic
             casus apertus, quod matrimonium metu contractum esset ipso iure nullum. Hoc tamen clare
-            non colligitur ex litera.</p>
+            non colligitur ex litera.</head>
           <p xml:id="cice-l4t1-d1e298">Idem Procuratori et Canonicis Soranis.</p>
           <p xml:id="cice-l4t1-d1e301">Veniens ad apostolicam sedem Mariota latrix praesentium supplici nobis insinuatione
             monstravit, quod, dum esset in adolescentia constituta, quendam adolescentem [E. nomine]
@@ -290,9 +290,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e305">
           <head xml:id="cice-l4t1-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l4t1-d1e310">Si timetur inferri violentia puellae, de cuius matrimonio agitur, debet iudex sibi
+          <head xml:id="cice-l4t1-d1e310" type="question-title">Si timetur inferri violentia puellae, de cuius matrimonio agitur, debet iudex sibi
             providere locum tutum et honestum, donec causa terminetur. H. d. et est textus multum
-            allegabilis.</p>
+            allegabilis.</head>
           <p xml:id="cice-l4t1-d1e313">Idem Papiensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e316">Quum locum non habeat consensus, ubi metus vel coactio intercedit, necesse est, ut, ubi
             assensus cuiusquam requiritur, coactionis materia repellatur. Matrimonium autem solo
@@ -307,9 +307,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e320">
           <head xml:id="cice-l4t1-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l4t1-d1e325">Sponsalia de futuro, si secuta est copula, non solvuntur per sponsalia de praesenti;
+          <head xml:id="cice-l4t1-d1e325" type="question-title">Sponsalia de futuro, si secuta est copula, non solvuntur per sponsalia de praesenti;
             alias tenent sponsalia de praesenti, nisi per metum, qui potuisset cadere in constantem
-            virum, contracta sint.</p>
+            virum, contracta sint.</head>
           <p xml:id="cice-l4t1-d1e328">Idem.</p>
           <p xml:id="cice-l4t1-d1e331">Veniens ad nos G. lator praesentium sua nobis relatione monstravit, quod in domo sua
             mulierem quandam recepit, de qua prolem habuit, et cui fidem coram pluribus praestitit,
@@ -324,8 +324,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e335">
           <head xml:id="cice-l4t1-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l4t1-d1e340">Qui iuravit cum aliqua contrahere, si vult religionem ingredi, debet primo contrahere,
-            ut iuramentum servetur, et ante copulam carnalem monasterium ingredi poterit.</p>
+          <head xml:id="cice-l4t1-d1e340" type="question-title">Qui iuravit cum aliqua contrahere, si vult religionem ingredi, debet primo contrahere,
+            ut iuramentum servetur, et ante copulam carnalem monasterium ingredi poterit.</head>
           <p xml:id="cice-l4t1-d1e343">Idem Exonensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e346">Commissum (Et infra:) Significavit nobis fraternitas tua, quod quidam literatus et
             nobilis, quum ad eum paterna hereditas devolveretur, cuidam mulieri nobili de
@@ -343,8 +343,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e351">
           <head xml:id="cice-l4t1-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l4t1-d1e356">Qui iuravit cum aliqua contrahere, moneri potius debet, quam compelli, ut contrahat. H.
-            d. inhaerendo literae.</p>
+          <head xml:id="cice-l4t1-d1e356" type="question-title">Qui iuravit cum aliqua contrahere, moneri potius debet, quam compelli, ut contrahat. H.
+            d. inhaerendo literae.</head>
           <p xml:id="cice-l4t1-d1e359">Lucius III. Rapalensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e362">Requisivit a nobis tua fraternitas, qua censura mulier compelli debeat, quae,
             iurisiurandi religione neglecta, nubere renuit cui se nupturam interposito iuramento
@@ -358,8 +358,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e366">
           <head xml:id="cice-l4t1-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l4t1-d1e371">Litispendentia super matrimonio non impedit secundum matrimonium contrahi, si primum
-            erat nullum.</p>
+          <head xml:id="cice-l4t1-d1e371" type="question-title">Litispendentia super matrimonio non impedit secundum matrimonium contrahi, si primum
+            erat nullum.</head>
           <p xml:id="cice-l4t1-d1e374">Urbanus III.</p>
           <p xml:id="cice-l4t1-d1e377">Quum in apostolica sede, cui licet immeriti praesidemus, magisterium resideat totius
             ecclesiasticae disciplinae, dignum est et consonum rationi, ut, quoties circa negotium
@@ -380,8 +380,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e381">
           <head xml:id="cice-l4t1-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l4t1-d1e386">Uxor, non certificata de morte viri, contrahere non potest, quamvis ignoret, quid sit
-            de marito, qui longo tempore abfuit.</p>
+          <head xml:id="cice-l4t1-d1e386" type="question-title">Uxor, non certificata de morte viri, contrahere non potest, quamvis ignoret, quid sit
+            de marito, qui longo tempore abfuit.</head>
           <p xml:id="cice-l4t1-d1e389">Clemens III. Caesaraugustensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e392">In praesentia nostra positus a nobis quaesivisti, quid agendum tibi sit de quibusdam
             mulieribus in tua dioecesi constitutis, quae, quum viros suos causa captivitatis vel
@@ -396,8 +396,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e396">
           <head xml:id="cice-l4t1-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l4t1-d1e401">Contractus matrimonii cum peccatrice, volente se corrigere, proficit ad remissionem
-            peccatorum.</p>
+          <head xml:id="cice-l4t1-d1e401" type="question-title">Contractus matrimonii cum peccatrice, volente se corrigere, proficit ad remissionem
+            peccatorum.</head>
           <p xml:id="cice-l4t1-d1e404">Idem.</p>
           <p xml:id="cice-l4t1-d1e407">Inter opera caritatis, quae imitanda nobis auctoritate sacrae paginae proponuntur,
             sicut evangelica testatur auctoritas, non minimum est, errantem ab erroris sui semita
@@ -410,8 +410,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e411">
           <head xml:id="cice-l4t1-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l4t1-d1e416">Matrimonium, per vim contractum, cohabitatione spontanea convalescit. H. d. et quotidie
-            allegatur.</p>
+          <head xml:id="cice-l4t1-d1e416" type="question-title">Matrimonium, per vim contractum, cohabitatione spontanea convalescit. H. d. et quotidie
+            allegatur.</head>
           <p xml:id="cice-l4t1-d1e419">Idem.</p>
           <p xml:id="cice-l4t1-d1e422">Ad id, quod per tuas literas nobis intimasti de quadam parochiana tua, quam suus
             vitricus cuidam Teutonico matrimonialiter copulavit, taliter respondemus, quod, quamvis
@@ -427,8 +427,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e426">
           <head xml:id="cice-l4t1-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l4t1-d1e431">Sponsalia de futuro, etiam iurata, solvuntur per secunda sponsalia de praesenti, non
-            autem per secunda de futuro.</p>
+          <head xml:id="cice-l4t1-d1e431" type="question-title">Sponsalia de futuro, etiam iurata, solvuntur per secunda sponsalia de praesenti, non
+            autem per secunda de futuro.</head>
           <p xml:id="cice-l4t1-d1e434">Innocentius III. Fernatino Episcopo.</p>
           <p xml:id="cice-l4t1-d1e437">Sicut ex literis tuae fraternitatis accepimus, quum L. parochianus tuus P. mulierem se
             ducturum in coniugem, in manus patris eiusdem P. iurantis, quod eam sibi traderet in
@@ -454,7 +454,7 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e442">
           <head xml:id="cice-l4t1-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l4t1-d1e447">Mutus et surdus, et omnes, qui non prohibentur, matrimonium contrahere possunt.</p>
+          <head xml:id="cice-l4t1-d1e447" type="question-title">Mutus et surdus, et omnes, qui non prohibentur, matrimonium contrahere possunt.</head>
           <p xml:id="cice-l4t1-d1e450">Idem Arelatensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e453">Quum apud sedem apostolicam, cui, licet immeriti, praesidemus, totius ecclesiasticae
             disciplinae resideat magistratus, dignum et consonum est rationi, ut, quoties circa
@@ -470,7 +470,7 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e457">
           <head xml:id="cice-l4t1-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l4t1-d1e462">Furiosus matrimonium contrahere non potest.</p>
+          <head xml:id="cice-l4t1-d1e462" type="question-title">Furiosus matrimonium contrahere non potest.</head>
           <p xml:id="cice-l4t1-d1e465">Idem Vercellensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e468">Dilectus filius R. miles Alexandrinus proposuit coram nobis, quod Rufinam filiam suam
             cuidam Opizoni Lancaveclae matrimonialiter copulavit, ignorans, quod Opizo esset
@@ -484,9 +484,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e472">
           <head xml:id="cice-l4t1-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l4t1-d1e477">Solo consensu legitimo contrahitur matrimonium, sed verba requiruntur quoad
+          <head xml:id="cice-l4t1-d1e477" type="question-title">Solo consensu legitimo contrahitur matrimonium, sed verba requiruntur quoad
             probationem, et intellige: vel alia signa aequipollentia. H. d. secundum intellectum,
-            quem tenet Panormitanus.</p>
+            quem tenet Panormitanus.</head>
           <p xml:id="cice-l4t1-d1e480">Idem Brixiensi Episcopo.</p>
           <p xml:id="cice-l4t1-d1e483">Tuae fraternitati (Et infra: [cf. c. 10. de eo, qui cogn. IV. 13.]) Postulasti insuper
             edoceri, utrum ex solis verbis, et ex quibus matrimonium contrahatur, quum ab aliquibus
@@ -499,9 +499,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e487">
           <head xml:id="cice-l4t1-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l4t1-d1e492">Si alter contrahentium utitur verbis dubiis, animo decipiendi mulierem, et eam
+          <head xml:id="cice-l4t1-d1e492" type="question-title">Si alter contrahentium utitur verbis dubiis, animo decipiendi mulierem, et eam
             postmodum cognoscit carnaliter, iudicatur pro matrimonio in foro iudiciali; secus in
-            poenitentiali. H. d. secundum verum et communem intellectum.</p>
+            poenitentiali. H. d. secundum verum et communem intellectum.</head>
           <p xml:id="cice-l4t1-d1e495">Idem.</p>
           <p xml:id="cice-l4t1-d1e498">Tua nos duxit fraternitas consulendos (Et infra: [cf. c. 7. de cons. et aff. IV. 14.])
             Consequenter autem quaesivisti, [ut] quum quandam mulierem quidam aliter inducere
@@ -527,8 +527,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e502">
           <head xml:id="cice-l4t1-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l4t1-d1e507">Ad denunciationem unius honesti viri, qui defert consanguinitatem, et de fama vel
-            scandalo docet, impeditur matrimonium contrahendum.</p>
+          <head xml:id="cice-l4t1-d1e507" type="question-title">Ad denunciationem unius honesti viri, qui defert consanguinitatem, et de fama vel
+            scandalo docet, impeditur matrimonium contrahendum.</head>
           <p xml:id="cice-l4t1-d1e510">Idem Episcopo Belvacensi.</p>
           <p xml:id="cice-l4t1-d1e513">Quum in tua dioecesi (Et infra: [cf. c. 36. de decim. III. 30.]) Sane, quia contingit
             interdum, quod, aliquibus volentibus matrimonium contrahere, bannis, ut tuis verbis
@@ -549,9 +549,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e517">
           <head xml:id="cice-l4t1-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l4t1-d1e522">Mulieri, quae negat, se in matrimonium consensisse, non creditur marito probante
+          <head xml:id="cice-l4t1-d1e522" type="question-title">Mulieri, quae negat, se in matrimonium consensisse, non creditur marito probante
             contrarium; secus, si probat, se consensisse per metum, qui potest cadere in constantem
-            virum.</p>
+            virum.</head>
           <p xml:id="cice-l4t1-d1e525">Honorius III. Episcopo Berguensi.</p>
           <p xml:id="cice-l4t1-d1e528">Consultationi tuae breviter respondemus, quod mulieres, quae de more veniunt ad valvas
             ecclesiae benedicendae cum sponsis, et ibi reclamantes affirmant, se nunquam in eorum
@@ -565,8 +565,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e533">
           <head xml:id="cice-l4t1-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l4t1-d1e538">In matrimoniis et sponsalibus debet esse libertas, unde in eis promissio poenae non
-            obligat.</p>
+          <head xml:id="cice-l4t1-d1e538" type="question-title">In matrimoniis et sponsalibus debet esse libertas, unde in eis promissio poenae non
+            obligat.</head>
           <p xml:id="cice-l4t1-d1e541">Gregorius IX.</p>
           <p xml:id="cice-l4t1-d1e544">Gemma mulier nobis exposuit, quod, quum T. filia eius cum C. contraxit matrimonium, B.
             de Alferio ea occasione, quod inter P. filium suum et praedictam puellam infra
@@ -578,8 +578,8 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e548">
           <head xml:id="cice-l4t1-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l4t1-d1e553">Sponsalia de futuro transeunt in matrimonium per carnalem copulam subsecutam, sed non
-            per nisum carnalis copulae tantum. H. d. cum c. fin. infra eodem.</p>
+          <head xml:id="cice-l4t1-d1e553" type="question-title">Sponsalia de futuro transeunt in matrimonium per carnalem copulam subsecutam, sed non
+            per nisum carnalis copulae tantum. H. d. cum c. fin. infra eodem.</head>
           <p xml:id="cice-l4t1-d1e556">Idem Episcopo Cenomanensi.</p>
           <p xml:id="cice-l4t1-d1e559">Is, qui fidem dedit M. mulieri super matrimonio contrahendo, carnali copula subsecuta,
             etsi in facie ecclesiae ducat aliam et cognoscat, ad primam redire tenetur, quia, licet
@@ -589,9 +589,9 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e563">
           <head xml:id="cice-l4t1-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l4t1-d1e568">Sponsalia de praesenti non solvuntur per sequens matrimonium, etiam carnali copula
+          <head xml:id="cice-l4t1-d1e568" type="question-title">Sponsalia de praesenti non solvuntur per sequens matrimonium, etiam carnali copula
             consummatum; sed sponsalia de futuro etiam iurata solvuntur per sequentia de
-            praesenti.</p>
+            praesenti.</head>
           <p xml:id="cice-l4t1-d1e571">Idem.</p>
           <p xml:id="cice-l4t1-d1e574">Si inter virum et mulierem legitimus consensus interveniat de praesenti ita, quod unus
             alterum mutuo consensu, verbis consuetis expresso, recipiat, utroque dicenti: “ego te in
@@ -607,7 +607,7 @@
         </div>
         <div xml:id="cice-l4t1-Dd1e578">
           <head xml:id="cice-l4t1-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l4t1-d1e583">Nisus ad copulam non facit sponsalia de futuro transire in matrimonium.</p>
+          <head xml:id="cice-l4t1-d1e583" type="question-title">Nisus ad copulam non facit sponsalia de futuro transire in matrimonium.</head>
           <p xml:id="cice-l4t1-d1e586">Idem.</p>
           <p xml:id="cice-l4t1-d1e589">Adolescens, qui desponsatam sibi per verba de futuro, licet saepe nisus fuerit,
             carnaliter non cognoscens, cum alia postmodum per verba de praesenti contraxit, non

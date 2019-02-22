@@ -57,14 +57,14 @@
 
         <div xml:id="cice-l5t37-Dd1e108">
           <head xml:id="cice-l5t37-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t37-d1e113">Toties puniendus est criminosus, quoties delictum iterat.</p>
+          <head xml:id="cice-l5t37-d1e113" type="question-title">Toties puniendus est criminosus, quoties delictum iterat.</head>
           <p xml:id="cice-l5t37-d1e116">Ex concilio Toletano.</p>
           <p xml:id="cice-l5t37-d1e119">Ea, quae frequenti praevaricatione iterantur, frequenti sententia condemnentur.</p>
         </div>
         <div xml:id="cice-l5t37-Dd1e123">
           <head xml:id="cice-l5t37-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t37-d1e128">Interficiens presbyterum puniendus est, et poenae pars ecclesiae, cui praefuit, alia
-            pars pro eius anima distribuitur.</p>
+          <head xml:id="cice-l5t37-d1e128" type="question-title">Interficiens presbyterum puniendus est, et poenae pars ecclesiae, cui praefuit, alia
+            pars pro eius anima distribuitur.</head>
           <p xml:id="cice-l5t37-d1e131">Ex concilio Triburiensi.</p>
           <p xml:id="cice-l5t37-d1e134">Presbyteri interfecti compositio episcopo, ad cuius parochiam pertinet, solvatur, ita
             videlicet, ut medietatem werigeldi episcopus eius utilitatibus ecclesiae, cui praefuit,
@@ -73,8 +73,8 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e138">
           <head xml:id="cice-l5t37-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t37-d1e143">Non debent praelati pro criminosis sustinendis pecuniam exigere, nec etiam correctionis
-            causa ex cupiditate poenam pecuniariam imponere.</p>
+          <head xml:id="cice-l5t37-d1e143" type="question-title">Non debent praelati pro criminosis sustinendis pecuniam exigere, nec etiam correctionis
+            causa ex cupiditate poenam pecuniariam imponere.</head>
           <p xml:id="cice-l5t37-d1e146">Alexander III. Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l5t37-d1e149">Licet iuxta Apostolum †arguere, obsecrare et increpare debeamus, sic tamen debemus
             excessus corrigere singulorum, ut probemur, non quae nostra sunt, sed quae Iesu Christi
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e153">
           <head xml:id="cice-l5t37-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t37-d1e158">Victus condemnatur victori praesenti in expensis, etiam in causis pecuniariis, et unum
-            casum excipit.</p>
+          <head xml:id="cice-l5t37-d1e158" type="question-title">Victus condemnatur victori praesenti in expensis, etiam in causis pecuniariis, et unum
+            casum excipit.</head>
           <p xml:id="cice-l5t37-d1e161">Idem in concilio Turonensi.</p>
           <p xml:id="cice-l5t37-d1e164">Calumniam et audaciam temere litigantium condemnando in expensis, et alio multiplici
             remedio sanctio imperialis compescit. Quoniam igitur sacris institutis consonare
@@ -106,7 +106,7 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e169">
           <head xml:id="cice-l5t37-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t37-d1e174">Clericus, causam seu operam praebens bello, deponendus est.</p>
+          <head xml:id="cice-l5t37-d1e174" type="question-title">Clericus, causam seu operam praebens bello, deponendus est.</head>
           <p xml:id="cice-l5t37-d1e177">Innocentius III. Midrosiensi Archiepiscopo.</p>
           <p xml:id="cice-l5t37-d1e180">Quod in dubiis (Et infra: [cf. c. 30. de sent. exc. V. 39.]) Quia vero tam sacerdotes,
             qui gubernant naves ad pugnam, quam qui personaliter exercent pugnae conflictum, et hi,
@@ -116,8 +116,8 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e184">
           <head xml:id="cice-l5t37-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t37-d1e189">Clericus pro magno scelere ab eo commisso deponi debet, et in monasterio detrudi ad
-            agendam poenitentiam.</p>
+          <head xml:id="cice-l5t37-d1e189" type="question-title">Clericus pro magno scelere ab eo commisso deponi debet, et in monasterio detrudi ad
+            agendam poenitentiam.</head>
           <p xml:id="cice-l5t37-d1e192">Idem Londonensi Episcopo.</p>
           <p xml:id="cice-l5t37-d1e195">Tuae discretionis prudentiam (Et infra:) Ad illud praeterea, quod a nobis tertio
             requisisti, qualiter clerici in latrociniis vel aliis magnis sceleribus deprehensi
@@ -127,8 +127,8 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e199">
           <head xml:id="cice-l5t37-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t37-d1e204">Si uterque contrahentium venit contra contractum: uterque potest exigere poenam,
-            adinvicem promissam ex conventione.</p>
+          <head xml:id="cice-l5t37-d1e204" type="question-title">Si uterque contrahentium venit contra contractum: uterque potest exigere poenam,
+            adinvicem promissam ex conventione.</head>
           <p xml:id="cice-l5t37-d1e207">Idem Abbati et Fratribus Cryptae ferratae.</p>
           <p xml:id="cice-l5t37-d1e210">Constitutus in praesentia nostra (Et infra: [cf. c. 6. de rel. dom. III. 36.]) Licet
             autem in instrumento concessionis praedicti episcopi Lavitani expressa fuerit certa
@@ -139,7 +139,7 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e214">
           <head xml:id="cice-l5t37-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t37-d1e219">Si testis propter vacillationem incarceratur, infamiam non incurrit.</p>
+          <head xml:id="cice-l5t37-d1e219" type="question-title">Si testis propter vacillationem incarceratur, infamiam non incurrit.</head>
           <p xml:id="cice-l5t37-d1e222">Idem Priori S. Fridiani et Magistro B. Canonico Pisano.</p>
           <p xml:id="cice-l5t37-d1e225">Super his, de quibus nos consulere voluistis (Et infra: [cf. c. 16. de acc. V. 1.]) [Ad
             hoc nosse vos volumus, quod super negotio, pro quo vestras nobis literas destinastis, in
@@ -150,8 +150,8 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e229">
           <head xml:id="cice-l5t37-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t37-d1e234">Obligatus ad certam quantitatem, certa die sub poena solvendam, si partem infra
-            terminum solvit, ad poenam integram non tenetur.</p>
+          <head xml:id="cice-l5t37-d1e234" type="question-title">Obligatus ad certam quantitatem, certa die sub poena solvendam, si partem infra
+            terminum solvit, ad poenam integram non tenetur.</head>
           <p xml:id="cice-l5t37-d1e237">Idem Spoletano Episcopo.</p>
           <p xml:id="cice-l5t37-d1e240">Suam ad nos G. et A. rectores clericorum plebatus sancti Fortunati querimoniam
             transmiserunt, quod, quum tibi essent in XL. libris per quoddam arbitrium condemnati,
@@ -169,10 +169,10 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e244">
           <head xml:id="cice-l5t37-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t37-d1e249">Occidentes praelatum privantur beneficiis et feudis, quae habent ab ecclesia, cui
+          <head xml:id="cice-l5t37-d1e249" type="question-title">Occidentes praelatum privantur beneficiis et feudis, quae habent ab ecclesia, cui
             praeerat praelatus ille, nec eis vel heredibus restituentur, nec alia de novo concedi
             debent. Et hodie in occidente, capiente vel banniente episcopum auctae sunt similes
-            poenae, de quibus in Clem. Si quis suadente eod. tit.</p>
+            poenae, de quibus in Clem. Si quis suadente eod. tit.</head>
           <p xml:id="cice-l5t37-d1e252">Idem.</p>
           <p xml:id="cice-l5t37-d1e255">Ad aures nostri apostolatus pervenit, quod, quum quidam parochiani tui ausu diabolico
             bonae memoriae I. quondam Vincentinum episcopum praedecessorem tuum nequiter
@@ -186,7 +186,7 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e260">
           <head xml:id="cice-l5t37-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t37-d1e265">Prorumpens contra iudicem, arbitrio superioris punitur.</p>
+          <head xml:id="cice-l5t37-d1e265" type="question-title">Prorumpens contra iudicem, arbitrio superioris punitur.</head>
           <p xml:id="cice-l5t37-d1e268">Idem.</p>
           <p xml:id="cice-l5t37-d1e271">Dilectus filius Iacobus, electus sancti P. ad Montes, ad apostolicam sedem accedens,
             gravem querelam contra dilectos filios Molismensem abbatem et I. archidiaconum
@@ -222,11 +222,11 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e275">
           <head xml:id="cice-l5t37-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t37-d1e280">Patroni, advocati vel vicedomini, vendicantes sibi in ecclesiis plus quam iura
+          <head xml:id="cice-l5t37-d1e280" type="question-title">Patroni, advocati vel vicedomini, vendicantes sibi in ecclesiis plus quam iura
             permittant, per censuram ecclesiasticam compescuntur, et, si occidunt praelatum vel
             clericum ecclesiae per se vel per alios, perdunt quod habent ab ecclesia, et eorum
             posteri usque ad quartam generationem non admittuntur ad clerum, nec in religionibus
-            praeficiuntur.</p>
+            praeficiuntur.</head>
           <p xml:id="cice-l5t37-d1e283">Idem in concilio generali.</p>
           <p xml:id="cice-l5t37-d1e286">In quibusdam provinciis ecclesiarum patroni et advocati seu vicedomini se in tantam
             insolentiam erexerunt, quod non solum, quum vacantibus debet ecclesiis de pastoribus
@@ -249,8 +249,8 @@
         </div>
         <div xml:id="cice-l5t37-Dd1e290">
           <head xml:id="cice-l5t37-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t37-d1e295">Domino excommunicato manente, subditi fidelitatem non debent, et, si longo tempore in
-            ea perstiterit et monitus non paruerit ecclesiae, ab eius debito absolvuntur.</p>
+          <head xml:id="cice-l5t37-d1e295" type="question-title">Domino excommunicato manente, subditi fidelitatem non debent, et, si longo tempore in
+            ea perstiterit et monitus non paruerit ecclesiae, ab eius debito absolvuntur.</head>
           <p xml:id="cice-l5t37-d1e298">Honorius III. Praeposito, Archidiacono et H. Canonico Suessionensibus.</p>
           <p xml:id="cice-l5t37-d1e301">Gravem dilectorum filiorum capituli Lund. recepimus quaestionem, quod, quum nobilis vir
             comes Registrensis pro multis iniuriis, quas irrogarat eisdem, per iudices a sede

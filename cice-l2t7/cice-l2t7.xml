@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t7-Dd1e108">
           <head xml:id="cice-l2t7-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t7-d1e113">Clericus in causa ecclesiae suae iuramentum calumniae potest alteri committere, et per
-            se iurare non cogitur, nec debet sine superioris licentia.</p>
+          <head xml:id="cice-l2t7-d1e113" type="question-title">Clericus in causa ecclesiae suae iuramentum calumniae potest alteri committere, et per
+            se iurare non cogitur, nec debet sine superioris licentia.</head>
           <p xml:id="cice-l2t7-d1e116">Honorius III.</p>
           <p xml:id="cice-l2t7-d1e119">Inhaerentes vestigiis praedecessorum nostrorum, dicentium, graviores quaestiones per
             summum Pontificem terminari, †nostrorum fratrum consilio diligenter inquisito, huius
@@ -93,7 +93,7 @@
         </div>
         <div xml:id="cice-l2t7-Dd1e123">
           <head xml:id="cice-l2t7-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t7-d1e128">In spiritualibus causis de calumnia non iuratur.</p>
+          <head xml:id="cice-l2t7-d1e128" type="question-title">In spiritualibus causis de calumnia non iuratur.</head>
           <p xml:id="cice-l2t7-d1e131">Idem Ordinatori Romanae ecclesiae Subdiacono et Magistro Omnibono.</p>
           <p xml:id="cice-l2t7-d1e134">Literas †benignitatis vestrae benigne recepimus, in quibus, utrum in causa, quae inter
             venerabilem fratrem nostrum G. Bononiensem episcopum, et dilectum filium nostrum
@@ -107,9 +107,9 @@
         </div>
         <div xml:id="cice-l2t7-Dd1e138">
           <head xml:id="cice-l2t7-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t7-d1e143">Principalis persona non indistincte relevatur ab onere iurandi de calumnia, licet
+          <head xml:id="cice-l2t7-d1e143" type="question-title">Principalis persona non indistincte relevatur ab onere iurandi de calumnia, licet
             compareat per oeconomum; sed sibi vel oeconomo est deferendum, inspecta qualitate causae
-            et personarum. H. d.</p>
+            et personarum. H. d.</head>
           <p xml:id="cice-l2t7-d1e146">Eugenius Papa.</p>
           <p xml:id="cice-l2t7-d1e149">In pertractandis causis sacramentum calumniae non passim praecipimus exhiberi, sed quum
             fieri sinimus et causae et principalium personarum qualitate diligenter inspecta,
@@ -125,7 +125,7 @@
         </div>
         <div xml:id="cice-l2t7-Dd1e153">
           <head xml:id="cice-l2t7-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t7-d1e158">Universitas tenetur iurare de calumnia, nisi relevet se constituendo oeconomum.</p>
+          <head xml:id="cice-l2t7-d1e158" type="question-title">Universitas tenetur iurare de calumnia, nisi relevet se constituendo oeconomum.</head>
           <p xml:id="cice-l2t7-d1e161">Idem Magalonensi et R. Neumausensi Episcopis.</p>
           <p xml:id="cice-l2t7-d1e164">Imperatorum †saecularium leges et sanctorum Patrum ecclesiasticae constitutiones viros
             religiosos in omnipotentis Dei servitio protegunt et defendunt, et nullam eis molestiam
@@ -145,8 +145,8 @@
         </div>
         <div xml:id="cice-l2t7-Dd1e169">
           <head xml:id="cice-l2t7-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t7-d1e174">Clerici etiam in eorum causis iurant de calumnia, contraria consuetudine non
-            obstante.</p>
+          <head xml:id="cice-l2t7-d1e174" type="question-title">Clerici etiam in eorum causis iurant de calumnia, contraria consuetudine non
+            obstante.</head>
           <p xml:id="cice-l2t7-d1e177">Lucius III. Heliensi Episcopo et Archidiacono Norvicensi.</p>
           <p xml:id="cice-l2t7-d1e180">Ceterum, quia novis morbis nova convenit antidota praeparari, volumus et mandamus,
             quatenus in causa fideiussionis, quae inter R. clericum de sancto Albano, et I. et F.
@@ -156,8 +156,8 @@
         </div>
         <div xml:id="cice-l2t7-Dd1e184">
           <head xml:id="cice-l2t7-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t7-d1e189">Procurator vel syndicus universitatis ecclesiasticae vel saecularis de calumnia iurare
-            potest. H. d.</p>
+          <head xml:id="cice-l2t7-d1e189" type="question-title">Procurator vel syndicus universitatis ecclesiasticae vel saecularis de calumnia iurare
+            potest. H. d.</head>
           <p xml:id="cice-l2t7-d1e192">Innocentius III. Episcopo Placentino.</p>
           <p xml:id="cice-l2t7-d1e195">Quum causam, quae inter venerabilem fratrem nostrum Ravennatensem archiepiscopum et
             commune Faventinum super villa Luci ac quibusdam aliis vertitur, delegatis iudicibus
@@ -173,10 +173,10 @@
         </div>
         <div xml:id="cice-l2t7-Dd1e199">
           <head xml:id="cice-l2t7-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t7-d1e204">Episcopus iurat de calumnia, si per se ipsum elegit litigare, propositis tantum, non
+          <head xml:id="cice-l2t7-d1e204" type="question-title">Episcopus iurat de calumnia, si per se ipsum elegit litigare, propositis tantum, non
             tactis evangeliis. Si vero per syndicum litigat, per illum poterit iurare. H. d. – §. 1.
             Actor refutando iuramentum calumniae sine causa, cadere debet ab instituta actione; reus
-            autem debet haberi pro confesso. Hoc dicit.</p>
+            autem debet haberi pro confesso. Hoc dicit.</head>
           <p xml:id="cice-l2t7-d1e207">Gregorius IX. Episcopo Belvacensi.</p>
           <p xml:id="cice-l2t7-d1e210">Quum in causa pecuniaria, quam inter te et R. motam esse proponis, non per te, sed per
             syndicum vel actorem elegeris litigare, per illum quidem praestandum erit calumniae

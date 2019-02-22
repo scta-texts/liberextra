@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l4t21-Dd1e108">
           <head xml:id="cice-l4t21-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t21-d1e113">Secundae nuptiae non benedicuntur, et benedicens puniendus est.</p>
+          <head xml:id="cice-l4t21-d1e113" type="question-title">Secundae nuptiae non benedicuntur, et benedicens puniendus est.</head>
           <p xml:id="cice-l4t21-d1e116">Alexander III.</p>
           <p xml:id="cice-l4t21-d1e119">Capellanum nihilominus, quem benedictionem cum secunda tibi constiterit celebrasse, ab
             officio beneficioque suspensum cum literarum tuarum testimonio appellatione cessante ad
@@ -65,9 +65,9 @@
         </div>
         <div xml:id="cice-l4t21-Dd1e123">
           <head xml:id="cice-l4t21-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t21-d1e128">Dubitans de morte coniugis, nisi prius certificetur, contrahere non debet, et, si
+          <head xml:id="cice-l4t21-d1e128" type="question-title">Dubitans de morte coniugis, nisi prius certificetur, contrahere non debet, et, si
             contraxit, reddat, sed non exigat debitum. Et si postmodum sciat primam vivere, dimittat
-            secundam. Abbas Siculus.</p>
+            secundam. Abbas Siculus.</head>
           <p xml:id="cice-l4t21-d1e131">Lucius III. universis Christianis in captivitate Sarracenorum positis.</p>
           <p xml:id="cice-l4t21-d1e134">Dominus ac redemptor noster (Et infra:) Sane, super matrimoniis, quae quidam ex vobis
             nondum habita obeuntis coniugis certitudine contraxerunt, id vobis auctoritate
@@ -81,15 +81,15 @@
         </div>
         <div xml:id="cice-l4t21-Dd1e138">
           <head xml:id="cice-l4t21-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t21-d1e143">Si unus ex coniugibus fuit alias benedictus, non debent coniuges de novo benedici.</p>
+          <head xml:id="cice-l4t21-d1e143" type="question-title">Si unus ex coniugibus fuit alias benedictus, non debent coniuges de novo benedici.</head>
           <p xml:id="cice-l4t21-d1e146">Urbanus III. Vigiliensi Episcopo.</p>
           <p xml:id="cice-l4t21-d1e149">Vir autem vel mulier, ad bigamiam transiens, non debet a presbytero benedici, quia,
             quum alia vice benedicti sint, eorum benedictio iterari non debet.</p>
         </div>
         <div xml:id="cice-l4t21-Dd1e153">
           <head xml:id="cice-l4t21-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t21-d1e158">Mulier, nubens infra annum lugubrem, infamiam non incurrit. H. d. cum sequenti Abbas
-            Siculus.</p>
+          <head xml:id="cice-l4t21-d1e158" type="question-title">Mulier, nubens infra annum lugubrem, infamiam non incurrit. H. d. cum sequenti Abbas
+            Siculus.</head>
           <p xml:id="cice-l4t21-d1e161">Idem Exonensi Episcopo.</p>
           <p xml:id="cice-l4t21-d1e164">Super illa vero quaestione, qua quaesitum est, an scilicet mulier possit sine infamia
             nubere infra tempus luctus secundum leges diffinitum, sollicitudini tuae respondemus,
@@ -99,7 +99,7 @@
         </div>
         <div xml:id="cice-l4t21-Dd1e169">
           <head xml:id="cice-l4t21-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t21-d1e174">Summatur ut praecedens.</p>
+          <head xml:id="cice-l4t21-d1e174" type="question-title">Summatur ut praecedens.</head>
           <p xml:id="cice-l4t21-d1e177">Innocentius III. P. nobili mulieri.</p>
           <p xml:id="cice-l4t21-d1e180">Quum secundum Apostolum mulier, mortuo viro suo, ab eius sit lege soluta, et nubendi
             cui vult, tantum in Domino, liberam habeat facultatem: non debet legalis infamiae

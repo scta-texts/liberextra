@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t49-Dd1e108">
           <head xml:id="cice-l3t49-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t49-d1e113">In domibus ecclesiarum non debet iudex laicus iudicare, nec hospitium quaerere.</p>
+          <head xml:id="cice-l3t49-d1e113" type="question-title">In domibus ecclesiarum non debet iudex laicus iudicare, nec hospitium quaerere.</head>
           <p xml:id="cice-l3t49-d1e116">Ex synodo Ioannis Papae.</p>
           <p xml:id="cice-l3t49-d1e119">Ut in domibus ecclesiarum neque missus, neque comes vel iudex publicus, vel minister
             quasi pro consuetudine placitum vel hospitium vindicent, sed in publicis locis domos
@@ -66,8 +66,8 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e123">
           <head xml:id="cice-l3t49-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t49-d1e128">Tempore magnae necessitatis non debet aliquis excusari a murorum seu civitatis custodia
-            H. d. secundum intellctum Panorm.</p>
+          <head xml:id="cice-l3t49-d1e128" type="question-title">Tempore magnae necessitatis non debet aliquis excusari a murorum seu civitatis custodia
+            H. d. secundum intellctum Panorm.</head>
           <p xml:id="cice-l3t49-d1e131">Gregorius Archiepiscopo Tricensi.</p>
           <p xml:id="cice-l3t49-d1e134">Pervenit (Et infra:) Fraternitas tua nullum neque per nostrae vel ecclesiae suae nomen
             aut quolibet alio modo excusari a murorum vigiliis patiatur; sed omnes ad hoc
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e138">
           <head xml:id="cice-l3t49-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t49-d1e143">Rusticus, adstrictus ad culturam agrorum ecclesiae, non potest illam deserere H. d.
-            summando generaliter.</p>
+          <head xml:id="cice-l3t49-d1e143" type="question-title">Rusticus, adstrictus ad culturam agrorum ecclesiae, non potest illam deserere H. d.
+            summando generaliter.</head>
           <p xml:id="cice-l3t49-d1e146">Idem Vitali Defensori Sardiniae.</p>
           <p xml:id="cice-l3t49-d1e149">Indicatum est (Et infra:) Dictum est nobis etiam, quod rustici [possessionis] eiusdem
             [Caralitanae] ecclesiae, rura eius deserentes, in privatorum possessionibus culturam
@@ -87,9 +87,9 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e153">
           <head xml:id="cice-l3t49-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t49-d1e158">Laici, collectas imponentes clericis vel ecclesiis, seu iurisdictionem eorum
+          <head xml:id="cice-l3t49-d1e158" type="question-title">Laici, collectas imponentes clericis vel ecclesiis, seu iurisdictionem eorum
             usurpantes, si moniti non desistunt, sunt excommunicati cum suis fautoribus; potest
-            tamen episcopus cum clero eis in necessitate praebere subsidia.</p>
+            tamen episcopus cum clero eis in necessitate praebere subsidia.</head>
           <p xml:id="cice-l3t49-d1e161">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t49-d1e164">Non minus †pro peccato eorum, qui faciunt, quam pro illorum detrimento, qui sustinent,
             grave nimis esse dignoscitur, quod In diversis mundi partibus consules civitatum et
@@ -117,7 +117,7 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e169">
           <head xml:id="cice-l3t49-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t49-d1e174">Causae sanguinis in ecclesia vel coemiteriis agitari non debent.</p>
+          <head xml:id="cice-l3t49-d1e174" type="question-title">Causae sanguinis in ecclesia vel coemiteriis agitari non debent.</head>
           <p xml:id="cice-l3t49-d1e177">Lucius III.</p>
           <p xml:id="cice-l3t49-d1e180">Quum ecclesia Dei secundum evangelicam veritatem domus orationis esse debeat, non
             spelunca latronum aut sanguinis forum: saeculares iudices causas, ubi de sanguinis
@@ -127,11 +127,11 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e184">
           <head xml:id="cice-l3t49-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t49-d1e189">Reus criminis, ad ecclesiam fugiens, non est violenter ab ea extrahendus, nec debet
+          <head xml:id="cice-l3t49-d1e189" type="question-title">Reus criminis, ad ecclesiam fugiens, non est violenter ab ea extrahendus, nec debet
             amplius praetextu criminis commissi damnari ad mortem vel ad aliam poenam corporalem:
             est tamen aliter legitime puniendus. Fallit in duobus casibus hic expressis. H. d.
             primo. Servus, fugiens ad ecclesiam timore domini sui, est domino, de eius impunitate
-            iuranti, restituendus. H. d. secundo.</p>
+            iuranti, restituendus. H. d. secundo.</head>
           <p xml:id="cice-l3t49-d1e192">Innocentius III. illustri Regi Scotiae.</p>
           <p xml:id="cice-l3t49-d1e195">Inter alia, †quae nobis regalis providentia suis literis intimavit, quid de illis fieri
             debeat, qui maleficia perpetrantes confugiunt ad ecclesiam, ut pro reverentia sacri loci
@@ -154,13 +154,13 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e199">
           <head xml:id="cice-l3t49-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t49-d1e204">Clerici non debent necessitatibus seu utilitatibus civitatum seu aliorum locorum, etiam
+          <head xml:id="cice-l3t49-d1e204" type="question-title">Clerici non debent necessitatibus seu utilitatibus civitatum seu aliorum locorum, etiam
             ubi laicorum non suppetunt facultates, subvenire, nisi prius Romanus Pontifex
             consulatur. Hoc primo Sententiae et constitutiones, editae a laicis collectantibus
             ecclesiam, sunt ipso iure irritae, nec ullo tempore convalescunt. Hoc secundo. Rectores,
             excommunicati ob gravamina praemissa, remanent excommunicati, etiam post depositum
             officium; nihilominus excommunicati sunt successores, nisi satisfecerint infra mensem.
-            Hoc tertio. Hoc dicit ad maiorem declarationem et pro novitiis.</p>
+            Hoc tertio. Hoc dicit ad maiorem declarationem et pro novitiis.</head>
           <p xml:id="cice-l3t49-d1e207">Idem in concilio generali.</p>
           <p xml:id="cice-l3t49-d1e210">Adversus consules et rectores civitatum, vel alios, qui ecelesias et ecclesiasticos
             viros talliis seu collectis et exactionibus aliis aggravare nituntur, volens immunitati
@@ -184,9 +184,9 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e214">
           <head xml:id="cice-l3t49-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t49-d1e219">Praelati, pius debito a subditis extorquentes, praetextu procurationis vel alterius
+          <head xml:id="cice-l3t49-d1e219" type="question-title">Praelati, pius debito a subditis extorquentes, praetextu procurationis vel alterius
             servitii impensi legato vel alteri, illud restituent, et tantundem pauperibus
-            erogabunt.</p>
+            erogabunt.</head>
           <p xml:id="cice-l3t49-d1e222">Idem in eodem.</p>
           <p xml:id="cice-l3t49-d1e225">Quia plerique praelati, ut procurationem aut servitium aliquod impendant legato vel
             alii, plus extorquent a subditis quam solvant, et in eorum damnis lucra sectantes
@@ -197,7 +197,7 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e229">
           <head xml:id="cice-l3t49-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t49-d1e234">Ecclesia non consecrata, in qua divina officia celebrantur, gaudet immunitate.</p>
+          <head xml:id="cice-l3t49-d1e234" type="question-title">Ecclesia non consecrata, in qua divina officia celebrantur, gaudet immunitate.</head>
           <p xml:id="cice-l3t49-d1e237">Gregorius IX. Astoricensi.</p>
           <p xml:id="cice-l3t49-d1e240">Ecclesiae, in qua divina mysteria celebrantur, licet adhuc non exstiterit consecrata,
             nullo iure privilegium immunitatis adimitur: quia obsequiis divinis dedicata nullius est
@@ -206,8 +206,8 @@
         </div>
         <div xml:id="cice-l3t49-Dd1e244">
           <head xml:id="cice-l3t49-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t49-d1e249">Qui sub spe immunitatis in ecclesiis vel coemeteriis delinquunt, immunitate non
-            gaudent.</p>
+          <head xml:id="cice-l3t49-d1e249" type="question-title">Qui sub spe immunitatis in ecclesiis vel coemeteriis delinquunt, immunitate non
+            gaudent.</head>
           <p xml:id="cice-l3t49-d1e252">Idem Toletano et Compostellano Archiepiscopis.</p>
           <p xml:id="cice-l3t49-d1e255">Immunitatem ecclesiasticam (Et infra:) Nonnulli, impunitatem suorum excessuum per
             defensionem ecclesiae obtinere sperantes, homicidia et mutilationes membrorum in ipsis

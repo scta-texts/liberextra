@@ -57,14 +57,14 @@
 
         <div xml:id="cice-l3t43-Dd1e108">
           <head xml:id="cice-l3t43-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t43-d1e113">Si non baptizatus ordinatur, ordinis characterem non recipit.</p>
+          <head xml:id="cice-l3t43-d1e113" type="question-title">Si non baptizatus ordinatur, ordinis characterem non recipit.</head>
           <p xml:id="cice-l3t43-d1e116">Ex concilio apud Compendium.</p>
           <p xml:id="cice-l3t43-d1e119">Si quis presbyter ordinatus deprehenderit, se non esse baptizatum, baptizetur, et
             iterum ordinetur.</p>
         </div>
         <div xml:id="cice-l3t43-Dd1e123">
           <head xml:id="cice-l3t43-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t43-d1e128">Omissio baptismi non nocet credenti probabiliter, se esse baptizatum.</p>
+          <head xml:id="cice-l3t43-d1e128" type="question-title">Omissio baptismi non nocet credenti probabiliter, se esse baptizatum.</head>
           <p xml:id="cice-l3t43-d1e131">Innocentius III. Episcopo Cremonensi.</p>
           <p xml:id="cice-l3t43-d1e134">Apostolicam sedem, venerabilis frater noster, ut debuisti, consulere decrevisti. (Et
             infra:) Unde inquisitioni tuae taliter respondemus, presbyterum, quem sine unda
@@ -80,8 +80,8 @@
         </div>
         <div xml:id="cice-l3t43-Dd1e138">
           <head xml:id="cice-l3t43-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t43-d1e143">Non baptizatus ordinari non potest, et, si de facto ordinetur, non recipit ordinis
-            characterem, licet credebatur baptizatus.</p>
+          <head xml:id="cice-l3t43-d1e143" type="question-title">Non baptizatus ordinari non potest, et, si de facto ordinetur, non recipit ordinis
+            characterem, licet credebatur baptizatus.</head>
           <p xml:id="cice-l3t43-d1e146">Idem Ferrariensi Episcopo.</p>
           <p xml:id="cice-l3t43-d1e149">Veniens ad apostolicam sedem dilectus filius I. lator praesentium nobis exposuit, quod,
             quum per singulos ordines usque ad gradum sacerdotii adscendisset, comperit tandem pro

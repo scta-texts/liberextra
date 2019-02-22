@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t8-Dd1e108">
           <head xml:id="cice-l3t8-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t8-d1e113">Institutus scienter in beneficium viventis deponendus est.</p>
+          <head xml:id="cice-l3t8-d1e113" type="question-title">Institutus scienter in beneficium viventis deponendus est.</head>
           <p xml:id="cice-l3t8-d1e116">Gelasius I. Papa ad Romanos.</p>
           <p xml:id="cice-l3t8-d1e119">Qui in vivorum sacerdotum loco ponuntur, hoc ipso secundum canones sunt ab
             ecclesiastica communione pellendi, quo se passi sunt successores vivis sacerdotibus
@@ -65,9 +65,9 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e123">
           <head xml:id="cice-l3t8-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t8-d1e128">Beneficia non vacantia concedi vel promitti non debent, et, quum vacaverint, concedi
+          <head xml:id="cice-l3t8-d1e128" type="question-title">Beneficia non vacantia concedi vel promitti non debent, et, quum vacaverint, concedi
             debent infra sex menses, quibus elapsis de episcopo ad capitulum, et econtra, demum ad
-            proximum superiorem devolvitur collatio.</p>
+            proximum superiorem devolvitur collatio.</head>
           <p xml:id="cice-l3t8-d1e131">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t8-d1e134">Nulla ecclesiastica ministeria, seu etiam beneficia vel ecclesiae tribuantur alicui seu
             promittantur antequam vacent, ne desiderare quis mortem proximi videatur, in cuius locum
@@ -85,8 +85,8 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e138">
           <head xml:id="cice-l3t8-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t8-d1e143">Beneficia vacantia conferuntur non obstante appellatione illorum, quibus promissa
-            fuerant ante, quam vacarent.</p>
+          <head xml:id="cice-l3t8-d1e143" type="question-title">Beneficia vacantia conferuntur non obstante appellatione illorum, quibus promissa
+            fuerant ante, quam vacarent.</head>
           <p xml:id="cice-l3t8-d1e146">Alexander III. Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l3t8-d1e149">Relatum est auribus nostris, †quod quidam clerici in beneficiis ecclesiasticis C. vel
             CC. marcarum reditus possidentes, et proponentes primas vacantes ecclesias a monachis
@@ -99,10 +99,10 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e153">
           <head xml:id="cice-l3t8-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t8-d1e158">Si scribitur ei, ad quem spectat collatio, dato exsecutore ad providendum, per
+          <head xml:id="cice-l3t8-d1e158" type="question-title">Si scribitur ei, ad quem spectat collatio, dato exsecutore ad providendum, per
             praesentationem literarum collatori factam afficitur praebenda ita, quod collatio alteri
             facta non tenet. H. d. secundum verum intellectum. Vide cap. Si capitulo eod. tit. in
-            VI.</p>
+            VI.</head>
           <p xml:id="cice-l3t8-d1e161">Innocentius III. Praeposito et capitulo Cameracensibus.</p>
           <p xml:id="cice-l3t8-d1e164">Proposuit nobis dilectus filius T. presbyter, quod, quum bonae memoriae C. Papa
             praedecessor noster post preces, quas vobis pro receptione ipsius in fratrem et
@@ -135,9 +135,9 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e169">
           <head xml:id="cice-l3t8-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t8-d1e174">Semestre ad eligendum seu conferendum a iure praefixum non currit legitime impedito,
+          <head xml:id="cice-l3t8-d1e174" type="question-title">Semestre ad eligendum seu conferendum a iure praefixum non currit legitime impedito,
             nec incipit currere nisi a die notitiae vacationis. H. d. et est textus multum
-            allegabilis et quotidianus.</p>
+            allegabilis et quotidianus.</head>
           <p xml:id="cice-l3t8-d1e177">Idem P. sanctae M. in Via lata Diacono cardinali apostolicae sedis Legato.</p>
           <p xml:id="cice-l3t8-d1e180">Quia diversitatem corporum diversitas saepe sequitur animorum, †ne plenitudo
             ecclesiasticae iurisdictionis in plures dispensata vilesceret, sed in uno potius collata
@@ -194,10 +194,10 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e184">
           <head xml:id="cice-l3t8-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t8-d1e189">Non valent literae ad beneficium impetratae, quae de alterius colorata facti
+          <head xml:id="cice-l3t8-d1e189" type="question-title">Non valent literae ad beneficium impetratae, quae de alterius colorata facti
             possessione non faciunt mentionem. Hoc dicit secundam verum et communem intellectum, et
             est textus multum allegabilis, et habet materiam quotidianam; et fuit decisio multum
-            subtilis.</p>
+            subtilis.</head>
           <p xml:id="cice-l3t8-d1e192">Idem Basiliensi Episcopo et Abbati S. Mariae.</p>
           <p xml:id="cice-l3t8-d1e195">Quum nostris fuerit olim auribus intimatum, quod praepositura ecclesiae Lausanensis
             tempore tanto vacasset, ut secundum statuta Lateranensis concilii ad nos esset eiusdem
@@ -265,8 +265,8 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e199">
           <head xml:id="cice-l3t8-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t8-d1e204">Ubi constat beneficium collatum per habentem potestatem, per exceptionem abiurationis
-            et renunciationis non debet possessio retardari.</p>
+          <head xml:id="cice-l3t8-d1e204" type="question-title">Ubi constat beneficium collatum per habentem potestatem, per exceptionem abiurationis
+            et renunciationis non debet possessio retardari.</head>
           <p xml:id="cice-l3t8-d1e207">Idem Archidiacono Richemundiae.</p>
           <p xml:id="cice-l3t8-d1e210">Post electionem et confirmationem venerabilis fratris nostri [Eustachii] episcopi
             Eliensis vacante archidiaconatu Richemundiae, quem tenuerat, Eboracensis archiepiscopus
@@ -386,7 +386,7 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e214">
           <head xml:id="cice-l3t8-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t8-d1e219">Recepto in canonicum tenetur capitulum providere, quam cito facultas se obtulerit.</p>
+          <head xml:id="cice-l3t8-d1e219" type="question-title">Recepto in canonicum tenetur capitulum providere, quam cito facultas se obtulerit.</head>
           <p xml:id="cice-l3t8-d1e222">Idem C. Canonico Tridentino.</p>
           <p xml:id="cice-l3t8-d1e225">Quum super quaestione Tridentinae praebendae, †quae vertebatur inter te ex una parte,
             et venerabilem fratrem nostrum episcopum et dilectos filios canonicos Terdonenses ex
@@ -446,10 +446,10 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e229">
           <head xml:id="cice-l3t8-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t8-d1e234">Si habens praebendam in eadem ecclesia recipit dignitatem cum praebenda vel aliam,
+          <head xml:id="cice-l3t8-d1e234" type="question-title">Si habens praebendam in eadem ecclesia recipit dignitatem cum praebenda vel aliam,
             vacat prima. Et quamvis a superiore sibi confirmetur, tamen valet impetratio per alium
             facta de ipsa, etiam tacito de possessione alterius, quae colorata non est. H. d.
-            secundum verum intellectum. Panorm.</p>
+            secundum verum intellectum. Panorm.</head>
           <p xml:id="cice-l3t8-d1e237">Idem Episcopo et Magistro P. Canonico Hildesemensi.</p>
           <p xml:id="cice-l3t8-d1e240">Literas vestras accepimus, per quas nobis significare curastis, quod, quum pro dilecto
             filio D. clerico vobis scripserimus, ut eum de praebenda vacante sancti Wiscardi
@@ -495,9 +495,9 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e244">
           <head xml:id="cice-l3t8-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t8-d1e249">In ecclesiis non numeratis vacatio praebendarum seu canonicatuum possibilis non est,
+          <head xml:id="cice-l3t8-d1e249" type="question-title">In ecclesiis non numeratis vacatio praebendarum seu canonicatuum possibilis non est,
             nec fit ibi devolutio ad superiorem ex negligentia semestri in non providendo ecclesiae
-            de ministris. H. d. et est casus notabilis.</p>
+            de ministris. H. d. et est casus notabilis.</head>
           <p xml:id="cice-l3t8-d1e252">Idem Episcopo et Archipresbytero Papiensibus.</p>
           <p xml:id="cice-l3t8-d1e255">Ex parte Astensis ecclesiae nostris est auribus intimatum, quod, quum quaedam
             praebendae in ipsa per quatuor annos, et amplius vacavissent, venerabilis frater noster
@@ -532,8 +532,8 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e260">
           <head xml:id="cice-l3t8-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t8-d1e265">Habens potestatem conferendi potest de iure alteri tradere potestatem conferendi primum
-            beneficium, quod vacabit.</p>
+          <head xml:id="cice-l3t8-d1e265" type="question-title">Habens potestatem conferendi potest de iure alteri tradere potestatem conferendi primum
+            beneficium, quod vacabit.</head>
           <p xml:id="cice-l3t8-d1e268">Idem Episcopo et capitulo Laudunensi.</p>
           <p xml:id="cice-l3t8-d1e271">Constitutus in praesentia nostra dilectus filius H. subdiaconus [noster] ecclesiae
             vestrae canonicus nobis humiliter intimavit, quod tu, frater episcope, potestatem ei
@@ -564,8 +564,8 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e275">
           <head xml:id="cice-l3t8-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t8-d1e280">Lateranense concilium de beneficiis ultra sex menses vacantibus ad episcopatus non
-            extenditur.</p>
+          <head xml:id="cice-l3t8-d1e280" type="question-title">Lateranense concilium de beneficiis ultra sex menses vacantibus ad episcopatus non
+            extenditur.</head>
           <p xml:id="cice-l3t8-d1e283">Innocentius III.</p>
           <p xml:id="cice-l3t8-d1e286">Dilectus filius magister G. canonicus vester olim nobis suggessit, quod, bonae memoriae
             episcopo vestro viam universae carnis ingresso, maior et sanior pars vestri convenerat
@@ -611,7 +611,7 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e290">
           <head xml:id="cice-l3t8-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l3t8-d1e295">Non valet promissio beneficii vacaturi.</p>
+          <head xml:id="cice-l3t8-d1e295" type="question-title">Non valet promissio beneficii vacaturi.</head>
           <p xml:id="cice-l3t8-d1e298">Idem Priori Hostiensi et Superiori S. Fridi.</p>
           <p xml:id="cice-l3t8-d1e301">Ex tenore literarum vestrarum accepimus, quod, quum causa, quae inter I. clericum ex
             una parte, et abbatem et conventum de Bello ex altera, super provisione vertebatur
@@ -637,7 +637,7 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e305">
           <head xml:id="cice-l3t8-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l3t8-d1e310">Obligatur praelatus, qui promittit providere quum poterit.</p>
+          <head xml:id="cice-l3t8-d1e310" type="question-title">Obligatur praelatus, qui promittit providere quum poterit.</head>
           <p xml:id="cice-l3t8-d1e313">Idem.</p>
           <p xml:id="cice-l3t8-d1e316">Accedens ad apostolicam sedem dilectus filius R. clericus sua nobis insinuatione
             monstravit, quod, quum promiseritis, vos provisuros eidem in ecclesiastico beneficio,
@@ -655,10 +655,10 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e320">
           <head xml:id="cice-l3t8-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l3t8-d1e325">Si ad capitulum et praelatum, ut praelatum potestas conferendi pertinet, de uno ad
+          <head xml:id="cice-l3t8-d1e325" type="question-title">Si ad capitulum et praelatum, ut praelatum potestas conferendi pertinet, de uno ad
             alterum lapsu temporis non transit; secus, si praelatus intersit, ut canonicus; quia
             tunc de capitulo transit ad praelatum, nisi dolum committat. H. d. et est textus multum
-            allegabilis.</p>
+            allegabilis.</head>
           <p xml:id="cice-l3t8-d1e328">Innocentius III.</p>
           <p xml:id="cice-l3t8-d1e331">Postulastis per sedem apostolicam edoceri, ut, quum ad vos et archiepiscopum vestrum
             simul donatio praebendarum ecclesiae vestrae pertineat, utrum praebendae vacantis
@@ -673,8 +673,8 @@
         </div>
         <div xml:id="cice-l3t8-Dd1e335">
           <head xml:id="cice-l3t8-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l3t8-d1e340">Sicut non potest patronus promittere, se praesentaturum aliquem ad beneficium
-            vacaturum, ita nec dare potestatem prasentandi, antequam beneficium vacet.</p>
+          <head xml:id="cice-l3t8-d1e340" type="question-title">Sicut non potest patronus promittere, se praesentaturum aliquem ad beneficium
+            vacaturum, ita nec dare potestatem prasentandi, antequam beneficium vacet.</head>
           <p xml:id="cice-l3t8-d1e343">Honorius III. Episcopo et Praeposito capituli Cameracensis.</p>
           <p xml:id="cice-l3t8-d1e346">Quum dilecta in Christo filia nobilis mulier Ioanna comitissa Flandrensis, devicta
             quorundam precibus importunis, fecerit promissiones illicitas de non vacantibus

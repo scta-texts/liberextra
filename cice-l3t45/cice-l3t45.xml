@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t45-Dd1e108">
           <head xml:id="cice-l3t45-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t45-d1e113">Sine Papae licentia non licet aliquem venerari pro sancto.</p>
+          <head xml:id="cice-l3t45-d1e113" type="question-title">Sine Papae licentia non licet aliquem venerari pro sancto.</head>
           <p xml:id="cice-l3t45-d1e116">Alexander III.</p>
           <p xml:id="cice-l3t45-d1e119">Audivimus, quod quidam inter vos sint, qui diabolica fraude decepti, hominem quendam in
             potatione et ebrietate occisum quasi sanctum more infidelium venerantur, quum vix pro
@@ -68,8 +68,8 @@
         </div>
         <div xml:id="cice-l3t45-Dd1e123">
           <head xml:id="cice-l3t45-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t45-d1e128">Sanctorum reliquiae vendi non possunt, vel passim ostendi non debent, ne circa illas
-            populus decipi possit.</p>
+          <head xml:id="cice-l3t45-d1e128" type="question-title">Sanctorum reliquiae vendi non possunt, vel passim ostendi non debent, ne circa illas
+            populus decipi possit.</head>
           <p xml:id="cice-l3t45-d1e131">Innocentius III. in concilio generali.</p>
           <p xml:id="cice-l3t45-d1e134">Quum ex eo, quod quidam sanctorum reliquias exponunt venales, et eas passim ostendunt,
             Christanae religioni detractum sit saepius, ne in posterum detrahatur, praesenti decreto

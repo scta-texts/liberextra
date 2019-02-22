@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t46-Dd1e108">
           <head xml:id="cice-l3t46-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t46-d1e113">Vigilia, occurens in dominica, ieiunari debet in sabbato, et ieiunanda est vigilia B.
-            Matthiae.</p>
+          <head xml:id="cice-l3t46-d1e113" type="question-title">Vigilia, occurens in dominica, ieiunari debet in sabbato, et ieiunanda est vigilia B.
+            Matthiae.</head>
           <p xml:id="cice-l3t46-d1e116">Innocentius III. Clericis S. Petri Magalonensis.</p>
           <p xml:id="cice-l3t46-d1e119">Ex parte vestra quaesitum fuit a nobis, utrum, si Nativitatem Domini, vel Assumptionem
             beatae Mariae, vel festivitatem alicuius Apostolorum in secunda feria contigerit
@@ -70,8 +70,8 @@
         </div>
         <div xml:id="cice-l3t46-Dd1e123">
           <head xml:id="cice-l3t46-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t46-d1e128">Non capit congruam summationem, et textus in se satis clarus est, et multa sunt dicta,
-            quae patent per §§.</p>
+          <head xml:id="cice-l3t46-d1e128" type="question-title">Non capit congruam summationem, et textus in se satis clarus est, et multa sunt dicta,
+            quae patent per §§.</head>
           <p xml:id="cice-l3t46-d1e131">Idem Bracharensi Archiepiscopo.</p>
           <p xml:id="cice-l3t46-d1e134">Consilium nostrum †super quibusdam articulis requisisti, utrum [videlicet] sit in
             omnibus Apostolorum vigiliis ieiunandum, quum plures asserant, non esse ieiunandum in
@@ -109,8 +109,8 @@
         </div>
         <div xml:id="cice-l3t46-Dd1e138">
           <head xml:id="cice-l3t46-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t46-d1e143">Si festum Nativitatis occurrit sexta feria, licitum est omnibus carnes comedere,
-            exceptis professis et voventibus.</p>
+          <head xml:id="cice-l3t46-d1e143" type="question-title">Si festum Nativitatis occurrit sexta feria, licitum est omnibus carnes comedere,
+            exceptis professis et voventibus.</head>
           <p xml:id="cice-l3t46-d1e146">Honorius III. Pragensi Episcopo.</p>
           <p xml:id="cice-l3t46-d1e149">Explicari per sedem apostolicam postulasti, †utrum sit licitum illis, qui nec voto, nec
             regulari observantia sunt adstricti, carnes comedere, quando in sexta feria dies

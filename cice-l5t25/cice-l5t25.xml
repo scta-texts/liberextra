@@ -57,15 +57,15 @@
 
         <div xml:id="cice-l5t25-Dd1e108">
           <head xml:id="cice-l5t25-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t25-d1e113">Clericus, saepe alium percutiens, et monitus non desistens, deponendus est.</p>
+          <head xml:id="cice-l5t25-d1e113" type="question-title">Clericus, saepe alium percutiens, et monitus non desistens, deponendus est.</head>
           <p xml:id="cice-l5t25-d1e116">Ex concilio Agathensi.</p>
           <p xml:id="cice-l5t25-d1e119">Si quis in aliquos gradu sacro percussor exstiterit, corripiatur a crimine, et, si non
             emendaverit, deponatur.</p>
         </div>
         <div xml:id="cice-l5t25-Dd1e123">
           <head xml:id="cice-l5t25-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t25-d1e128">Duobus mensibus a missarum administratione suspenditur episcopus, qui crudeliter
-            aliquem fustigari facit.</p>
+          <head xml:id="cice-l5t25-d1e128" type="question-title">Duobus mensibus a missarum administratione suspenditur episcopus, qui crudeliter
+            aliquem fustigari facit.</head>
           <p xml:id="cice-l5t25-d1e131">Gregorius Tarentino Episcopo.</p>
           <p xml:id="cice-l5t25-d1e134">Praeterea, quoniam mulierem de matriculis propter delictum suum contra ordinem
             sacerdotii caedi crudeliter fustibus deputasti, quam licet exinde, quum post octo menses
@@ -75,9 +75,9 @@
         </div>
         <div xml:id="cice-l5t25-Dd1e138">
           <head xml:id="cice-l5t25-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t25-d1e143">Non punitur clericus ut homicida, si fuit ipse in conflictu pro parte violentiam
+          <head xml:id="cice-l5t25-d1e143" type="question-title">Non punitur clericus ut homicida, si fuit ipse in conflictu pro parte violentiam
             repellentium, licet ibi aliqui mortui sint, et ipse lapides proiecit, ex quo nullum ipse
-            percussit.</p>
+            percussit.</head>
           <p xml:id="cice-l5t25-d1e146">Alexander III. Lucensi Episcopo.</p>
           <p xml:id="cice-l5t25-d1e149">Praesentium lator in quodam conflictu asserit se fuisse, pro parte tamen illorum, qui
             violentiam repellebant; in quo lapides ipse proiecit, sed aliquem non percussit. Quem
@@ -88,9 +88,9 @@
         </div>
         <div xml:id="cice-l5t25-Dd1e153">
           <head xml:id="cice-l5t25-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t25-d1e158">Clericus, qui fuit in conflictu, ubi aliqui fuerunt occisi sine eius facto vel
+          <head xml:id="cice-l5t25-d1e158" type="question-title">Clericus, qui fuit in conflictu, ubi aliqui fuerunt occisi sine eius facto vel
             consilio, de iure communi promoveri potest. H. d. secundam intellectum, qui plus placet
-            Panorm.</p>
+            Panorm.</head>
           <p xml:id="cice-l5t25-d1e161">Coelestinus III.</p>
           <p xml:id="cice-l5t25-d1e164">Continentia literarum †vestrarum inspecta, qua significastis nobis, quod, Quum P.
             acolythus praesentium lator cum quibusdam hominibus ad resistendum praedonibus arma

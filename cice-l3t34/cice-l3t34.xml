@@ -57,8 +57,8 @@
         <div xml:id="cice-l3t34-Dd1e108">
           <head xml:id="cice-l3t34-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t34-d1e113">Vota possunt eleemosynis redimi, vel in aliud commutari, intercedente superioris
-            auctoritate, et iusta causa redimendi vel mutandi.</p>
+          <head xml:id="cice-l3t34-d1e113" type="question-title">Vota possunt eleemosynis redimi, vel in aliud commutari, intercedente superioris
+            auctoritate, et iusta causa redimendi vel mutandi.</head>
           <p xml:id="cice-l3t34-d1e116">Alexander III. Exonensi Episcopo.</p>
           <p xml:id="cice-l3t34-d1e119">De peregrinationis quoque votis, an eleemosynis redimi possint vel pro necessitate in
             aliud commutari, tibi respondemus, quod ab eius, qui praesidet, pendet arbitrio, ut
@@ -69,7 +69,7 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e123">
           <head xml:id="cice-l3t34-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t34-d1e128">Commutat Papa votum ultramarinum, in his maxime, qui in puerili aetate voverunt.</p>
+          <head xml:id="cice-l3t34-d1e128" type="question-title">Commutat Papa votum ultramarinum, in his maxime, qui in puerili aetate voverunt.</head>
           <p xml:id="cice-l3t34-d1e131">Idem Norvicensi Episcopo.</p>
           <p xml:id="cice-l3t34-d1e134">Venientis ad nos R. clerici narratione accepimus, quod, quum in puerili aetate
             constitutus fuisset Hierosolymam disposuit proficisci, cuidam quoque consocio suo, qui
@@ -87,8 +87,8 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e138">
           <head xml:id="cice-l3t34-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t34-d1e143">Ex sola conceptione boni explicandi non obligatur quis ad bonum conceptum
-            exsequendum.</p>
+          <head xml:id="cice-l3t34-d1e143" type="question-title">Ex sola conceptione boni explicandi non obligatur quis ad bonum conceptum
+            exsequendum.</head>
           <p xml:id="cice-l3t34-d1e146">Idem Magistro A. de Mandeforde.</p>
           <p xml:id="cice-l3t34-d1e149">Literaturam tuam †et prudentiam iam dudum referente fama cognovinus, et saluti tuae
             tanto attentius consulere volumus et debemus, quanto personam tuam consideratione tuae
@@ -109,7 +109,7 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e153">
           <head xml:id="cice-l3t34-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t34-d1e158">Omne votum mutabile est in votum religionis.</p>
+          <head xml:id="cice-l3t34-d1e158" type="question-title">Omne votum mutabile est in votum religionis.</head>
           <p xml:id="cice-l3t34-d1e161">Idem.</p>
           <p xml:id="cice-l3t34-d1e164">Scripturae †sacrae testimonio declaratur, quod spiritualis homo propositum non mutat,
             quum pro salute animae suae utilius aliquid meditatur. Inde est, quod, vestris iustis
@@ -121,7 +121,7 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e169">
           <head xml:id="cice-l3t34-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t34-d1e174">Exsecutio voti ultramarini auctoritate Papae potest ex causa differri.</p>
+          <head xml:id="cice-l3t34-d1e174" type="question-title">Exsecutio voti ultramarini auctoritate Papae potest ex causa differri.</head>
           <p xml:id="cice-l3t34-d1e177">Innocentius III. Strigonensi Archiepiscopo.</p>
           <p xml:id="cice-l3t34-d1e180">Non est voti dicendus transgressor, qui quod vovit de auctoritate sedis apostolicae,
             iusta tamen ex causa, distulit adimplere. Sane, significavit nobis carissimus in Christo
@@ -136,8 +136,8 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e184">
           <head xml:id="cice-l3t34-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t34-d1e189">Ecclesia compellit heredem laicum per excommunicationem et bonorum subtractionem ad
-            exsecutionem voti ultramarini, ad quod se obligavit pro defuncto.</p>
+          <head xml:id="cice-l3t34-d1e189" type="question-title">Ecclesia compellit heredem laicum per excommunicationem et bonorum subtractionem ad
+            exsecutionem voti ultramarini, ad quod se obligavit pro defuncto.</head>
           <p xml:id="cice-l3t34-d1e192">Idem Andreae Duci.</p>
           <p xml:id="cice-l3t34-d1e195">Licet universis liberum sit arbitrium in vovendo, nec necessitas in votis locum habeat,
             sed voluntas, usque adeo tamen solutio necessaria est post votum, ut sine proprio
@@ -166,9 +166,9 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e199">
           <head xml:id="cice-l3t34-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t34-d1e204">Commutat Papa votum ultramarinum in vigilias, orationes et ieiunia, tunc maxime, quum
+          <head xml:id="cice-l3t34-d1e204" type="question-title">Commutat Papa votum ultramarinum in vigilias, orationes et ieiunia, tunc maxime, quum
             cessat causa, quae induxit ad vovendum; ita etiam quod expensae fiendae in eundo,
-            morando et redeundo, integraliter mittantur in terrae sanctae subsidium.</p>
+            morando et redeundo, integraliter mittantur in terrae sanctae subsidium.</head>
           <p xml:id="cice-l3t34-d1e207">Idem Trecensi Episcopo.</p>
           <p xml:id="cice-l3t34-d1e210">Magnae devotionis †[iudicium et sincerae in Christo tuae fidei esse credimus
             argumentum, quod, ut novissima tua Domino consecrares, nec senectutis iam imminentis
@@ -277,8 +277,8 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e214">
           <head xml:id="cice-l3t34-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t34-d1e219">Impedito ad tempus exsequi votum ultramarinum coneditur dilatio; perpetuo vero impedito
-            indicitur redemptio in eo, quod magis expediat terrae sanctae.</p>
+          <head xml:id="cice-l3t34-d1e219" type="question-title">Impedito ad tempus exsequi votum ultramarinum coneditur dilatio; perpetuo vero impedito
+            indicitur redemptio in eo, quod magis expediat terrae sanctae.</head>
           <p xml:id="cice-l3t34-d1e222">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l3t34-d1e225">Quod super his †sedem apostolicam consulere decrevisti quorum exsecutio spectat ad
             officium pastorale, fraternitatem tuam in Domino commendamus, sperantes, quod per
@@ -318,7 +318,7 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e229">
           <head xml:id="cice-l3t34-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t34-d1e234">Votum ultramarinum certis casibus redimi et commutari potest, non tamen per alium, quam
+          <head xml:id="cice-l3t34-d1e234" type="question-title">Votum ultramarinum certis casibus redimi et commutari potest, non tamen per alium, quam
             per Papam, vel cum ipsius speciali mandato. H. d. usque ad §. Secundo quaesivisti. –
             (Secundo etc.:) Habiles ad eundum, sed inhabiles ad pugnandum, si sunt strenui consilio,
             vel milites bellatores possunt secum ducere, votum ultramarinum non redimunt. H. d.
@@ -326,7 +326,7 @@
             sed non tenentur, nisi et ipsae voverint. H. d. Abbas. – (In tanta etc.:) Viri sine
             consensu uxorum emittere possunt votum ultramarinum. H. d. Abbas Siculus. – (De clericis
             etc.:) Clerici, tanquam inhabiles ad pugnandum, redimunt votum ultramarinum, nisi in
-            certis casibus. H. d. Abbas Siculus.</p>
+            certis casibus. H. d. Abbas Siculus.</head>
           <p xml:id="cice-l3t34-d1e237">Idem eidem.</p>
           <p xml:id="cice-l3t34-d1e240">Ex multa tuae sollicitudinis providentia †credimus provenire, quod, quum ad
             consultationes tuas multiplices et frequentes responderimus quod sentimus, ex
@@ -382,8 +382,8 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e244">
           <head xml:id="cice-l3t34-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t34-d1e249">Qui vovit religionem ingredi, si voto completo fiat episcopus, renunciare debet, et
-            votum implere, Sic communiter summatur.</p>
+          <head xml:id="cice-l3t34-d1e249" type="question-title">Qui vovit religionem ingredi, si voto completo fiat episcopus, renunciare debet, et
+            votum implere, Sic communiter summatur.</head>
           <p xml:id="cice-l3t34-d1e252">Idem.</p>
           <p xml:id="cice-l3t34-d1e255">Per tuas nobis literas intimasti, te in Gratianopolitana ecclesia suscipiendi habitum
             regularem votum solenniter emisisse, et postea promississe in manibus praelati eiusdem
@@ -399,8 +399,8 @@
         </div>
         <div xml:id="cice-l3t34-Dd1e260">
           <head xml:id="cice-l3t34-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t34-d1e265">Praelatus, etiam professus, potest votum ultramarinum emittere, et in suos usus
-            vigesimam proventuum ecclesiae convertere.</p>
+          <head xml:id="cice-l3t34-d1e265" type="question-title">Praelatus, etiam professus, potest votum ultramarinum emittere, et in suos usus
+            vigesimam proventuum ecclesiae convertere.</head>
           <p xml:id="cice-l3t34-d1e268">Honorius III. Haresben. et Bengad. Praepositis.</p>
           <p xml:id="cice-l3t34-d1e271">Postulatis a nobis, an vobis, professis ordinem regularem, quorum alter cruce signatus
             est, et reliquus charactere crucis desiderat insigniri, liceat vigesimam proventuum

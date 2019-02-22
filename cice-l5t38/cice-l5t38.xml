@@ -57,13 +57,13 @@
 
         <div xml:id="cice-l5t38-Dd1e108">
           <head xml:id="cice-l5t38-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t38-d1e113">Pro manifesto peccato poenitentia publica imponi debet.</p>
+          <head xml:id="cice-l5t38-d1e113" type="question-title">Pro manifesto peccato poenitentia publica imponi debet.</head>
           <p xml:id="cice-l5t38-d1e116">Alexander Papa.</p>
           <p xml:id="cice-l5t38-d1e119">Manifesta peccata non sunt occulta correctione purganda.</p>
         </div>
         <div xml:id="cice-l5t38-Dd1e123">
           <head xml:id="cice-l5t38-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t38-d1e128">Ponit poenitentiam occidentis presbyterum.</p>
+          <head xml:id="cice-l5t38-d1e128" type="question-title">Ponit poenitentiam occidentis presbyterum.</head>
           <p xml:id="cice-l5t38-d1e131">Ex concilio Maguntinensi.</p>
           <p xml:id="cice-l5t38-d1e134">Qui presbyterum occiderit, XII. annorum poenitentia ei secundum canones imponatur,
             †aut, si negaverit, si liber est, cum LXXII. iuret, si autem servus, super duodecim
@@ -72,8 +72,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e138">
           <head xml:id="cice-l5t38-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t38-d1e143">Consideratis circumstantiis arbitraria poenitentia iudicenda est ei, qui modum excessit
-            se defendendo.</p>
+          <head xml:id="cice-l5t38-d1e143" type="question-title">Consideratis circumstantiis arbitraria poenitentia iudicenda est ei, qui modum excessit
+            se defendendo.</head>
           <p xml:id="cice-l5t38-d1e146">Alexander III. Mediolanensi Archiepiscopo et Suffraganeis.</p>
           <p xml:id="cice-l5t38-d1e149">Significavit nobis vir nobilis P., quod F. dicto imperatori, quum olim rediret ab Urbe,
             castrum Vernicae negavit. (Et infra:) Unde contigit, quod, IV. castris destructis, plus
@@ -89,8 +89,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e153">
           <head xml:id="cice-l5t38-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t38-d1e158">Indulgentiae, quae conceduntur per praelatos non subditis, non prosunt, nisi proprii
-            iudices hoc concedant.</p>
+          <head xml:id="cice-l5t38-d1e158" type="question-title">Indulgentiae, quae conceduntur per praelatos non subditis, non prosunt, nisi proprii
+            iudices hoc concedant.</head>
           <p xml:id="cice-l5t38-d1e161">Idem Archiepiscopo Cantuariensi.</p>
           <p xml:id="cice-l5t38-d1e164">Quod autem consuluisti, utrum remissiones, quae fiunt in dedicationibus ecclesiarum aut
             conferentibus ad aedificationem pontium, aliis prosint, quam his, qui remittentibus
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e169">
           <head xml:id="cice-l5t38-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t38-d1e174">Non est vere poenitens qui peccandi animum non deponit; tamen recipitur eius
-            confessio.</p>
+          <head xml:id="cice-l5t38-d1e174" type="question-title">Non est vere poenitens qui peccandi animum non deponit; tamen recipitur eius
+            confessio.</head>
           <p xml:id="cice-l5t38-d1e177">Idem Belvacensi Episcopo.</p>
           <p xml:id="cice-l5t38-d1e180">Quod quidam, sicut asseris, ad confessionem de criminibus veniunt, et, quamvis
             confiteri velint, se tamen asserunt abstinere non posse, consultationi tuae taliter
@@ -113,8 +113,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e184">
           <head xml:id="cice-l5t38-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t38-d1e189">Qui ex poenitentia debet certa die in pane et aqua ieiunare, potest deficiente pane
-            aliis cibariis uti.</p>
+          <head xml:id="cice-l5t38-d1e189" type="question-title">Qui ex poenitentia debet certa die in pane et aqua ieiunare, potest deficiente pane
+            aliis cibariis uti.</head>
           <p xml:id="cice-l5t38-d1e192">Idem Triburiensi Archiepiscopo.</p>
           <p xml:id="cice-l5t38-d1e195">Licet tam veteris quam novi testamenti pagina (Et infra: [cf. c. 3. de fer. II. 9.]) Si
             autem illi, qui aliquos dies in pane et aqua ex iniuncta sibi poenientia tenentur
@@ -124,10 +124,10 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e199">
           <head xml:id="cice-l5t38-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t38-d1e204">Sacerdoti Graeco procuranti, vel studiose negligenti oppressionem filiorum, non
+          <head xml:id="cice-l5t38-d1e204" type="question-title">Sacerdoti Graeco procuranti, vel studiose negligenti oppressionem filiorum, non
             imponitur poenitentia publica, sed debet abstinere ab altaris officio, et aliter in
             secreto agere poenitentiam; sed, si delictum est publicum, debet publice agere
-            poenitentiam.</p>
+            poenitentiam.</head>
           <p xml:id="cice-l5t38-d1e207">Clemens III.</p>
           <p xml:id="cice-l5t38-d1e210">Quaesitiun est a nobis, utrum sacerdotibus Graecis, quibus legitimo matrimonio licet
             uti, poenitentia publica sit imponenda, si eam sibi postulent pro filiis oppressis
@@ -142,8 +142,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e214">
           <head xml:id="cice-l5t38-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t38-d1e219">Sacerdos poenitentiam arbitrari debet secundum quantitatem excessus, poenitentis
-            contritionem, et alias circumstantias. H. d. quoad titulum.</p>
+          <head xml:id="cice-l5t38-d1e219" type="question-title">Sacerdos poenitentiam arbitrari debet secundum quantitatem excessus, poenitentis
+            contritionem, et alias circumstantias. H. d. quoad titulum.</head>
           <p xml:id="cice-l5t38-d1e222">Innocentius III. Livoniensi Episcopo, et eis, qui cum ipso sunt, Fratribus.</p>
           <p xml:id="cice-l5t38-d1e225">Deus, qui ecclesiam suam (Et infra: [cf. c. 11. de vita et hon. cler. III. 1.])
             Ceterum, quum poenitentia non tam secundum quantitatem excessus, quam poenitentis
@@ -159,8 +159,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e229">
           <head xml:id="cice-l5t38-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t38-d1e234">Auditur mulieris confessio, quae sibi partum alienum supposuit, vel proprium ex
-            adulterio suscepit, nec illud marito vult detegere.</p>
+          <head xml:id="cice-l5t38-d1e234" type="question-title">Auditur mulieris confessio, quae sibi partum alienum supposuit, vel proprium ex
+            adulterio suscepit, nec illud marito vult detegere.</head>
           <p xml:id="cice-l5t38-d1e237">Idem sancti Laurentii in Lucina Presbytero cardinali apostolicae sedis Legato.</p>
           <p xml:id="cice-l5t38-d1e240">Officii (Et infra: [cf. c. 38. de elect. I. 6.]) Significasti praeterea, quandam
             mulierem in poenitentia tibi fuisse confessam, quod timens, ne viri possessio
@@ -178,8 +178,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e244">
           <head xml:id="cice-l5t38-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t38-d1e249">Abbatissa moniales benedicere, confessiones audire et publice praedicare non
-            potest.</p>
+          <head xml:id="cice-l5t38-d1e249" type="question-title">Abbatissa moniales benedicere, confessiones audire et publice praedicare non
+            potest.</head>
           <p xml:id="cice-l5t38-d1e252">Idem Valentino et Burgensi Episcopis, et Abbati de N. Cisterciensis ordinis.</p>
           <p xml:id="cice-l5t38-d1e255">Nova quaedam nuper, de quibus miramur non modicum, nostris sunt auribus intimata, quod
             abbatissae videlicet, in Burgensi et in Palentinensi dioecesibus constitutae, moniales
@@ -193,11 +193,11 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e260">
           <head xml:id="cice-l5t38-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t38-d1e265">Tempore generalis interdicti conceditur poenitentia et viaticum morientibus. Hoc primo.
+          <head xml:id="cice-l5t38-d1e265" type="question-title">Tempore generalis interdicti conceditur poenitentia et viaticum morientibus. Hoc primo.
             Clerici, qui servarunt interdictum, possunt eum silentio in coemeterio sepeliri. Hoc
             secundo. In conventualibus ecclesiis clerici bini vel trini possunt horas submissa voce
             dicere. Hoc tertio. Cruce signatis et peregrinis tempore interdicti poenitentia concedi
-            potest. Hoc quarto.</p>
+            potest. Hoc quarto.</head>
           <p xml:id="cice-l5t38-d1e268">Idem.</p>
           <p xml:id="cice-l5t38-d1e271">Quod in te (Et infra:) Verum quoniam a quibusdam intelleximus dubitari, utrum, quum
             clericis vel laicis dandum sit viaticum in extremis, an etiam in actio impendenda, et an
@@ -222,10 +222,10 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e275">
           <head xml:id="cice-l5t38-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t38-d1e280">Famosum est et multum allegabile, et hoc dicit. Quilibet doli capax tenetur saltem
+          <head xml:id="cice-l5t38-d1e280" type="question-title">Famosum est et multum allegabile, et hoc dicit. Quilibet doli capax tenetur saltem
             semel in anno confiteri proprio sacerdoti, vel de eius licentia alteri, et eucharistiae
             sacramentum ad minus in Pascha recipere. Et sacerdos, revelans confessionem, deponendus
-            est, et in monasterio ad agendum perpetuam poenitentiam detrudendus.</p>
+            est, et in monasterio ad agendum perpetuam poenitentiam detrudendus.</head>
           <p xml:id="cice-l5t38-d1e283">Idem in concilio generali.</p>
           <p xml:id="cice-l5t38-d1e286">Omnis utriusque sexus fidelis, postquam ad annos discretionis pervenerit, omnia sua
             solus peccata saltem semel in anno fideliter confiteatur proprio sacerdoti, et iniunctam
@@ -249,8 +249,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e290">
           <head xml:id="cice-l5t38-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t38-d1e295">Medici, vocati ad infirmos, debent ante omnia inducere infirmum ad confessionem, nec
-            quicquam persuadere pro salute corporis, tendens in animarum periculum.</p>
+          <head xml:id="cice-l5t38-d1e295" type="question-title">Medici, vocati ad infirmos, debent ante omnia inducere infirmum ad confessionem, nec
+            quicquam persuadere pro salute corporis, tendens in animarum periculum.</head>
           <p xml:id="cice-l5t38-d1e298">Idem in eodem.</p>
           <p xml:id="cice-l5t38-d1e301">Quum infirmitas corporalis nonnunquam ex peccato proveniat, dicente Domino languido,
             quem sanaverat: “Vade, et amplius noli peccare, ne deterius aliquid tibi contingat,”
@@ -269,12 +269,12 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e305">
           <head xml:id="cice-l5t38-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t38-d1e310">Eleemosynarum quaestores sine apostolicis vel dioecesanorum literis admitti non debent,
+          <head xml:id="cice-l5t38-d1e310" type="question-title">Eleemosynarum quaestores sine apostolicis vel dioecesanorum literis admitti non debent,
             nec tunc proponant ultra id, quod in ipsis literis continetur. Hoc primo. Et debent esse
             modesti, et a locis et expensis incongruis abstinere. Hoc secundo. In dedicatione
             basilicae ultra annum, et in anniversario dedicationis, et in literis indulgentiarum,
             concessis ab alio quam a Papa, ultra XL. dies remissio excedere non debet. H. d. usque
-            ad fin.</p>
+            ad fin.</head>
           <p xml:id="cice-l5t38-d1e313">Idem in eodem.</p>
           <p xml:id="cice-l5t38-d1e316">Quum ex eo (Et infra: [cf. c. 2. de reliq. et ven. sanct. III. 45.]) Eleemosynarum
             quoque quaestores, quorum quidam se alios mentiendo abusiones nonnullas in sua
@@ -308,8 +308,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e320">
           <head xml:id="cice-l5t38-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t38-d1e325">Archiepiscopus infra provinciam suam potest concedere indulgentias secundum formam
-            concilii generalis. H. d. Et loquitur de cap. praeced. in fine.</p>
+          <head xml:id="cice-l5t38-d1e325" type="question-title">Archiepiscopus infra provinciam suam potest concedere indulgentias secundum formam
+            concilii generalis. H. d. Et loquitur de cap. praeced. in fine.</head>
           <p xml:id="cice-l5t38-d1e328">Honorius III.</p>
           <p xml:id="cice-l5t38-d1e331">Nostra postulasti certificari responso, utrum per tuam provinciam possis concedere
             remissionis literas generales. Nos igitur fraternitati tuae breviter respondemus, quod
@@ -318,8 +318,8 @@
         </div>
         <div xml:id="cice-l5t38-Dd1e335">
           <head xml:id="cice-l5t38-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t38-d1e340">Episcopus et alii, de quibus in litera, possunt sine licentia superiorum sibi eligere
-            providum confessorem.</p>
+          <head xml:id="cice-l5t38-d1e340" type="question-title">Episcopus et alii, de quibus in litera, possunt sine licentia superiorum sibi eligere
+            providum confessorem.</head>
           <p xml:id="cice-l5t38-d1e343">Gregorius IX.</p>
           <p xml:id="cice-l5t38-d1e346">Ne pro dilatione poenitentiae periculum immineat animarum, permittimus episcopis et
             aliis superioribus, nec non minoribus praelatis exemptis, ut etiam praeter sui

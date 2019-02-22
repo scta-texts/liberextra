@@ -57,8 +57,8 @@
         <div xml:id="cice-l3t26-Dd1e108">
           <head xml:id="cice-l3t26-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t26-d1e113">Episcopus de rebus patrimonialibus testari potest; de rebus vero ecclesiae seu intuitu
-            ecclesiae quaesitis testari non valet.</p>
+          <head xml:id="cice-l3t26-d1e113" type="question-title">Episcopus de rebus patrimonialibus testari potest; de rebus vero ecclesiae seu intuitu
+            ecclesiae quaesitis testari non valet.</head>
           <p xml:id="cice-l3t26-d1e116">Gregorius IX. Antonio Subdiacono.</p>
           <p xml:id="cice-l3t26-d1e119">Quorundam ad nos relatione pervenit, quod I. Attellanae civitatis episcopus, dum de hac
             luce migraret, condito testamento in octo unciis totius substantiae suae nurum suam
@@ -72,7 +72,7 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e123">
           <head xml:id="cice-l3t26-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t26-d1e128">Abbatissa testari non potest etiamsi nunquam induisset habitum monachalem.</p>
+          <head xml:id="cice-l3t26-d1e128" type="question-title">Abbatissa testari non potest etiamsi nunquam induisset habitum monachalem.</head>
           <p xml:id="cice-l3t26-d1e131">Idem.</p>
           <p xml:id="cice-l3t26-d1e134">Quia ingredientibus †[monasterium convertendi gratia ulterius nulla sit testandi
             licentia, sed res eorum eiusdem monasterii fiant, aperta legis definitione decretum
@@ -91,8 +91,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e138">
           <head xml:id="cice-l3t26-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t26-d1e143">Si infra annum a die monitionis non fit exsecutio testamenti per debentem exsequi,
-            devolvitur exsecutio ad episcopum.</p>
+          <head xml:id="cice-l3t26-d1e143" type="question-title">Si infra annum a die monitionis non fit exsecutio testamenti per debentem exsequi,
+            devolvitur exsecutio ad episcopum.</head>
           <p xml:id="cice-l3t26-d1e146">Idem.</p>
           <p xml:id="cice-l3t26-d1e149">Nos quidem †[arbitramur, quod ad imminentiam expletionis piarum rerum ipse te tuus
             satis ordo compellat. Sed ne zelum tuum cuiuslibet interventus remissionis emolliat, de
@@ -110,8 +110,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e153">
           <head xml:id="cice-l3t26-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t26-d1e158">Debetur legatum, quamvis nudis verbis a testatore sit relictum Idem Petro
-            Subdiacono.</p>
+          <head xml:id="cice-l3t26-d1e158" type="question-title">Debetur legatum, quamvis nudis verbis a testatore sit relictum Idem Petro
+            Subdiacono.</head>
           <p xml:id="cice-l3t26-d1e161">Idem Petro Subdiacono.</p>
           <p xml:id="cice-l3t26-d1e164">Indicante (Et infra:) Cognovimus autem R. referente, quod moriens uxor Redempti unam
             concham argenteam nudis verbis iussit venundari, et suis dari libertis, et scutellam
@@ -120,8 +120,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e169">
           <head xml:id="cice-l3t26-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t26-d1e174">Non debetur legatum, quum testator rem non suam, sed ecclesiae legavit. H. d.
-            simpliciter inhaerendo literae.</p>
+          <head xml:id="cice-l3t26-d1e174" type="question-title">Non debetur legatum, quum testator rem non suam, sed ecclesiae legavit. H. d.
+            simpliciter inhaerendo literae.</head>
           <p xml:id="cice-l3t26-d1e177">Idem T. Episcopo.</p>
           <p xml:id="cice-l3t26-d1e180">Filius noster F. [vir eloquentissimus ad nos veniens] conquestus est nobis, quod
             quondam P. pater suus aliqua ecclesiae vestrae, sepulturae suae gratia, iuris alieni
@@ -132,8 +132,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e184">
           <head xml:id="cice-l3t26-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t26-d1e189">Heredi, non adimplenti iussa testatoris, ab episcopo interdicitur res a testatore
-            relicta. H. d. inhaerendo literae.</p>
+          <head xml:id="cice-l3t26-d1e189" type="question-title">Heredi, non adimplenti iussa testatoris, ab episcopo interdicitur res a testatore
+            relicta. H. d. inhaerendo literae.</head>
           <p xml:id="cice-l3t26-d1e192">Ex concilio Maguntino.</p>
           <p xml:id="cice-l3t26-d1e195">Si heredes iussa testatoris non adimpleverint, ab episcopo loci illius omnis res, quae
             eis relicta est, canonice interdicatur cum fructibus et ceteris emolumentis, ut vota
@@ -141,7 +141,7 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e199">
           <head xml:id="cice-l3t26-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t26-d1e204">De bonis per ecclesiam acquisitis clerici testari non possunt.</p>
+          <head xml:id="cice-l3t26-d1e204" type="question-title">De bonis per ecclesiam acquisitis clerici testari non possunt.</head>
           <p xml:id="cice-l3t26-d1e207">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t26-d1e210">Quum in officiis caritatis primo loco illis teneamur obnoxii, a quibus beneficium nos
             cognoscimus recipisse, econtra quidam clerici, quum ab ecclesiis suis multa beneficia
@@ -153,8 +153,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e214">
           <head xml:id="cice-l3t26-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t26-d1e219">Moderatam eleemosynam de bonis per ecclesiam acquisitis clerici facere possunt, etiam
-            in aegritudine constituti.</p>
+          <head xml:id="cice-l3t26-d1e219" type="question-title">Moderatam eleemosynam de bonis per ecclesiam acquisitis clerici facere possunt, etiam
+            in aegritudine constituti.</head>
           <p xml:id="cice-l3t26-d1e222">Alexander III.</p>
           <p xml:id="cice-l3t26-d1e225">Ad haec praesentibus literis tibi innotescat, quod clerici de mobilibus, quae per
             ecclesiam sunt adepti, de iure testari non possunt; viventes tamen et sui compotes
@@ -163,8 +163,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e229">
           <head xml:id="cice-l3t26-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t26-d1e234">De bonis propriis vel acquisitis intuitu personae clerici testari possunt, de
-            acquisitis intuitu ecclesiae non.</p>
+          <head xml:id="cice-l3t26-d1e234" type="question-title">De bonis propriis vel acquisitis intuitu personae clerici testari possunt, de
+            acquisitis intuitu ecclesiae non.</head>
           <p xml:id="cice-l3t26-d1e237">Idem Vigilensi Episcopo.</p>
           <p xml:id="cice-l3t26-d1e240">Quia nos †tua duxit prudentia consulendos, utrum clerici saeculares de mobilibus vel
             immobilibus rebus possint condere testamentum, Consultationi tuae taliter respondemus,
@@ -175,8 +175,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e244">
           <head xml:id="cice-l3t26-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t26-d1e249">Valet testamentum, quod parochianus facit coram presbytero parochiali et duobus
-            testibus, nec valet contraria consuetudo. H. d inhaerendo verbis literae.</p>
+          <head xml:id="cice-l3t26-d1e249" type="question-title">Valet testamentum, quod parochianus facit coram presbytero parochiali et duobus
+            testibus, nec valet contraria consuetudo. H. d inhaerendo verbis literae.</head>
           <p xml:id="cice-l3t26-d1e252">Idem Hostiensi Episcopo.</p>
           <p xml:id="cice-l3t26-d1e255">Quum esses, frater episcope, in nostra praesentia constitutus, diligenti nobis
             narratione proposuisti, talem in tuo episcopatu consuetudinem obtinere, quod testamenta,
@@ -193,8 +193,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e260">
           <head xml:id="cice-l3t26-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t26-d1e265">Valet ultima voluntas ad pias causas coram duobus testibus, et est casus
-            singularis.</p>
+          <head xml:id="cice-l3t26-d1e265" type="question-title">Valet ultima voluntas ad pias causas coram duobus testibus, et est casus
+            singularis.</head>
           <p xml:id="cice-l3t26-d1e268">Idem Iudicibus Velletrensibus.</p>
           <p xml:id="cice-l3t26-d1e271">Relatum est auribus nostris, quod, quum ad vestrum examen aliqua super testamentis
             relictis ecclesiae causa deducitur, vos secundum humanam, et non divinam legem in ea
@@ -209,10 +209,10 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e275">
           <head xml:id="cice-l3t26-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t26-d1e280">De propriis potest testari clericus; in acquisitis per ecclesiam etiamsi sint mobilia,
+          <head xml:id="cice-l3t26-d1e280" type="question-title">De propriis potest testari clericus; in acquisitis per ecclesiam etiamsi sint mobilia,
             succedit ecclesia vel successor; potest tamen aliqua servitoribus vel pauperibus
             elargiri. Si autem defunctus habet plures ecclesias vel beneficia, fiet aeque divisio
-            inter illa.</p>
+            inter illa.</head>
           <p xml:id="cice-l3t26-d1e283">Idem Electo et Capitulo Cassanensibus.</p>
           <p xml:id="cice-l3t26-d1e286">Relatum est auribus nostris, quod, quia statuimus in Lateranensi concilio, ut bona per
             ecclesiam acquisita ad eam in clericorum obitu devolvantur, dubitatis, an hoc sit de
@@ -235,8 +235,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e290">
           <head xml:id="cice-l3t26-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l3t26-d1e295">Tenet testamentum, si quis extremam voluntatem suam alterius dispositioni committit, et
-            dicitur testatus ad pias causas. H. d. secundum intellectum notabiliorem.</p>
+          <head xml:id="cice-l3t26-d1e295" type="question-title">Tenet testamentum, si quis extremam voluntatem suam alterius dispositioni committit, et
+            dicitur testatus ad pias causas. H. d. secundum intellectum notabiliorem.</head>
           <p xml:id="cice-l3t26-d1e298">Innocentius III. Altissiodorensi Episcopo.</p>
           <p xml:id="cice-l3t26-d1e301">Quum tibi de benignitate (Et infra: [cf. c. 18. de verb. sign. V. 40.]) In secunda vero
             quaestione dicimus, quod qui extremam voluntatem in alterius dispositionem committit non
@@ -244,9 +244,9 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e305">
           <head xml:id="cice-l3t26-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l3t26-d1e310">De relictis ecclesiae petit episcopus partem suam, licet aliquid fuerit sibi a
+          <head xml:id="cice-l3t26-d1e310" type="question-title">De relictis ecclesiae petit episcopus partem suam, licet aliquid fuerit sibi a
             testatore relictum; nisi eo modo et non in fraudem fuerit relictum a testatore, quod
-            maneret ea parte contentus, et legatum agnoverit.</p>
+            maneret ea parte contentus, et legatum agnoverit.</head>
           <p xml:id="cice-l3t26-d1e313">Idem C. tit. S. Laurentii in Lucina Presbytero cardinali.</p>
           <p xml:id="cice-l3t26-d1e316">Officii (Et infra: [cf. c. 38. de elect. I. 6.]) Secundo quaesivisti, quum quis in
             testamento relinquit episcopo propriam portionem, et alia multa monasteriis vel
@@ -265,13 +265,13 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e320">
           <head xml:id="cice-l3t26-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l3t26-d1e325">Relictum episcopo contemplatione personae, non dividitur cum ecclesia cathedrali;
+          <head xml:id="cice-l3t26-d1e325" type="question-title">Relictum episcopo contemplatione personae, non dividitur cum ecclesia cathedrali;
             secus, si contemplatione ecclesiae, sive nihil relinquatur ecclesiae sive aliquid, sive
             coniunctim sive separatim. Si autem soli ecclesiae est factum relictum, episcopus
             habebit portionem canonicam. Praesumitur autem relictum contemplatione ecclesiae factum,
             quando fit ab extraneo habente administrationem, secus, si fiat ab administrationem non
             habente. Cum ecclesiis vero inferioribus episcopus non dividit sibi relictum, quia non
-            est sibi tanta communio cum ecclesiis inferioribus, sicut cum cathedrali.</p>
+            est sibi tanta communio cum ecclesiis inferioribus, sicut cum cathedrali.</head>
           <p xml:id="cice-l3t26-d1e328">Idem.</p>
           <p xml:id="cice-l3t26-d1e331">Requisisti de his, quae testator pro anima sua legat in ultima voluntate, qualiter sint
             inter episcopum et ecclesiam dividenda. Et quidem regulariter verum est, quod episcopus
@@ -318,10 +318,10 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e335">
           <head xml:id="cice-l3t26-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l3t26-d1e340">In bonis patris, matris et aviae habet quis debitum iure naturae, in qua gravari
+          <head xml:id="cice-l3t26-d1e340" type="question-title">In bonis patris, matris et aviae habet quis debitum iure naturae, in qua gravari
             nequit; et filius, rogatus de restituenda hereditate sub conditione, detrahit debitum
             iure naturae et Trebellianicam, in qua computantur fructus post litis contestationem
-            percepti.</p>
+            percepti.</head>
           <p xml:id="cice-l3t26-d1e343">Idem Episcopo Tuscano.</p>
           <p xml:id="cice-l3t26-d1e346">Raynutius de Clera, duas habens filias, Alterocham videlicet et Adiectam, matrem
             insuper Cleram, et uxorem nomine Adelasiam, in extremis positus condidit testamentum,
@@ -375,8 +375,8 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e351">
           <head xml:id="cice-l3t26-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l3t26-d1e356">Episcopus compellit fideicommissarios seu executores testamenti ad exsequendas pias
-            voluntates defunctorum, etiamsi testator hoc interdixisset.</p>
+          <head xml:id="cice-l3t26-d1e356" type="question-title">Episcopus compellit fideicommissarios seu executores testamenti ad exsequendas pias
+            voluntates defunctorum, etiamsi testator hoc interdixisset.</head>
           <p xml:id="cice-l3t26-d1e359">Gregorius IX. Nomon. Episcopo.</p>
           <p xml:id="cice-l3t26-d1e362">Tua nobis fraternitas intimavit, quod nonnulli, tam religiosi quam clerici saeculares
             et laici, pecuniam et alia bona, quae per manus eorum ex testamentis decedentium debent
@@ -388,9 +388,9 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e366">
           <head xml:id="cice-l3t26-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l3t26-d1e371">Filius, rogatus restituere hereditatem, detrahit tertiam iure naturae, et quartam
+          <head xml:id="cice-l3t26-d1e371" type="question-title">Filius, rogatus restituere hereditatem, detrahit tertiam iure naturae, et quartam
             Trebellianicam, in quibus potest legata relinquere, heredes instituere, et poenam
-            imponere.</p>
+            imponere.</head>
           <p xml:id="cice-l3t26-d1e374">Idem.</p>
           <p xml:id="cice-l3t26-d1e377">Raynaldus Peponis filius, heres ab ipso institutus hoc modo, ut patruis suis
             hereditatem restitueret, si absque filiis masculis moreretur, cum eis mortuo Pepone
@@ -439,7 +439,7 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e381">
           <head xml:id="cice-l3t26-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l3t26-d1e386">Exsecutor testamentarius, qui suscepit illud officium, exsequi compellitur.</p>
+          <head xml:id="cice-l3t26-d1e386" type="question-title">Exsecutor testamentarius, qui suscepit illud officium, exsequi compellitur.</head>
           <p xml:id="cice-l3t26-d1e389">Idem.</p>
           <p xml:id="cice-l3t26-d1e392">Ioannes clericus et P. laicus, exsecutores ultimae voluntatis O. clerici S. Crucis, qui
             venerabilibus et piis locis de bonis suis in ultima voluntate legavit, mandans insuper,
@@ -448,7 +448,7 @@
         </div>
         <div xml:id="cice-l3t26-Dd1e396">
           <head xml:id="cice-l3t26-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l3t26-d1e401">Ponit quaedam legata, in quibus non solvitur canonica portio, nisi fiat in fraudem.</p>
+          <head xml:id="cice-l3t26-d1e401" type="question-title">Ponit quaedam legata, in quibus non solvitur canonica portio, nisi fiat in fraudem.</head>
           <p xml:id="cice-l3t26-d1e404">Idem.</p>
           <p xml:id="cice-l3t26-d1e407">De his, quae in ornamentis vel pro eis, seu fabrica, luminaribus, anniversario,
             septimo, vigesimo, tricesimo die, sive aliis ad perpetuum cultum divinum legantur

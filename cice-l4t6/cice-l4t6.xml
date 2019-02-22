@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l4t6-Dd1e108">
           <head xml:id="cice-l4t6-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t6-d1e113">Diaconus vel subdiaconus matrimonium contrahere non possunt et, si contraxerint,
-            etiamsi sint facti irregulares, debent separari.</p>
+          <head xml:id="cice-l4t6-d1e113" type="question-title">Diaconus vel subdiaconus matrimonium contrahere non possunt et, si contraxerint,
+            etiamsi sint facti irregulares, debent separari.</head>
           <p xml:id="cice-l4t6-d1e116">Alexander III. Remensi Archiepiscopo.</p>
           <p xml:id="cice-l4t6-d1e119">De diacono vero, qui in sabbato sancto quendam alium diaconum vulneravit, et uxorem
             accepit, hoc tuae prudentiae respondemus, quod, si contrito et humiliato corde ad
@@ -71,7 +71,7 @@
         </div>
         <div xml:id="cice-l4t6-Dd1e123">
           <head xml:id="cice-l4t6-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t6-d1e128">Subdiaconus matrimonium contrahero non potest.</p>
+          <head xml:id="cice-l4t6-d1e128" type="question-title">Subdiaconus matrimonium contrahero non potest.</head>
           <p xml:id="cice-l4t6-d1e131">Idem Cenomanensi Episcopo.</p>
           <p xml:id="cice-l4t6-d1e134">Ex literarum tuarum tenore accepimus quod F. lator praesentium, in subdiaconatus
             officio constitutus, quandam sibi in coniugem copulavit. Unde tu, sicut vir providus et
@@ -85,8 +85,8 @@
         </div>
         <div xml:id="cice-l4t6-Dd1e138">
           <head xml:id="cice-l4t6-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t6-d1e143">Votum solenne impedit et dirimit matrimonium post contractum; votum simplex tantum
-            impedit contrahendum, sed non dirimit post contractum.</p>
+          <head xml:id="cice-l4t6-d1e143" type="question-title">Votum solenne impedit et dirimit matrimonium post contractum; votum simplex tantum
+            impedit contrahendum, sed non dirimit post contractum.</head>
           <p xml:id="cice-l4t6-d1e146">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l4t6-d1e149">Meminimus, nos ex parte tua quaestionem huiusmodi audivisse, scilicet utrum illi, qui
             se ad religionem coram episcopo devoverunt transituros, et habitum religionis
@@ -101,9 +101,9 @@
         </div>
         <div xml:id="cice-l4t6-Dd1e153">
           <head xml:id="cice-l4t6-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t6-d1e158">Susceptio habitus professorum extra religionem a non habente potestatem incorporandi
+          <head xml:id="cice-l4t6-d1e158" type="question-title">Susceptio habitus professorum extra religionem a non habente potestatem incorporandi
             religioni, impedit in dubio matrimonium contrahendum, sed non dirimit contractum. H. d.
-            secundum intellectum, quem tenet Panormitanus.</p>
+            secundum intellectum, quem tenet Panormitanus.</head>
           <p xml:id="cice-l4t6-d1e161">Idem Lucensi Episcopo.</p>
           <p xml:id="cice-l4t6-d1e164">Consuluit nos tua fraternitas, quid faciendum sit de nobili muliere, quae post mortem
             mariti, vestibus pretiosis abiectis, mutavit habitum, et de manu presbyteri velamen
@@ -118,8 +118,8 @@
         </div>
         <div xml:id="cice-l4t6-Dd1e169">
           <head xml:id="cice-l4t6-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t6-d1e174">Votum castitatis de praesenti impedit matrimonium contrahendum; ecclesia tamen ex causa
-            matrimonium contrahi quandoque permittit. H. d. inhaerendo literae.</p>
+          <head xml:id="cice-l4t6-d1e174" type="question-title">Votum castitatis de praesenti impedit matrimonium contrahendum; ecclesia tamen ex causa
+            matrimonium contrahi quandoque permittit. H. d. inhaerendo literae.</head>
           <p xml:id="cice-l4t6-d1e177">Idem.</p>
           <p xml:id="cice-l4t6-d1e180">Veniens ad praesentiam nostram M. eremita sua nobis assertione proposuit, quod I.
             mulier cuidam viro absenti fide data se nupturam promisit, sed postmodum, audiens plura
@@ -135,8 +135,8 @@
         </div>
         <div xml:id="cice-l4t6-Dd1e184">
           <head xml:id="cice-l4t6-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t6-d1e189">Votum simplex impedit sponsalia de futuro, non autem dirimit matrimonium sequens; secus
-            in voto solenni.</p>
+          <head xml:id="cice-l4t6-d1e189" type="question-title">Votum simplex impedit sponsalia de futuro, non autem dirimit matrimonium sequens; secus
+            in voto solenni.</head>
           <p xml:id="cice-l4t6-d1e192">Coelestinus III.</p>
           <p xml:id="cice-l4t6-d1e195">Rursus quidam, ut dicis, votum castitatis emittens, iuravit, se quandam ducturum postea
             in uxorem. Unde a fraternitate tua requisiti, consultis viris prudentibus, arbitramur,
@@ -149,7 +149,7 @@
         </div>
         <div xml:id="cice-l4t6-Dd1e199">
           <head xml:id="cice-l4t6-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t6-d1e204">Votum solenne impedit et dirimit matrimonium post contractum.</p>
+          <head xml:id="cice-l4t6-d1e204" type="question-title">Votum solenne impedit et dirimit matrimonium post contractum.</head>
           <p xml:id="cice-l4t6-d1e207">Innocentius III. Ulisbonensi et Colimbriensi Episcopis.</p>
           <p xml:id="cice-l4t6-d1e210">Insinuante I. nobili muliere nostro est apostolatui reseratum, quod dudum puella et in
             annis teneris constituta, M. Sancii accepit in virum, qui ab inimicis crucis Christi

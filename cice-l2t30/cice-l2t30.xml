@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l2t30-Dd1e108">
           <head xml:id="cice-l2t30-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t30-d1e113">De re scienter confirmata per Papam inferior iudex cognoscere non potest, nisi
+          <head xml:id="cice-l2t30-d1e113" type="question-title">De re scienter confirmata per Papam inferior iudex cognoscere non potest, nisi
             confirmatio non tenuerit, ut quia subreptitia, vel de re litigiosa. H. d. cum cap.
-            sequenti.</p>
+            sequenti.</head>
           <p xml:id="cice-l2t30-d1e116">Alexander III. Exonensi Episcopo.</p>
           <p xml:id="cice-l2t30-d1e119">Si quis rei litigiosae confirmationem impetravit ab apostolica sede, non minus potest
             iudex de causa cognoscere, et eam fine debito terminare. Sed si rem tunc pacifice
@@ -69,7 +69,7 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e123">
           <head xml:id="cice-l2t30-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t30-d1e128">Idem dicit.</p>
+          <head xml:id="cice-l2t30-d1e128" type="question-title">Idem dicit.</head>
           <p xml:id="cice-l2t30-d1e131">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l2t30-d1e134">De confirmationibus autem Romanorum Pontificum volumus te tenere, quod contra illas,
             nisi novum apostolicae sedis procedat mandatum, aut certum sit, quod ipsae
@@ -77,9 +77,9 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e138">
           <head xml:id="cice-l2t30-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t30-d1e143">Literae confirmationis super sententia, a qua erat appellatum, non valent, si
+          <head xml:id="cice-l2t30-d1e143" type="question-title">Literae confirmationis super sententia, a qua erat appellatum, non valent, si
             appellatus malitiose praevenit appellantem; alias pendent, donec de appellatione
-            cognoscatur.</p>
+            cognoscatur.</head>
           <p xml:id="cice-l2t30-d1e146">Coelestinus III.</p>
           <p xml:id="cice-l2t30-d1e149">Bonae memoriae A. quondam canonicus vester, qui apud sedem apostolicam diem clausit
             extremum, super quibusdam nos consulere studuit, quae secundum tenorem nostrae
@@ -105,9 +105,9 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e153">
           <head xml:id="cice-l2t30-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t30-d1e158">Innovatio privilegii novum ius non tribuit, nec antiquum confirmat; sed, si quod
+          <head xml:id="cice-l2t30-d1e158" type="question-title">Innovatio privilegii novum ius non tribuit, nec antiquum confirmat; sed, si quod
             competebat, conservat. Brevius sic potest summari: Innovatio privilegii non inducit
-            confirmationem iuris in eo contenti.</p>
+            confirmationem iuris in eo contenti.</head>
           <p xml:id="cice-l2t30-d1e161">Innocentius III. Decano Padeburensi.</p>
           <p xml:id="cice-l2t30-d1e164">Quum dilecta in Christo filia abbatissa et sorores ecclesiae de Gardeven. sua cuperent
             privilegia innovari propter, viarum discrimina quatuor episcopis, et abbatibus totidem,
@@ -164,9 +164,9 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e169">
           <head xml:id="cice-l2t30-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t30-d1e174">Non valet confirmatio, quam religiosus impetravit a Papa super temporali
+          <head xml:id="cice-l2t30-d1e174" type="question-title">Non valet confirmatio, quam religiosus impetravit a Papa super temporali
             administratione seu prioratu, si tacuit se regularem. Si vero expressit, rescriptum
-            praesumitur falsum, quia Papa non consuevit concedere. H. d. cum sequent.</p>
+            praesumitur falsum, quia Papa non consuevit concedere. H. d. cum sequent.</head>
           <p xml:id="cice-l2t30-d1e177">Idem Episcopo et praeposito Uticensibus.</p>
           <p xml:id="cice-l2t30-d1e180">Ad nostram audientiam dilecto filio praeposito Nemanensis ecclesiae significante
             pervenit, quod quidam canonici Nemanensis ecclesiae, super dilapidatione vel aliis
@@ -180,7 +180,7 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e184">
           <head xml:id="cice-l2t30-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t30-d1e189">Idem dicit, quod supra cap. proximo.</p>
+          <head xml:id="cice-l2t30-d1e189" type="question-title">Idem dicit, quod supra cap. proximo.</head>
           <p xml:id="cice-l2t30-d1e192">Idem.</p>
           <p xml:id="cice-l2t30-d1e195">Porrecta nobis ex parte tua petitio continebat, quod plures ex religiosis, qui
             prioratibus vel aliis administrationibus praesunt, a nobis super ipsis prioratibus,
@@ -195,8 +195,8 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e199">
           <head xml:id="cice-l2t30-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t30-d1e204">Sententia seu laudum contra formam iuris vel compromissi latum per arbitros, licet per
-            Papam in forma communi fuerit confirmatum, non tenet.</p>
+          <head xml:id="cice-l2t30-d1e204" type="question-title">Sententia seu laudum contra formam iuris vel compromissi latum per arbitros, licet per
+            Papam in forma communi fuerit confirmatum, non tenet.</head>
           <p xml:id="cice-l2t30-d1e207">Idem nobili viro Matthaeo de Rivariis.</p>
           <p xml:id="cice-l2t30-d1e210">Examinata causa, quae vertitur inter te et milites Campanicos super ecclesia sancti
             Angeli de Casaperota, auditis, confessionibus et attestationibus intellectis, inspectis
@@ -209,8 +209,8 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e214">
           <head xml:id="cice-l2t30-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t30-d1e219">In confirmatione ex certa scientia dictio “sicut” ponitur causative; nec nocet, si
-            verbum confirmationis praecedit tenorem connrmati.</p>
+          <head xml:id="cice-l2t30-d1e219" type="question-title">In confirmatione ex certa scientia dictio “sicut” ponitur causative; nec nocet, si
+            verbum confirmationis praecedit tenorem connrmati.</head>
           <p xml:id="cice-l2t30-d1e222">Honorius III. illustri Regi, Baronibus et Militibus, et aliis hominibus Cypri.</p>
           <p xml:id="cice-l2t30-d1e225">Venerabilis frater noster archiepiscopus Nichosiensis et suffraganei eius transmissa
             nobis petitione monstrarunt, quod inter ipsos ex parte una, et vos ex altera super
@@ -229,8 +229,8 @@
         </div>
         <div xml:id="cice-l2t30-Dd1e229">
           <head xml:id="cice-l2t30-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t30-d1e234">Collatio ecclesiae alteri facta per legatum et per Papam confirmata ius dioecesani non
-            laedit.</p>
+          <head xml:id="cice-l2t30-d1e234" type="question-title">Collatio ecclesiae alteri facta per legatum et per Papam confirmata ius dioecesani non
+            laedit.</head>
           <p xml:id="cice-l2t30-d1e237">Idem universis Abbatibus et Praelatis ac Conventibus et Clericis in Constantinopolitana
             dioecesi constitutis.</p>
           <p xml:id="cice-l2t30-d1e240">Sua nobis venerabilis frater noster patriarcha Constantinopolitanus conquestione

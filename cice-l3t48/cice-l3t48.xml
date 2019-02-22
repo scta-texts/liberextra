@@ -57,16 +57,16 @@
 
         <div xml:id="cice-l3t48-Dd1e108">
           <head xml:id="cice-l3t48-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t48-d1e113">Habentes beneficium in ecclesia tenentur contribuere ad ipsius reparationem.</p>
+          <head xml:id="cice-l3t48-d1e113" type="question-title">Habentes beneficium in ecclesia tenentur contribuere ad ipsius reparationem.</head>
           <p xml:id="cice-l3t48-d1e116">Ex concilio Maguntino.</p>
           <p xml:id="cice-l3t48-d1e119">Quicunque ecclesiasticum beneficium habent, omnino adiuvent ad tecta ecclesiae
             restauranda, vel ipsas ecclesias emendandas, et nonam et decimam reddant.</p>
         </div>
         <div xml:id="cice-l3t48-Dd1e123">
           <head xml:id="cice-l3t48-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t48-d1e128">Leprosi permitti debent, sine praeiudicio antiquarum parochiarum, habere ecclesiam
+          <head xml:id="cice-l3t48-d1e128" type="question-title">Leprosi permitti debent, sine praeiudicio antiquarum parochiarum, habere ecclesiam
             propriam et presbyterum, nec tenentur solvere decimas de hortis vel nutrimentis
-            animalium.</p>
+            animalium.</head>
           <p xml:id="cice-l3t48-d1e131">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t48-d1e134">Quum dicat Apostolus, †abundantiorem honorem membris inferioribus deferendum, e contra
             quidam, quae sua sunt, non quae Iesu Christi, quaerentes, leprosis, qui cum sanis
@@ -82,8 +82,8 @@
         </div>
         <div xml:id="cice-l3t48-Dd1e138">
           <head xml:id="cice-l3t48-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t48-d1e143">Propter nimiam distantiam ecclesiae potest nova ecclesia in ipsius parochia aedificari,
-            et certa portio de antiqua sibi deputari.</p>
+          <head xml:id="cice-l3t48-d1e143" type="question-title">Propter nimiam distantiam ecclesiae potest nova ecclesia in ipsius parochia aedificari,
+            et certa portio de antiqua sibi deputari.</head>
           <p xml:id="cice-l3t48-d1e146">Alexander III. Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l3t48-d1e149">Ad audientiam nostram noveris pervenisse, quod villa, quae dicitur H., tantum
             perhibetur ab ecclesia parochiali distare, ut in tempore hiemali, quum pluviae inundant,
@@ -103,8 +103,8 @@
         </div>
         <div xml:id="cice-l3t48-Dd1e153">
           <head xml:id="cice-l3t48-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t48-d1e158">Rectores ecclesiarum possunt compelli, ut de reditibus, qui supersunt teneantur
-            conferre ad constructionem seu reparationem ecclesiae.</p>
+          <head xml:id="cice-l3t48-d1e158" type="question-title">Rectores ecclesiarum possunt compelli, ut de reditibus, qui supersunt teneantur
+            conferre ad constructionem seu reparationem ecclesiae.</head>
           <p xml:id="cice-l3t48-d1e161">Idem Lexoviensi Episcopo.</p>
           <p xml:id="cice-l3t48-d1e164">De his sane, qui parochiales ecclesias habent, fraternitati tuae taliter duximus
             respondendum, quod ad reparationem et institutionem ecclesiarum cogi debent, quum opus
@@ -113,8 +113,8 @@
         </div>
         <div xml:id="cice-l3t48-Dd1e169">
           <head xml:id="cice-l3t48-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t48-d1e174">Saecularis ecclesia sine praeiudicio clericorum ad statum regularem potest reparari, et
-            collegio, quod nondum est, privilegium non confertur.</p>
+          <head xml:id="cice-l3t48-d1e174" type="question-title">Saecularis ecclesia sine praeiudicio clericorum ad statum regularem potest reparari, et
+            collegio, quod nondum est, privilegium non confertur.</head>
           <p xml:id="cice-l3t48-d1e177">Urbanus III.</p>
           <p xml:id="cice-l3t48-d1e180">Ad audientiam nostram iam pridem pervenit, quod tu in ecclesia de Cologia, de qua in
             episcopum vocatus et electus fuisti, regulares canonicos desideras ordinare, et eorum
@@ -133,8 +133,8 @@
         </div>
         <div xml:id="cice-l3t48-Dd1e184">
           <head xml:id="cice-l3t48-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t48-d1e189">Non obstante iuramento de rebus ecclesiae non alienandis, potest episcopus propter
-            indigentiam novam ecclesiam aedificare.</p>
+          <head xml:id="cice-l3t48-d1e189" type="question-title">Non obstante iuramento de rebus ecclesiae non alienandis, potest episcopus propter
+            indigentiam novam ecclesiam aedificare.</head>
           <p xml:id="cice-l3t48-d1e192">Coelestinus III.</p>
           <p xml:id="cice-l3t48-d1e195">Tua nos duxit (Et infra:) Praeterea, quia occasione iuramenti, quod de rebus ecclesiae
             non alienandis te asseris praestitisse, in locis tui episcopatus, in quibus populi

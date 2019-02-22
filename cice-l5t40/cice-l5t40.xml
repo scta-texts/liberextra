@@ -57,20 +57,20 @@
 
         <div xml:id="cice-l5t40-Dd1e108">
           <head xml:id="cice-l5t40-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t40-d1e113">Novale est terra noviter ad culturam redacta.</p>
+          <head xml:id="cice-l5t40-d1e113" type="question-title">Novale est terra noviter ad culturam redacta.</head>
           <p xml:id="cice-l5t40-d1e116">Hieronymus super Osee.</p>
           <p xml:id="cice-l5t40-d1e119">“Innovate novale.” Novale est ager nunc primum praecisus.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e123">
           <head xml:id="cice-l5t40-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t40-d1e128">Appellatione patris veniunt in lata significatione omnes descendentes.</p>
+          <head xml:id="cice-l5t40-d1e128" type="question-title">Appellatione patris veniunt in lata significatione omnes descendentes.</head>
           <p xml:id="cice-l5t40-d1e131">Idem super Danielem.</p>
           <p xml:id="cice-l5t40-d1e134">“Nam et res Nabuchodonosor, pater tuus,” id est, proavus more scripturae, quae avos et
             deinceps patres appellat.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e138">
           <head xml:id="cice-l5t40-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t40-d1e143">Non licitur natus qui statim decessit.</p>
+          <head xml:id="cice-l5t40-d1e143" type="question-title">Non licitur natus qui statim decessit.</head>
           <p xml:id="cice-l5t40-d1e146">Idem in Parabolis.</p>
           <p xml:id="cice-l5t40-d1e149">“Nam et ego unigenitus fui coram matre mea.” Quare unigenitum se coram matre nominat,
             quem fratrem uterinum praecessisse scriptura testatur, nisi quia ille mox, natus sine
@@ -78,14 +78,14 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e153">
           <head xml:id="cice-l5t40-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t40-d1e158">Dictio “antequam” non semper implicat.</p>
+          <head xml:id="cice-l5t40-d1e158" type="question-title">Dictio “antequam” non semper implicat.</head>
           <p xml:id="cice-l5t40-d1e161">Idem super Matthaeum.</p>
           <p xml:id="cice-l5t40-d1e164">Quod dicitur: “antequam convenirent,” non sequitur, ut postea convenirent; sed
             scriptura quod factum non sit ostendit.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e169">
           <head xml:id="cice-l5t40-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t40-d1e174">Primogenitus dicitur qui primo nascitur, etiamsi nullus sequatur eum.</p>
+          <head xml:id="cice-l5t40-d1e174" type="question-title">Primogenitus dicitur qui primo nascitur, etiamsi nullus sequatur eum.</head>
           <p xml:id="cice-l5t40-d1e177">Idem in eodem.</p>
           <p xml:id="cice-l5t40-d1e180">“Ioseph non cognovit Mariam, donec peperit filium suum primogenitum.” Ex hoc loco
             quidam perversissime suspicantur, et alios filios Mariam habuisse, dicentes,
@@ -95,21 +95,21 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e184">
           <head xml:id="cice-l5t40-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t40-d1e189">Verba sunt intelligenda non secundum quod sonant, sed secundum mentem proferentis.</p>
+          <head xml:id="cice-l5t40-d1e189" type="question-title">Verba sunt intelligenda non secundum quod sonant, sed secundum mentem proferentis.</head>
           <p xml:id="cice-l5t40-d1e192">Hilarius.</p>
           <p xml:id="cice-l5t40-d1e195">Intelligentia dictorum ex causis est assumenda dicendi, quia non sermoni res, sed rei
             est sermo subiectus.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e199">
           <head xml:id="cice-l5t40-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t40-d1e204">Non vitiatur factum, vario modo narratum, ubi idem in subatantia concluditur.</p>
+          <head xml:id="cice-l5t40-d1e204" type="question-title">Non vitiatur factum, vario modo narratum, ubi idem in subatantia concluditur.</head>
           <p xml:id="cice-l5t40-d1e207">Augustinus super Matthaeum.</p>
           <p xml:id="cice-l5t40-d1e210">Nihil obstat narrandi diversitas, ubi eadem dicuntur, maxime quum quisque
             evangelistarum eo ordine credat se dicere, quo Deus voluit.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e214">
           <head xml:id="cice-l5t40-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t40-d1e219">Sensum, non verba considerare debemus.</p>
+          <head xml:id="cice-l5t40-d1e219" type="question-title">Sensum, non verba considerare debemus.</head>
           <p xml:id="cice-l5t40-d1e222">Gregorius.</p>
           <p xml:id="cice-l5t40-d1e225">Propterea, si prolixam epistolam meam ad interpretandum accipere te fortasse
             contigerit, rogo, non verbum ex verbo, sed sensum ex sensu transferri, quia plerumque,
@@ -117,14 +117,14 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e229">
           <head xml:id="cice-l5t40-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t40-d1e234">Dicit, quis proprie sit praepositus.</p>
+          <head xml:id="cice-l5t40-d1e234" type="question-title">Dicit, quis proprie sit praepositus.</head>
           <p xml:id="cice-l5t40-d1e237">Isidorus.</p>
           <p xml:id="cice-l5t40-d1e240">Quamvis omnes, qui praesunt, praepositi rite vocentur, usus tamen obtinuit, eos vocari
             praepositos, qui quandam prioratus curam super alios gerunt.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e244">
           <head xml:id="cice-l5t40-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t40-d1e249">Non recipit congruam summationem.</p>
+          <head xml:id="cice-l5t40-d1e249" type="question-title">Non recipit congruam summationem.</head>
           <p xml:id="cice-l5t40-d1e252">Idem in libro Etymologiarum.</p>
           <p xml:id="cice-l5t40-d1e255">Forus est exercendarum litium locus, a fando dictus, sive a Foroneo rege, qui primus
             Graecis legem dedit. Qui locus et prorostra vocatur ab eo, quod ex bello Punico captis
@@ -160,15 +160,15 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e260">
           <head xml:id="cice-l5t40-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t40-d1e265">Dicit, quid sit pactum, et unde dicatur.</p>
+          <head xml:id="cice-l5t40-d1e265" type="question-title">Dicit, quid sit pactum, et unde dicatur.</head>
           <p xml:id="cice-l5t40-d1e268">Idem.</p>
           <p xml:id="cice-l5t40-d1e271">Pactum dicitur inter partes ex pace conveniens scriptura, legibus ac moribus
             comprobata: [et] dictum pactum, quasi ex pace factum.</p>
         </div>
         <div xml:id="cice-l5t40-Dd1e275">
           <head xml:id="cice-l5t40-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t40-d1e280">Hic Isidorus ponit etymologiam iuris, prout habetur in re, non prout est generale
-            nomen.</p>
+          <head xml:id="cice-l5t40-d1e280" type="question-title">Hic Isidorus ponit etymologiam iuris, prout habetur in re, non prout est generale
+            nomen.</head>
           <p xml:id="cice-l5t40-d1e283">Idem in eodem.</p>
           <p xml:id="cice-l5t40-d1e286">Ius dictum est a iure possidendo. Hoc enim iure possidetur, quod iuste, hoc iuste, quod
             bene; quod autem male possidetur, alienum est. Male autem possidet, qui vel suis male
@@ -176,8 +176,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e290">
           <head xml:id="cice-l5t40-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t40-d1e295">Quicquid fidelis offert ecclesiae, oblationis nomine continetur, et a saecularibus
-            possideri non debet.</p>
+          <head xml:id="cice-l5t40-d1e295" type="question-title">Quicquid fidelis offert ecclesiae, oblationis nomine continetur, et a saecularibus
+            possideri non debet.</head>
           <p xml:id="cice-l5t40-d1e298">Paschalis II. Canonicis sancti Martini.</p>
           <p xml:id="cice-l5t40-d1e301">Causa Carpensis plebis (Et infra:) Ceterum primitiae, decimae et oblationes in solis
             ecclesiarum bonis praecipue numerantur. Oblationes vero dicimus, quaecunque de propriis
@@ -188,9 +188,9 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e305">
           <head xml:id="cice-l5t40-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t40-d1e310">Solus sacerdos potest sacramentum extrmae unctionis infirmo conferre. H. d. – §. 1. In
+          <head xml:id="cice-l5t40-d1e310" type="question-title">Solus sacerdos potest sacramentum extrmae unctionis infirmo conferre. H. d. – §. 1. In
             anno bissextili servari debet loci consuetudo circa diem S. Matthiae festandum, dum
-            tamen vigilia continuetur festo. Hoc dicit.</p>
+            tamen vigilia continuetur festo. Hoc dicit.</head>
           <p xml:id="cice-l5t40-d1e313">Alexander III.</p>
           <p xml:id="cice-l5t40-d1e316">Quaesivit a nobis fraternitas tua, †utrum sacerdos uno clerico tantum praesente
             infirmum debeat inungere, et qua die festum beati Matthiae in anno bissextili debeat
@@ -206,7 +206,7 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e320">
           <head xml:id="cice-l5t40-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t40-d1e325">Per verbum: “statuo et praecipio,” diffinitiva sententia ferri potest.</p>
+          <head xml:id="cice-l5t40-d1e325" type="question-title">Per verbum: “statuo et praecipio,” diffinitiva sententia ferri potest.</head>
           <p xml:id="cice-l5t40-d1e328">Coelestinus III.</p>
           <p xml:id="cice-l5t40-d1e331">In his, quae ambiguitatem continent, †ad sedem apostolicam ex debito recursus habetur,
             ad quam re vera, tanquam matrem et caput omnium ecclesiarum, maiores et dtfficiliores
@@ -237,7 +237,7 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e335">
           <head xml:id="cice-l5t40-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t40-d1e340">Beneficium principis latissime interpretari debet.</p>
+          <head xml:id="cice-l5t40-d1e340" type="question-title">Beneficium principis latissime interpretari debet.</head>
           <p xml:id="cice-l5t40-d1e343">Innocentius III. Patriarchae Grandensi.</p>
           <p xml:id="cice-l5t40-d1e346">Olim tibi scripsisse recolimus, ut, si dilectus filius archipresbyter et canonici
             Paduani, quibus super hoc scripta nostra direximus, dilecto filio magistro G. canonico
@@ -257,8 +257,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e351">
           <head xml:id="cice-l5t40-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t40-d1e356">Generale dicitur interdictum, quod fertur nedum in provinciam, sed in villam vel
-            castrum.</p>
+          <head xml:id="cice-l5t40-d1e356" type="question-title">Generale dicitur interdictum, quod fertur nedum in provinciam, sed in villam vel
+            castrum.</head>
           <p xml:id="cice-l5t40-d1e359">Idem Colubriensi et aliis Episcopis in regno Portugaliae constitutis.</p>
           <p xml:id="cice-l5t40-d1e362">Quum in partibus vestris peccatis exigentibus saepe contingat diversa loca interdicto
             supponi, quando generale vel particulare dici debeat interdictum, apud vos accepimus in
@@ -278,9 +278,9 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e366">
           <head xml:id="cice-l5t40-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t40-d1e371">Privilegium contra consuetudinem, iuri communi obviantem, large est interpretandum. H.
+          <head xml:id="cice-l5t40-d1e371" type="question-title">Privilegium contra consuetudinem, iuri communi obviantem, large est interpretandum. H.
             d. secundum intellectum abbatis antiqui, et est casus not. secundum hunc
-            intellectum.</p>
+            intellectum.</head>
           <p xml:id="cice-l5t40-d1e374">Idem Altissiodorensi Episcopo.</p>
           <p xml:id="cice-l5t40-d1e377">Quum tibi de benignitate sedis apostolicae sit indultum, quod ordinatio rerum
             clericorum ab intestato decedentium libere in tua potestate ac dispositione permaneat,
@@ -295,8 +295,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e381">
           <head xml:id="cice-l5t40-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t40-d1e386">Iurans obedire praelato et ecclesiae, non clero dioecesano, sed capitulo ecclesiae
-            cathedralis obedire tenetur.</p>
+          <head xml:id="cice-l5t40-d1e386" type="question-title">Iurans obedire praelato et ecclesiae, non clero dioecesano, sed capitulo ecclesiae
+            cathedralis obedire tenetur.</head>
           <p xml:id="cice-l5t40-d1e389">Idem Praeposito et Capitulo Placentino.</p>
           <p xml:id="cice-l5t40-d1e392">Quum clerici Placentini iuramentum praestant sub hac forma verborum: “Ego talis ab hac
             hora in antea fidelis ero et obediens sanctae Placentinae ecclesiae, et domino meo,
@@ -310,8 +310,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e396">
           <head xml:id="cice-l5t40-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l5t40-d1e401">Appellatione ecclesiasticae censurae comprehenditur excommunicatio, suspensio et
-            interdictum.</p>
+          <head xml:id="cice-l5t40-d1e401" type="question-title">Appellatione ecclesiasticae censurae comprehenditur excommunicatio, suspensio et
+            interdictum.</head>
           <p xml:id="cice-l5t40-d1e404">Idem Priori S. Fridiani Lucani.</p>
           <p xml:id="cice-l5t40-d1e407">Quaerenti, quid per censuram ecclesiasticam debeat intelligi, quum huiusmodi clausulam
             in nostris literis apponimus, respondemus, quod per eam non solum interdicti, sed
@@ -320,8 +320,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e411">
           <head xml:id="cice-l5t40-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l5t40-d1e416">In privilegiis de decimis novalium non solvendis illud appellatur novale, de cuius
-            cultura non est memoria, et quod prius modicum vel nullum fructum afferebat.</p>
+          <head xml:id="cice-l5t40-d1e416" type="question-title">In privilegiis de decimis novalium non solvendis illud appellatur novale, de cuius
+            cultura non est memoria, et quod prius modicum vel nullum fructum afferebat.</head>
           <p xml:id="cice-l5t40-d1e419">Idem Caesaraugustano Episcopo.</p>
           <p xml:id="cice-l5t40-d1e422">Quid per “novale” vocabulum intelligi debeat, a nobis tua fraternitas requisivit. Licet
             autem quidam dixerint, quod novale sit terra praecisa, quae anno cessat, aliis
@@ -338,8 +338,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e426">
           <head xml:id="cice-l5t40-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l5t40-d1e431">Si ecclesia, subiecta episcopo, unitur alteri, vel gubernanda committitur, salvo iure
-            matricis ecclesiae: per matricem ecclesiam intelligitur cathedralis, et non Romana.</p>
+          <head xml:id="cice-l5t40-d1e431" type="question-title">Si ecclesia, subiecta episcopo, unitur alteri, vel gubernanda committitur, salvo iure
+            matricis ecclesiae: per matricem ecclesiam intelligitur cathedralis, et non Romana.</head>
           <p xml:id="cice-l5t40-d1e434">Idem Abbati F. et B. Monachis Alcobaciae.</p>
           <p xml:id="cice-l5t40-d1e437">Venerabili fratri nostro Colubriensi episcopo didicimus conquerente, quod, quum fratres
             sanctae Crucis monasterium de Argariis sub protectione sua nuper receperint, quod suis
@@ -359,11 +359,11 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e442">
           <head xml:id="cice-l5t40-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l5t40-d1e447">Excommunicatus vel interdictus pro contumacia vel offensa dubia absolvitur cautione
+          <head xml:id="cice-l5t40-d1e447" type="question-title">Excommunicatus vel interdictus pro contumacia vel offensa dubia absolvitur cautione
             praestita de stando iuri. Si vero fuit excommunicatus vel interdictus pro manifesta
             offensa, tunc prius debet satisfacere, antequam absolvatur. Et dicitur manifesta, de qua
             constat per confessionem vel probationem legitimam vel rei evidentiam. H. d. cum cap.
-            sequ.</p>
+            sequ.</head>
           <p xml:id="cice-l5t40-d1e450">Idem Abbati sanctae Genovefae, Decano et Cancellario Parisiensibus.</p>
           <p xml:id="cice-l5t40-d1e453">Ex parte in Christo dilectae filiae nobilis mulieris comitissae Blesensis, †ad nostram
             praesentiam destinati, sibi postularunt audientiam exhiberi, ut audiremus iniurias, quas
@@ -503,8 +503,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e457">
           <head xml:id="cice-l5t40-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l5t40-d1e462">Summatum est supr. cap. proximo; vel dic: manifestum dicitur, quod per confessionem vel
-            probationem legitimam vel evidentiam rei constat.</p>
+          <head xml:id="cice-l5t40-d1e462" type="question-title">Summatum est supr. cap. proximo; vel dic: manifestum dicitur, quod per confessionem vel
+            probationem legitimam vel evidentiam rei constat.</head>
           <p xml:id="cice-l5t40-d1e465">Idem Comitissae Blesensi.</p>
           <p xml:id="cice-l5t40-d1e468">Quum olim pro canonicis Carnotensibus quoddam capitulum contra te fuerit allegatum,
             quod dicebant in ecclesiae suae privilegiis contineri, ut videlicet nemini liceat
@@ -528,9 +528,9 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e472">
           <head xml:id="cice-l5t40-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l5t40-d1e477">Verba privilegiorum debent intelligi, ut aliquid asserant, et non remaneat ambiguitas,
+          <head xml:id="cice-l5t40-d1e477" type="question-title">Verba privilegiorum debent intelligi, ut aliquid asserant, et non remaneat ambiguitas,
             et ideo verba: “secundum” et “iuxta,” videntur apposita causative, non
-            conditionabiliter. H. d. Panorm.</p>
+            conditionabiliter. H. d. Panorm.</head>
           <p xml:id="cice-l5t40-d1e480">Idem Episcopo et Cantori Atrebatensibus.</p>
           <p xml:id="cice-l5t40-d1e483">Abbate sancti Silvani Alciatensis olim viam universae carnis ingresso, quum eiusdem
             loci monachi elegissent quendam de ipsius ecclesiae gremio in abbatem, et eiusdem
@@ -600,9 +600,9 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e487">
           <head xml:id="cice-l5t40-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l5t40-d1e492">Dicit, qui dicuntur haeretici manifesti. Secundo, quae sint pedagia, guidagia et
+          <head xml:id="cice-l5t40-d1e492" type="question-title">Dicit, qui dicuntur haeretici manifesti. Secundo, quae sint pedagia, guidagia et
             salinaria interdicta. Tertio dicitur, quomodo intelligitur praeceptum, factum laico,
-            quod de se conquerentibus in ecclesiastico foro respondeat. H. d.</p>
+            quod de se conquerentibus in ecclesiastico foro respondeat. H. d.</head>
           <p xml:id="cice-l5t40-d1e495">Idem Comiti Tholosano.</p>
           <p xml:id="cice-l5t40-d1e498">Super quibusdam mandatorum articulis, tibi a bonae memoriae Milone, notario nostro,
             tunc temporis apostolicae sedis legato, factorum, apud quosdam dubitatione suborta, tua
@@ -626,9 +626,9 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e502">
           <head xml:id="cice-l5t40-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l5t40-d1e507">Clericus traditur curiae saeculari, quia degradatur saeculari potestate praesente, cui
+          <head xml:id="cice-l5t40-d1e507" type="question-title">Clericus traditur curiae saeculari, quia degradatur saeculari potestate praesente, cui
             denunciatur, ut in suum forum illum recipiat. H. d. Usque ad §. Pro illo. – §. 1. Iste
-            §. non facit ad titulum, sed ponit gratiam secundum quosdam.</p>
+            §. non facit ad titulum, sed ponit gratiam secundum quosdam.</head>
           <p xml:id="cice-l5t40-d1e510">Idem Episcopo Parisiensi.</p>
           <p xml:id="cice-l5t40-d1e513">Novimus expedire, ut verbum illud, quod [et] in antiquis canonibus, et in nostro quoque
             decreto contra falsarios edito continetur, videlicet ut clericus, per ecclesiasticum
@@ -648,8 +648,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e517">
           <head xml:id="cice-l5t40-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l5t40-d1e522">Si Papa iudulget reo, qui propter absentiam actoris possessionem recuperare non potest,
-            quod ei lapsus anni non noceat: intelligitur haec indulgentia secundum ius commune.</p>
+          <head xml:id="cice-l5t40-d1e522" type="question-title">Si Papa iudulget reo, qui propter absentiam actoris possessionem recuperare non potest,
+            quod ei lapsus anni non noceat: intelligitur haec indulgentia secundum ius commune.</head>
           <p xml:id="cice-l5t40-d1e525">Honorius III. Archiepiscopo Turonensi.</p>
           <p xml:id="cice-l5t40-d1e528">Dilecto filio Iacobo Barba, †procuratore ecclesiae sancti Marci de Venetiis, olim nobis
             humiliter supplicante, ut, quum paratus esset tibi iustitiae plenitudinem exhibere super
@@ -674,8 +674,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e533">
           <head xml:id="cice-l5t40-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l5t40-d1e538">Oblationis nomine intelligitur quicquid offertur ecclesiae quocunque modo, in missa vel
-            extra, et in ecclesia vel extra.</p>
+          <head xml:id="cice-l5t40-d1e538" type="question-title">Oblationis nomine intelligitur quicquid offertur ecclesiae quocunque modo, in missa vel
+            extra, et in ecclesia vel extra.</head>
           <p xml:id="cice-l5t40-d1e541">Idem Priori et Clericis sanctorum Ioannis et Pauli Tudertinis.</p>
           <p xml:id="cice-l5t40-d1e544">Quum inter vos dudum ex parte una, et abbatem sancti P. de Monte Spoletanae dioecesis
             ex altera super tertia parte oblationum et possessionum capellae sancti Hilarii, et
@@ -711,7 +711,7 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e548">
           <head xml:id="cice-l5t40-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l5t40-d1e553">Lis dicitur mota, quum fuerit contestata.</p>
+          <head xml:id="cice-l5t40-d1e553" type="question-title">Lis dicitur mota, quum fuerit contestata.</head>
           <p xml:id="cice-l5t40-d1e556">Idem Episcopo F. et B. Bertrandi.</p>
           <p xml:id="cice-l5t40-d1e559">Ex parte vestra fuit propositum coram nobis, quod dilecti filii praepositus et canonici
             Aretinenses sententiam, quam felicis memoriae I. Papa praedecessor noster super ecclesia
@@ -731,8 +731,8 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e563">
           <head xml:id="cice-l5t40-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l5t40-d1e568">Constitutio legati, de solvenda tertia mortuariorum episcopo, intelligi debet de his
-            mortuariis, in quibus de iure communi debetur.</p>
+          <head xml:id="cice-l5t40-d1e568" type="question-title">Constitutio legati, de solvenda tertia mortuariorum episcopo, intelligi debet de his
+            mortuariis, in quibus de iure communi debetur.</head>
           <p xml:id="cice-l5t40-d1e571">Idem Praelatis universitatis Francigenarum Constantinopolitanae.</p>
           <p xml:id="cice-l5t40-d1e574">Ex parte vestra fuit propositum coram nobis, quod venerabilis frater noster patriarcha
             vester, occasione constitutionis cuiusdam, quam venerabilis frater noster Albinensis
@@ -751,9 +751,9 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e578">
           <head xml:id="cice-l5t40-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l5t40-d1e583">In privilegio de percipiendis fructibus beneficiorum appellatio beneficiorum etiam
+          <head xml:id="cice-l5t40-d1e583" type="question-title">In privilegio de percipiendis fructibus beneficiorum appellatio beneficiorum etiam
             maiora beneficia comprehendit, quando privilegium est concessum episcopo pro honesta et
-            favorabili causa. H. d. cum suppletione Panormitani.</p>
+            favorabili causa. H. d. cum suppletione Panormitani.</head>
           <p xml:id="cice-l5t40-d1e586">Idem Episcopo Tolonensi.</p>
           <p xml:id="cice-l5t40-d1e589">Tua nobis fraternitas intimavit, quod, quum tibi pro relevatione oneris debitorum, quo
             premeris, duxerimus indulgendum, ut fructus beneficiorum, quae interim in dioecesi tua
@@ -766,7 +766,7 @@
         </div>
         <div xml:id="cice-l5t40-Dd1e593">
           <head xml:id="cice-l5t40-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l5t40-d1e598">Verbum moderationis diminutionem continet, non augmentum.</p>
+          <head xml:id="cice-l5t40-d1e598" type="question-title">Verbum moderationis diminutionem continet, non augmentum.</head>
           <p xml:id="cice-l5t40-d1e601">Gregorius IX. Decano et Sacristae Engo.</p>
           <p xml:id="cice-l5t40-d1e604">Transmissae nobis literae continebant, quod, significantibus episcopo et capitulo
             Xantonensi, quod quadragenarius canonicorum numerus, institutus in eorum ecclesia, non

@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t37-Dd1e108">
           <head xml:id="cice-l1t37-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t37-d1e113">Clericus in sacris vel minoribus beneficiatus in saeculari foro postulare non debet,
-            nisi pro se, vel sua ecclesia, vel miserabilibus personis.</p>
+          <head xml:id="cice-l1t37-d1e113" type="question-title">Clericus in sacris vel minoribus beneficiatus in saeculari foro postulare non debet,
+            nisi pro se, vel sua ecclesia, vel miserabilibus personis.</head>
           <p xml:id="cice-l1t37-d1e116">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l1t37-d1e119">Clerici in subdiaconatu, et supra, [et] in ordinibus quoque minoribus, si stipendiis
             ecclesiasticis sustententur, coram saeculari iudice advocati in negotiis saecularibus
@@ -68,8 +68,8 @@
         </div>
         <div xml:id="cice-l1t37-Dd1e123">
           <head xml:id="cice-l1t37-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t37-d1e128">Canonici regulares postulare non possunt, sicut monachi, nisi pro utilitate ecclesiae,
-            vel sui monasterii, et praecepto abbatis.</p>
+          <head xml:id="cice-l1t37-d1e128" type="question-title">Canonici regulares postulare non possunt, sicut monachi, nisi pro utilitate ecclesiae,
+            vel sui monasterii, et praecepto abbatis.</head>
           <p xml:id="cice-l1t37-d1e131">Innocentius III. Compostellano Archiepiscopo.</p>
           <p xml:id="cice-l1t37-d1e134">Ex parte tua coram nobis fuit propositum, quod quidam canonici regulares, ut se forte
             peritos in iure valeant demonstrare, ac extra claustrum materiam habeant evagandi, non
@@ -86,7 +86,7 @@
         </div>
         <div xml:id="cice-l1t37-Dd1e138">
           <head xml:id="cice-l1t37-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t37-d1e143">Se summat.</p>
+          <head xml:id="cice-l1t37-d1e143" type="question-title">Se summat.</head>
           <p xml:id="cice-l1t37-d1e146">Gregorius IX.</p>
           <p xml:id="cice-l1t37-d1e149">Quum sacerdotis sit officium nulli nocere, omnibus autem velle prodesse, non nisi pro
             se ipso, vel ecclesia sua, vel, si necessitas immineat, pro personis coniunctis aut

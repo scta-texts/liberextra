@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t14-Dd1e108">
           <head xml:id="cice-l5t14-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t14-d1e113">Clericus, iniens duellum, sive obtulerit sive susceperit, deponendus est; poterit tamen
-            episcopus cum eo dispensare, si mors vel mutilatio membri non sit inde secuta.</p>
+          <head xml:id="cice-l5t14-d1e113" type="question-title">Clericus, iniens duellum, sive obtulerit sive susceperit, deponendus est; poterit tamen
+            episcopus cum eo dispensare, si mors vel mutilatio membri non sit inde secuta.</head>
           <p xml:id="cice-l5t14-d1e116">Alexander III.</p>
           <p xml:id="cice-l5t14-d1e119">Porro, si clericus alicui sponte duellum obtulerit, vel, si oblatum susceperit et
             subierit, sive victor sive victus fuerit, de rigore iuris est merito deponendus. Sed,
@@ -68,9 +68,9 @@
         </div>
         <div xml:id="cice-l5t14-Dd1e123">
           <head xml:id="cice-l5t14-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t14-d1e128">Irregularis est clericus, non solum si ipse interficit per se, sed etiam si pugil, ab
+          <head xml:id="cice-l5t14-d1e128" type="question-title">Irregularis est clericus, non solum si ipse interficit per se, sed etiam si pugil, ab
             eo datus, adversarium occidat; nec excusat consuetudo. Poterit tamen cum eo circa
-            beneficium habendum dispensari.</p>
+            beneficium habendum dispensari.</head>
           <p xml:id="cice-l5t14-d1e131">Coelestinus III.</p>
           <p xml:id="cice-l5t14-d1e134">Henricus presbyter lator praesentium nobis humiliter intimavit, quod, quum laicum
             quendam super furto in saeculari placito convenisset, ipse, quia testes sui defecerunt,

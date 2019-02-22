@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t37-Dd1e108">
           <head xml:id="cice-l3t37-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t37-d1e113">Ad curam monasterio subiectam non monachi, sed saeculares clerici praeficiuntur, et
-            episcopis subsunt.</p>
+          <head xml:id="cice-l3t37-d1e113" type="question-title">Ad curam monasterio subiectam non monachi, sed saeculares clerici praeficiuntur, et
+            episcopis subsunt.</head>
           <p xml:id="cice-l3t37-d1e116">Urbanus III.</p>
           <p xml:id="cice-l3t37-d1e119">In ecclesiis, ubi monachi habitant, populus per monachum non regatur; sed capellanus,
             qui populum regat, ab episcopo per consilium monachorum instituatur, ita tamen, ut ex
@@ -67,9 +67,9 @@
         </div>
         <div xml:id="cice-l3t37-Dd1e123">
           <head xml:id="cice-l3t37-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t37-d1e128">Si ecclesia non cathedralis vindicat sibi ius in alia ecclesia obtinebit solum quoad
+          <head xml:id="cice-l3t37-d1e128" type="question-title">Si ecclesia non cathedralis vindicat sibi ius in alia ecclesia obtinebit solum quoad
             ea, quae probabit sibi deberi praescriptioni vel alio legitimo modo. H. d. secundum
-            communem et verum intellectum.</p>
+            communem et verum intellectum.</head>
           <p xml:id="cice-l3t37-d1e131">Innocentius III. Archipresbytero et Clericis sanctae Caeciliae.</p>
           <p xml:id="cice-l3t37-d1e134">Dilectus filius M. syndicus ecclesiae vestrae, in nostra praesentia constitutus, ab
             oeconomo sancti Laurentii de Piscinula in scrutiniis, baptismate, processionibus, et
@@ -117,8 +117,8 @@
         </div>
         <div xml:id="cice-l3t37-Dd1e138">
           <head xml:id="cice-l3t37-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t37-d1e143">In prioratibus monachorum non possunt singuli monachi commorari; etiamsi super hoc
-            habeant rescriptum apostolicum, nisi in illo fiat mentio de Lateranensi concilio.</p>
+          <head xml:id="cice-l3t37-d1e143" type="question-title">In prioratibus monachorum non possunt singuli monachi commorari; etiamsi super hoc
+            habeant rescriptum apostolicum, nisi in illo fiat mentio de Lateranensi concilio.</head>
           <p xml:id="cice-l3t37-d1e146">Honorius III. Episcopo Venetensi.</p>
           <p xml:id="cice-l3t37-d1e149">Ex parte tua fuit propositum †coram nobis, quod, conquerentibus olim abbate ac conventu
             Rivensi Venetensis dioecesis, quod tu compellere moliebaris eosdem, ut instituerent
@@ -140,8 +140,8 @@
         </div>
         <div xml:id="cice-l3t37-Dd1e153">
           <head xml:id="cice-l3t37-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t37-d1e158">Ordinarius compellit abbatem, ut monachos a prioratibus revocet ad claustrum, vel eis
-            socios adiungat.</p>
+          <head xml:id="cice-l3t37-d1e158" type="question-title">Ordinarius compellit abbatem, ut monachos a prioratibus revocet ad claustrum, vel eis
+            socios adiungat.</head>
           <p xml:id="cice-l3t37-d1e161">Idem Burdegalensi Archiepiscopo.</p>
           <p xml:id="cice-l3t37-d1e164">Ad audientiam nostram te significante pervenit, quod nonnulli monachi, lege tibi
             dioecesana subiecti, in quibusdam prioratibus habitant solitarii contra statutum

@@ -57,8 +57,8 @@
         <div xml:id="cice-l3t3-Dd1e108">
           <head xml:id="cice-l3t3-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t3-d1e113">Matrimonium contractum per clericum exsistentem in sacris non tenet; secus in
-            minoribus; sed tunc cogitur dimittere beneficium.</p>
+          <head xml:id="cice-l3t3-d1e113" type="question-title">Matrimonium contractum per clericum exsistentem in sacris non tenet; secus in
+            minoribus; sed tunc cogitur dimittere beneficium.</head>
           <p xml:id="cice-l3t3-d1e116">Alexander III.</p>
           <p xml:id="cice-l3t3-d1e119">Si qui autem clericorum ipsorum infra subdiaconatum acceperint uxores, ipsos ad
             relinquenda beneficia ecclesiastica, si qua habent, et retinendas uxores suas
@@ -69,8 +69,8 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e123">
           <head xml:id="cice-l3t3-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t3-d1e128">Coniugatus ad administrationem et ad ordinem ecclesiasticum vel beneficium non
-            promovetur, nisi castitatem promittat, et non sit bigamus.</p>
+          <head xml:id="cice-l3t3-d1e128" type="question-title">Coniugatus ad administrationem et ad ordinem ecclesiasticum vel beneficium non
+            promovetur, nisi castitatem promittat, et non sit bigamus.</head>
           <p xml:id="cice-l3t3-d1e131">Idem Herfordensi Episcopo.</p>
           <p xml:id="cice-l3t3-d1e134">Sane †de clericis inferiorum ordinum, qui in coniugio constituti diu ecclesiastica
             beneficia ex concessione praedecessorum tuorum habuerunt, a quibus sine magno discrimine
@@ -83,9 +83,9 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e138">
           <head xml:id="cice-l3t3-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t3-d1e143">Si clericus in minoribus beneficiatus matrimonium contrahat, privatur beneficio, et
+          <head xml:id="cice-l3t3-d1e143" type="question-title">Si clericus in minoribus beneficiatus matrimonium contrahat, privatur beneficio, et
             quod dedit ecclesiae sibi restituitur. H. d. et in hoc ultimo est casus not. et multum
-            allegabilis.</p>
+            allegabilis.</head>
           <p xml:id="cice-l3t3-d1e146">Idem Verulanensi Episcopo.</p>
           <p xml:id="cice-l3t3-d1e149">Quod a te (Et infra:) De cetero, quia fraternitatis tuae quaerit industria, Utrum
             clerici infra subdiaconatus ordinem constituti, qui carnis devicti vitio continere non
@@ -100,8 +100,8 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e153">
           <head xml:id="cice-l3t3-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t3-d1e158">Peracta poenitentia dispensant episcopi cum sacerdotibus, qui matrimonium de facto
-            contraxerunt.</p>
+          <head xml:id="cice-l3t3-d1e158" type="question-title">Peracta poenitentia dispensant episcopi cum sacerdotibus, qui matrimonium de facto
+            contraxerunt.</head>
           <p xml:id="cice-l3t3-d1e161">Idem.</p>
           <p xml:id="cice-l3t3-d1e164">Sane sacerdotes illi, qui nuptias contrahunt, quae non nuptiae, sed contubernia sunt
             potius nuncupanda, post longam poenitentiam et vitam laudabilem continentes officio suo
@@ -109,9 +109,9 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e169">
           <head xml:id="cice-l3t3-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t3-d1e174">Auferenda sunt clerico beneficia, quae habebat tempore contracti matrimonii; collata
+          <head xml:id="cice-l3t3-d1e174" type="question-title">Auferenda sunt clerico beneficia, quae habebat tempore contracti matrimonii; collata
             vero postmodum scienter per episcopum per eundem auferri non possunt, sed per
-            superiorem. H. d.</p>
+            superiorem. H. d.</head>
           <p xml:id="cice-l3t3-d1e177">Innocentius III. Norvicensi Episcopo.</p>
           <p xml:id="cice-l3t3-d1e180">Diversis fallaciis †circumventi Deo et mammonea famulari conantur, quum tamen secundum
             evangelicam veritatem nemo possit duobus dominis deservire, quoniam, si unum dilexerit,
@@ -130,8 +130,8 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e184">
           <head xml:id="cice-l3t3-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t3-d1e189">Filius sacerdotis Graeci, ex uxore genitus, licite inter Latinos promovetur, si
-            scandalum non obsistat. H. d. et est casus notabilis.</p>
+          <head xml:id="cice-l3t3-d1e189" type="question-title">Filius sacerdotis Graeci, ex uxore genitus, licite inter Latinos promovetur, si
+            scandalum non obsistat. H. d. et est casus notabilis.</head>
           <p xml:id="cice-l3t3-d1e192">Idem Archerontino Archiepiscopo.</p>
           <p xml:id="cice-l3t3-d1e195">Quum olim ad nostram audientiam pervenisset, quod canonici Anglorienses dilectum filium
             cantorem Tricaricensem sibi elegerant in pastorem, †tibi dedimus in mandatis, ut,
@@ -150,7 +150,7 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e199">
           <head xml:id="cice-l3t3-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t3-d1e204">Clericus coniugatus non beneficiatus non cogitur deferre tonsuram.</p>
+          <head xml:id="cice-l3t3-d1e204" type="question-title">Clericus coniugatus non beneficiatus non cogitur deferre tonsuram.</head>
           <p xml:id="cice-l3t3-d1e207">Idem Episcopo Pictaviensi.</p>
           <p xml:id="cice-l3t3-d1e210">Ioannes filius A. nobis conquerendo monstravit, quod tu eum, quanquam iam dudum uxorem
             legitimam duxerit, et filios et filias susceperit ex eadem, pro eo, quod prius in
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e214">
           <head xml:id="cice-l3t3-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t3-d1e219">Uxorati non admittuntur ad ecclesiasticas dignitates, et coguntur dimittere quas
-            habent.</p>
+          <head xml:id="cice-l3t3-d1e219" type="question-title">Uxorati non admittuntur ad ecclesiasticas dignitates, et coguntur dimittere quas
+            habent.</head>
           <p xml:id="cice-l3t3-d1e222">Idem.</p>
           <p xml:id="cice-l3t3-d1e225">Quum decorem (Et infra: [cf. c. 15. de fil. presb. I. 15.]) Eos, qui sunt publice
             uxorati, non admittatis de cetero ad ecclesiasticas dignitates, dimissis ab eis, quas
@@ -176,7 +176,7 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e229">
           <head xml:id="cice-l3t3-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t3-d1e234">Clerici coniugati in rebus suis non gaudent privilegio clericali.</p>
+          <head xml:id="cice-l3t3-d1e234" type="question-title">Clerici coniugati in rebus suis non gaudent privilegio clericali.</head>
           <p xml:id="cice-l3t3-d1e237">Honorius III. H. quondam Reginae Anglorum.</p>
           <p xml:id="cice-l3t3-d1e240">Ex parte tua fuit propositum coram nobis, quod nonnulli literati terrae tuae, habitu et
             tonsura clericali relictis, publice ducunt uxores, †de his, quae huius mundi sunt
@@ -197,8 +197,8 @@
         </div>
         <div xml:id="cice-l3t3-Dd1e244">
           <head xml:id="cice-l3t3-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t3-d1e249">Si clericus in minoribus militet, non est cogendus deferre tonsuram vel habitum
-            clericalem.</p>
+          <head xml:id="cice-l3t3-d1e249" type="question-title">Si clericus in minoribus militet, non est cogendus deferre tonsuram vel habitum
+            clericalem.</head>
           <p xml:id="cice-l3t3-d1e252">Idem.</p>
           <p xml:id="cice-l3t3-d1e255">Ut consultationi tuae breviter satisfiat, respondemus, quod R. miles tuae dioecesis,
             qui, sicut tibi humiliter est confessus, olim, quum in minori esset constitutus aetate,

@@ -57,13 +57,13 @@
 
         <div xml:id="cice-l5t41-Dd1e108">
           <head xml:id="cice-l5t41-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t41-d1e113">Non potest brevius summari.</p>
+          <head xml:id="cice-l5t41-d1e113" type="question-title">Non potest brevius summari.</head>
           <p xml:id="cice-l5t41-d1e116">Ioannes Chrysostomus.</p>
           <p xml:id="cice-l5t41-d1e119">Omnis res, per quascunque causas nascitur, per easdem dissolvitur.</p>
         </div>
         <div xml:id="cice-l5t41-Dd1e123">
           <head xml:id="cice-l5t41-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t41-d1e128">Dubia in meliorem partem interpretari debent.</p>
+          <head xml:id="cice-l5t41-d1e128" type="question-title">Dubia in meliorem partem interpretari debent.</head>
           <p xml:id="cice-l5t41-d1e131">Beda in Homiliis.</p>
           <p xml:id="cice-l5t41-d1e134">“Estote misericordes, etc.” Hoc loco nihil aliud nobis praecipi existimo, nisi ut ea
             facta, quae dubium est quo animo fiant, in meliorem interpretemur. Quod enim scriptum
@@ -73,14 +73,14 @@
         </div>
         <div xml:id="cice-l5t41-Dd1e138">
           <head xml:id="cice-l5t41-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t41-d1e143">Propter scandalum evitandum veritas non est omitenda.</p>
+          <head xml:id="cice-l5t41-d1e143" type="question-title">Propter scandalum evitandum veritas non est omitenda.</head>
           <p xml:id="cice-l5t41-d1e146">Idem.</p>
           <p xml:id="cice-l5t41-d1e149">“Qui scandalizaverit etc.” Utilius scandalum nasci permittitur, quam veritas
             relinquatur.</p>
         </div>
         <div xml:id="cice-l5t41-Dd1e153">
           <head xml:id="cice-l5t41-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t41-d1e158">Propter necessitatem illicitum efficitur licitum.</p>
+          <head xml:id="cice-l5t41-d1e158" type="question-title">Propter necessitatem illicitum efficitur licitum.</head>
           <p xml:id="cice-l5t41-d1e161">Idem super Marcum.</p>
           <p xml:id="cice-l5t41-d1e164">Quod non est licitum lege, necessitas facit licitum. Nam et sabbatum custodiri
             praeceptum est; Maccabaei tamen sine culpa sua in sabbato pugnabant; sic et hodie, si
@@ -88,21 +88,21 @@
         </div>
         <div xml:id="cice-l5t41-Dd1e169">
           <head xml:id="cice-l5t41-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t41-d1e174">Illicite factum obligationem inducit.</p>
+          <head xml:id="cice-l5t41-d1e174" type="question-title">Illicite factum obligationem inducit.</head>
           <p xml:id="cice-l5t41-d1e177">Gregorius VII.</p>
           <p xml:id="cice-l5t41-d1e180">Quod latenter, aut per vim, vel alias illicite introductum est, nulla debet stabilitate
             subsistere.</p>
         </div>
         <div xml:id="cice-l5t41-Dd1e184">
           <head xml:id="cice-l5t41-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t41-d1e189">Tormenta, iudiciis non praecedentibus, inferenda non sunt.</p>
+          <head xml:id="cice-l5t41-d1e189" type="question-title">Tormenta, iudiciis non praecedentibus, inferenda non sunt.</head>
           <p xml:id="cice-l5t41-d1e192">Idem Variensi Episcopo.</p>
           <p xml:id="cice-l5t41-d1e195">Quum in contemplatione: (Et infra:) In ipso causae initio non est a quaestionibus
             inchoandum.</p>
         </div>
         <div xml:id="cice-l5t41-Dd1e199">
           <head xml:id="cice-l5t41-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t41-d1e204">Sacrilegus est offendens rem vel personam ecclesiasticam.</p>
+          <head xml:id="cice-l5t41-d1e204" type="question-title">Sacrilegus est offendens rem vel personam ecclesiasticam.</head>
           <p xml:id="cice-l5t41-d1e207">Stephanus Papa.</p>
           <p xml:id="cice-l5t41-d1e210">Quae multotiens †usurpantur necesse est saepius replicentur et prohibeantur. Nam
             Quicquid in sacratis Deo rebus et episcopis iniuste agitur, pro sacrilegio reputatur,
@@ -110,21 +110,21 @@
         </div>
         <div xml:id="cice-l5t41-Dd1e214">
           <head xml:id="cice-l5t41-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t41-d1e219">Qui facit aliter quam debet, facere non dicitur.</p>
+          <head xml:id="cice-l5t41-d1e219" type="question-title">Qui facit aliter quam debet, facere non dicitur.</head>
           <p xml:id="cice-l5t41-d1e222">Augustinus.</p>
           <p xml:id="cice-l5t41-d1e225">Qui ex timore facit praeceptum, aliter quam debeat facit, et ideo iam non facit.</p>
         </div>
         <div xml:id="cice-l5t41-Dd1e229">
           <head xml:id="cice-l5t41-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t41-d1e234">Committens unum peccatum, reus est omnium quoad vitam aeternam.</p>
+          <head xml:id="cice-l5t41-d1e234" type="question-title">Committens unum peccatum, reus est omnium quoad vitam aeternam.</head>
           <p xml:id="cice-l5t41-d1e237">Idem in libro de poenitentia.</p>
           <p xml:id="cice-l5t41-d1e240">Defleat peccator, quia, offendens in uno factus est omnium [per ingratidutinem]
             reus.</p>
         </div>
         <div xml:id="cice-l5t41-Dd1e244">
           <head xml:id="cice-l5t41-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t41-d1e249">Ignorantia non excusat praelatum in peccatis subditorum. H. d. quoad mysticum et
-            moralem intellectum.</p>
+          <head xml:id="cice-l5t41-d1e249" type="question-title">Ignorantia non excusat praelatum in peccatis subditorum. H. d. quoad mysticum et
+            moralem intellectum.</head>
           <p xml:id="cice-l5t41-d1e252">Gregorius in Registro.</p>
           <p xml:id="cice-l5t41-d1e255">Quamvis causae †[consideratio me movet, ad scribendum tamen et caritas impellit, quia
             et semel et bis sanctissimo fratri meo domino Ioanni scripsi, sed non eius epistolas
@@ -140,7 +140,7 @@
         </div>
         <div xml:id="cice-l5t41-Dd1e260">
           <head xml:id="cice-l5t41-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t41-d1e265">Pro spiritualibus homagium non praestatur.</p>
+          <head xml:id="cice-l5t41-d1e265" type="question-title">Pro spiritualibus homagium non praestatur.</head>
           <p xml:id="cice-l5t41-d1e268">Lucius III.</p>
           <p xml:id="cice-l5t41-d1e271">Indignum est et a Romanae ecclesiae consuetudine alienum, ut pro spiritualibus facere
             quis homagium compellatur.</p>

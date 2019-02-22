@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t6-Dd1e108">
           <head xml:id="cice-l5t6-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t6-d1e113">Si servus, a Iudaeo emptus, causa mercimonii factus est vel fieri desiderat
-            Christianus, pro XII. solidis redimitur.</p>
+          <head xml:id="cice-l5t6-d1e113" type="question-title">Si servus, a Iudaeo emptus, causa mercimonii factus est vel fieri desiderat
+            Christianus, pro XII. solidis redimitur.</head>
           <p xml:id="cice-l5t6-d1e116">Ex concilio Matensi.</p>
           <p xml:id="cice-l5t6-d1e119">Praesenti concilio Deo auctore sancimus, ut nullum Christianum mancipium Iudaeo
             deinceps serviat, sed datis XII. solidis pro quolibet bono mancipio, ipsum mancipium
@@ -69,7 +69,7 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e123">
           <head xml:id="cice-l5t6-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t6-d1e128">Iudaeus Christianum in servum habere non potest, in adscriptitium vero potest.</p>
+          <head xml:id="cice-l5t6-d1e128" type="question-title">Iudaeus Christianum in servum habere non potest, in adscriptitium vero potest.</head>
           <p xml:id="cice-l5t6-d1e131">Gregorius Episcopo Lucensi.</p>
           <p xml:id="cice-l5t6-d1e134">Multorum ad nos †[relatione pervenit, a Iudaeis, in Lunensi civitate degentibus, in
             servitium Christiana detineri mancipia. Quae res nobis tanto visa est asperior, quanto a
@@ -90,7 +90,7 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e138">
           <head xml:id="cice-l5t6-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t6-d1e143">Iudaei antiquas synagogas retinere possunt, novas exigere non possunt.</p>
+          <head xml:id="cice-l5t6-d1e143" type="question-title">Iudaei antiquas synagogas retinere possunt, novas exigere non possunt.</head>
           <p xml:id="cice-l5t6-d1e146">Idem Genuensi Episcopo.</p>
           <p xml:id="cice-l5t6-d1e149">Iudaei de civitate †[vestra huc venientes questi nobis sunt, quod synagogam eorum, quae
             Caralis sita est, Petrus, qui ex eorum superstitione ad Christianae fidei cultum Deo
@@ -113,7 +113,7 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e153">
           <head xml:id="cice-l5t6-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t6-d1e158">In die Veneris sancto non licet Iudaeis tenere ostia vel fenestras apertas.</p>
+          <head xml:id="cice-l5t6-d1e158" type="question-title">In die Veneris sancto non licet Iudaeis tenere ostia vel fenestras apertas.</head>
           <p xml:id="cice-l5t6-d1e161">Alexander III.</p>
           <p xml:id="cice-l5t6-d1e164">Quia super his, †unde nos in literis tuis de Iudaeis scripsisti, certum canonem non
             habemus, fraternitati tuae significatione praesentium intimamus, quod clero tuo in unum
@@ -126,9 +126,9 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e169">
           <head xml:id="cice-l5t6-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t6-d1e174">Excommunicari debent Christiani, qui in domo serviunt Iudaeis, vel Sarracenis sive
+          <head xml:id="cice-l5t6-d1e174" type="question-title">Excommunicari debent Christiani, qui in domo serviunt Iudaeis, vel Sarracenis sive
             paganis. Et principes saeculares excommunicari debent, qui Iudaeos baptizatos suis bonis
-            spoliare praesumunt.</p>
+            spoliare praesumunt.</head>
           <p xml:id="cice-l5t6-d1e177">Idem ex concilio Lateranensi.</p>
           <p xml:id="cice-l5t6-d1e180">Iudaei sive Sarraceni neque sub alendorum puerorum suoram obtentu, nec pro servitio vel
             alia qualibet causa Christiana mancipia in domibus suis permittantur habere.
@@ -142,8 +142,8 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e184">
           <head xml:id="cice-l5t6-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t6-d1e189">Christiani, deferentes Sarracenis merces prohibitas, vel in ipsorum navibus navigantes,
-            excommunicandi sunt, et rebus eorum privandi, et efficiuntur capientium servi.</p>
+          <head xml:id="cice-l5t6-d1e189" type="question-title">Christiani, deferentes Sarracenis merces prohibitas, vel in ipsorum navibus navigantes,
+            excommunicandi sunt, et rebus eorum privandi, et efficiuntur capientium servi.</head>
           <p xml:id="cice-l5t6-d1e192">Idem in eodem.</p>
           <p xml:id="cice-l5t6-d1e195">Ita quorundam animos occupavit saeva cupiditas, ut, qui gloriantur nomine Christiano
             Sarracenis arma, ferrum et ligamina deferant galearum, et pares aut etiam superiores in
@@ -158,8 +158,8 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e199">
           <head xml:id="cice-l5t6-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t6-d1e204">Iudaei veteres synagogas in priorem statum reformare possunt; de novo exigere non
-            possunt.</p>
+          <head xml:id="cice-l5t6-d1e204" type="question-title">Iudaei veteres synagogas in priorem statum reformare possunt; de novo exigere non
+            possunt.</head>
           <p xml:id="cice-l5t6-d1e207">Idem.</p>
           <p xml:id="cice-l5t6-d1e210">Consuluit (Et infra: [cf. c. 29. de app. II. 28.]) Iudaeos etiam de novo construere
             synagogas, ubi eas non habuerunt, pati non debes. Verum, si antiquae corruerint, vel
@@ -170,7 +170,7 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e214">
           <head xml:id="cice-l5t6-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t6-d1e219">In familiari servitio Iudaeorum Christiani esse non debent.</p>
+          <head xml:id="cice-l5t6-d1e219" type="question-title">In familiari servitio Iudaeorum Christiani esse non debent.</head>
           <p xml:id="cice-l5t6-d1e222">Idem.</p>
           <p xml:id="cice-l5t6-d1e225">Ad haec praesentium auctoritate mandamus atque praecipimus, quatenus omnibus
             Christianis, qui sunt in iurisdictione vestra, penitus interdicatis, et, si necesse
@@ -184,9 +184,9 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e229">
           <head xml:id="cice-l5t6-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t6-d1e234">Iudaei inviti non sunt baptizandi, nec ad hoc cogendi, nec sine iudicio puniendi, aut
+          <head xml:id="cice-l5t6-d1e234" type="question-title">Iudaei inviti non sunt baptizandi, nec ad hoc cogendi, nec sine iudicio puniendi, aut
             rebus suis spoliandi, vel in suis festivitatibus molestandi, nec ipsorum coemeteria
-            violanda, aut eorum corpora exhumanda.</p>
+            violanda, aut eorum corpora exhumanda.</head>
           <p xml:id="cice-l5t6-d1e237">Clemens III.</p>
           <p xml:id="cice-l5t6-d1e240">Sicut Iudaei †non debent sine licentia in synagogis ultra, quem in lege permissum est,
             praesumere ita in his, quae eis concessa sunt, nullum debent praeiudicium sustinere. Nos
@@ -214,7 +214,7 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e244">
           <head xml:id="cice-l5t6-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t6-d1e249">Ponit duas indulgentias illorum, qui paganis praedicant.</p>
+          <head xml:id="cice-l5t6-d1e249" type="question-title">Ponit duas indulgentias illorum, qui paganis praedicant.</head>
           <p xml:id="cice-l5t6-d1e252">Idem.</p>
           <p xml:id="cice-l5t6-d1e255">Quam sit laudabile (Et infra:) Tuis, frater episcope, petionibus annuentes, tibi
             tuisque sociis, quum ad praedicandam Christi fidem paganis exibitis, apostolica
@@ -227,9 +227,9 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e260">
           <head xml:id="cice-l5t6-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t6-d1e265">Pro redimendis captivis licet ire Alexandriam iurantibus, quod nihil deferent auxilii
+          <head xml:id="cice-l5t6-d1e265" type="question-title">Pro redimendis captivis licet ire Alexandriam iurantibus, quod nihil deferent auxilii
             seu subsidii extra redemptionis articulum. Portans vel mittens etiam post treugas merces
-            prohibitas, excommunicatus est, et pacis appellatione non veniunt treugae.</p>
+            prohibitas, excommunicatus est, et pacis appellatione non veniunt treugae.</head>
           <p xml:id="cice-l5t6-d1e268">Idem.</p>
           <p xml:id="cice-l5t6-d1e271">Significavit nobis tua fraternitas, quomodo aliqui civium tuorum in Alexandriam valeant
             proficisci pro recuperandis concivibus suis, qui illic in captivitate tenentur. Hoc
@@ -246,8 +246,8 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e275">
           <head xml:id="cice-l5t6-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t6-d1e280">Excommunicati sunt, qui cum Sarracenis tempore guerrae aliquod habent commercium, vel
-            eis praestant subsidium.</p>
+          <head xml:id="cice-l5t6-d1e280" type="question-title">Excommunicati sunt, qui cum Sarracenis tempore guerrae aliquod habent commercium, vel
+            eis praestant subsidium.</head>
           <p xml:id="cice-l5t6-d1e283">Idem.</p>
           <p xml:id="cice-l5t6-d1e286">Quod olim praeceptum fuit (Et infra:) Sane, licet hoc fuerit in concilio Lateranensi
             districte inhibitum, nos tamen de consilio fratrum nostrorum omnes illos
@@ -262,8 +262,8 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e290">
           <head xml:id="cice-l5t6-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t6-d1e295">Iudaei nutrices vel servientes Christianos habere non debent; contra facientibus
-            interdicitur Christianorum commercium.</p>
+          <head xml:id="cice-l5t6-d1e295" type="question-title">Iudaei nutrices vel servientes Christianos habere non debent; contra facientibus
+            interdicitur Christianorum commercium.</head>
           <p xml:id="cice-l5t6-d1e298">Innocentius III. Archiepiscopo Senonensi et Episcopo Parisiensi.</p>
           <p xml:id="cice-l5t6-d1e301">Etsi Iudaeos, quos propria culpa submisit perpetuae servituti, quum Dominum
             crucifixerint, quem sui prophetae praedixerunt ad redemptionem Israel in carne venturum,
@@ -301,9 +301,9 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e305">
           <head xml:id="cice-l5t6-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t6-d1e310">Iudaeus, qui percusserit clericum, temporaliter punitur, et, si de facto puniri non
+          <head xml:id="cice-l5t6-d1e310" type="question-title">Iudaeus, qui percusserit clericum, temporaliter punitur, et, si de facto puniri non
             potest, interdicitur sibi Christianorum commercium, donec satisfecerit iniuriam
-            passo.</p>
+            passo.</head>
           <p xml:id="cice-l5t6-d1e313">Idem.</p>
           <p xml:id="cice-l5t6-d1e316">Postulasti per sedem apostolicam edoceri, qualiter contra Iudaeum procedere debeas, qui
             manus iniecit in quendam clericum violentas. Ad quod fraternitati tuae breviter
@@ -318,9 +318,9 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e320">
           <head xml:id="cice-l5t6-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t6-d1e325">Iudaei et Sarraceni utriusque sexus debent in terris Christianorum uti habitu, per quem
+          <head xml:id="cice-l5t6-d1e325" type="question-title">Iudaei et Sarraceni utriusque sexus debent in terris Christianorum uti habitu, per quem
             a Christianis discernantur, et in die Passionis Domini non debent in publicum progredi,
-            nec in contumeliam Creatoris prosilire.</p>
+            nec in contumeliam Creatoris prosilire.</head>
           <p xml:id="cice-l5t6-d1e328">Idem in concilio generali.</p>
           <p xml:id="cice-l5t6-d1e331">In nonnullis provinciis a Christianis Iudaeos seu Sarracenos habitus distinguit
             diversitas; sed in quibusdam sic quaedam inolevit confusio, ut nulla differentia
@@ -341,9 +341,9 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e335">
           <head xml:id="cice-l5t6-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t6-d1e340">Praeponens Iudaeum vel paganum publicis officiis, per concilium provinciale corripitur,
+          <head xml:id="cice-l5t6-d1e340" type="question-title">Praeponens Iudaeum vel paganum publicis officiis, per concilium provinciale corripitur,
             et praeposito denegatur Christianorum commercium, donec deposuerit officium, et in usus
-            Christianorum pauperum restituet inde quaesita secundum episcopi providentiam.</p>
+            Christianorum pauperum restituet inde quaesita secundum episcopi providentiam.</head>
           <p xml:id="cice-l5t6-d1e343">Idem in eodem.</p>
           <p xml:id="cice-l5t6-d1e346">Quum sit nimis absurdum, ut blasphemus Christi in Christianos vim potestatis exerceat,
             quod super hoc Toletanum concilium provide statuit, nos propter transgressorum audaciam
@@ -359,8 +359,8 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e351">
           <head xml:id="cice-l5t6-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t6-d1e356">Concilium generale repetit concilium Lateranense supra eod. Ita, et addit poenam
-            satisfactionis, tempore absolutionis impendendam.</p>
+          <head xml:id="cice-l5t6-d1e356" type="question-title">Concilium generale repetit concilium Lateranense supra eod. Ita, et addit poenam
+            satisfactionis, tempore absolutionis impendendam.</head>
           <p xml:id="cice-l5t6-d1e359">Idem in eodem.</p>
           <p xml:id="cice-l5t6-d1e362">Ad liberandam terram sanctam (Et infra:) Excommunicamus praeterea et anathematizamus
             illos falsos et impios Christianos, qui contra ipsum Christum et populum Christianum
@@ -377,8 +377,8 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e366">
           <head xml:id="cice-l5t6-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t6-d1e371">Iudaei vel pagani publicis officiis praeficiendi non sunt, et, si eis regalia iura
-            vendantur, ad ea colligenda praeficiendus est Christianus non suspectus.</p>
+          <head xml:id="cice-l5t6-d1e371" type="question-title">Iudaei vel pagani publicis officiis praeficiendi non sunt, et, si eis regalia iura
+            vendantur, ad ea colligenda praeficiendus est Christianus non suspectus.</head>
           <p xml:id="cice-l5t6-d1e374">Gregorius IX. Astoricensi et Lucensi Episcopis.</p>
           <p xml:id="cice-l5t6-d1e377">Ex speciali, quem erga illustrem regem Portugalliae gerimus, caritatis affectu (Et
             infra:) Mandamus, quatenus regem ipsum sollicite inducatis, ne in officiis publicis
@@ -389,7 +389,7 @@
         </div>
         <div xml:id="cice-l5t6-Dd1e381">
           <head xml:id="cice-l5t6-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t6-d1e386">Se ipsum summat.</p>
+          <head xml:id="cice-l5t6-d1e386" type="question-title">Se ipsum summat.</head>
           <p xml:id="cice-l5t6-d1e389">Idem.</p>
           <p xml:id="cice-l5t6-d1e392">Nulli Iudaeo baptizatum vel baptizari volentem emere liceat vel in suo servitio
             retinere. Quodsi quem, nondum ad fidem conversum, causa mercimonii emerit, et postmodum

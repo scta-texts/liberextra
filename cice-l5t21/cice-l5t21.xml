@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t21-Dd1e108">
           <head xml:id="cice-l5t21-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t21-d1e113">Sortilegia pro futuris inveniendis vel divinationibus faciendis prohibentur, et contra
-            facientibus poena imponitur.</p>
+          <head xml:id="cice-l5t21-d1e113" type="question-title">Sortilegia pro futuris inveniendis vel divinationibus faciendis prohibentur, et contra
+            facientibus poena imponitur.</head>
           <p xml:id="cice-l5t21-d1e116">Ex poenitentiali Theodori.</p>
           <p xml:id="cice-l5t21-d1e119">In tabulis vel codicibus aut aliis sorte furta non sunt requirenda, aut nullus in
             psalterio vel in evangelio vel in aliis rebus sortiri, nec divinationes aliquas in
@@ -67,9 +67,9 @@
         </div>
         <div xml:id="cice-l5t21-Dd1e123">
           <head xml:id="cice-l5t21-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t21-d1e128">Presbyter, qui per inspectionem astrolabii furta requirit, ad tempus suspenditur ab
+          <head xml:id="cice-l5t21-d1e128" type="question-title">Presbyter, qui per inspectionem astrolabii furta requirit, ad tempus suspenditur ab
             altaris ministerio. Ita communiter summatur; sed in veritate haec summatio non est
-            indistincte vera, quia acrius potest puniri.</p>
+            indistincte vera, quia acrius potest puniri.</head>
           <p xml:id="cice-l5t21-d1e131">Alexander III. Grandensi Patriarchae.</p>
           <p xml:id="cice-l5t21-d1e134">Ex tuarum tenore literarum accepimus, quod V. presbyter, lator praesentium, iuvenili
             levitate usus, cum quodam infami ad privatum locum immundum spiritum invocaturus
@@ -88,8 +88,8 @@
         </div>
         <div xml:id="cice-l5t21-Dd1e138">
           <head xml:id="cice-l5t21-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t21-d1e143">Non solum electio per sortes fieri non debet, sed etiam electiones compromissariorum
-            per sortes assumi non debent.</p>
+          <head xml:id="cice-l5t21-d1e143" type="question-title">Non solum electio per sortes fieri non debet, sed etiam electiones compromissariorum
+            per sortes assumi non debent.</head>
           <p xml:id="cice-l5t21-d1e146">Honorius III. Capitulo Lucanensi.</p>
           <p xml:id="cice-l5t21-d1e149">Ecclesia vestra nuper episcopo destituta, sicut comperimus, vos, convenientes in unum,
             ut de futuri tractaretis electione pontificis, circa modum electionis diversas

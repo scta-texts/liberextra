@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l4t14-Dd1e108">
           <head xml:id="cice-l4t14-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t14-d1e113">Separatur matrimonium, contractum inter affines primi generis et quarti gradus.</p>
+          <head xml:id="cice-l4t14-d1e113" type="question-title">Separatur matrimonium, contractum inter affines primi generis et quarti gradus.</head>
           <p xml:id="cice-l4t14-d1e116">Alexander III. Cassiensi Abbati.</p>
           <p xml:id="cice-l4t14-d1e119">Ex literis tuis ad nos directis accepimus, quod, quum quidam secreto quandam viduam
             subarrhasset, et carnaliter cognovisset, cohabitasset cum ea per annum, mundualdus virum
@@ -90,8 +90,8 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e123">
           <head xml:id="cice-l4t14-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t14-d1e128">Affinitas superveniens, de qua saltem constat per famam, solvit sponsalia de
-            futuro.</p>
+          <head xml:id="cice-l4t14-d1e128" type="question-title">Affinitas superveniens, de qua saltem constat per famam, solvit sponsalia de
+            futuro.</head>
           <p xml:id="cice-l4t14-d1e131">Urbanus III. Burdegalensi Archiepiscopo.</p>
           <p xml:id="cice-l4t14-d1e134">Super eo, quod iuvenem quendam asseris puellam quandam nondum nubilem fide interposita
             desponsasse, quae, iam facta nubilis, eum repetit, et ille excipit dicens, se non debere
@@ -103,9 +103,9 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e138">
           <head xml:id="cice-l4t14-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t14-d1e143">Si dispensatur cum aliquo, ut possit contrahere in certo gradu alias prohibito,
+          <head xml:id="cice-l4t14-d1e143" type="question-title">Si dispensatur cum aliquo, ut possit contrahere in certo gradu alias prohibito,
             requiritur, quod uterque contrahentium toto gradu distet a stipite, praesertim si hoc
-            habet cousuetudo.</p>
+            habet cousuetudo.</head>
           <p xml:id="cice-l4t14-d1e146">Coelestinus III.</p>
           <p xml:id="cice-l4t14-d1e149">Quod dilectio tua (Et infra:) Quaesivisti, autem a nobis utrum is, qui a stipite per
             descendentem lineam sexto vel septimo gradu distat, possit ei, quae ex altera parte per
@@ -126,8 +126,8 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e153">
           <head xml:id="cice-l4t14-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t14-d1e158">Infideles, coniuncti in gradu prohibito a lege canonica, post baptismum non
-            separantur.</p>
+          <head xml:id="cice-l4t14-d1e158" type="question-title">Infideles, coniuncti in gradu prohibito a lege canonica, post baptismum non
+            separantur.</head>
           <p xml:id="cice-l4t14-d1e161">Innocentius III. Archiepiscopo et capitulo Tirensibus.</p>
           <p xml:id="cice-l4t14-d1e164">De infidelibus ad fidem conversis nos consulere voluistis, utrum, si ante conversionem
             suam secundum legis veteris instituta vel traditiones suas circa gradus
@@ -140,9 +140,9 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e169">
           <head xml:id="cice-l4t14-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t14-d1e174">Consanguinei mariti cum consanguineis uxoris licite contrahunt. Hoc primo. In gradibus
+          <head xml:id="cice-l4t14-d1e174" type="question-title">Consanguinei mariti cum consanguineis uxoris licite contrahunt. Hoc primo. In gradibus
             prohibitis non possunt matrimonia contrahi, etiamsi hoc habeat consuetudo. Hoc
-            secundo.</p>
+            secundo.</head>
           <p xml:id="cice-l4t14-d1e177">Idem Rosanensi Archiepiscopo.</p>
           <p xml:id="cice-l4t14-d1e180">Quod super his articulis, qui tibi aliquam dubitationem inducunt, nostrum ducis
             consilium requirendum, et ad ea exsequenda, quae officium postulant pastorale,
@@ -165,9 +165,9 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e184">
           <head xml:id="cice-l4t14-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t14-d1e189">Non valet dispensatio, obtenta a Papa super matrimonio inter consanguineos contracto,
+          <head xml:id="cice-l4t14-d1e189" type="question-title">Non valet dispensatio, obtenta a Papa super matrimonio inter consanguineos contracto,
             si ibi causa falsa sit expressa, nisi postea eam Papa confirmaret. H. d. secundum verum
-            et communem intellectum.</p>
+            et communem intellectum.</head>
           <p xml:id="cice-l4t14-d1e192">Idem.</p>
           <p xml:id="cice-l4t14-d1e195">Quia circa (Et infra: [cf. c. 6. de bigam. I. 21.]) Porro de nobili viro N., pro cuius
             dispensatione, indulgentia scilicet remanendi cum ea, quae ipsum quinto consanguinitatis
@@ -180,8 +180,8 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e199">
           <head xml:id="cice-l4t14-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t14-d1e204">Testes, qui de consanguinitate deponunt, computationem debent a stipite vel germine
-            incipere.</p>
+          <head xml:id="cice-l4t14-d1e204" type="question-title">Testes, qui de consanguinitate deponunt, computationem debent a stipite vel germine
+            incipere.</head>
           <p xml:id="cice-l4t14-d1e207">Idem.</p>
           <p xml:id="cice-l4t14-d1e210">Tua nos duxit fraternitas consulendos, utrum illorum sufficiat testimonium ad
             matrimonium dirimendum, qui consanguintatis gradus ab avunculo et nepote, videlicet
@@ -198,11 +198,11 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e214">
           <head xml:id="cice-l4t14-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l4t14-d1e219">In secundo et tertio affinitatis genere tollitur prohibitio, quae olim erat in
+          <head xml:id="cice-l4t14-d1e219" type="question-title">In secundo et tertio affinitatis genere tollitur prohibitio, quae olim erat in
             matrimonio contrahendo. Similiter tollitur prohibitio de sobole suscepta ex secundis
             nuptiis, quae olim non poterat contrahere cum cognatione prioris viri. Et prohibitio
             coniugii ultra quartum consanguinitatis et affinitatis gradum non extenditur. H. d. iste
-            textus, qui quotidie allegatur, et est singularis in materia sua.</p>
+            textus, qui quotidie allegatur, et est singularis in materia sua.</head>
           <p xml:id="cice-l4t14-d1e222">Idem in concilio generali.</p>
           <p xml:id="cice-l4t14-d1e225">Non debet reprehensible iudicari, si secundum varietatem temporum statuta quandoque
             varientur humana, praesertim quum urgens necessitas vel evidens utilitas id exposcit,
@@ -227,8 +227,8 @@
         </div>
         <div xml:id="cice-l4t14-Dd1e229">
           <head xml:id="cice-l4t14-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l4t14-d1e234">Distans a stipite quarto gradu vel citeriori, cum distante quinto vel ulteriori
-            contrahere potest. H. d. cum glossa.</p>
+          <head xml:id="cice-l4t14-d1e234" type="question-title">Distans a stipite quarto gradu vel citeriori, cum distante quinto vel ulteriori
+            contrahere potest. H. d. cum glossa.</head>
           <p xml:id="cice-l4t14-d1e237">Gregorius IX.</p>
           <p xml:id="cice-l4t14-d1e240">Vir, qui a stipite quarto gradu, et mulier, quae ex alio latere distat quinto, secundum
             regulam approbatam, qua dicitur: quoto gradu remotior differt a stipite, et a quolibet

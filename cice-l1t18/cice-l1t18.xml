@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t18-Dd1e108">
           <head xml:id="cice-l1t18-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t18-d1e113">Servus ante plenam manumissionem ordinari non debet.</p>
+          <head xml:id="cice-l1t18-d1e113" type="question-title">Servus ante plenam manumissionem ordinari non debet.</head>
           <p xml:id="cice-l1t18-d1e116">Ex concilio Toletano.</p>
           <p xml:id="cice-l1t18-d1e119">Instruendi †sunt praeterea laici, ut sciant, quod nullatenus alio loco manumittere
             proprios possunt servos, quos dominicis castris adgregari decreverunt, nisi in
@@ -72,7 +72,7 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e123">
           <head xml:id="cice-l1t18-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t18-d1e128">Servus sine licentia domini ordinatus deponitur, et domino restituitur.</p>
+          <head xml:id="cice-l1t18-d1e128" type="question-title">Servus sine licentia domini ordinatus deponitur, et domino restituitur.</head>
           <p xml:id="cice-l1t18-d1e131">Ex eodem.</p>
           <p xml:id="cice-l1t18-d1e134">De servorum ordinatione, †qui passim ad gradus ecclesiasticos indiscrete promoventur,
             placuit omnibus cum sacris canonibus concordare [debere, et] Statutum est, ut nullus
@@ -90,9 +90,9 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e138">
           <head xml:id="cice-l1t18-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t18-d1e143">Servus ab ecclesia manumissus ordinari potest, et quod acquirit post suum obitum erit
+          <head xml:id="cice-l1t18-d1e143" type="question-title">Servus ab ecclesia manumissus ordinari potest, et quod acquirit post suum obitum erit
             ecclesiae manumittentis; quam si accusat, vel contra eam testificatur libertate et
-            ordine privetur.</p>
+            ordine privetur.</head>
           <p xml:id="cice-l1t18-d1e146">Ex eodem.</p>
           <p xml:id="cice-l1t18-d1e149">De famulis ecclesiae constituere presbyteros et diaconos per parochias liceat, [quos
             tamen vitae rectitudo et probitas morum commendat,] ita tamen, ut antea manumissi statum
@@ -108,7 +108,7 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e153">
           <head xml:id="cice-l1t18-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t18-d1e158">Dominus in servo, quem manumittit, potest spirituales operas retinere.</p>
+          <head xml:id="cice-l1t18-d1e158" type="question-title">Dominus in servo, quem manumittit, potest spirituales operas retinere.</head>
           <p xml:id="cice-l1t18-d1e161">Ex concilio apud Alichi.</p>
           <p xml:id="cice-l1t18-d1e164">Nullus †clericus ad gradum presbyterii promoveatur, nisi ut scriptum in canonibus
             habetur. Si enim propter Dei dilectionem quis de servis suis quemquam elegerit, et
@@ -126,7 +126,7 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e169">
           <head xml:id="cice-l1t18-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t18-d1e174">Spurii vel servi ordinari non debent.</p>
+          <head xml:id="cice-l1t18-d1e174" type="question-title">Spurii vel servi ordinari non debent.</head>
           <p xml:id="cice-l1t18-d1e177">Alexander III. Archiepiscopo Turonensi.</p>
           <p xml:id="cice-l1t18-d1e180">Consuluit †nos tua fraternitas, utrum tibi liceat spurios et servos ad ordines
             promovere; super quo utique Consultationi tuae taliter respondemus, quod neque spurios,
@@ -135,9 +135,9 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e184">
           <head xml:id="cice-l1t18-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t18-d1e189">Manumissus ab ecclesia, ut fiat clericus, et ipsi ecclesiae perpetuo serviat in
+          <head xml:id="cice-l1t18-d1e189" type="question-title">Manumissus ab ecclesia, ut fiat clericus, et ipsi ecclesiae perpetuo serviat in
             divinis, ad aliam ecclesiam se transferre non potest; secus si pure fuerit manumissus.
-            Vel sic: secus si fuerit manumissus, ut serviat. Io. Andr.</p>
+            Vel sic: secus si fuerit manumissus, ut serviat. Io. Andr.</head>
           <p xml:id="cice-l1t18-d1e192">Innocentius III. Variensi Episcopo.</p>
           <p xml:id="cice-l1t18-d1e195">Eo libentius †[tuis inquisitionibus respondemus, quo devotius sedem apostolicam
             veneraris] (Et infra:) Adiecisti aliam quaestionem, an illorum filii, qui ecclesiae
@@ -152,7 +152,7 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e199">
           <head xml:id="cice-l1t18-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t18-d1e204">Ius, quod est de servo facto diacono, etiam de subdiacono debet intelligi.</p>
+          <head xml:id="cice-l1t18-d1e204" type="question-title">Ius, quod est de servo facto diacono, etiam de subdiacono debet intelligi.</head>
           <p xml:id="cice-l1t18-d1e207">Idem.</p>
           <p xml:id="cice-l1t18-d1e210">Miramur non modicum [de tua prudentia, quod, quum ad nos tua consultatio destinata, si
             canones et leges studeas intueri, nihil fere dubitationis continere putetur, super hoc,
@@ -168,7 +168,7 @@
         </div>
         <div xml:id="cice-l1t18-Dd1e214">
           <head xml:id="cice-l1t18-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t18-d1e219">Natus ex patre servo et libera matre liber est, et licite promovetur.</p>
+          <head xml:id="cice-l1t18-d1e219" type="question-title">Natus ex patre servo et libera matre liber est, et licite promovetur.</head>
           <p xml:id="cice-l1t18-d1e222">Gregorius IX. Archiepiscopo Neapolitano.</p>
           <p xml:id="cice-l1t18-d1e225">Dilectus filius G. diaconus proposuit, quod I. miles ea occasione, quod patrem ipsius
             hominem suum esse proponit, licet mater sua, cuius debet imitari conditionem, libera

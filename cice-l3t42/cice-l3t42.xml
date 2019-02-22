@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t42-Dd1e108">
           <head xml:id="cice-l3t42-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t42-d1e113">Licet puer sit ter mersus in aqua in nomine Patris, et Filii et Spiritus sancti, si non
-            sit dictum: “Ego te baptizo in nomine Patris, etc.,” non est baptizatus.</p>
+          <head xml:id="cice-l3t42-d1e113" type="question-title">Licet puer sit ter mersus in aqua in nomine Patris, et Filii et Spiritus sancti, si non
+            sit dictum: “Ego te baptizo in nomine Patris, etc.,” non est baptizatus.</head>
           <p xml:id="cice-l3t42-d1e116">Alexander III.</p>
           <p xml:id="cice-l3t42-d1e119">Si quis sane puerum ter in acqua immerserit in nomine Patris, et Filii et Spiritus
             sancti, amen, et non dixerit: “Ego baptizo te in nomine Patris, et Filii et Spiritus
@@ -66,15 +66,15 @@
         </div>
         <div xml:id="cice-l3t42-Dd1e123">
           <head xml:id="cice-l3t42-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t42-d1e128">Si probabiliter dubitatur, an quis fuerit baptizatus, potest baptizari forma hic
-            expressa.</p>
+          <head xml:id="cice-l3t42-d1e128" type="question-title">Si probabiliter dubitatur, an quis fuerit baptizatus, potest baptizari forma hic
+            expressa.</head>
           <p xml:id="cice-l3t42-d1e131">Idem.</p>
           <p xml:id="cice-l3t42-d1e134">De quibus dubium est, an baptizati fuerint, baptizantur his verbis praemissis: “Si
             baptizatus es, non te baptizo, sed, si nondum baptizatus es, ego te baptizo, etc.”</p>
         </div>
         <div xml:id="cice-l3t42-Dd1e138">
           <head xml:id="cice-l3t42-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t42-d1e143">Sacramentum baptismi utiliter confertur parvulis licet non credant nec intelligant, et
+          <head xml:id="cice-l3t42-d1e143" type="question-title">Sacramentum baptismi utiliter confertur parvulis licet non credant nec intelligant, et
             remittitur eis peccatum originale. H. d. usque ad §. Verum. – (Verum etc.:) Originale
             peccatum, quod sine consensu cortrahitur, remittitur in baptismo etiam non consentienti,
             ut parvulis; secus de actuali, quia, sicut non committitur sine consensu, ita non
@@ -83,7 +83,7 @@
             tamen, amentibus vel dormientibus, qui non consentiunt baptismo, non dimittitur actuale,
             et item etiam nec originale. H. d. ­(Item etc.:) Amentes vel dormientes baptizati, si
             ante dementiam vel dormitionem baptizari volebant, characterem suscipiunt, alias secus;
-            coacti vero causative suscipiunt. H. d. usque ad finem.</p>
+            coacti vero causative suscipiunt. H. d. usque ad finem.</head>
           <p xml:id="cice-l3t42-d1e146">Innocentius III. Arelatensi Archiepiscopo.</p>
           <p xml:id="cice-l3t42-d1e149">Maiores ecclesiae causas, praesertim articulos fidei contingentes, ad Petri sedem
             referendas intelliget qui eum quaerenti Domino, quem discipuli dicerent ipsum esse,
@@ -189,7 +189,7 @@
         </div>
         <div xml:id="cice-l3t42-Dd1e153">
           <head xml:id="cice-l3t42-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t42-d1e158">Nemo potest se ipsum baptizare, etiam instante necessitatis articulo.</p>
+          <head xml:id="cice-l3t42-d1e158" type="question-title">Nemo potest se ipsum baptizare, etiam instante necessitatis articulo.</head>
           <p xml:id="cice-l3t42-d1e161">Idem Metensii Episcopo.</p>
           <p xml:id="cice-l3t42-d1e164">Debitum †pastoralis officii exsolvis, quum super dubiis iuris articulis responso sedis
             apostolicae postulas edoceri. Sane per tuas nobis literas intimasti, quod quidam
@@ -216,7 +216,7 @@
         </div>
         <div xml:id="cice-l3t42-Dd1e169">
           <head xml:id="cice-l3t42-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t42-d1e174">Ubi deest verbum vel elementum aquae, non est baptismi sacramentum.</p>
+          <head xml:id="cice-l3t42-d1e174" type="question-title">Ubi deest verbum vel elementum aquae, non est baptismi sacramentum.</head>
           <p xml:id="cice-l3t42-d1e177">Idem Morosiensi Episcopo.</p>
           <p xml:id="cice-l3t42-d1e180">Non ut apponeres †tibi scientiam, sicut credimus, sed ut per oraculum verbi nostri
             tuorum ignorantiam subditorum melius erudires, apostolicum tibi responsum fieri
@@ -233,7 +233,7 @@
         </div>
         <div xml:id="cice-l3t42-Dd1e184">
           <head xml:id="cice-l3t42-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t42-d1e189">Baptizatos a Latinis Graeci rebaptizare non debent.</p>
+          <head xml:id="cice-l3t42-d1e189" type="question-title">Baptizatos a Latinis Graeci rebaptizare non debent.</head>
           <p xml:id="cice-l3t42-d1e192">Idem in concilio generali.</p>
           <p xml:id="cice-l3t42-d1e195">Licet Graecos [in] diebus nostris ad obedientiam sedis apostolicae revertentes fovere
             ac honorare velimus, mores ac ritus eorum, in quantum cum Domino possumus, sustinendo:

@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t21-Dd1e108">
           <head xml:id="cice-l3t21-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t21-d1e113">Res ecclesiae pignorari non debent nisi ex necessitate et rationabili causa.</p>
+          <head xml:id="cice-l3t21-d1e113" type="question-title">Res ecclesiae pignorari non debent nisi ex necessitate et rationabili causa.</head>
           <p xml:id="cice-l3t21-d1e116">Ex concilio Remensi.</p>
           <p xml:id="cice-l3t21-d1e119">Nullus presbyter praesumat calicem, vel patenam, aut pallam altaris, vel vestimentum
             sacerdotale, aut librum ecclesiasticum tabernario, vel negotiatori, aut cuilibet laico
@@ -66,7 +66,7 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e123">
           <head xml:id="cice-l3t21-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t21-d1e128">Liber homo non potest pignorari.</p>
+          <head xml:id="cice-l3t21-d1e128" type="question-title">Liber homo non potest pignorari.</head>
           <p xml:id="cice-l3t21-d1e131">Gregorius III. Exonensi Episcopo.</p>
           <p xml:id="cice-l3t21-d1e134">Lator praesentium †[Cosmas Syrus in negotio, quod agebat, debitum se contraxisse
             perhibuit, quod et multis aliis et lacrimis eius attestantibus verum esse credidimus. Et
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e138">
           <head xml:id="cice-l3t21-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t21-d1e143">Si rector ecclesiae pro facto proprio rem ecclesiae obilgavit, cogitur eius heres rem
-            redimere, et ecclesiae restituere.</p>
+          <head xml:id="cice-l3t21-d1e143" type="question-title">Si rector ecclesiae pro facto proprio rem ecclesiae obilgavit, cogitur eius heres rem
+            redimere, et ecclesiae restituere.</head>
           <p xml:id="cice-l3t21-d1e146">Alexander III. Episcopo Exoniensi.</p>
           <p xml:id="cice-l3t21-d1e149">Ex praesentium latoris insinuatione accepimus, quod Alexander quondam sacerdos
             ecclesiae de Offitona calicem [quendam] argenteum, et medietatem unius breviarii eiusdem
@@ -91,9 +91,9 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e153">
           <head xml:id="cice-l3t21-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t21-d1e158">Si usurarius emit rem eo pacto, quod post tempus restituat eam venditori, recipiendo
+          <head xml:id="cice-l3t21-d1e158" type="question-title">Si usurarius emit rem eo pacto, quod post tempus restituat eam venditori, recipiendo
             aliquid ultra sortem, fructibus tamen in ea computatis iudicatur contractus
-            foeneratitius.</p>
+            foeneratitius.</head>
           <p xml:id="cice-l3t21-d1e161">Innocentius III. G. Subdiacono nostro et P. Canonico Pisano.</p>
           <p xml:id="cice-l3t21-d1e164">Illo vos credimus scientiae dono vigere, †quod super eo, de quo nos consulere
             voluistis, quid iuris sit liquido cognoscatis. Quia tamen nostro postulastis edoceri
@@ -127,7 +127,7 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e169">
           <head xml:id="cice-l3t21-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t21-d1e174">Mulier agit pro dote contra quemlibet detinentem bona mariti.</p>
+          <head xml:id="cice-l3t21-d1e174" type="question-title">Mulier agit pro dote contra quemlibet detinentem bona mariti.</head>
           <p xml:id="cice-l3t21-d1e177">Idem Episcopo Aquinati.</p>
           <p xml:id="cice-l3t21-d1e180">Ex literis fraternitatis tuae accepimus, quod, quum causam, quae vertitur inter R. de
             [sancto] Georgio et A. mulierem [de sancto] Germano, tibi duximus committendam, †quum
@@ -179,8 +179,8 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e184">
           <head xml:id="cice-l3t21-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t21-d1e189">Si creditor vel is, qui ab eo causam habet, tot fructus percepit ex pignore, quod
-            satisfactum est sorti, debet pignus restitui debitori.</p>
+          <head xml:id="cice-l3t21-d1e189" type="question-title">Si creditor vel is, qui ab eo causam habet, tot fructus percepit ex pignore, quod
+            satisfactum est sorti, debet pignus restitui debitori.</head>
           <p xml:id="cice-l3t21-d1e192">Idem R. de Monte Fortino.</p>
           <p xml:id="cice-l3t21-d1e195">Quum contra nobilem virum G. a civem Anagninum super quibusdam possessionibus, quas
             quondam pater tuus L. de Saul pro certa quantitate pecuniae obligaverat, et ipsius
@@ -198,9 +198,9 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e199">
           <head xml:id="cice-l3t21-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t21-d1e204">Si is, qui sub pacto legis commissoriae pignoravit rem suam, et iuraverit non
+          <head xml:id="cice-l3t21-d1e204" type="question-title">Si is, qui sub pacto legis commissoriae pignoravit rem suam, et iuraverit non
             contravenire, iuste impeditus infra diem statutum non redemit, post diem redimere
-            poterit.</p>
+            poterit.</head>
           <p xml:id="cice-l3t21-d1e207">Idem.</p>
           <p xml:id="cice-l3t21-d1e210">Significante dilecto filio R. cive Pisano nobis innotuit, quod quum domum suam cum
             horto G. Pisano civi poro CCL. libris pignori obligasset, ac promisisset praestito
@@ -223,9 +223,9 @@
         </div>
         <div xml:id="cice-l3t21-Dd1e214">
           <head xml:id="cice-l3t21-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t21-d1e219">Usufructuarius cavet, quod fruetur rebus immobilibus salva ipsarum substantia, et
+          <head xml:id="cice-l3t21-d1e219" type="question-title">Usufructuarius cavet, quod fruetur rebus immobilibus salva ipsarum substantia, et
             pecuniam et aestimationem mobilium, quae consummuntur usu, finito usufructu
-            restituit.</p>
+            restituit.</head>
           <p xml:id="cice-l3t21-d1e222">Gregorius IX.</p>
           <p xml:id="cice-l3t21-d1e225">Quum constet I. mulierem uxorem Ogerii quoad usumfructum filio suo successisse in
             bonis, quorum proprietas ad M. mulierem uxorem C. dignoscitur pertinere, mandamus,

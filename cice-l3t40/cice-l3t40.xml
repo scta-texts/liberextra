@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t40-Dd1e108">
           <head xml:id="cice-l3t40-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t40-d1e113">Amoto altari vel lapide, continente sigillum, reconsecrabitur altare, non autem
-            ecclesia.</p>
+          <head xml:id="cice-l3t40-d1e113" type="question-title">Amoto altari vel lapide, continente sigillum, reconsecrabitur altare, non autem
+            ecclesia.</head>
           <p xml:id="cice-l3t40-d1e116">Alexander III.</p>
           <p xml:id="cice-l3t40-d1e119">Ad haec, si altare motum fuerit, aut lapis ille solummodo supra positus, qui sigillum
             continet, confractus, aut etiam diminutus exstiterit, debet denuo consecrari. Propter
@@ -67,7 +67,7 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e123">
           <head xml:id="cice-l3t40-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t40-d1e128">Diebus etiam non festis possunt ecclesiae consecrari.</p>
+          <head xml:id="cice-l3t40-d1e128" type="question-title">Diebus etiam non festis possunt ecclesiae consecrari.</head>
           <p xml:id="cice-l3t40-d1e131">Innocentius III. Tornacensi Episcopo.</p>
           <p xml:id="cice-l3t40-d1e134">Tua fraternitas †requiri fecit a nobis, utrum tibi dedicationes ecclesiarum tam diebus
             dominicis quam privatis liceret celebrare; super quo Inquisitioni tuae taliter
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e138">
           <head xml:id="cice-l3t40-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t40-d1e143">Habet duo dicta, et primo idem dicit, quod cap. supr. eod. Secundum dictum dicit, quod
-            oleum non consecratum potest commisceri oleo consecrato, et totum fit consecratum.</p>
+          <head xml:id="cice-l3t40-d1e143" type="question-title">Habet duo dicta, et primo idem dicit, quod cap. supr. eod. Secundum dictum dicit, quod
+            oleum non consecratum potest commisceri oleo consecrato, et totum fit consecratum.</head>
           <p xml:id="cice-l3t40-d1e146">Idem Nidrosiensi Episcopo.</p>
           <p xml:id="cice-l3t40-d1e149">Quod in dubiis (Et infra: [cf. c. 30. de sent. exc. V. 39.]) Altare vero, in quo
             tabula, cui consecrationis benedictio pontificali ministerio adhibetur, si mota vel
@@ -87,8 +87,8 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e153">
           <head xml:id="cice-l3t40-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t40-d1e158">Reconciliatur ecclesia, quae propter homicidia et vulnera hominum ibidem perpetrata
-            polluta est.</p>
+          <head xml:id="cice-l3t40-d1e158" type="question-title">Reconciliatur ecclesia, quae propter homicidia et vulnera hominum ibidem perpetrata
+            polluta est.</head>
           <p xml:id="cice-l3t40-d1e161">Idem Compostellano Archiepiscopo.</p>
           <p xml:id="cice-l3t40-d1e164">Proposuisti nobis in nostra praesentia constitutus, quod, venientibus ad ecclesiam
             sancti Iacobi ex diversis regionibus peregrinis, et volentibus aliis ab aliis per
@@ -101,8 +101,8 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e169">
           <head xml:id="cice-l3t40-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t40-d1e174">Plura altaria simul in eadem ecclesia consecrari possunt; et idem in pluribus
-            episcopis.</p>
+          <head xml:id="cice-l3t40-d1e174" type="question-title">Plura altaria simul in eadem ecclesia consecrari possunt; et idem in pluribus
+            episcopis.</head>
           <p xml:id="cice-l3t40-d1e177">Idem.</p>
           <p xml:id="cice-l3t40-d1e180">Quum sis (Et infra: [cf. c. 6. de usu et auct. pall. I. 8.]) Noveris igitur, quod, ubi
             exposcit necessitas, et plura in ecclesia una altaria et plures episcopos simul poteris
@@ -110,8 +110,8 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e184">
           <head xml:id="cice-l3t40-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t40-d1e189">Corruente tecto parietibus illaesis, et mensa altaris non enormiter fracta, nec altare,
-            nec ecclesia consecratur.</p>
+          <head xml:id="cice-l3t40-d1e189" type="question-title">Corruente tecto parietibus illaesis, et mensa altaris non enormiter fracta, nec altare,
+            nec ecclesia consecratur.</head>
           <p xml:id="cice-l3t40-d1e192">Idem.</p>
           <p xml:id="cice-l3t40-d1e195">Ligneis aedificiis ecclesiae vestrae casu quodam igne consumptis, parietibus tamen
             illaesis, ac mensa principalis altaris in sua extremitate modicam passa fracturam,
@@ -123,7 +123,7 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e199">
           <head xml:id="cice-l3t40-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t40-d1e204">Polluitur ecclesia vel coemeterium, si excommunicatus in ea sepelitur.</p>
+          <head xml:id="cice-l3t40-d1e204" type="question-title">Polluitur ecclesia vel coemeterium, si excommunicatus in ea sepelitur.</head>
           <p xml:id="cice-l3t40-d1e207">Idem Senonensi Episcopo.</p>
           <p xml:id="cice-l3t40-d1e210">Consuluisti (Et infra: [cf. c. 14. de foro comp. II. 2.]) Coemeteria vero, in quibus
             excommunicatorum corpora sepeliri contingit per suorum violentiam propinquorum,
@@ -133,7 +133,7 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e214">
           <head xml:id="cice-l3t40-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t40-d1e219">Qui fecit ecclesiam consecrari, tenetur eam dotare. H. d. et tene mente hunc casum.</p>
+          <head xml:id="cice-l3t40-d1e219" type="question-title">Qui fecit ecclesiam consecrari, tenetur eam dotare. H. d. et tene mente hunc casum.</head>
           <p xml:id="cice-l3t40-d1e222">Honorius III. Reginae Hungariae.</p>
           <p xml:id="cice-l3t40-d1e225">Quum, sicut ex relatione dilectorum filiorum capituli Oradiensis nobis innotuit,
             devotionis zelo succensa eorum feceris ecclesiam consecrari, †profecto speramus, quod
@@ -145,8 +145,8 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e229">
           <head xml:id="cice-l3t40-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t40-d1e234">Ecclesia polluta per sacerdotem simplicem reconciliari non potest, etiamsi aqua fuerit
-            per episcopum benedicta.</p>
+          <head xml:id="cice-l3t40-d1e234" type="question-title">Ecclesia polluta per sacerdotem simplicem reconciliari non potest, etiamsi aqua fuerit
+            per episcopum benedicta.</head>
           <p xml:id="cice-l3t40-d1e237">Gregorius IX. Astoricensi Episcopo.</p>
           <p xml:id="cice-l3t40-d1e240">Aqua per episcopum benedicta ecclesiam reconciliari posse per alium episcopum, non
             negamus, per sacerdotes simplices hoc fieri de cetero prohibentes, non obstante
@@ -159,7 +159,7 @@
         </div>
         <div xml:id="cice-l3t40-Dd1e244">
           <head xml:id="cice-l3t40-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t40-d1e249">Ecclesia, etiam non consecrata, si polluitur, reconcilianda est.</p>
+          <head xml:id="cice-l3t40-d1e249" type="question-title">Ecclesia, etiam non consecrata, si polluitur, reconcilianda est.</head>
           <p xml:id="cice-l3t40-d1e252">Idem eidem.</p>
           <p xml:id="cice-l3t40-d1e255">Si ecclesia non consecrata cuiuscunque semine fuerit aut sanguinis effusione polluta,
             aqua protinus exorcizata lavetur, ne divinae laudis [in ea] organa suspendantur; est

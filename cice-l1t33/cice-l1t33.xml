@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t33-Dd1e108">
           <head xml:id="cice-l1t33-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t33-d1e113">Prius ordinatus, ceteris paribus, prior et maior habendus est.</p>
+          <head xml:id="cice-l1t33-d1e113" type="question-title">Prius ordinatus, ceteris paribus, prior et maior habendus est.</head>
           <p xml:id="cice-l1t33-d1e116">Gregorius Augustino Anglorum Episcopo.</p>
           <p xml:id="cice-l1t33-d1e119">Quum certum †[sit, pro omnipotenti Deo laborantibus ineffabilia aeterni regni praemia
             reservari, nobis tamen eis necesse est bonorum beneficia tribuere, ut in spiritualis
@@ -81,7 +81,7 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e123">
           <head xml:id="cice-l1t33-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t33-d1e128">Veniens contra decretum vel constitutionem episcopi debet excommunicari.</p>
+          <head xml:id="cice-l1t33-d1e128" type="question-title">Veniens contra decretum vel constitutionem episcopi debet excommunicari.</head>
           <p xml:id="cice-l1t33-d1e131">Idem.</p>
           <p xml:id="cice-l1t33-d1e134">Si quis venerit contra decretum episcopi, ab ecclesia abiiciatur. In libro Regum
             legitur: “Qui non obedierit principi, morte moriatur.” Et in concilio Agathensi, quod
@@ -89,8 +89,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e138">
           <head xml:id="cice-l1t33-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t33-d1e143">Clericus administratione carens non tenetur ad iuramentum obedientiae, vel ad faciendam
-            scripturam super ea.</p>
+          <head xml:id="cice-l1t33-d1e143" type="question-title">Clericus administratione carens non tenetur ad iuramentum obedientiae, vel ad faciendam
+            scripturam super ea.</head>
           <p xml:id="cice-l1t33-d1e146">Leo Papa.</p>
           <p xml:id="cice-l1t33-d1e149">Legebatur [quoque] in literis tuis, [quas iidem diaconi detulerunt,] quod frater
             Atticus [Thessalonicam venisset, quodque consensum suum etiam scripturae professione
@@ -102,14 +102,14 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e153">
           <head xml:id="cice-l1t33-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t33-d1e158">Ab omnibus de dioecesi obediendum est episcopo.</p>
+          <head xml:id="cice-l1t33-d1e158" type="question-title">Ab omnibus de dioecesi obediendum est episcopo.</head>
           <p xml:id="cice-l1t33-d1e161">Clemens Papa III.</p>
           <p xml:id="cice-l1t33-d1e164">Omnes principes terrae et ceteros homines episcopis obedire, [et capita sua submittere,
             eorumque adiutores exsistere,] beatus Petrus praecipiebat, [ut omnes etc.]</p>
         </div>
         <div xml:id="cice-l1t33-Dd1e169">
           <head xml:id="cice-l1t33-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t33-d1e174">Non obediens canonicis institutis incurrit inobedientiae notam, id est infamiam.</p>
+          <head xml:id="cice-l1t33-d1e174" type="question-title">Non obediens canonicis institutis incurrit inobedientiae notam, id est infamiam.</head>
           <p xml:id="cice-l1t33-d1e177">Innocentius III. Capitulo Herbipolensi.</p>
           <p xml:id="cice-l1t33-d1e180">Illud Dominus in beato Petro (Et infra: [cf. c. 5. de cler. exc. V. 27.]) Munitiones
             autem et oppida Herbipolensis ecclesiae in utilitatem ipsius se asseruit tenuisse, ne,
@@ -121,8 +121,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e184">
           <head xml:id="cice-l1t33-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t33-d1e189">Imperium non praeest sacerdotio, sed subest, et ei obedire tenetur. Vel sic: Episcopus
-            non debet subesse principibus, sed praeesse. H. d. et est multum allegabile.</p>
+          <head xml:id="cice-l1t33-d1e189" type="question-title">Imperium non praeest sacerdotio, sed subest, et ei obedire tenetur. Vel sic: Episcopus
+            non debet subesse principibus, sed praeesse. H. d. et est multum allegabile.</head>
           <p xml:id="cice-l1t33-d1e192">Idem illustrissimo Constantinopolitano Imperatori.</p>
           <p xml:id="cice-l1t33-d1e195">Solitae benignitatis affectu †recepimus literas, quas per dilectum filium archidiaconum
             Durachii, virum providum et fidelem, imperialis nobis excellentia destinavit, per quas
@@ -230,7 +230,7 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e199">
           <head xml:id="cice-l1t33-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t33-d1e204">Ordinatus per Papam non per hoc eximitur a iurisdictione sui episcopi.</p>
+          <head xml:id="cice-l1t33-d1e204" type="question-title">Ordinatus per Papam non per hoc eximitur a iurisdictione sui episcopi.</head>
           <p xml:id="cice-l1t33-d1e207">Idem episcopo Florentino.</p>
           <p xml:id="cice-l1t33-d1e210">Per tuas nobis literas †intimasti, quod, quum aliqui ecclesiae Romanae subdiaconi
             praelationes in tua dioecesi assequuntur, pro quibus tibi tenentur obedientiam exhibere,
@@ -247,8 +247,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e214">
           <head xml:id="cice-l1t33-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t33-d1e219">Quando de obedientia vel subiectione agitur, nihil attentari debet in praeiudicium rei,
-            vel possessoris non citati.</p>
+          <head xml:id="cice-l1t33-d1e219" type="question-title">Quando de obedientia vel subiectione agitur, nihil attentari debet in praeiudicium rei,
+            vel possessoris non citati.</head>
           <p xml:id="cice-l1t33-d1e222">Idem Constantinopolitano Patriarchae.</p>
           <p xml:id="cice-l1t33-d1e225">Inter quatuor †animalia quae in medio sedis et circuitu eius describuntur, facies
             aquilae ab Ezechiele desuper ipsorum quatuor memoratur, quia inter quatuor patriarchales
@@ -292,8 +292,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e229">
           <head xml:id="cice-l1t33-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t33-d1e234">Abbates et sacerdotes, qui sunt dioecesani episcopi, ad eius synodum venire et sibi
-            obedire compelli possunt per censuram ecclesiasticam.</p>
+          <head xml:id="cice-l1t33-d1e234" type="question-title">Abbates et sacerdotes, qui sunt dioecesani episcopi, ad eius synodum venire et sibi
+            obedire compelli possunt per censuram ecclesiasticam.</head>
           <p xml:id="cice-l1t33-d1e237">Idem.</p>
           <p xml:id="cice-l1t33-d1e240">Quod super his: (Et infra: cf. c. 5. de cons. et aff. IV. 14.) Similiter etiam Abbates
             et sacerdotes dioecesana tibi lege subditos, qui ad tuam synodum venire contemnunt
@@ -304,8 +304,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e244">
           <head xml:id="cice-l1t33-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t33-d1e249">Canonici regulares inobedientes priori suo per ipsum excommunicari possunt, et, si
-            fuerint incorrigibiles, de fratrum consortio expelli debent.</p>
+          <head xml:id="cice-l1t33-d1e249" type="question-title">Canonici regulares inobedientes priori suo per ipsum excommunicari possunt, et, si
+            fuerint incorrigibiles, de fratrum consortio expelli debent.</head>
           <p xml:id="cice-l1t33-d1e252">Idem sancti Stephani et sancti Proculi abbatibus Bononiensibus.</p>
           <p xml:id="cice-l1t33-d1e255">Quum in ecclesiis sancti Victoris et S. Ioannis de Monte (Et infra:) Nos igitur ad
             reformationem earundem ecclesiarum, quae peccatis exigentibus et in temporalibus
@@ -333,9 +333,9 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e260">
           <head xml:id="cice-l1t33-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t33-d1e265">Presbyteri et clerici capellarum subditarum titulo cardinalatus debent cardinali
+          <head xml:id="cice-l1t33-d1e265" type="question-title">Presbyteri et clerici capellarum subditarum titulo cardinalatus debent cardinali
             obedientiam et reliqua, de quibus hic. Et vacante titulo succedit capitulum illius
-            ecclesiae, nisi pro bono pacis aliquid sit exemptum.</p>
+            ecclesiae, nisi pro bono pacis aliquid sit exemptum.</head>
           <p xml:id="cice-l1t33-d1e268">Honorius III. G. Presbytero cardinali, et Capitulo sancti Laurentii in Damaso.</p>
           <p xml:id="cice-l1t33-d1e271">His, quae pro ecclesia S. Laurentii in Damaso ex parte una et capellis sibi subiectis
             ex altera super scrutinio, baptismo manuali obedientia, correctione, interdicio et
@@ -353,8 +353,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e275">
           <head xml:id="cice-l1t33-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t33-d1e280">Licet abbatissa subditos excommunicare non possit, ipsi tamen sibi obedire
-            tenentur.</p>
+          <head xml:id="cice-l1t33-d1e280" type="question-title">Licet abbatissa subditos excommunicare non possit, ipsi tamen sibi obedire
+            tenentur.</head>
           <p xml:id="cice-l1t33-d1e283">Idem Abbati S. Michaelis Abradensis dioecesis.</p>
           <p xml:id="cice-l1t33-d1e286">Dilecta in Christo filia abbatissa de Bubrigen. transmissa nobis petitione monstravit,
             quod, quum ipsa plerumque canonicas suas et clericos suae iurisdictioni subiectos
@@ -368,8 +368,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e290">
           <head xml:id="cice-l1t33-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t33-d1e295">Si metropolitanus a suffraganeo iuramentum exigit ultra formam statutam a canone, in
-            eo, quod est ultra, suffraganeus non tenetur.</p>
+          <head xml:id="cice-l1t33-d1e295" type="question-title">Si metropolitanus a suffraganeo iuramentum exigit ultra formam statutam a canone, in
+            eo, quod est ultra, suffraganeus non tenetur.</head>
           <p xml:id="cice-l1t33-d1e298">Gregorius IX. Patriarchae Grandensi.</p>
           <p xml:id="cice-l1t33-d1e301">Dilecti filii archidiaconus et capitulum Castellanum suam ad nos querimoniam
             detulerunt, quod, quum a Castellano episcopo exigeres iuramentum praeter formam
@@ -384,7 +384,7 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e305">
           <head xml:id="cice-l1t33-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t33-d1e310">Vacante episcopatu capitulum confirmat et infirmat electiones.</p>
+          <head xml:id="cice-l1t33-d1e310" type="question-title">Vacante episcopatu capitulum confirmat et infirmat electiones.</head>
           <p xml:id="cice-l1t33-d1e313">Idem Priori fratrum Praedicatorum et archidiacono Rheginensi.</p>
           <p xml:id="cice-l1t33-d1e316">Quum olim causa (Et infra:) Quocirca mandamus, quatenus, licet conventus monasterii
             sancti Salvatoris Messanensis sint ipso iure hac vice eligendi potestate privati, de
@@ -395,8 +395,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e320">
           <head xml:id="cice-l1t33-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t33-d1e325">Qui maior est ordine, licet in ecclesia posterius receptus, in loco et portione
-            praefertur. H. d. secundum veram lecturam.</p>
+          <head xml:id="cice-l1t33-d1e325" type="question-title">Qui maior est ordine, licet in ecclesia posterius receptus, in loco et portione
+            praefertur. H. d. secundum veram lecturam.</head>
           <p xml:id="cice-l1t33-d1e328">Idem Archipresbytero sanctae Mariae maioris de Urbe.</p>
           <p xml:id="cice-l1t33-d1e331">Statuimus, ut presbyteri primum locum, diaconi secundum, subdiaconi tertium, et sic de
             reliquis obtineant ordinatim, etiamsi posterius admittantur. Et qui maior est ordine,
@@ -405,8 +405,8 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e335">
           <head xml:id="cice-l1t33-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l1t33-d1e340">Si ecclesia sita in aliquo archidiaconatu erigitur in cathedralem, a iurisdictione
-            archidiaconatus eximitur.</p>
+          <head xml:id="cice-l1t33-d1e340" type="question-title">Si ecclesia sita in aliquo archidiaconatu erigitur in cathedralem, a iurisdictione
+            archidiaconatus eximitur.</head>
           <p xml:id="cice-l1t33-d1e343">Idem Archiepiscopo Colocensi.</p>
           <p xml:id="cice-l1t33-d1e346">Quum inferior superiorem solvere nequeat vel ligare, sed superior inferiorem liget
             regulariter et absolvat, et satis [indignum et] absonum videatur, ut [maior subditus sit
@@ -430,7 +430,7 @@
         </div>
         <div xml:id="cice-l1t33-Dd1e351">
           <head xml:id="cice-l1t33-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l1t33-d1e356">Compositionem super iure primatiae unus solus, cuius interest, poterit impedire.</p>
+          <head xml:id="cice-l1t33-d1e356" type="question-title">Compositionem super iure primatiae unus solus, cuius interest, poterit impedire.</head>
           <p xml:id="cice-l1t33-d1e359">Idem Lemovicensi Archidiacono et Priori sanctae Radegundis Pictaviensis.</p>
           <p xml:id="cice-l1t33-d1e362">Humilis doctrina magistra (Et infra:) Mandamus, quatenus praelatorum Burdegalensis
             provinciae in ea praesentium, et cathedralium capitulorum eiusdem, nec non Bituricensis

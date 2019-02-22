@@ -57,15 +57,15 @@
 
         <div xml:id="cice-l5t12-Dd1e108">
           <head xml:id="cice-l5t12-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t12-d1e113">Homicida incorrigibilis debet deponi, et tradi curiae saeculari, ut moriatur.</p>
+          <head xml:id="cice-l5t12-d1e113" type="question-title">Homicida incorrigibilis debet deponi, et tradi curiae saeculari, ut moriatur.</head>
           <p xml:id="cice-l5t12-d1e116">In Exodo.</p>
           <p xml:id="cice-l5t12-d1e119">Si quis per industriam occiderit proximum suum et per insidias, ab altari meo evelles
             eum, ut moriatur.</p>
         </div>
         <div xml:id="cice-l5t12-Dd1e123">
           <head xml:id="cice-l5t12-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t12-d1e128">Ponit poenitentiam occidentis latronem, quum se poterat aliter liberare; si vero aliter
-            liberare se non poterat, non tenetur agere poenitentiam, nisi ad cautelam.</p>
+          <head xml:id="cice-l5t12-d1e128" type="question-title">Ponit poenitentiam occidentis latronem, quum se poterat aliter liberare; si vero aliter
+            liberare se non poterat, non tenetur agere poenitentiam, nisi ad cautelam.</head>
           <p xml:id="cice-l5t12-d1e131">Ex poenitentiali Romano.</p>
           <p xml:id="cice-l5t12-d1e134">Interfecisti furem aut latronem, ubi comprehendi poterat absque occisione, et tamen
             interfecisti; quia ad imaginem Dei creatus est, et in nomine eius baptizatus et sanguine
@@ -80,7 +80,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e138">
           <head xml:id="cice-l5t12-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t12-d1e143">Non occiditur fur diurnus sine culpa, sed nocturnus sic.</p>
+          <head xml:id="cice-l5t12-d1e143" type="question-title">Non occiditur fur diurnus sine culpa, sed nocturnus sic.</head>
           <p xml:id="cice-l5t12-d1e146">Augustinus super Exodo.</p>
           <p xml:id="cice-l5t12-d1e149">“Si [autem] perfodiens inventus fuerit fur, et percussus mortuus fuerit, non est illi
             homicidium imputandum. Si autem oriatur sol super eum: reus erit, [et morte morietur.]”
@@ -93,7 +93,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e153">
           <head xml:id="cice-l5t12-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t12-d1e158">Sub generali pollicitatione seu permissione, etiam iurata, non venit illicitum.</p>
+          <head xml:id="cice-l5t12-d1e158" type="question-title">Sub generali pollicitatione seu permissione, etiam iurata, non venit illicitum.</head>
           <p xml:id="cice-l5t12-d1e161">Hieronymus.</p>
           <p xml:id="cice-l5t12-d1e164">Cum iuramento pollicitus est Herodes saltatrici dare quodcunque postulasset ab eo; si
             ob iusiurandum fecisse se dicat, si patris matrisve interitum postulasset, facturus
@@ -102,7 +102,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e169">
           <head xml:id="cice-l5t12-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t12-d1e174">Homicida est, qui facit vel dat sortilegia, vel venena sterilitatis.</p>
+          <head xml:id="cice-l5t12-d1e174" type="question-title">Homicida est, qui facit vel dat sortilegia, vel venena sterilitatis.</head>
           <p xml:id="cice-l5t12-d1e177">Ex concilio Guarmaciensi.</p>
           <p xml:id="cice-l5t12-d1e180">Si aliquis causa explendae libidinis vel odii meditatione homini aut mulieri aliquid
             fecerit, vel ad potandum dederit, ut non possit generare, aut concipere, vel nasci
@@ -110,7 +110,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e184">
           <head xml:id="cice-l5t12-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t12-d1e189">In poenitentia imponenda iudex debet attendere circumstantias, ex quibus augetur vel
+          <head xml:id="cice-l5t12-d1e189" type="question-title">In poenitentia imponenda iudex debet attendere circumstantias, ex quibus augetur vel
             minuitur delictum. Hoc dicit usque ad §. Illi autem. – §. 1. Socians homicidam animo
             occidendi, licet non apponat manum, si tamen ex sua causa mors secuta est, tenetur fere
             pari poena cum homicida. Hoc dicit usque ad §. Illi etiam. Abbas Sic. – §. 2. Qui sociat
@@ -125,7 +125,7 @@
             excommunicatione, diversimode puniuntur iuxta modum participationis. H. d. usque ad §.
             Clericos. Abbas. – §. 7. In isto §. usque ad fin. ponitur poenitentia clericorum,
             praestantium praedictae morti auxilium, consilium vel favorem. Hoc dicit. Abbas
-            Siculus.</p>
+            Siculus.</head>
           <p xml:id="cice-l5t12-d1e192">Alexander III. Exoniensi Episcopo.</p>
           <p xml:id="cice-l5t12-d1e195">Sicut dignum †est et omni rationi consentaneum, graves et difficiles quaestiones ad
             examen apostolicae sedis deferri, ita etiam nobis ex ministerio susceptae sollicitudinis
@@ -175,8 +175,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e199">
           <head xml:id="cice-l5t12-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t12-d1e204">Homicidium casuale imputatur ei, qui dabat operam rei licitae, si non adhibuit
-            diligetntiam, quam debuit.</p>
+          <head xml:id="cice-l5t12-d1e204" type="question-title">Homicidium casuale imputatur ei, qui dabat operam rei licitae, si non adhibuit
+            diligetntiam, quam debuit.</head>
           <p xml:id="cice-l5t12-d1e207">Idem.</p>
           <p xml:id="cice-l5t12-d1e210">Presbyterem autem [alium,] qui quendam puerum intuitu disciplinae percussit in capite
             et vulneravit, quum post paucos dies, sicut asseris, exspirasset, tam ab omni altaris
@@ -185,8 +185,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e214">
           <head xml:id="cice-l5t12-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t12-d1e219">Homicidium casuale imputatur ei, qui dabat operam rei illicitae vel etiam licitae,
-            secundum alium intellectum, si non adhibuit omnem diligentiam, quam debuit.</p>
+          <head xml:id="cice-l5t12-d1e219" type="question-title">Homicidium casuale imputatur ei, qui dabat operam rei illicitae vel etiam licitae,
+            secundum alium intellectum, si non adhibuit omnem diligentiam, quam debuit.</head>
           <p xml:id="cice-l5t12-d1e222">Idem Cusentinensi Archiepiscopo.</p>
           <p xml:id="cice-l5t12-d1e225">Continebatur in literis tuis, quod, quum diaconus, praesentium lator, et quidam alii
             clerici a vineis ecclesiae opere consummato redirent, leviandi laboris gratia quendam
@@ -205,7 +205,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e229">
           <head xml:id="cice-l5t12-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t12-d1e234">Homicidium casuale non imputatur ei, qui non fuit in culpa.</p>
+          <head xml:id="cice-l5t12-d1e234" type="question-title">Homicidium casuale non imputatur ei, qui non fuit in culpa.</head>
           <p xml:id="cice-l5t12-d1e237">Idem Exoniensi Episcopo.</p>
           <p xml:id="cice-l5t12-d1e240">Lator praesentium P. clericus nobis viva voce proposuit, quod, quum quadam die casu cum
             quodam clerico luderet, contigit, quod ille proiecit istum ad terram, cuius cultellus,
@@ -215,7 +215,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e244">
           <head xml:id="cice-l5t12-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t12-d1e249">Is, ex cuius opera illicita sequitur homicidium, irregularis efficitur.</p>
+          <head xml:id="cice-l5t12-d1e249" type="question-title">Is, ex cuius opera illicita sequitur homicidium, irregularis efficitur.</head>
           <p xml:id="cice-l5t12-d1e252">Idem abbati S. Benedicti de Vebia.</p>
           <p xml:id="cice-l5t12-d1e255">Suscepimus literas tuas, per quas cognovimus, quod, quum lator praesentium in custodia
             cuiusdam domus cum altero fratre maneret, ingredientes de nocte quidam latrones ad eos,
@@ -232,7 +232,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e260">
           <head xml:id="cice-l5t12-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t12-d1e265">Dans causam homicidio irregularis est.</p>
+          <head xml:id="cice-l5t12-d1e265" type="question-title">Dans causam homicidio irregularis est.</head>
           <p xml:id="cice-l5t12-d1e268">Idem Lucensi Episcopo.</p>
           <p xml:id="cice-l5t12-d1e271">De cetero noveris, quod diaconus, quem literatum et honestate praeditum asseris, qui
             homicidio causam dedisse videtur, sicut ex tenore literarum tuarum perpendimus, non
@@ -240,8 +240,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e275">
           <head xml:id="cice-l5t12-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t12-d1e280">Homicidium casuale imputatur ei, qui dedit operam rei licitae, si non adhibuit
-            diligentiam, quam debuit.</p>
+          <head xml:id="cice-l5t12-d1e280" type="question-title">Homicidium casuale imputatur ei, qui dedit operam rei licitae, si non adhibuit
+            diligentiam, quam debuit.</head>
           <p xml:id="cice-l5t12-d1e283">Clemens III.</p>
           <p xml:id="cice-l5t12-d1e286">Ad audientiam apostolatus nostri [ex parte vestra] pervenit, quod, quum quidam
             presbyter, volens corrigere quendam de familia sua, eo cingulo, quo cingi solebat, ipsum
@@ -261,8 +261,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e290">
           <head xml:id="cice-l5t12-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t12-d1e295">Homicidium casuale non imputatar ei, qui dedit operam rei licitae, nec fuit in
-            culpa.</p>
+          <head xml:id="cice-l5t12-d1e295" type="question-title">Homicidium casuale non imputatar ei, qui dedit operam rei licitae, nec fuit in
+            culpa.</head>
           <p xml:id="cice-l5t12-d1e298">Innocentius III. Episcopo Lingonensi.</p>
           <p xml:id="cice-l5t12-d1e301">Dilectus filius A. capellanus, in nostra praesentia constitutus, sua nobis confessione
             proposuit, quod, quum quadam corporis molestia gravaretor ita, quod et cibi et somni
@@ -282,7 +282,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e305">
           <head xml:id="cice-l5t12-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t12-d1e310">Summatur ut supr. cap. prox.</p>
+          <head xml:id="cice-l5t12-d1e310" type="question-title">Summatur ut supr. cap. prox.</head>
           <p xml:id="cice-l5t12-d1e313">Idem Metensi Episcopo.</p>
           <p xml:id="cice-l5t12-d1e316">Ex literis tuae fraternitatis accepimus, quod, quum lator praesentium H. presbyter
             foenum vellet de curru deponere, perticam superius allegatam, quum neminem circa currum
@@ -299,7 +299,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e320">
           <head xml:id="cice-l5t12-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t12-d1e325">Summatur etiam, ut supr. eod. cap. Dilectus.</p>
+          <head xml:id="cice-l5t12-d1e325" type="question-title">Summatur etiam, ut supr. eod. cap. Dilectus.</head>
           <p xml:id="cice-l5t12-d1e328">Idem Bisuntino Archiepiscopo.</p>
           <p xml:id="cice-l5t12-d1e331">Ex literis tuae fraternitatis accepimus, quod quidam monachus puer tuae dioecesis ad
             deponendam de campanili campanam subserviens, quia quoddam lignum casu corruit, ipso
@@ -313,7 +313,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e335">
           <head xml:id="cice-l5t12-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t12-d1e340">Summatur, ut supr. eod. cap. Dilectus.</p>
+          <head xml:id="cice-l5t12-d1e340" type="question-title">Summatur, ut supr. eod. cap. Dilectus.</head>
           <p xml:id="cice-l5t12-d1e343">Idem episcopo Paduano.</p>
           <p xml:id="cice-l5t12-d1e346">Significasti nobis per literas tuas, quod, quum F. clericus cum archipresbytem sancti
             Fidantii equitaret, equus, cui insidebat, tam se quam ipsum proiecit in aquam. Unde
@@ -328,8 +328,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e351">
           <head xml:id="cice-l5t12-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t12-d1e356">Non censetur homicida is, quo prohibente et causam non dante a consanguineis homicidium
-            committitur.</p>
+          <head xml:id="cice-l5t12-d1e356" type="question-title">Non censetur homicida is, quo prohibente et causam non dante a consanguineis homicidium
+            committitur.</head>
           <p xml:id="cice-l5t12-d1e359">Idem.</p>
           <p xml:id="cice-l5t12-d1e362">Petrus, diaconus et monachus sancti Ioannis de Puna, sua nobis insinuatione monstravit,
             quod, quum ipsum quondam in saeculari habitu constitutum, in ecclesia de Rigelo
@@ -359,10 +359,10 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e366">
           <head xml:id="cice-l5t12-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t12-d1e371">Irregularis censetur, qui alium letaliter percussit, licet ab aliis fuerit extinctus;
+          <head xml:id="cice-l5t12-d1e371" type="question-title">Irregularis censetur, qui alium letaliter percussit, licet ab aliis fuerit extinctus;
             idem, si apparet, an letaliter, si etiam percussus ab aliis obiit, et non apparet, ex
             cuius vulnere decesserit. Idem est, si percusserit non letaliter, si animum occidendi
-            habuit, et ex aliorum vulneribus percussus exspiravit. H. d. notabiliter. Abbas.</p>
+            habuit, et ex aliorum vulneribus percussus exspiravit. H. d. notabiliter. Abbas.</head>
           <p xml:id="cice-l5t12-d1e374">Idem Abbati S. Trinitatis de Meldemberg.</p>
           <p xml:id="cice-l5t12-d1e377">Significasti nobis per literas tuas, quod, quum quidam maleficus, ingressus ecclesiam
             de Bleiseio, Dei timore posthabito eucharistiam cum altarium ornamentis et libris
@@ -415,11 +415,11 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e381">
           <head xml:id="cice-l5t12-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t12-d1e386">Religiosus, chirurgiam exercens, si ex ea mors sequitur, irregularis est; etiamsi sit
+          <head xml:id="cice-l5t12-d1e386" type="question-title">Religiosus, chirurgiam exercens, si ex ea mors sequitur, irregularis est; etiamsi sit
             peritus et diligens, et hoc fecerit causa pietatis; sed cum eo post satisfactionem
             misericorditer dispensari potest. H. d. usque ad §. Ad ultimum. – §. 1. Qui iudici
             saeculari dedit intersignia furis, a quo fuit vulneratus, irregularis non est, licet
-            ille postmodum occidatur. Abbas Siculus.</p>
+            ille postmodum occidatur. Abbas Siculus.</head>
           <p xml:id="cice-l5t12-d1e389">Idem.</p>
           <p xml:id="cice-l5t12-d1e392">Tua nos duxit fraternitas consulendos (Et infra: [cf. c. 7. de cons. et aff. IV. 14.])
             Tertio Quaesivisti per sedem apostolicam explicari, quod sit de quodam monacho
@@ -462,8 +462,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e396">
           <head xml:id="cice-l5t12-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l5t12-d1e401">Qui dat causam abortioni, homicida est, si conceptum erat vivificatum animal rationale;
-            alias secus.</p>
+          <head xml:id="cice-l5t12-d1e401" type="question-title">Qui dat causam abortioni, homicida est, si conceptum erat vivificatum animal rationale;
+            alias secus.</head>
           <p xml:id="cice-l5t12-d1e404">Idem Priori et Fratribus Carthusiensibus.</p>
           <p xml:id="cice-l5t12-d1e407">Sicut ex literarum vestrarum tenore accepimus quum quidam presbyter vestri ordinis, qui
             prius fuerat niger monachus, quandam mulierem praegnantem, cum qua contraxerat
@@ -478,8 +478,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e411">
           <head xml:id="cice-l5t12-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l5t12-d1e416">Non imputatur clerico, civiliter iustitiam petenti de laico, si iudex in laicum exercet
-            vindictam sanguinis.</p>
+          <head xml:id="cice-l5t12-d1e416" type="question-title">Non imputatur clerico, civiliter iustitiam petenti de laico, si iudex in laicum exercet
+            vindictam sanguinis.</head>
           <p xml:id="cice-l5t12-d1e419">Idem S. Episcopo.</p>
           <p xml:id="cice-l5t12-d1e422">Postulasti: (Et infra: [cf. c. 14. de for. comp. II. 2.]) Quaesivisti praeterea, utrum
             contra quosdam, contempta excommunicationis sententia debitas ecclesiis decimas
@@ -492,8 +492,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e426">
           <head xml:id="cice-l5t12-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l5t12-d1e431">Homicidium casuale non imputatur ei, qui non occidit, nec fuit in culpa, etiamsi ad
-            cautelam veniam postulaverit.</p>
+          <head xml:id="cice-l5t12-d1e431" type="question-title">Homicidium casuale non imputatur ei, qui non occidit, nec fuit in culpa, etiamsi ad
+            cautelam veniam postulaverit.</head>
           <p xml:id="cice-l5t12-d1e434">Honorius III. Episcopo Eboracensi.</p>
           <p xml:id="cice-l5t12-d1e437">Exhibita nobis humilis I. clerici confessio patefecit, quod, quum in puerili esset
             constitutus aetate, cum quibusdam coaetaneis suis ludens, et insequens unum ex illis,
@@ -514,8 +514,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e442">
           <head xml:id="cice-l5t12-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l5t12-d1e447">Homicidium casuale non imputatur ei, qui dedit operam rei licitae, nec fuit in
-            culpa.</p>
+          <head xml:id="cice-l5t12-d1e447" type="question-title">Homicidium casuale non imputatur ei, qui dedit operam rei licitae, nec fuit in
+            culpa.</head>
           <p xml:id="cice-l5t12-d1e450">Idem Episcopo et Capitulo Venetensibus.</p>
           <p xml:id="cice-l5t12-d1e453">Ioannes sacerdos humili nobis insinuatione monstravit, quod, quum die quadam pulsaret
             campanas, ut signo dato conveniret populus fidelium ad divina, cadens tintinnabulum
@@ -530,8 +530,8 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e457">
           <head xml:id="cice-l5t12-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l5t12-d1e462">Clericus pugnando etiam contra inimicos fidei catholicae, si quemquam percussit, et de
-            interfectione ipsum remordet conscientia, a ministerio altaris abstinere debet.</p>
+          <head xml:id="cice-l5t12-d1e462" type="question-title">Clericus pugnando etiam contra inimicos fidei catholicae, si quemquam percussit, et de
+            interfectione ipsum remordet conscientia, a ministerio altaris abstinere debet.</head>
           <p xml:id="cice-l5t12-d1e465">Idem Pelagio Presbytero.</p>
           <p xml:id="cice-l5t12-d1e468">Petitio tua nobis exhibita continebat, quod, quum inimici dominicae crucis ac blasphemi
             nominis Christiani castrum quoddam, in quo morabaris, graviter invasissent, exeuntibus
@@ -545,7 +545,7 @@
         </div>
         <div xml:id="cice-l5t12-Dd1e472">
           <head xml:id="cice-l5t12-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l5t12-d1e477">Idem dicit, quod cap. Ioannes supr. eod., et tantum ponit diversitatem in facto.</p>
+          <head xml:id="cice-l5t12-d1e477" type="question-title">Idem dicit, quod cap. Ioannes supr. eod., et tantum ponit diversitatem in facto.</head>
           <p xml:id="cice-l5t12-d1e480">Gregorius IX.</p>
           <p xml:id="cice-l5t12-d1e483">Quidam, ut asseris, ad aedificationem ecclesiae, in adiutoirium a presbytero evocatus,
             ruens cum laqueari, quod idem presbyter solvere nitebatur, hac occasione rebus est

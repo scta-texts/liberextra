@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t32-Dd1e108">
           <head xml:id="cice-l5t32-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t32-d1e113">Etiam ecclesia aedificata post nunciationem novi operis destruenda est expensis
-            construentis. H. de cum sequenti.</p>
+          <head xml:id="cice-l5t32-d1e113" type="question-title">Etiam ecclesia aedificata post nunciationem novi operis destruenda est expensis
+            construentis. H. de cum sequenti.</head>
           <p xml:id="cice-l5t32-d1e116">Lucius III. Paduano Episcopo.</p>
           <p xml:id="cice-l5t32-d1e119">Intelleximus ex literis tuis, quod, quum causa, quae vertitur inter dilectos filios
             nostros, priorem S. Cypriani de Venetia et clericos de Rodigio super capella, quae in
@@ -85,7 +85,7 @@
         </div>
         <div xml:id="cice-l5t32-Dd1e123">
           <head xml:id="cice-l5t32-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t32-d1e128">Summatum est supra capitulo primo.</p>
+          <head xml:id="cice-l5t32-d1e128" type="question-title">Summatum est supra capitulo primo.</head>
           <p xml:id="cice-l5t32-d1e131">Innocentius III. Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l5t32-d1e134">Quum ex iniuncto †[nobis apostolatus officio locum eius licet immeriti teneamus, qui
             iuxta verbum propheticum liberavit pauperem a potente et inopem, cui non erat adiutor,
@@ -306,9 +306,9 @@
         </div>
         <div xml:id="cice-l5t32-Dd1e138">
           <head xml:id="cice-l5t32-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t32-d1e143">In optione est nunciantis novum opus, an intra tres menses de praeiudicio suo debeat
+          <head xml:id="cice-l5t32-d1e143" type="question-title">In optione est nunciantis novum opus, an intra tres menses de praeiudicio suo debeat
             ostendere, et interim cessetur ab opere; an vero recepta cautione de opere demoliendo
-            statim aedificari permittat. H. d. cum sequ.</p>
+            statim aedificari permittat. H. d. cum sequ.</head>
           <p xml:id="cice-l5t32-d1e146">Honorius III.</p>
           <p xml:id="cice-l5t32-d1e149">Significantibus canonicis sanctae Opportunae Parisiensis innotuit nobis, quod, quum
             super eo, quod N. Rufus civis Parisiensis in quadam platea ecclesiae suae, infra
@@ -329,7 +329,7 @@
         </div>
         <div xml:id="cice-l5t32-Dd1e153">
           <head xml:id="cice-l5t32-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t32-d1e158">Summatum est supra capitulo proximo.</p>
+          <head xml:id="cice-l5t32-d1e158" type="question-title">Summatum est supra capitulo proximo.</head>
           <p xml:id="cice-l5t32-d1e161">Gregorius IX.</p>
           <p xml:id="cice-l5t32-d1e164">Is, cui opus novum te nunciasse proponis, non obstante cautione, quae offertur ab ipso
             de opere destruendo, si non iure aedificatum exsistat, tenetur te per trium mensium

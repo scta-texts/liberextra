@@ -58,8 +58,8 @@
 
         <div xml:id="cice-l1t7-Dd1e108">
           <head xml:id="cice-l1t7-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t7-d1e113">Patriarcha, qui confirmatum in archiepiscopum transfert ad sedem episcopalem, ab
-            episcoporum confirmatione suspenditur. Ioan. Andr.</p>
+          <head xml:id="cice-l1t7-d1e113" type="question-title">Patriarcha, qui confirmatum in archiepiscopum transfert ad sedem episcopalem, ab
+            episcoporum confirmatione suspenditur. Ioan. Andr.</head>
           <p xml:id="cice-l1t7-d1e116">Innocentius III. Antiocheno Patriarchae.</p>
           <p xml:id="cice-l1t7-d1e119">Quum ex illo generali privilegio, quod beato Petro et per eum ecclesiae Romanae Dominus
             noster indulsit, canonica postmodum manaverint instituta, continentia maiores ecclesiae
@@ -83,7 +83,7 @@
         </div>
         <div xml:id="cice-l1t7-Dd1e123">
           <head xml:id="cice-l1t7-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t7-d1e128">Electos in episcopos et confirmatos transferre potest solus Papa.</p>
+          <head xml:id="cice-l1t7-d1e128" type="question-title">Electos in episcopos et confirmatos transferre potest solus Papa.</head>
           <p xml:id="cice-l1t7-d1e131">Idem Decano et Capitulo Andegavensi.</p>
           <p xml:id="cice-l1t7-d1e134">Inter corporalia et spiritualia eam cognovimus esse differentiam, quod corporalia
             facilius destruuntur quam construantur, spiritualia vero facilius construuntur quam
@@ -161,8 +161,8 @@
         </div>
         <div xml:id="cice-l1t7-Dd1e138">
           <head xml:id="cice-l1t7-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t7-d1e143">Episcopus, qui propria auctoritate de sua ecclesia se transfert ad aliam, carebit
-            utraque.</p>
+          <head xml:id="cice-l1t7-d1e143" type="question-title">Episcopus, qui propria auctoritate de sua ecclesia se transfert ad aliam, carebit
+            utraque.</head>
           <p xml:id="cice-l1t7-d1e146">Idem Episcopo et Petro Scholastico Maguntinensi. Quanto personam venerabilis fratris
             nostri Hildesemensis quondam episcopi †sinceriori diligebamus affectu, tanto securius
             sperabamus, quod nihil adversus matrem suam Romanam ecclesiam in praeiudicium sui
@@ -204,8 +204,8 @@
         </div>
         <div xml:id="cice-l1t7-Dd1e150">
           <head xml:id="cice-l1t7-Hd1e152">CAP. IV.</head>
-          <p xml:id="cice-l1t7-d1e155">Solus Papa transfert episcopos; et indulgentia, per eum super tali translatione
-            concessa, ad literam servanda est.</p>
+          <head xml:id="cice-l1t7-d1e155" type="question-title">Solus Papa transfert episcopos; et indulgentia, per eum super tali translatione
+            concessa, ad literam servanda est.</head>
           <p xml:id="cice-l1t7-d1e158">Idem Branbur. Episcopo et Scholastico Maguntinensi.</p>
           <p xml:id="cice-l1t7-d1e161">Licet in tantum †[apostolicae sedis attendatur auctoritas, ut nihil praeter eius
             auctoritatem in cunctis ecclesiarum negotiis rationabiliter disponatur, utpote quae

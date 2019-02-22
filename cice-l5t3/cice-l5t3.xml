@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t3-Dd1e108">
           <head xml:id="cice-l5t3-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t3-d1e113">Episcopus pro ordine ab eo conferendo, vel ministri vel notarii nihil temporale exigere
-            debent.</p>
+          <head xml:id="cice-l5t3-d1e113" type="question-title">Episcopus pro ordine ab eo conferendo, vel ministri vel notarii nihil temporale exigere
+            debent.</head>
           <p xml:id="cice-l5t3-d1e116">Gregorius generali synodo praesidens.</p>
           <p xml:id="cice-l5t3-d1e119">In ordinando †episcopo pontifex manum imponit; evangelicam vero lectionem minister
             legit: confirmationis autem eius epistolam notarius scribit. Sicut autem non debet
@@ -69,15 +69,15 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e123">
           <head xml:id="cice-l5t3-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t3-d1e128">Deponendus est qui per pecuniam aliquem eiecit de ecclesia sua, se postea
-            intrudendo.</p>
+          <head xml:id="cice-l5t3-d1e128" type="question-title">Deponendus est qui per pecuniam aliquem eiecit de ecclesia sua, se postea
+            intrudendo.</head>
           <p xml:id="cice-l5t3-d1e131">Ex concilio Maguntinensi.</p>
           <p xml:id="cice-l5t3-d1e134">Qui alium presbyterum in ecclesia legitime ordinatum per pecuniam expulerit, eamque
             sibi taliter vindicaverit, omnimodo deponatur.</p>
         </div>
         <div xml:id="cice-l5t3-Dd1e138">
           <head xml:id="cice-l5t3-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t3-d1e143">Quilibet catholicus admittitur ad accusandum de crimine simoniae.</p>
+          <head xml:id="cice-l5t3-d1e143" type="question-title">Quilibet catholicus admittitur ad accusandum de crimine simoniae.</head>
           <p xml:id="cice-l5t3-d1e146">Deodatus Papa.</p>
           <p xml:id="cice-l5t3-d1e149">Si Dominus et magister omnium, qui sine peccato fuit, accusandi licentiam uni dedit,
             †quanto magis unius assertione convincendus est, qui Simonis labe dignoscitur esse
@@ -86,15 +86,15 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e153">
           <head xml:id="cice-l5t3-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t3-d1e158">Simoniacus pendente accusatione ab administratione divinorum prohibetur.</p>
+          <head xml:id="cice-l5t3-d1e158" type="question-title">Simoniacus pendente accusatione ab administratione divinorum prohibetur.</head>
           <p xml:id="cice-l5t3-d1e161">Idem.</p>
           <p xml:id="cice-l5t3-d1e164">Accusatum simoniacum necesse habuimus summopere per scripta nostra prohibere, ne
             missarum solennia celebraret, donec quid esset, verius constitisset.</p>
         </div>
         <div xml:id="cice-l5t3-Dd1e169">
           <head xml:id="cice-l5t3-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t3-d1e174">Idem dicit, quod praecedens, nisi quod illud cap. loquitur in accusatione, istud in
-            inquisitione, ut illud loquitur de simoniaco in genere, istud declarat de ordine.</p>
+          <head xml:id="cice-l5t3-d1e174" type="question-title">Idem dicit, quod praecedens, nisi quod illud cap. loquitur in accusatione, istud in
+            inquisitione, ut illud loquitur de simoniaco in genere, istud declarat de ordine.</head>
           <p xml:id="cice-l5t3-d1e177">Idem.</p>
           <p xml:id="cice-l5t3-d1e180">Quotiens †contra ecclesiasticam quid gestum dicitur disciplinam, ne nos ante Deum culpa
             ex dissimulatione redarguat, irrequisitum hoc relinquere non audemus. Pervenit itaque ad
@@ -105,7 +105,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e184">
           <head xml:id="cice-l5t3-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t3-d1e189">Simoniacus est deponendus.</p>
+          <head xml:id="cice-l5t3-d1e189" type="question-title">Simoniacus est deponendus.</head>
           <p xml:id="cice-l5t3-d1e192">Lucius Papa.</p>
           <p xml:id="cice-l5t3-d1e195">Sicut enim simoniaca pestis sui magnitudine alios morbos vincit, ita sine dilatione
             mox, ut eius signa per aliquam personam claruerint, de ecclesia Dei debet eliminari
@@ -115,7 +115,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e199">
           <head xml:id="cice-l5t3-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t3-d1e204">Simoniacum accusare potest servus, meretrix et criminosi.</p>
+          <head xml:id="cice-l5t3-d1e204" type="question-title">Simoniacum accusare potest servus, meretrix et criminosi.</head>
           <p xml:id="cice-l5t3-d1e207">Deodatus.</p>
           <p xml:id="cice-l5t3-d1e210">Tanta est labes huius criminis, quod etiam servi adversus dominos, et quilibet
             criminosi admittuntur ad accusationem. Item omnis peccator missam cantare potest,
@@ -124,10 +124,10 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e214">
           <head xml:id="cice-l5t3-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t3-d1e219">Simoniacum est pretium recipere pro ingressu religionis, pro prioratibus vel capellis
+          <head xml:id="cice-l5t3-d1e219" type="question-title">Simoniacum est pretium recipere pro ingressu religionis, pro prioratibus vel capellis
             concedendis, et pro praelatis instituendis, pro concedenda sepultura, pro chrismate, pro
             oleo sancto, pro benedictionibus nubentium, vel aliis sacramentis; nec valet consuetudo
-            in contrarium. H. d. cum sequenti.</p>
+            in contrarium. H. d. cum sequenti.</head>
           <p xml:id="cice-l5t3-d1e222">Alexander III. in concilio Turonensi.</p>
           <p xml:id="cice-l5t3-d1e225">Non satis †utiliter a populo avaritia redarguitur, si ab his, qui in clero constituti
             videntur, et praecipue qui [contempto saeculo] nomen religiosorum profitentur [et]
@@ -144,7 +144,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e229">
           <head xml:id="cice-l5t3-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t3-d1e234">Sumatum est supra in cap. praecedenti.</p>
+          <head xml:id="cice-l5t3-d1e234" type="question-title">Sumatum est supra in cap. praecedenti.</head>
           <p xml:id="cice-l5t3-d1e237">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l5t3-d1e240">Quum in ecclesiae corpore †omnia debeant ex caritate tractari, et quod gratis receptum
             est gratis impendi: horribile; nimis est, quod in quibusdam ecclesiis locum venalitas
@@ -164,7 +164,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e244">
           <head xml:id="cice-l5t3-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t3-d1e249">Pro ecclesiarum consecratione nihil est praeter procurationem exigendum.</p>
+          <head xml:id="cice-l5t3-d1e249" type="question-title">Pro ecclesiarum consecratione nihil est praeter procurationem exigendum.</head>
           <p xml:id="cice-l5t3-d1e252">Idem Vigiliensi Episcopo.</p>
           <p xml:id="cice-l5t3-d1e255">Quum sit Romana †ecclesia, cui licet immeriti praesidemus, mater ecclesiarum omnium et
             magistra, cogimur ex debito suscepti regiminis, prout nobis Dominus dederit, respondere
@@ -177,7 +177,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e260">
           <head xml:id="cice-l5t3-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t3-d1e265">Convictus de simonia deponendus est; idem in infamato, qui se purgare non potest.</p>
+          <head xml:id="cice-l5t3-d1e265" type="question-title">Convictus de simonia deponendus est; idem in infamato, qui se purgare non potest.</head>
           <p xml:id="cice-l5t3-d1e268">Idem Toletano Archiepiscopo.</p>
           <p xml:id="cice-l5t3-d1e271">De hoc autem, quod rex et principes sui a Bernardo quondam Oxomensi episcopo pecuniam
             recepisse dicuntur, ut eius electioni praestarent assensum, et quod idem episcopus
@@ -196,7 +196,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e275">
           <head xml:id="cice-l5t3-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t3-d1e280">Simoniacum est pro temporali obsequio beneficium ecclesiasticum mittere.</p>
+          <head xml:id="cice-l5t3-d1e280" type="question-title">Simoniacum est pro temporali obsequio beneficium ecclesiasticum mittere.</head>
           <p xml:id="cice-l5t3-d1e283">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l5t3-d1e286">Quum essent in nostra praesentia constituti R. clericus de Ponte fracto, et nobilis vir
             V. [W. filius Godrici pro controversia, quae vertebatur inter eos super quadam ecclesia,
@@ -212,8 +212,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e290">
           <head xml:id="cice-l5t3-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t3-d1e295">Notorius simoniacus in beneficio ab illo deponitur; idem in infamato, qui se purgare
-            non potest.</p>
+          <head xml:id="cice-l5t3-d1e295" type="question-title">Notorius simoniacus in beneficio ab illo deponitur; idem in infamato, qui se purgare
+            non potest.</head>
           <p xml:id="cice-l5t3-d1e298">Idem Cistrensi Episcopo.</p>
           <p xml:id="cice-l5t3-d1e301">Insinuatum est auribus nostris, quod, dum episcopatus tibi commissus vacaret, in
             ecclesiis tui episcopatus plurimi sint clerici instituti, qui per simoniam habere
@@ -230,8 +230,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e305">
           <head xml:id="cice-l5t3-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t3-d1e310">Simoniacum est pretio vel favore celare peccatorem, vel reconciliare non poenitentam,
-            vel digne poenitentem a reconciliatione removere.</p>
+          <head xml:id="cice-l5t3-d1e310" type="question-title">Simoniacum est pretio vel favore celare peccatorem, vel reconciliare non poenitentam,
+            vel digne poenitentem a reconciliatione removere.</head>
           <p xml:id="cice-l5t3-d1e313">Idem.</p>
           <p xml:id="cice-l5t3-d1e316">Nemo presbyterorum xenium vel emolumentum quodlibet temporale, immo spirituale
             detrimentum, a quocunque publice peccante vel incestuoso accipiat, ut episcopo vel
@@ -244,7 +244,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e320">
           <head xml:id="cice-l5t3-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t3-d1e325">Ecclesia emi vel redimi non potest. H. d. quoad literam.</p>
+          <head xml:id="cice-l5t3-d1e325" type="question-title">Ecclesia emi vel redimi non potest. H. d. quoad literam.</head>
           <p xml:id="cice-l5t3-d1e328">Idem Vigoriensi Episcopo et Priori de Acra.</p>
           <p xml:id="cice-l5t3-d1e331">Querelam monachorum de Acra nobis transmissam recepimus, quod, quum ipsi quoddam
             manerium, quod dicitur Vella, cum pertinentiis suis, et ecclesiam de Genen. a monachis
@@ -265,7 +265,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e335">
           <head xml:id="cice-l5t3-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t3-d1e340">Pro chrismate ab ecclesiis pecunia exigi non debet, etiamsi hoc habeat consuetudo.</p>
+          <head xml:id="cice-l5t3-d1e340" type="question-title">Pro chrismate ab ecclesiis pecunia exigi non debet, etiamsi hoc habeat consuetudo.</head>
           <p xml:id="cice-l5t3-d1e343">Idem.</p>
           <p xml:id="cice-l5t3-d1e346">Ea, quae de avaritiae †et cupiditatis radice procedunt, et in speciem simoniacae
             pravitatis erumpunt, penitus sunt exstirpanda, et quae de spinis et tribulis procedunt,
@@ -281,7 +281,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e351">
           <head xml:id="cice-l5t3-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t3-d1e356">Pro habendis spiritualibus homagium facere simoniacum est.</p>
+          <head xml:id="cice-l5t3-d1e356" type="question-title">Pro habendis spiritualibus homagium facere simoniacum est.</head>
           <p xml:id="cice-l5t3-d1e359">Idem.</p>
           <p xml:id="cice-l5t3-d1e362">Ex diligenti tua relatione nobis innotuit, quod H. Cantuariensis archidiaconus te
             multis promissionibus allexit, et quorundam magnorum virorum commonitione ac
@@ -302,8 +302,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e366">
           <head xml:id="cice-l5t3-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t3-d1e371">Ordinatio vel consecratio non censetur simoniaca, licet ordinatori aliquid donatum
-            fuerit non ex pacto.</p>
+          <head xml:id="cice-l5t3-d1e371" type="question-title">Ordinatio vel consecratio non censetur simoniaca, licet ordinatori aliquid donatum
+            fuerit non ex pacto.</head>
           <p xml:id="cice-l5t3-d1e374">Idem Strigonensi Archiepiscopo.</p>
           <p xml:id="cice-l5t3-d1e377">Etsi quaestiones tuas de fervore religionis exsurgere, et ex intimae devotionis
             affectu, quem circa nos et ecclesiam habes, ad nos perferri nullatenus ignoremus, non
@@ -345,9 +345,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e381">
           <head xml:id="cice-l5t3-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t3-d1e386">Abbas et maiores de conventu, si pro receptione monachi receperunt pecuniam ex pacto,
+          <head xml:id="cice-l5t3-d1e386" type="question-title">Abbas et maiores de conventu, si pro receptione monachi receperunt pecuniam ex pacto,
             ab officio et beneficio suspenduntur, et taliter recepta pecunia restituitur, et in
-            aliud monasterium ita receptus transfertur.</p>
+            aliud monasterium ita receptus transfertur.</head>
           <p xml:id="cice-l5t3-d1e389">Idem.</p>
           <p xml:id="cice-l5t3-d1e392">Veniens ad nos F. presbyter simplici nobis relatione proposuit, quod abbas et fratres
             sancti R. noluerunt eum in monachum recipere, quousque illis pro monachatu triginta
@@ -364,8 +364,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e396">
           <head xml:id="cice-l5t3-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l5t3-d1e401">Si ordinandus praesentatori suo aliquid dedit ex pacto, simoniacum est; non tamen
-            deponitur, si est occultum.</p>
+          <head xml:id="cice-l5t3-d1e401" type="question-title">Si ordinandus praesentatori suo aliquid dedit ex pacto, simoniacum est; non tamen
+            deponitur, si est occultum.</head>
           <p xml:id="cice-l5t3-d1e404">Idem.</p>
           <p xml:id="cice-l5t3-d1e407">Ex tuae fraternitatis literis, et ex confessione sacertotis praesentium latoris
             accepimus, quod, quum ad sacerdotii ordinem [assumendum] non aliter voluisset eum eius
@@ -383,7 +383,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e411">
           <head xml:id="cice-l5t3-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l5t3-d1e416">Breve est, nec potest brevius summari.</p>
+          <head xml:id="cice-l5t3-d1e416" type="question-title">Breve est, nec potest brevius summari.</head>
           <p xml:id="cice-l5t3-d1e419">Idem.</p>
           <p xml:id="cice-l5t3-d1e422">Ad nostram †noveris audientiam pervenisse, unde, si verum est, plurimum admiramur et
             adversus vos iure movemur, quod in ecclesiis, in vestra iurisdictione constitutis,
@@ -406,7 +406,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e426">
           <head xml:id="cice-l5t3-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l5t3-d1e431">Cum simoniace ordinato, qui simoniacus non est, dispensari potest.</p>
+          <head xml:id="cice-l5t3-d1e431" type="question-title">Cum simoniace ordinato, qui simoniacus non est, dispensari potest.</head>
           <p xml:id="cice-l5t3-d1e434">Lucius III.</p>
           <p xml:id="cice-l5t3-d1e437">De simoniace vero ordinatis iuxta postulationem tuam certum tibi non possumus dare
             responsum, nisi plenius cognoscamus, qualiter fuerint ordinati, quum quidam, licet
@@ -415,8 +415,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e442">
           <head xml:id="cice-l5t3-Hd1e444">CAP. XXIII</head>
-          <p xml:id="cice-l5t3-d1e447">Si contradicens electo pro pecunia, de voluntate electi tradita, a contradictione
-            cessat, electus postea confirmatus est simoniacus, et beneficio renunciare tenetur.</p>
+          <head xml:id="cice-l5t3-d1e447" type="question-title">Si contradicens electo pro pecunia, de voluntate electi tradita, a contradictione
+            cessat, electus postea confirmatus est simoniacus, et beneficio renunciare tenetur.</head>
           <p xml:id="cice-l5t3-d1e450">Idem.</p>
           <p xml:id="cice-l5t3-d1e453">Matthaeus cardinalis secreta nobis insinuatione monstravit, quod, quum fuisses ad
             ecclesiae tuae regimen de voluntate maioris partis fratrum electus, quia, paucis tibi
@@ -432,7 +432,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e457">
           <head xml:id="cice-l5t3-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l5t3-d1e462">Pro absolvendo excommunicatum pretium aliquod exigi non debet.</p>
+          <head xml:id="cice-l5t3-d1e462" type="question-title">Pro absolvendo excommunicatum pretium aliquod exigi non debet.</head>
           <p xml:id="cice-l5t3-d1e465">Idem.</p>
           <p xml:id="cice-l5t3-d1e468">Ad aures nostras pervenisse noveris, quod, quum C. de Senevilla propter pecuniam, quam
             debebat, vinculo fuisset excommunicationis adstrictus, creditoribus satisfecit, sed,
@@ -445,9 +445,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e472">
           <head xml:id="cice-l5t3-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l5t3-d1e477">Monachi, per simoniam recepti, si sunt simoniaci, ad arctiora monasteria transferuntur:
+          <head xml:id="cice-l5t3-d1e477" type="question-title">Monachi, per simoniam recepti, si sunt simoniaci, ad arctiora monasteria transferuntur:
             alias post renunciationem in eisdem vel in aliis monasteriis eiusdem ordinis poterunt
-            collocari.</p>
+            collocari.</head>
           <p xml:id="cice-l5t3-d1e480">Clemens III.</p>
           <p xml:id="cice-l5t3-d1e483">De regularibus canonicis seu monachis nos consulere voluisti qui per simoniam ingressum
             ipsis scientibus et machinantibus, habuerunt. Unde, quum super hoc auctoritates multae
@@ -460,9 +460,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e487">
           <head xml:id="cice-l5t3-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l5t3-d1e492">Si quis, canonicatui renuncians, ad quem per simoniam ignoranter assumptus fuerat,
+          <head xml:id="cice-l5t3-d1e492" type="question-title">Si quis, canonicatui renuncians, ad quem per simoniam ignoranter assumptus fuerat,
             postea de novo assumatur ad illum: non potest ex prima receptione sibi aliquid
-            vendicare.</p>
+            vendicare.</head>
           <p xml:id="cice-l5t3-d1e495">Idem.</p>
           <p xml:id="cice-l5t3-d1e498">Ex insinuatione tua nobis innotuit, quod pater tuus interveniente pecunia olim tibi
             praebendae beneficium acquisivit, quumque ad annos discretionis postmodum perveniens,
@@ -477,10 +477,10 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e502">
           <head xml:id="cice-l5t3-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l5t3-d1e507">Electio simoniaca est cassanda, si propter hoc electoribus promissa fuit pecunia,
+          <head xml:id="cice-l5t3-d1e507" type="question-title">Electio simoniaca est cassanda, si propter hoc electoribus promissa fuit pecunia,
             quamvis electus ignoret; nisi hoc factum fuerit in fraudem electi. H. d. primo. Cum
             electo, reprobato per vitium simoniae, non dispensat episcopus. H. d. secundo.
-            Abbas.</p>
+            Abbas.</head>
           <p xml:id="cice-l5t3-d1e510">Coelestinus III.</p>
           <p xml:id="cice-l5t3-d1e513">Nobis fuit ex parte tua cum magna diligentia intimatum, quod, quum quatuor essent a
             capitulo constituti, qui debebant quendam eligere in plebanum, amici eius, de cuius
@@ -498,8 +498,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e517">
           <head xml:id="cice-l5t3-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l5t3-d1e522">Qui dat praelato pecuniam, ne ipsum in iure suo de facto molestet, illam repetit, si
-            praelatus promissa non servet. H. d. inhaerendo literae.</p>
+          <head xml:id="cice-l5t3-d1e522" type="question-title">Qui dat praelato pecuniam, ne ipsum in iure suo de facto molestet, illam repetit, si
+            praelatus promissa non servet. H. d. inhaerendo literae.</head>
           <p xml:id="cice-l5t3-d1e525">Idem Linconiensi Episcopo et Priori de Ponte fracto.</p>
           <p xml:id="cice-l5t3-d1e528">Dilectus filius noster R. praepositus nobis exposuit, quod, quum Eboracensis
             archidiaconus eum multis gravaminibus et variis iniuriis afficere non cessaret, promisit
@@ -515,7 +515,7 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e533">
           <head xml:id="cice-l5t3-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l5t3-d1e538">Pro benedictionibus nubentium et exsequis mortuorum nihil exigi debet.</p>
+          <head xml:id="cice-l5t3-d1e538" type="question-title">Pro benedictionibus nubentium et exsequis mortuorum nihil exigi debet.</head>
           <p xml:id="cice-l5t3-d1e541">Innocentius III. Abbati de Iugo Dei et Priori de Silla.</p>
           <p xml:id="cice-l5t3-d1e544">Suam nobis dilecti filii parochiani de Villa franca querimoniam destinarunt, quod
             Damasius capellanus eorum pro exsequiis mortuorum et benedictionibus nubentium minus
@@ -530,10 +530,10 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e548">
           <head xml:id="cice-l5t3-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l5t3-d1e553">Si per accusationem constat, monachum simoniace fuisse receptum, receptus et recipiens
+          <head xml:id="cice-l5t3-d1e553" type="question-title">Si per accusationem constat, monachum simoniace fuisse receptum, receptus et recipiens
             deponuntur. Si vero per inquisitionem, receptus in arctius monasterium detruditur;
             recipienti vero et maioribus poena condigna imponitur, et interim ab exsecutione ordinum
-            sacrorum suspenduntur.</p>
+            sacrorum suspenduntur.</head>
           <p xml:id="cice-l5t3-d1e556">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l5t3-d1e559">Dilectus filius magister A. nuncius tuus pro parte tua proposuit, quod, quum
             Cantuariensem dioecesim secundum praedecessorum tuorum consuetudinem visitans, ut quae
@@ -556,9 +556,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e563">
           <head xml:id="cice-l5t3-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l5t3-d1e568">Abbas contra testes, qui deposuerunt contra eum de simonia in iudicio inquisitionis,
+          <head xml:id="cice-l5t3-d1e568" type="question-title">Abbas contra testes, qui deposuerunt contra eum de simonia in iudicio inquisitionis,
             excipere potest, quod sunt inimici et conspiratores; alias vero exceptiones criminum
-            opponere non potest.</p>
+            opponere non potest.</head>
           <p xml:id="cice-l5t3-d1e571">Idem Priori sancti Victoris, magistris I. Bononiensi et L. Modicensi Canonicis.</p>
           <p xml:id="cice-l5t3-d1e574">Licet Heli summus sacerdos in se ipso bonus exsisteret, quia tamen filiorum excessus
             efficaciter non corripuit, et in se pariter, et in ipsis animadversionis divinae
@@ -619,9 +619,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e578">
           <head xml:id="cice-l5t3-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l5t3-d1e583">Hoc capitulum est glossa praecedentis capituli. Nam tendit ad declarationem illius, an
+          <head xml:id="cice-l5t3-d1e583" type="question-title">Hoc capitulum est glossa praecedentis capituli. Nam tendit ad declarationem illius, an
             et quando testes criminosi admittantur in crimine simoniae, et in effectu idem dicit
-            quod praecedens.</p>
+            quod praecedens.</head>
           <p xml:id="cice-l5t3-d1e586">Idem.</p>
           <p xml:id="cice-l5t3-d1e589">Per tuas nobis literas intimasti, te plurimum dubitare super quadam epistola decretali,
             quam nos asseris edidisse de testibus admittendis contra simoniacam pravitatem. Noveris
@@ -663,8 +663,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e593">
           <head xml:id="cice-l5t3-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l5t3-d1e598">Non imputatur electo confirmato, si eo prohibente pro ipsius confirmatione pecunia data
-            fuit.</p>
+          <head xml:id="cice-l5t3-d1e598" type="question-title">Non imputatur electo confirmato, si eo prohibente pro ipsius confirmatione pecunia data
+            fuit.</head>
           <p xml:id="cice-l5t3-d1e601">Idem Abbati Iemblacensi.</p>
           <p xml:id="cice-l5t3-d1e604">Sicut nobis tuis literis intimasti, quum in Iemblacensi ecclesia fueris a tenera
             nutritus aetate, monachus factus ibidem, in aetate matura fuisti tandem promotus ad
@@ -702,9 +702,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e608">
           <head xml:id="cice-l5t3-Hd1e610">CAP. XXXIV.</head>
-          <p xml:id="cice-l5t3-d1e613">Si clericus cum pacto confert ecclesiae bona sua, ut in ipsa recipiatur in canonicum,
+          <head xml:id="cice-l5t3-d1e613" type="question-title">Si clericus cum pacto confert ecclesiae bona sua, ut in ipsa recipiatur in canonicum,
             ut illa sibi retineat pro praebenda, simonia committitur; secus, si hoc fiat sine
-            pacta.</p>
+            pacta.</head>
           <p xml:id="cice-l5t3-d1e616">Idem Decano Belvacensi.</p>
           <p xml:id="cice-l5t3-d1e619">Tua nos duxit discretio consulendos, †si quis alicui ecclesiae de bonis suis quaedam
             obtulerit, petens, ut in vita sua sibi liceat eadem bona in ipsa ecclesia pro praebenda
@@ -727,8 +727,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e624">
           <head xml:id="cice-l5t3-Hd1e626">CAP. XXXV.</head>
-          <p xml:id="cice-l5t3-d1e629">Non debet quis ordinem recipere ab eo, quem credit simoniacum; sed ministrare potest in
-            illis, quos prius ab isto recepit.</p>
+          <head xml:id="cice-l5t3-d1e629" type="question-title">Non debet quis ordinem recipere ab eo, quem credit simoniacum; sed ministrare potest in
+            illis, quos prius ab isto recepit.</head>
           <p xml:id="cice-l5t3-d1e632">Idem Priori Cantuariensi.</p>
           <p xml:id="cice-l5t3-d1e635">Per tuas nobis literas intimasti, quod, quum B. in quadam domo Cartusiensis ordinis
             suscepisset habitum monachalem, termino suae probationis completo, a dioecesano episcopo
@@ -746,8 +746,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e639">
           <head xml:id="cice-l5t3-Hd1e641">CAP. XXXVI.</head>
-          <p xml:id="cice-l5t3-d1e644">Pro chrismate vel investitura ecclesiarum nihil exigi debet, nec excusat consuetudo vel
-            nominis variatio.</p>
+          <head xml:id="cice-l5t3-d1e644" type="question-title">Pro chrismate vel investitura ecclesiarum nihil exigi debet, nec excusat consuetudo vel
+            nominis variatio.</head>
           <p xml:id="cice-l5t3-d1e647">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l5t3-d1e650">In tantum peccatis exigentibus corda quorundam simoniaca pravitas depravavit, †ut in
             exterminium canonicae sanctionis et [in] elusionem quodammodo divini iudicii, lucris
@@ -779,9 +779,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e654">
           <head xml:id="cice-l5t3-Hd1e656">CAP. XXXVII.</head>
-          <p xml:id="cice-l5t3-d1e659">Ordinatus in subdiaconum, qui prius praesentatori suo promisit, quod nil ab eo peteret,
+          <head xml:id="cice-l5t3-d1e659" type="question-title">Ordinatus in subdiaconum, qui prius praesentatori suo promisit, quod nil ab eo peteret,
             in suscepto ministrare, vel ad superiores ordines adscendere sine dispensatione non
-            potest, etiamsi peccare non crediderit.</p>
+            potest, etiamsi peccare non crediderit.</head>
           <p xml:id="cice-l5t3-d1e662">Idem.</p>
           <p xml:id="cice-l5t3-d1e665">Per tuas nobis literas intimasti, quod, quum D. lator praesentium vellet in subdiaconum
             ordinari, et certum titulum non haberet, quendam presbyterum exoravit, ut ipsum ad
@@ -800,9 +800,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e669">
           <head xml:id="cice-l5t3-Hd1e671">CAP. XXXVIII.</head>
-          <p xml:id="cice-l5t3-d1e674">Simonia est dare pecuniam pro vicariatu, vel pro alia administratione rerum
+          <head xml:id="cice-l5t3-d1e674" type="question-title">Simonia est dare pecuniam pro vicariatu, vel pro alia administratione rerum
             spiritualium seu ecclesiasticarum habenda, et dantes et recipientes ab illa ecclesia
-            sunt eiiciendi. H. d. hoc c. per alia verba, licet sit breve.</p>
+            sunt eiiciendi. H. d. hoc c. per alia verba, licet sit breve.</head>
           <p xml:id="cice-l5t3-d1e677">Idem.</p>
           <p xml:id="cice-l5t3-d1e680">Consulere (Et infra:) Quicunque vicedominatum vel aliam ecclesiasticarum rerum
             administrationem per pecuniam obtinere voluerint, tam ementes quam vendentes cum Simone
@@ -811,8 +811,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e684">
           <head xml:id="cice-l5t3-Hd1e686">CAP. XXXIX.</head>
-          <p xml:id="cice-l5t3-d1e689">Simoniacum est aliquid exigere pro consecratione episcoporum et benedictionibus abbatum
-            et ordinationibus clericorum, nec excusat consuetudo.</p>
+          <head xml:id="cice-l5t3-d1e689" type="question-title">Simoniacum est aliquid exigere pro consecratione episcoporum et benedictionibus abbatum
+            et ordinationibus clericorum, nec excusat consuetudo.</head>
           <p xml:id="cice-l5t3-d1e692">Idem in concilio generali.</p>
           <p xml:id="cice-l5t3-d1e695">Sicut pro certo didicimus, in plerisque locis [et] a plerisque personis, quasi columbas
             in templo vendentibus, fiunt exactiones et extorsiones turpes et pravae pro
@@ -827,10 +827,10 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e699">
           <head xml:id="cice-l5t3-Hd1e701">CAP. XL.</head>
-          <p xml:id="cice-l5t3-d1e704">Religiosi pretio recepti una cum recipientibus de monasterio expelluntur, et in
+          <head xml:id="cice-l5t3-d1e704" type="question-title">Religiosi pretio recepti una cum recipientibus de monasterio expelluntur, et in
             arctioribus monasteriis ad agendam poenitentiam detruduntur. Sed recepti ante istud
             concilium ponebantur sic recepti in aliis locis eiusdem ordinis, nisi multitudo sit in
-            causa, ita tamen, quod renuncient primae receptioni, et de novo recipiuntur.</p>
+            causa, ita tamen, quod renuncient primae receptioni, et de novo recipiuntur.</head>
           <p xml:id="cice-l5t3-d1e707">Idem in eodem.</p>
           <p xml:id="cice-l5t3-d1e710">Quoniam simoniaca labes adeo plerasque moniales infecit, ut vix aliquas sine pretio
             recipiant in sorores, paupertatis praetextu volentes huiusmodi vitium palliare: ne id de
@@ -849,9 +849,9 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e715">
           <head xml:id="cice-l5t3-Hd1e717">CAP. XLI.</head>
-          <p xml:id="cice-l5t3-d1e720">Episcopi nihil exigere debent, ut permittant in ecclesiis sibi subiectis clericos
+          <head xml:id="cice-l5t3-d1e720" type="question-title">Episcopi nihil exigere debent, ut permittant in ecclesiis sibi subiectis clericos
             institui, monachos profiteri, vel mortuos sepeliri; alioquin exacta restituentur
-            duplicata.</p>
+            duplicata.</head>
           <p xml:id="cice-l5t3-d1e723">Idem in eodem.</p>
           <p xml:id="cice-l5t3-d1e726">Audivimus de quibusdam episcopis, decedentibus ecclesiarum rectoribus, ipsas interdicto
             subiiciunt, nec patiuntur alios in eisdem institui, donec ipsis certa summa pecuniae
@@ -865,8 +865,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e730">
           <head xml:id="cice-l5t3-Hd1e732">CAP. XLII.</head>
-          <p xml:id="cice-l5t3-d1e735">Sacramenta sunt libere conferenda; cogit tamen ordinarius laicos observare laudabiles
-            consuetudines.</p>
+          <head xml:id="cice-l5t3-d1e735" type="question-title">Sacramenta sunt libere conferenda; cogit tamen ordinarius laicos observare laudabiles
+            consuetudines.</head>
           <p xml:id="cice-l5t3-d1e738">Idem in eodem.</p>
           <p xml:id="cice-l5t3-d1e741">Ad apostolicam audientiam frequenti relatione pervenit, quod quidam clerici pro
             exsequiis mortuorum, et benedictionibus nubentium et similibus pecuniam exigunt et
@@ -880,8 +880,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e745">
           <head xml:id="cice-l5t3-Hd1e747">CAP. XLIII.</head>
-          <p xml:id="cice-l5t3-d1e750">Prohibet abbates Cistercienses solenniter installari, et ponit formam obedientiae, quam
-            praestant suis episcopis.</p>
+          <head xml:id="cice-l5t3-d1e750" type="question-title">Prohibet abbates Cistercienses solenniter installari, et ponit formam obedientiae, quam
+            praestant suis episcopis.</head>
           <p xml:id="cice-l5t3-d1e753">Honorius III. universis Abbatibus et Fratribus Cisterciensis ordinis.</p>
           <p xml:id="cice-l5t3-d1e756">Ne Dei ecclesiam, †quam lavit proprio sanguine Iesus Christus, macula foeditatis
             coinquinet, ruga duplicitatis deformet, cupiditatis spurcitia, omnium malorum radix, et
@@ -910,8 +910,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e760">
           <head xml:id="cice-l5t3-Hd1e762">CAP. XLIV.</head>
-          <p xml:id="cice-l5t3-d1e765">Recepto in canonicum debetur praebenda et reditas, consuetudine non obstanto, quod non
-            servaverit pravam consuetudinem de aliquo temporali dando ipsis canonicis.</p>
+          <head xml:id="cice-l5t3-d1e765" type="question-title">Recepto in canonicum debetur praebenda et reditas, consuetudine non obstanto, quod non
+            servaverit pravam consuetudinem de aliquo temporali dando ipsis canonicis.</head>
           <p xml:id="cice-l5t3-d1e768">Gregorius IX. Priori S. Thomae Esculani.</p>
           <p xml:id="cice-l5t3-d1e771">Iacobus canonicus Esculanus exposuit, quod, quum ipse in ecclesia Aprutinensi sit
             receptus in canonicum et in fratrem, canonici eiusdem ecclesiae partem proventuum ac
@@ -922,10 +922,10 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e775">
           <head xml:id="cice-l5t3-Hd1e777">CAP. XLV.</head>
-          <p xml:id="cice-l5t3-d1e780">Qui ordinavit aliquem sub promissione de non petendo ab ipso provisionem, ordinator per
+          <head xml:id="cice-l5t3-d1e780" type="question-title">Qui ordinavit aliquem sub promissione de non petendo ab ipso provisionem, ordinator per
             trienium a collatione, praesentator vero ab exsecutione ordinum etiam per triennium
             suspensi sunt; ordinatus vero ab ordine perpetuo sit suspensus, et solum per sedem
-            apostolicum cum eis dispensatur.</p>
+            apostolicum cum eis dispensatur.</head>
           <p xml:id="cice-l5t3-d1e783">Idem.</p>
           <p xml:id="cice-l5t3-d1e786">Si quis ordinaverit seu ad ordinem praesentaverit aliquem, promissionem vel iuramentum
             ab illo recipiens, quod super provisione sua non inquietet eundem, ordinator a
@@ -935,8 +935,8 @@
         </div>
         <div xml:id="cice-l5t3-Dd1e790">
           <head xml:id="cice-l5t3-Hd1e792">CAP. XLVI.</head>
-          <p xml:id="cice-l5t3-d1e795">Habet duo dicta: secundum ibi, “et ad resignationes.” Et propter brevitatem et
-            varietatem lecturarum aliter non summatur.</p>
+          <head xml:id="cice-l5t3-d1e795" type="question-title">Habet duo dicta: secundum ibi, “et ad resignationes.” Et propter brevitatem et
+            varietatem lecturarum aliter non summatur.</head>
           <p xml:id="cice-l5t3-d1e798">Idem.</p>
           <p xml:id="cice-l5t3-d1e801">Mandato nostro recepto, ut cum monachis, qui per simoniam dato aliquo locum in
             monasteriis sunt adepti, secundum constitutionem generalis concilii dispensares (Et

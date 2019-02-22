@@ -57,13 +57,13 @@
 
         <div xml:id="cice-l5t18-Dd1e108">
           <head xml:id="cice-l5t18-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t18-d1e113">In Exodo.</p>
+          <head xml:id="cice-l5t18-d1e113" type="question-title">In Exodo.</head>
           <p xml:id="cice-l5t18-d1e116">Qui furatur hominem, et vendiderit eum, convictus noxae morte moriatur.</p>
         </div>
         <div xml:id="cice-l5t18-Dd1e120">
           <head xml:id="cice-l5t18-Hd1e122">CAP. II.</head>
-          <p xml:id="cice-l5t18-d1e125">Furibus et latronibus in peccato obeuntibus sacramenta ecclesiastica deneganda sunt;
-            secus, si in morte eos poenituit.</p>
+          <head xml:id="cice-l5t18-d1e125" type="question-title">Furibus et latronibus in peccato obeuntibus sacramenta ecclesiastica deneganda sunt;
+            secus, si in morte eos poenituit.</head>
           <p xml:id="cice-l5t18-d1e128">Ex concilio Triburiensi.</p>
           <p xml:id="cice-l5t18-d1e131">Fures et latrones si in furando vel depraedando occiduntur, visum est, pro eis non esse
             orandum. Sed si comprehensi aut vulnerati presbytero vel diacono confessi fuerint,
@@ -71,22 +71,22 @@
         </div>
         <div xml:id="cice-l5t18-Dd1e135">
           <head xml:id="cice-l5t18-Hd1e137">CAP. III.</head>
-          <p xml:id="cice-l5t18-d1e140">Committens furtum ex necessitate non multum urgente, peccat, sed non graviter; unde
-            imponenda est ei levis poenitentia. H. d. secundum communem intellectum.</p>
+          <head xml:id="cice-l5t18-d1e140" type="question-title">Committens furtum ex necessitate non multum urgente, peccat, sed non graviter; unde
+            imponenda est ei levis poenitentia. H. d. secundum communem intellectum.</head>
           <p xml:id="cice-l5t18-d1e143">Ex poenitentiali Theodori.</p>
           <p xml:id="cice-l5t18-d1e146">Si quis propter necessitatem famis aut nuditatis furatus fuerit cibaria,vestem vel
             pecus, poeniteat hebdomadas tres, et, si reddiderit, non cogatur ieiunare.</p>
         </div>
         <div xml:id="cice-l5t18-Dd1e150">
           <head xml:id="cice-l5t18-Hd1e152">CAP. IV.</head>
-          <p xml:id="cice-l5t18-d1e155">Non indicans furem propter lucrum, quod ab eo consequitur, reus peccati est.</p>
+          <head xml:id="cice-l5t18-d1e155" type="question-title">Non indicans furem propter lucrum, quod ab eo consequitur, reus peccati est.</head>
           <p xml:id="cice-l5t18-d1e158">Hieronymus super Parabolas.</p>
           <p xml:id="cice-l5t18-d1e161">“Qui cum fure partitur, occidit animam suam.” Non fur solum, sed ille reus tenetur,
             qui, furti conscius, quaerente possessore non indicat.</p>
         </div>
         <div xml:id="cice-l5t18-Dd1e166">
           <head xml:id="cice-l5t18-Hd1e168">CAP. V.</head>
-          <p xml:id="cice-l5t18-d1e171">Fur occultus potest post restitutionem et poenitentiam ad sacros ordines promoveri.</p>
+          <head xml:id="cice-l5t18-d1e171" type="question-title">Fur occultus potest post restitutionem et poenitentiam ad sacros ordines promoveri.</head>
           <p xml:id="cice-l5t18-d1e174">Alexander III. Cremonensi Episcopo.</p>
           <p xml:id="cice-l5t18-d1e177">Ex literis tuis, si bene meminimus, auribus nostris innotuit, et dilecti filii I.
             subdiaconi nostri diligens relatio patefecit, quod B. lator praesentium calicem quendam

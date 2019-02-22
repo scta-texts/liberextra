@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t5-Dd1e108">
           <head xml:id="cice-l1t5-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t5-d1e113">Impostulabilis est qui violat interdictum. H. d. quoad titulum; habet enim multa alia
-            dicta, quae non faciunt ad tit.</p>
+          <head xml:id="cice-l1t5-d1e113" type="question-title">Impostulabilis est qui violat interdictum. H. d. quoad titulum; habet enim multa alia
+            dicta, quae non faciunt ad tit.</head>
           <p xml:id="cice-l1t5-d1e116">Innocentius III. Decano et Capitulo Senonensi.</p>
           <p xml:id="cice-l1t5-d1e119">Ad haec in B. Petro (Et infra:) Sane, quum ecclesia Senonensis semper fuerit ecclesiae
             Romanae devota, non immerito ipsius ecclesiae passioni compatimur et doloribus
@@ -152,8 +152,8 @@
         </div>
         <div xml:id="cice-l1t5-Dd1e123">
           <head xml:id="cice-l1t5-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t5-d1e128">Qui postulationem cassatam vitio personae innovat est eligendi et postulandi potestate
-            privatus.</p>
+          <head xml:id="cice-l1t5-d1e128" type="question-title">Qui postulationem cassatam vitio personae innovat est eligendi et postulandi potestate
+            privatus.</head>
           <p xml:id="cice-l1t5-d1e131">Idem Hostiensi Episcopo apostolicae sedis Legato.</p>
           <p xml:id="cice-l1t5-d1e134">Gratum gerimus et acceptum, et fraternitatem tuam plurimum commendamus, quod ad
             promotionem venerabilis fratris nostri P. quondam Cameracensis episcopi, nunc autem
@@ -178,8 +178,8 @@
         </div>
         <div xml:id="cice-l1t5-Dd1e138">
           <head xml:id="cice-l1t5-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t5-d1e143">Postulatio, per quam privata vel minor utilitas communi vel maiori praefertur, vel quae
-            fit a minori quam a tertia parte collegii, admitti non debet.</p>
+          <head xml:id="cice-l1t5-d1e143" type="question-title">Postulatio, per quam privata vel minor utilitas communi vel maiori praefertur, vel quae
+            fit a minori quam a tertia parte collegii, admitti non debet.</head>
           <p xml:id="cice-l1t5-d1e146">Idem Clericis Ravennatis ecclesiae.</p>
           <p xml:id="cice-l1t5-d1e149">Bonae memoriae Guil. archiepiscopo vestro viam universae carnis ingresso, eius nobis
             obitum per vestras literas intimastis. Nos autem vobis dedimus in mandatis, ut personam
@@ -223,9 +223,9 @@
         </div>
         <div xml:id="cice-l1t5-Dd1e153">
           <head xml:id="cice-l1t5-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t5-d1e158">Archiepiscopus in archiepiscopum postulatur. Et ex quo postulatio praesentata est
+          <head xml:id="cice-l1t5-d1e158" type="question-title">Archiepiscopus in archiepiscopum postulatur. Et ex quo postulatio praesentata est
             Papae, non possunt postulantes ab ea recedere; sed debet superioris iudicium exspectari.
-            H. d. quoad titulum.</p>
+            H. d. quoad titulum.</head>
           <p xml:id="cice-l1t5-d1e161">Idem Praeposito et Capitulo Strigonensi.</p>
           <p xml:id="cice-l1t5-d1e164">Bonae memoriae Guil. archiepiscopo vestro viam universae carnis ingresso, quum in
             venerabilem fratrem nostrum Colocensem archiepiscopum postulandum a nobis contulissetis
@@ -326,8 +326,8 @@
         </div>
         <div xml:id="cice-l1t5-Dd1e169">
           <head xml:id="cice-l1t5-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t5-d1e174">Postulatio, contra quam agitur de contempto, potest sine praeiudicio alicuius reiici;
-            potest tamen de speciali gratia admitti. Hoc dicit.</p>
+          <head xml:id="cice-l1t5-d1e174" type="question-title">Postulatio, contra quam agitur de contempto, potest sine praeiudicio alicuius reiici;
+            potest tamen de speciali gratia admitti. Hoc dicit.</head>
           <p xml:id="cice-l1t5-d1e177">Idem Capitulo Strigonensi.</p>
           <p xml:id="cice-l1t5-d1e180">Postulationem, quam celebrastis [de venerabili fratre nostro I. Colocensi archiepiscopo
             ad Strigoniensem metropolim transferendo, venerabiles fratres nostri eiusdem metropolis
@@ -390,7 +390,7 @@
         </div>
         <div xml:id="cice-l1t5-Dd1e184">
           <head xml:id="cice-l1t5-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t5-d1e189">Episcopus non est eligendus ad aliam dignitatem, sed postulandus.</p>
+          <head xml:id="cice-l1t5-d1e189" type="question-title">Episcopus non est eligendus ad aliam dignitatem, sed postulandus.</head>
           <p xml:id="cice-l1t5-d1e192">Honorius III. Capitulo Calaritano.</p>
           <p xml:id="cice-l1t5-d1e195">Etsi unanimiter vota vestra concurrerint ad venerabilem fratrem nostrum Sutrinum
             episcopum in ecclesiae vestrae archiepiscopum eligendum, quum suae alligatus ecclesiae

@@ -57,8 +57,8 @@
         <div xml:id="cice-l2t26-Dd1e108">
           <head xml:id="cice-l2t26-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l2t26-d1e113">Episcopus contra episcopum locum per se conversum ad fidem praescribit triennio, sed,
-            quum vacat ecclesia vel est in schismate, non praescribitur contra ipsam.</p>
+          <head xml:id="cice-l2t26-d1e113" type="question-title">Episcopus contra episcopum locum per se conversum ad fidem praescribit triennio, sed,
+            quum vacat ecclesia vel est in schismate, non praescribitur contra ipsam.</head>
           <p xml:id="cice-l2t26-d1e116">Ex concilio Africano.</p>
           <p xml:id="cice-l2t26-d1e119">Placuit, ut, si quisquam post leges aliquem locum ad catholicam unitatem converterit,
             si eum per triennium nemine repetente tenuerit, ulterius ab eo non repetatur; si tamen
@@ -71,8 +71,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e123">
           <head xml:id="cice-l2t26-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t26-d1e128">Duobus modis summatur, primo sic: Taciturnitas praelati non nocet ecclesiae, donec sit
-            praescriptum. Secundo sic: In rebus invasis non currit praescriptio. Ioan. Andr.</p>
+          <head xml:id="cice-l2t26-d1e128" type="question-title">Duobus modis summatur, primo sic: Taciturnitas praelati non nocet ecclesiae, donec sit
+            praescriptum. Secundo sic: In rebus invasis non currit praescriptio. Ioan. Andr.</head>
           <p xml:id="cice-l2t26-d1e131">Ex registro Gregorii Italiae Patriciae.</p>
           <p xml:id="cice-l2t26-d1e134">Nihil prodest †gloriosissima sanitas et pulchritudo in corporis superficie, si vulnus
             latet intrinsecus. Atque illa magis cavenda est discordia, cui satellitium pax praebet
@@ -87,9 +87,9 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e138">
           <head xml:id="cice-l2t26-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t26-d1e143">Per quietam et sinceram possessionem triginta annorum praescribit ecclesia rem privati.
+          <head xml:id="cice-l2t26-d1e143" type="question-title">Per quietam et sinceram possessionem triginta annorum praescribit ecclesia rem privati.
             H. dicit, prout loquitur in praescriptione ecclesiae active, et iste intellectus
-            tenendus est.</p>
+            tenendus est.</head>
           <p xml:id="cice-l2t26-d1e146">Gregorius.</p>
           <p xml:id="cice-l2t26-d1e149">Sanctorum Patrum sanctiones et humanae leges irrefragabiliter statuentes
             confirmaverunt, et nos in praesenti concilio cum omnibus, qui sunt nobiscum,
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e153">
           <head xml:id="cice-l2t26-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t26-d1e158">Quarta decimarum et funeralium praescribitur contra episcopum, si quadraginta annorum
-            spatio non solvatur, et cathedralis ecclesia interim non vacavit.</p>
+          <head xml:id="cice-l2t26-d1e158" type="question-title">Quarta decimarum et funeralium praescribitur contra episcopum, si quadraginta annorum
+            spatio non solvatur, et cathedralis ecclesia interim non vacavit.</head>
           <p xml:id="cice-l2t26-d1e161">Alexander III. Salernitano Archiepiscopo.</p>
           <p xml:id="cice-l2t26-d1e164">De quarta vero decimae et oblationis defunctorum clericus ab impetitione episcopi
             quadragenaria praescriptione temporis se posse tueri videtur, nisi forte interim
@@ -112,7 +112,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e169">
           <head xml:id="cice-l2t26-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t26-d1e174">Possessor malae fidei non praescribit.</p>
+          <head xml:id="cice-l2t26-d1e174" type="question-title">Possessor malae fidei non praescribit.</head>
           <p xml:id="cice-l2t26-d1e177">Idem.</p>
           <p xml:id="cice-l2t26-d1e180">Vigilanti studio cavendum est, quum summa dimensio divini iudicii ab initio censuerit
             propria dimittere, aliena non appetere, ne malae fidei possessores simus in praediis
@@ -126,7 +126,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e184">
           <head xml:id="cice-l2t26-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t26-d1e189">Una ecclesia in parochia alterius quadraginta annorum spatio decimas praescribit.</p>
+          <head xml:id="cice-l2t26-d1e189" type="question-title">Una ecclesia in parochia alterius quadraginta annorum spatio decimas praescribit.</head>
           <p xml:id="cice-l2t26-d1e192">Idem Mauritano Episcopo.</p>
           <p xml:id="cice-l2t26-d1e195">Ad aures nostras te significante pervenit, duas ecclesias sub examine tuo saepius
             litigasse super decimis, quas una earum in alterius parochia annis XL. possedit, †ac per
@@ -138,8 +138,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e199">
           <head xml:id="cice-l2t26-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t26-d1e204">Laici spiritualia possidere non possunt; ergo et per consequens nec praescribere. H. d.
-            et quotidie allegatur.</p>
+          <head xml:id="cice-l2t26-d1e204" type="question-title">Laici spiritualia possidere non possunt; ergo et per consequens nec praescribere. H. d.
+            et quotidie allegatur.</head>
           <p xml:id="cice-l2t26-d1e207">Idem Parmensi Episcopo.</p>
           <p xml:id="cice-l2t26-d1e210">Causam, quae inter dilectum filium nostrum I. Reginensem archidiaconum et nobilem virum
             G. de Baisio super decimis vertitur, †quas idem G. et homines sui habere in curte
@@ -153,8 +153,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e214">
           <head xml:id="cice-l2t26-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t26-d1e219">Si contra praescriptionem XL. annorum, quae sola currit contra ecclesiam, opponatur
-            interruptio, uterque probabit.</p>
+          <head xml:id="cice-l2t26-d1e219" type="question-title">Si contra praescriptionem XL. annorum, quae sola currit contra ecclesiam, opponatur
+            interruptio, uterque probabit.</head>
           <p xml:id="cice-l2t26-d1e222">Idem.</p>
           <p xml:id="cice-l2t26-d1e225">Illud autem te scire volumus et firmiter tenere, quod adversus ecclesias minorem
             praescriptionem, quam quadraginta annorum, Romana ecclesia non admittit, licet quidam
@@ -166,7 +166,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e229">
           <head xml:id="cice-l2t26-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t26-d1e234">Fines praediorum ecclesiasticorum quadraginta annorum spatio praescribuntur.</p>
+          <head xml:id="cice-l2t26-d1e234" type="question-title">Fines praediorum ecclesiasticorum quadraginta annorum spatio praescribuntur.</head>
           <p xml:id="cice-l2t26-d1e237">Idem.</p>
           <p xml:id="cice-l2t26-d1e240">Quia indicante abbate C. monasterii S. Petri, [quod in loco est, qui Baias dicitur,
             constitutum,] comperimus, inter eum et Ioannem abbatem monasterii sanctae Luciae [in
@@ -181,7 +181,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e244">
           <head xml:id="cice-l2t26-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t26-d1e249">Tempore hostilitatis non currit praescriptio.</p>
+          <head xml:id="cice-l2t26-d1e249" type="question-title">Tempore hostilitatis non currit praescriptio.</head>
           <p xml:id="cice-l2t26-d1e252">Lucius III.</p>
           <p xml:id="cice-l2t26-d1e255">Ex transmissa nobis conquestione abbatis et monachorum de Haben. accepimus, quod, quum
             ecclesia de Camenone ad ius eorum pertineat, et homines de Sibini et Vinto. ecclesiarum
@@ -197,8 +197,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e260">
           <head xml:id="cice-l2t26-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t26-d1e265">Procurationes, quae debentur legatis et nunciis apostolicae sedis, praescribi non
-            possunt.</p>
+          <head xml:id="cice-l2t26-d1e265" type="question-title">Procurationes, quae debentur legatis et nunciis apostolicae sedis, praescribi non
+            possunt.</head>
           <p xml:id="cice-l2t26-d1e268">Innocentius III. Abbati de Cenedo.</p>
           <p xml:id="cice-l2t26-d1e271">Accedentes ad praesentiam nostram dilecti filii praepositus sancti Nazarii, et A.
             canonicus sancti Stephani, syndici et procuratores dilectorum filiorum primicerii et
@@ -224,7 +224,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e275">
           <head xml:id="cice-l2t26-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t26-d1e280">Subditus non praescribit obedientiam contra praelatum.</p>
+          <head xml:id="cice-l2t26-d1e280" type="question-title">Subditus non praescribit obedientiam contra praelatum.</head>
           <p xml:id="cice-l2t26-d1e283">Idem de Costa et de S. Donato Prioribus.</p>
           <p xml:id="cice-l2t26-d1e286">Quum non liceat a capite membra recedere, non sufficimus admirari, quod, sicut
             referente venerabili fratre nostro Bracharensi archiepiscopo nobis est intimatum, licet
@@ -242,7 +242,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e290">
           <head xml:id="cice-l2t26-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t26-d1e295">De iuribus ad Romanam ecclesiam spectantibus currit sola centenaria praescriptio.</p>
+          <head xml:id="cice-l2t26-d1e295" type="question-title">De iuribus ad Romanam ecclesiam spectantibus currit sola centenaria praescriptio.</head>
           <p xml:id="cice-l2t26-d1e298">Idem nobili viro Matafeloni.</p>
           <p xml:id="cice-l2t26-d1e301">Ad audientiam apostolatus nostri te conquerente pervenit, †quod quaedam iura de castro
             Palatioli, a felicis memoriae Alexandro Papa praedecessore nostro tibi concessa,
@@ -282,8 +282,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e305">
           <head xml:id="cice-l2t26-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t26-d1e310">De centenaria praescriptione, quae solum currit contra Romanam ecclesiam, tempora
-            schismatum deducantur.</p>
+          <head xml:id="cice-l2t26-d1e310" type="question-title">De centenaria praescriptione, quae solum currit contra Romanam ecclesiam, tempora
+            schismatum deducantur.</head>
           <p xml:id="cice-l2t26-d1e313">Idem Hel. et Gu. Abbatibus.</p>
           <p xml:id="cice-l2t26-d1e316">Quum vobis †aliis literis dederimus in mandatis, ut in causa, quae inter ecclesiam
             Hildesemensem ex una parte, et ecclesiam de Gandersheim et ecclesiam Romanam ex altera
@@ -299,9 +299,9 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e320">
           <head xml:id="cice-l2t26-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t26-d1e325">Praelatus inferior potest praescribere in certis ecclesiis suae dioecesis totum ius
+          <head xml:id="cice-l2t26-d1e325" type="question-title">Praelatus inferior potest praescribere in certis ecclesiis suae dioecesis totum ius
             episcopale; subducitur tamen de praescriptione tempus, quo vacavit ecclesia
-            cathedralis.</p>
+            cathedralis.</head>
           <p xml:id="cice-l2t26-d1e328">Idem Heliensi et Roffensi Episcopis.</p>
           <p xml:id="cice-l2t26-d1e331">Auditis et intellectis meritis causae, quae vertitur inter venerabilem fratrem nostrum
             Vigorensem episcopum, et dilectum filium abbatem de Hevescam super ecclesiis in valle de
@@ -339,9 +339,9 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e335">
           <head xml:id="cice-l2t26-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l2t26-d1e340">Non potest subditus contra superiorem visitationem aut procurationem ratione
+          <head xml:id="cice-l2t26-d1e340" type="question-title">Non potest subditus contra superiorem visitationem aut procurationem ratione
             visitationis debitam in se ipso praescribere, quamvis alius in personam alterius
-            praescribere posset utramque.</p>
+            praescribere posset utramque.</head>
           <p xml:id="cice-l2t26-d1e343">Idem Parisiensi Episcopo.</p>
           <p xml:id="cice-l2t26-d1e346">Quum ex officii sui debito Senonensem provinciam visitaret venerabilis frater noster
             archiepiscopus Senonensis, per Parisiensem dioecesim transitum faciens, ad abbatis
@@ -371,9 +371,9 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e351">
           <head xml:id="cice-l2t26-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l2t26-d1e356">Qui alieno nomine possidet, non praescribit; nec etiam is, qui proprio nisi habeat
+          <head xml:id="cice-l2t26-d1e356" type="question-title">Qui alieno nomine possidet, non praescribit; nec etiam is, qui proprio nisi habeat
             bonam fidem et iustum titulum, si praesumptio est contra eum. Hoc dicit secundum Ioan.
-            Andr. addita suppletione Panormitani.</p>
+            Andr. addita suppletione Panormitani.</head>
           <p xml:id="cice-l2t26-d1e359">Idem Pisano Archiepiscopo.</p>
           <p xml:id="cice-l2t26-d1e362">Si diligenti †meditatione pensasses, quid illa tabernaculi arca significet, in qua cum
             tabulis virga simul et manna sunt iubente Domino recondita, nequaquam nos tibi
@@ -421,8 +421,8 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e366">
           <head xml:id="cice-l2t26-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l2t26-d1e371">Abbas in capellis praescribere potest iura episcopalia; obtinet tamen in his solis,
-            quae praescripsit. H. D. quoad titulum.</p>
+          <head xml:id="cice-l2t26-d1e371" type="question-title">Abbas in capellis praescribere potest iura episcopalia; obtinet tamen in his solis,
+            quae praescripsit. H. D. quoad titulum.</head>
           <p xml:id="cice-l2t26-d1e374">Idem Episcopo Lucano.</p>
           <p xml:id="cice-l2t26-d1e377">Quum olim, frater episcope, cum dilectis filiis abbate et monachis sancti Salvatoris de
             Ficheto super plebe Salamazanae et adiacentibus capellis ipsius in nostra praesentia
@@ -504,9 +504,9 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e381">
           <head xml:id="cice-l2t26-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l2t26-d1e386">Qui praescriptione completa privilegium contrarium impetrat, et utitur illo,
+          <head xml:id="cice-l2t26-d1e386" type="question-title">Qui praescriptione completa privilegium contrarium impetrat, et utitur illo,
             praescriptioni, renunciat. Si praescriptio non erat completa, malam fidem habet, et ideo
-            non praescribit.</p>
+            non praescribit.</head>
           <p xml:id="cice-l2t26-d1e389">Idem.</p>
           <p xml:id="cice-l2t26-d1e392">Veniens ad praesentiam nostram dilectus filius [G.] abbas sancti Martini de Pannonia
             †[sua nobis conquestione monstravit, quod venerabilis frater noster Vesprimensis
@@ -583,7 +583,7 @@
         </div>
         <div xml:id="cice-l2t26-Dd1e396">
           <head xml:id="cice-l2t26-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l2t26-d1e401">Non in foro canonico nec civili valet praescriptio cum mala fide.</p>
+          <head xml:id="cice-l2t26-d1e401" type="question-title">Non in foro canonico nec civili valet praescriptio cum mala fide.</head>
           <p xml:id="cice-l2t26-d1e404">Idem in concilio generali.</p>
           <p xml:id="cice-l2t26-d1e407">Quoniam omne, quod non est ex fide, peccatum est, synodali iudicio diffinimus, ut nulla
             valeat absque bona fide praescriptio tam canonica quam civilis, quum generaliter sit

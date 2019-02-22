@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l5t36-Dd1e108">
           <head xml:id="cice-l5t36-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t36-d1e113">Propter eius brevitatem non summatur.</p>
+          <head xml:id="cice-l5t36-d1e113" type="question-title">Propter eius brevitatem non summatur.</head>
           <p xml:id="cice-l5t36-d1e116">In Exodo.</p>
           <p xml:id="cice-l5t36-d1e119">Si rixati fuerint homines, et percusserit alter proximum suum lapide vel pugno, et ille
             mortuus non fuerit, sed iacuerit in lecto, si surrexerit et ambulaverit foris super
@@ -66,7 +66,7 @@
         </div>
         <div xml:id="cice-l5t36-Dd1e123">
           <head xml:id="cice-l5t36-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t36-d1e128">Breve est, et ideo non summatur.</p>
+          <head xml:id="cice-l5t36-d1e128" type="question-title">Breve est, et ideo non summatur.</head>
           <p xml:id="cice-l5t36-d1e131">Ibidem.</p>
           <p xml:id="cice-l5t36-d1e134">Si qui aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos vel
             asinus in eam: dominus cisternae reddet pretium iumentorum; quod autem mortuum est,
@@ -74,7 +74,7 @@
         </div>
         <div xml:id="cice-l5t36-Dd1e138">
           <head xml:id="cice-l5t36-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t36-d1e143">Breve est, et ideo non summatur.</p>
+          <head xml:id="cice-l5t36-d1e143" type="question-title">Breve est, et ideo non summatur.</head>
           <p xml:id="cice-l5t36-d1e146">Ibidem.</p>
           <p xml:id="cice-l5t36-d1e149">Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit, vendent bovem
             vivum, et divident pretium; cadaver autem mortui inter se dispertient. Si autem sciebat,
@@ -83,29 +83,29 @@
         </div>
         <div xml:id="cice-l5t36-Dd1e153">
           <head xml:id="cice-l5t36-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t36-d1e158">Ibidem.</p>
+          <head xml:id="cice-l5t36-d1e158" type="question-title">Ibidem.</head>
           <p xml:id="cice-l5t36-d1e161">Si laeserit quispiam agrum vel vineam, et dimiserit iumentum suum, ut depascat aliena:
             quicquid optimum habuerit in agro suo vel vinea, pro damno aestimationem restituet.</p>
         </div>
         <div xml:id="cice-l5t36-Dd1e166">
           <head xml:id="cice-l5t36-Hd1e168">CAP. V.</head>
-          <p xml:id="cice-l5t36-d1e171">Breve est, et non summatur.</p>
+          <head xml:id="cice-l5t36-d1e171" type="question-title">Breve est, et non summatur.</head>
           <p xml:id="cice-l5t36-d1e174">Ibidem.</p>
           <p xml:id="cice-l5t36-d1e177">Si egressus ignis invenerit spinas, et comprehenderit acer vos frugum sive stantes
             segetes in agris, reddet damnum qui ignem succenderit.</p>
         </div>
         <div xml:id="cice-l5t36-Dd1e181">
           <head xml:id="cice-l5t36-Hd1e183">CAP. VI.</head>
-          <p xml:id="cice-l5t36-d1e186">Breve est, et quasi idem cum praecedenti.</p>
+          <head xml:id="cice-l5t36-d1e186" type="question-title">Breve est, et quasi idem cum praecedenti.</head>
           <p xml:id="cice-l5t36-d1e189">Ex poenitentiali Romano.</p>
           <p xml:id="cice-l5t36-d1e192">Si quis domum vel aream cuiusquam incenderit voluntarie, sublata et incensa omnia
             restituat, et tres annos poeniteat.</p>
         </div>
         <div xml:id="cice-l5t36-Dd1e196">
           <head xml:id="cice-l5t36-Hd1e198">CAP. VII.</head>
-          <p xml:id="cice-l5t36-d1e201">Saecularis potestas, quae clericum bannivit, condemnari debet per iudicem
+          <head xml:id="cice-l5t36-d1e201" type="question-title">Saecularis potestas, quae clericum bannivit, condemnari debet per iudicem
             ecclesiasticum secundum aestimationem iniuriae in expensis et damnis. Et hodie adde
-            poenam in Clem. 1. de poenis.</p>
+            poenam in Clem. 1. de poenis.</head>
           <p xml:id="cice-l5t36-d1e204">Honorius III. Episcopo Bononiensi.</p>
           <p xml:id="cice-l5t36-d1e207">Olim scribentibus nobis venerabili fratri nostro, episcopo Mutinensi, ut, accedens
             personaliter Florentiam, potestatem, consiliarios et populum civitatis Florentinae
@@ -121,9 +121,9 @@
         </div>
         <div xml:id="cice-l5t36-Dd1e211">
           <head xml:id="cice-l5t36-Hd1e213">CAP. VIII.</head>
-          <p xml:id="cice-l5t36-d1e216">Qui iurat statutum super non repetendis damnis, hoc non obstante, expensas repetere
+          <head xml:id="cice-l5t36-d1e216" type="question-title">Qui iurat statutum super non repetendis damnis, hoc non obstante, expensas repetere
             poterit. H. d. vel sic: Statutum super damnis non repetendis ad expensas non
-            extenditur.</p>
+            extenditur.</head>
           <p xml:id="cice-l5t36-d1e219">Gregorius IX.</p>
           <p xml:id="cice-l5t36-d1e222">In nostra et fratrum nostrorum praesentia proposuistis, quod olim cives Brixienses pro
             restaurationibus damnorum illatorum ad invicem, quae propter multas civiles discordias
@@ -145,7 +145,7 @@
         </div>
         <div xml:id="cice-l5t36-Dd1e226">
           <head xml:id="cice-l5t36-Hd1e228">CAP. IX.</head>
-          <p xml:id="cice-l5t36-d1e231">Habet plura dicta, et se summat.</p>
+          <head xml:id="cice-l5t36-d1e231" type="question-title">Habet plura dicta, et se summat.</head>
           <p xml:id="cice-l5t36-d1e234">Idem.</p>
           <p xml:id="cice-l5t36-d1e237">Si culpa tua datum est damnum vel iniuria irrogata, seu aliis irrogantibus opem forte
             tulisti, aut haec imperitia tua sive negligentia evenerunt: iure super his satisfacere

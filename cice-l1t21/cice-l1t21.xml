@@ -57,14 +57,14 @@
 
         <div xml:id="cice-l1t21-Dd1e108">
           <head xml:id="cice-l1t21-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t21-d1e113">Breve est.</p>
+          <head xml:id="cice-l1t21-d1e113" type="question-title">Breve est.</head>
           <p xml:id="cice-l1t21-d1e116">Ex Concilio Aurelianensi.</p>
           <p xml:id="cice-l1t21-d1e119">Ut bigami, vel poenitentes, vel repudiatarum mariti, ad sacerdotium non ascendant.</p>
         </div>
         <div xml:id="cice-l1t21-Dd1e123">
           <head xml:id="cice-l1t21-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t21-d1e128">Cum bigamo, qui ordinatus est ad sacros, non dispensatur, et ordinator privabitur
-            potestate ordinandi, nisi cum eo fuerit dispensatum.</p>
+          <head xml:id="cice-l1t21-d1e128" type="question-title">Cum bigamo, qui ordinatus est ad sacros, non dispensatur, et ordinator privabitur
+            potestate ordinandi, nisi cum eo fuerit dispensatum.</head>
           <p xml:id="cice-l1t21-d1e131">Lucius III. Spal. Archiepiscopo.</p>
           <p xml:id="cice-l1t21-d1e134">Super eo, quod a nobis tua fraternitas quid faciendum sit de bigamis requisivit,
             inquisitioni tuae taliter respondemus, quod ordinatores eorum potestate et officio
@@ -76,7 +76,7 @@
         </div>
         <div xml:id="cice-l1t21-Dd1e138">
           <head xml:id="cice-l1t21-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t21-d1e143">Bigamus, uxore vivente, vel mortua, non ordinatur.</p>
+          <head xml:id="cice-l1t21-d1e143" type="question-title">Bigamus, uxore vivente, vel mortua, non ordinatur.</head>
           <p xml:id="cice-l1t21-d1e146">Coelestinus III.</p>
           <p xml:id="cice-l1t21-d1e149">De bigamis [autem] presbyteris et viduarum maritis idem sancimus omnino, ut nec
             viventibus uxoribus, nec defunctis, ad divinorum debeant celebrationem admitti, maxime
@@ -84,8 +84,8 @@
         </div>
         <div xml:id="cice-l1t21-Dd1e153">
           <head xml:id="cice-l1t21-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t21-d1e158">Qui mortua uxore promotus ad sacros, cum secunda de facto contraxit, et cognovit,
-            bigamiae poenam incurrit, licet non sit bigamus.</p>
+          <head xml:id="cice-l1t21-d1e158" type="question-title">Qui mortua uxore promotus ad sacros, cum secunda de facto contraxit, et cognovit,
+            bigamiae poenam incurrit, licet non sit bigamus.</head>
           <p xml:id="cice-l1t21-d1e161">Innocentius III. Ratispa Episcopo.</p>
           <p xml:id="cice-l1t21-d1e164">Nuper a nobis (Et infra: [cf. c. 29. de sent. exc. V. 39.]) Tertius et ultimus
             inquisitionis articulus videbatur habere non modicum quaestionis, quoniam, quum in
@@ -104,8 +104,8 @@
         </div>
         <div xml:id="cice-l1t21-Dd1e169">
           <head xml:id="cice-l1t21-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t21-d1e174">Qui contraxit cum virgine, licet prius ab alio fuerit desponsata, bigamus non
-            censetur.</p>
+          <head xml:id="cice-l1t21-d1e174" type="question-title">Qui contraxit cum virgine, licet prius ab alio fuerit desponsata, bigamus non
+            censetur.</head>
           <p xml:id="cice-l1t21-d1e177">Idem Metensi Episcopo.</p>
           <p xml:id="cice-l1t21-d1e180">Debitum pastoralis officii (Et infra: [cf. c. 4. de bapt. III. 42.]) Secundus autem
             tuae dubitationis articulus continebat, an is, qui mulierem ab alio viro traductam, sed
@@ -136,7 +136,7 @@
         </div>
         <div xml:id="cice-l1t21-Dd1e184">
           <head xml:id="cice-l1t21-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t21-d1e189">Qui plures habuit concubinas, ex eo bigamus non est.</p>
+          <head xml:id="cice-l1t21-d1e189" type="question-title">Qui plures habuit concubinas, ex eo bigamus non est.</head>
           <p xml:id="cice-l1t21-d1e192">Idem Lugd. Archiepiscopo, apostolicae sedis Legato.</p>
           <p xml:id="cice-l1t21-d1e195">Quia circa minima †et maxima frequenter humanus deficit intellectus, [prudentis est,
             quaerere, ubi scrupulus dubitationis occurrit.] Sane postulasti per sedem apostolicam
@@ -150,8 +150,8 @@
         </div>
         <div xml:id="cice-l1t21-Dd1e199">
           <head xml:id="cice-l1t21-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t21-d1e204">Subdiaconus, qui cum vidua contraxit, et eam cognovit, bigamiae poenam incurrit, licet
-            bigamus non sit.</p>
+          <head xml:id="cice-l1t21-d1e204" type="question-title">Subdiaconus, qui cum vidua contraxit, et eam cognovit, bigamiae poenam incurrit, licet
+            bigamus non sit.</head>
           <p xml:id="cice-l1t21-d1e207">Idem.</p>
           <p xml:id="cice-l1t21-d1e210">A nobis fuit (Et infra:) Ille autem, qui in subdiaconatus ordine constitutus de facto
             tantum, quia de iure non potuit, duxit viduam in uxorem, perfecto bigamus non exstitit.

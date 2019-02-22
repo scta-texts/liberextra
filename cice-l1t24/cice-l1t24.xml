@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t24-Dd1e108">
           <head xml:id="cice-l1t24-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t24-d1e113">Archipresbyter civitatis subest archidiacono, et principaliter praeest presbyteris et
-            presbyteralibus officiis.</p>
+          <head xml:id="cice-l1t24-d1e113" type="question-title">Archipresbyter civitatis subest archidiacono, et principaliter praeest presbyteris et
+            presbyteralibus officiis.</head>
           <p xml:id="cice-l1t24-d1e116">Ex concilio Toletano.</p>
           <p xml:id="cice-l1t24-d1e119">Ut archipresbyter sciat se subesse archidiacono, et eius praeceptis sicut sui episcopi
             obedire et, quod specialiter ad eius pertinet ministerium, super omnes presbyteros in
@@ -68,7 +68,7 @@
         </div>
         <div xml:id="cice-l1t24-Dd1e123">
           <head xml:id="cice-l1t24-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t24-d1e128">Ad idem.</p>
+          <head xml:id="cice-l1t24-d1e128" type="question-title">Ad idem.</head>
           <p xml:id="cice-l1t24-d1e131">Leo Papa.</p>
           <p xml:id="cice-l1t24-d1e134">Ministerium archipresbyteri in eo constituitur, ut diligenti cura provideat ministerium
             sacerdotum cardinalium, qui solenne debent agere officium in communicatione corporis et
@@ -89,7 +89,7 @@
         </div>
         <div xml:id="cice-l1t24-Dd1e138">
           <head xml:id="cice-l1t24-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t24-d1e143">Declarat, quod sit officium archipresbyteri civitatensis. Ant. de But.</p>
+          <head xml:id="cice-l1t24-d1e143" type="question-title">Declarat, quod sit officium archipresbyteri civitatensis. Ant. de But.</head>
           <p xml:id="cice-l1t24-d1e146">Idem.</p>
           <p xml:id="cice-l1t24-d1e149">Officium archipresbyteri de urbe constat, quando ibi praesul defuerit, vice eius
             officium inchoare, benedictiones presbyterales in ecclesia dare, missam, quando
@@ -105,8 +105,8 @@
         </div>
         <div xml:id="cice-l1t24-Dd1e153">
           <head xml:id="cice-l1t24-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t24-d1e158">Archipresbyter ruralis presbyterorum et laicorum plebaniae suae curam gerit: contra
-            decretum tamen episcopi nihil ordinare potest.</p>
+          <head xml:id="cice-l1t24-d1e158" type="question-title">Archipresbyter ruralis presbyterorum et laicorum plebaniae suae curam gerit: contra
+            decretum tamen episcopi nihil ordinare potest.</head>
           <p xml:id="cice-l1t24-d1e161">Idem ex synodo Ravennae habita.</p>
           <p xml:id="cice-l1t24-d1e164">Ut singulae plebes archipresbyterum habeant; propter assiduam erga populum Dei curam,
             singulis plebibus archipresbyteros praeesse volumus, qui non solum imperiti vulgi

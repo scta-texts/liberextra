@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t14-Dd1e108">
           <head xml:id="cice-l2t14-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t14-d1e113">Reus, qui mittendum in possessionem ad mandatmn iudicis non admisit, non mulctabitur de
-            canonica aequitate, si infra annum caveat stare iuri. H. d.</p>
+          <head xml:id="cice-l2t14-d1e113" type="question-title">Reus, qui mittendum in possessionem ad mandatmn iudicis non admisit, non mulctabitur de
+            canonica aequitate, si infra annum caveat stare iuri. H. d.</head>
           <p xml:id="cice-l2t14-d1e116">Alexander III. Herfordensi Episcopo.</p>
           <p xml:id="cice-l2t14-d1e119">Ad haec quum contingat, actorem multoties mittendum esse in possessionem causa rei
             servandae propter absentiam partis adversae, et per eius dolum sive potentiam non possit
@@ -71,9 +71,9 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e123">
           <head xml:id="cice-l2t14-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t14-d1e128">Propter contumaciam rei potest iudex rem petitam sequestrare, et ipsum contumacem in
+          <head xml:id="cice-l2t14-d1e128" type="question-title">Propter contumaciam rei potest iudex rem petitam sequestrare, et ipsum contumacem in
             expensis condemnare, quas propter ipsius contumaciam vel dolosam exceptionem actor
-            fecit. Hoc dicit Panorm.</p>
+            fecit. Hoc dicit Panorm.</head>
           <p xml:id="cice-l2t14-d1e131">Idem Abbati de Ramese et Archidiacono Heliensi.</p>
           <p xml:id="cice-l2t14-d1e134">Ex literis vestris ad nos directis accepimus, quod, quum vobis causam, quae inter
             dilectos filios nostros monachos de Etoll. et canonicos Linconenses nec non etiam
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e138">
           <head xml:id="cice-l2t14-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t14-d1e143">Actore contumace testes recipi et sententia ferri debent, etiam lite non contestata,
-            reo instante. Hoc dicit secundum communem intellectum.</p>
+          <head xml:id="cice-l2t14-d1e143" type="question-title">Actore contumace testes recipi et sententia ferri debent, etiam lite non contestata,
+            reo instante. Hoc dicit secundum communem intellectum.</head>
           <p xml:id="cice-l2t14-d1e146">Idem Exonensi et Vintoniensi Episcopis et Abbati Herfordensi.</p>
           <p xml:id="cice-l2t14-d1e149">Causam, quae inter nobiles viros F. et R. de Ardenna quondam filium Agathae de
             nativitate ipsius vertitur, vobis, fratres episcopi, et venerabili fratri nostro
@@ -121,8 +121,8 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e153">
           <head xml:id="cice-l2t14-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t14-d1e158">Si reus post litem contestatam est contumax, si alias liquet de causa, fertur
-            diffinitiva sententia; si non liquet, actor in veram possessionem inducitur.</p>
+          <head xml:id="cice-l2t14-d1e158" type="question-title">Si reus post litem contestatam est contumax, si alias liquet de causa, fertur
+            diffinitiva sententia; si non liquet, actor in veram possessionem inducitur.</head>
           <p xml:id="cice-l2t14-d1e161">Urbanus III. de Novo loco et de Viger. Prioribus.</p>
           <p xml:id="cice-l2t14-d1e164">Prout nobis vestris literis annotastis etc. (Et infra:) Reum, quia contumaciter a
             praesentia vestra recesserat, iuratoriam coegistis exponere cautionem, quod coram vobis
@@ -140,11 +140,11 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e169">
           <head xml:id="cice-l2t14-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t14-d1e174">Qui fundata intentione actoris exceptionem peremptoriam obiicit, quam non probat in
+          <head xml:id="cice-l2t14-d1e174" type="question-title">Qui fundata intentione actoris exceptionem peremptoriam obiicit, quam non probat in
             continenti, sed accipit inducias, si defecerit in probando, condemnatur in continenti,
             diffinitiva non exspectata, in expensis, ac solvere cogitur; quod si non potest,
             punietur in corpus secundum arbitrium iudicis. H. d. notab. iste text. secundum
-            lecturam, quae placet Panorm.</p>
+            lecturam, quae placet Panorm.</head>
           <p xml:id="cice-l2t14-d1e177">Innocentius III.</p>
           <p xml:id="cice-l2t14-d1e180">Finem litibus cupientes imponi, ne partes ultra modum graventur laboribus et expensis,
             praesertim quum de beneficiis vel officiis ecclesiasticis litigatur, quae sine dispendio
@@ -159,9 +159,9 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e184">
           <head xml:id="cice-l2t14-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t14-d1e189">Citatus ad totam causam, certo termino ad comparendum assignato, tenetur comparere in
+          <head xml:id="cice-l2t14-d1e189" type="question-title">Citatus ad totam causam, certo termino ad comparendum assignato, tenetur comparere in
             termino, et dato impedimento in termino debet comparere quam citius potest post
-            terminum; alias condemnabitur in expensis a tempore citationis emissae.</p>
+            terminum; alias condemnabitur in expensis a tempore citationis emissae.</head>
           <p xml:id="cice-l2t14-d1e192">Idem Praenestino Episcopo apostolicae sedis Legato et Decano Brinensi.</p>
           <p xml:id="cice-l2t14-d1e195">Quum dilecti filii magister S. Leodiensis et H. Laudunensis canonici nuncii dilecti
             filii H. dicti Leodicensis electi pro eo quondam ad sedem apostolicam accessissent,
@@ -205,9 +205,9 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e199">
           <head xml:id="cice-l2t14-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t14-d1e204">Sententia in causa beneficiali non transit in rem iudicatam respectu superioris, quo
+          <head xml:id="cice-l2t14-d1e204" type="question-title">Sententia in causa beneficiali non transit in rem iudicatam respectu superioris, quo
             minus possit de iuribus partium inquirere, maxime quando sententia fuit lata contra
-            absentem, licet contumaciter et indefensum.</p>
+            absentem, licet contumaciter et indefensum.</head>
           <p xml:id="cice-l2t14-d1e207">Idem Armachano et Caselensi Archiepiscopo.</p>
           <p xml:id="cice-l2t14-d1e210">Quum olim D. clericus Coelestino Papae praedecessori nostro, diversis praelatorum
             Hyberniae literis praesentatis, se assereret in episcopum Roscensem fuisse electum,
@@ -280,9 +280,9 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e214">
           <head xml:id="cice-l2t14-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t14-d1e219">Si proceditur per viam inquisitionis contra absentem contumaciter, etiam lite non
+          <head xml:id="cice-l2t14-d1e219" type="question-title">Si proceditur per viam inquisitionis contra absentem contumaciter, etiam lite non
             contestata testes recipi possunt, et sententia diffinitiva ferri, etiam per viam
-            depositionis, si hoc meretur delictum.</p>
+            depositionis, si hoc meretur delictum.</head>
           <p xml:id="cice-l2t14-d1e222">Idem.</p>
           <p xml:id="cice-l2t14-d1e225">Veritatis est verbum organo dominicae vocis emissum, †quod arbor, quae terram
             inutiliter occupat, digne excidi, et in ignem mitti censetur, ut terra, quae sub nociva
@@ -326,8 +326,8 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e229">
           <head xml:id="cice-l2t14-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t14-d1e234">Actor non admissus in possessionem sibi decretam per iudicem causa rei servandae, vel
-            ab ea expulsus, per lapsum anni verus efficitur possessor.</p>
+          <head xml:id="cice-l2t14-d1e234" type="question-title">Actor non admissus in possessionem sibi decretam per iudicem causa rei servandae, vel
+            ab ea expulsus, per lapsum anni verus efficitur possessor.</head>
           <p xml:id="cice-l2t14-d1e237">Idem in concilio generali.</p>
           <p xml:id="cice-l2t14-d1e240">Contingit interdum, quod, quum actori ob contumaciam adversae partis adiudicatur causa
             rei servandae possessio, propter rei potentiam sive dolum actor infra annum rem
@@ -339,7 +339,7 @@
         </div>
         <div xml:id="cice-l2t14-Dd1e244">
           <head xml:id="cice-l2t14-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t14-d1e249">Si reus non invenitur, sufficit publice citationem ad ecclesiam suam proponi.</p>
+          <head xml:id="cice-l2t14-d1e249" type="question-title">Si reus non invenitur, sufficit publice citationem ad ecclesiam suam proponi.</head>
           <p xml:id="cice-l2t14-d1e252">Gregorius IX. Archiepiscopo Burdegalensi.</p>
           <p xml:id="cice-l2t14-d1e255">Venerabilis frater noster (Et infra:) Volentes finem imponi litibus, ne immortales
             exsistant, mandamus, quatenus ad initium proxime venturae Quadragesimae, quod tibi

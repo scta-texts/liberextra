@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l2t20-Dd1e108">
           <head xml:id="cice-l2t20-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t20-d1e113">Breve est.</p>
+          <head xml:id="cice-l2t20-d1e113" type="question-title">Breve est.</head>
           <p xml:id="cice-l2t20-d1e116">Ex concilio Matercensi.</p>
           <p xml:id="cice-l2t20-d1e119">Placuit sancto conventui, ut testes ad testimonium non conducantur pretio, et ut
             quicunque idonei et fideles in testimonium assumantur, ut is, contra quem testimoniare
@@ -66,7 +66,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e123">
           <head xml:id="cice-l2t20-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t20-d1e128">Nulla est receptio testium facta contra non citatum.</p>
+          <head xml:id="cice-l2t20-d1e128" type="question-title">Nulla est receptio testium facta contra non citatum.</head>
           <p xml:id="cice-l2t20-d1e131">Gregorius Ioanni Defensori eunti in Hispaniam.</p>
           <p xml:id="cice-l2t20-d1e134">In nomine Domini (Et infra:) Quod autem dicit idem episcopus, quia se absente etiam
             vilissimi sint testes exhibiti, nullius momenti lege noscendum est constitutionis
@@ -85,7 +85,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e138">
           <head xml:id="cice-l2t20-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t20-d1e143">Mulier testificatur contra clericum, quum de crimine agitur.</p>
+          <head xml:id="cice-l2t20-d1e143" type="question-title">Mulier testificatur contra clericum, quum de crimine agitur.</head>
           <p xml:id="cice-l2t20-d1e146">Idem Sabino Defensori Sardiniae.</p>
           <p xml:id="cice-l2t20-d1e149">Quoniam aliqua nobis de persona Epiphanii presbyteri sunt facinora nunciata, necesse
             est, ut cuncta diligentius perscruteris, et seu mulieres, cum quibus peregisse dicitur,
@@ -95,8 +95,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e153">
           <head xml:id="cice-l2t20-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t20-d1e158">Ubi agitur ad correctionem de peccato impediendo, principalis persona admittitur in
-            testem.</p>
+          <head xml:id="cice-l2t20-d1e158" type="question-title">Ubi agitur ad correctionem de peccato impediendo, principalis persona admittitur in
+            testem.</head>
           <p xml:id="cice-l2t20-d1e161">Pascalis Papa II.</p>
           <p xml:id="cice-l2t20-d1e164">In omni negotio principalis persona, dicens veritatem de re sibi nota, rectissime
             habenda est pro teste, cui quidem adhibito uno efficiuntur duo testes, adhibitis duobus
@@ -110,7 +110,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e169">
           <head xml:id="cice-l2t20-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t20-d1e174">Dicit, quales esse, et qualiter iurare debeant, qui super consanguinitate deponunt.</p>
+          <head xml:id="cice-l2t20-d1e174" type="question-title">Dicit, quales esse, et qualiter iurare debeant, qui super consanguinitate deponunt.</head>
           <p xml:id="cice-l2t20-d1e177">Eugenius III.</p>
           <p xml:id="cice-l2t20-d1e180">Quotiens aliqui propter cognationem propinquitatis vel consanguinitatis separari
             petuntur, duobus vel tribus testibus adhibitis affirmari debet, qui de eadem
@@ -122,7 +122,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e184">
           <head xml:id="cice-l2t20-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t20-d1e189">Praelatus et clerici qui causam ecclesiae non procurant, testificari possunt in ea.</p>
+          <head xml:id="cice-l2t20-d1e189" type="question-title">Praelatus et clerici qui causam ecclesiae non procurant, testificari possunt in ea.</head>
           <p xml:id="cice-l2t20-d1e192">Idem Priori et Fratribus S. Trinitatis.</p>
           <p xml:id="cice-l2t20-d1e195">Insuper etiam auctoritate nostra statuimus, ut liceat vobis in causis ecclesiae vestrae
             ferre testimonium, dummodo unus ex vobis vel duo ad agendum et respondendum
@@ -131,9 +131,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e199">
           <head xml:id="cice-l2t20-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t20-d1e204">Si probatio exceptionis oppositae contra testem productum non admittitur, antequam
+          <head xml:id="cice-l2t20-d1e204" type="question-title">Si probatio exceptionis oppositae contra testem productum non admittitur, antequam
             dictum testis recipiatur, in casu, in quo admitti debuit, licite appellatur. Hoc dicit
-            secundum lecturam, quam ponit Panorm.</p>
+            secundum lecturam, quam ponit Panorm.</head>
           <p xml:id="cice-l2t20-d1e207">Idem R. Herfordensi Episcopo et Abbati Sardi.</p>
           <p xml:id="cice-l2t20-d1e210">Ex parte A. presbyteri ad nos est querela perlata, quod, quum ipse ecclesiam de
             Clunoden. canonice fuisset adeptus, et eam XXX. annis et amplius pacifice possedisset,
@@ -167,8 +167,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e214">
           <head xml:id="cice-l2t20-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t20-d1e219">Iudex mittere debet examinatorem discretum ad testes recipiendos, qui ad eum commode
-            venire non possunt.</p>
+          <head xml:id="cice-l2t20-d1e219" type="question-title">Iudex mittere debet examinatorem discretum ad testes recipiendos, qui ad eum commode
+            venire non possunt.</head>
           <p xml:id="cice-l2t20-d1e222">Idem Exonensi et Vigorniensi Episcopis.</p>
           <p xml:id="cice-l2t20-d1e225">Si qui testium valetudinarii sunt, et senes, vel debilitate confecti, aut paupertate
             depressi, ita, quod non possint ad vestram praesentiam adduci, ad ipsos recipiendos
@@ -176,8 +176,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e229">
           <head xml:id="cice-l2t20-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t20-d1e234">Retractanda est sententia, si constat, eam fuisse latam ad dictum corruptorum testium.
-            H. d. secundum lecturam, quam tenet Panorm.</p>
+          <head xml:id="cice-l2t20-d1e234" type="question-title">Retractanda est sententia, si constat, eam fuisse latam ad dictum corruptorum testium.
+            H. d. secundum lecturam, quam tenet Panorm.</head>
           <p xml:id="cice-l2t20-d1e237">Alexander III. Belvacensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e240">Sicut nobis est ex parte tua intimatum, quidam parochiani tui accepta pecunia de
             parentela inter virum et uxorem exhibent iuramenta, per quae inter ipsos divortii
@@ -194,8 +194,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e244">
           <head xml:id="cice-l2t20-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t20-d1e249">Socius criminis et muneris non testificatur etiam in crimine simoniae. Et unius
-            testimonium non sufficit ad condemnationem.</p>
+          <head xml:id="cice-l2t20-d1e249" type="question-title">Socius criminis et muneris non testificatur etiam in crimine simoniae. Et unius
+            testimonium non sufficit ad condemnationem.</head>
           <p xml:id="cice-l2t20-d1e252">Idem.</p>
           <p xml:id="cice-l2t20-d1e255">Veniens ad nos cum literis tuis L. presbyter tuus sua nobis relatione monstravit, et
             hoc idem tuae literae continebant, quod, quum in ecclesia de Oven. institutus fuisset,
@@ -212,8 +212,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e260">
           <head xml:id="cice-l2t20-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t20-d1e265">Attestationes in uno iudicio receptae fidem faciunt in eadem causa, et inter easdem
-            personas coram alio iudice.</p>
+          <head xml:id="cice-l2t20-d1e265" type="question-title">Attestationes in uno iudicio receptae fidem faciunt in eadem causa, et inter easdem
+            personas coram alio iudice.</head>
           <p xml:id="cice-l2t20-d1e268">Idem Abbati sancti L. et Priori sancti C.</p>
           <p xml:id="cice-l2t20-d1e271">Causam, quae †inter N. et O. monachos super electione de utroque facta in monasterio
             diutius est agitata, experientiae vestrae committimus audiendam, et appellatione remota
@@ -226,8 +226,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e275">
           <head xml:id="cice-l2t20-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t20-d1e280">Clerici non sunt a ferendo testimonio in causa ecclesiae suae sine rationabili causa
-            repellendi.</p>
+          <head xml:id="cice-l2t20-d1e280" type="question-title">Clerici non sunt a ferendo testimonio in causa ecclesiae suae sine rationabili causa
+            repellendi.</head>
           <p xml:id="cice-l2t20-d1e283">Idem Cantuariensi Archiepiscopo et Vigorniensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e286">Quum nuncius canonicorum de Plutino, et nuncius Ioelis militis etc. (Et infra:)
             Praeterea Non lateat prudentiam vestram, quod clerici non sunt a ferendo testimonio
@@ -236,7 +236,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e290">
           <head xml:id="cice-l2t20-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t20-d1e295">Crimen nunc probatum repellit testem alias de illo crimine non damnatum.</p>
+          <head xml:id="cice-l2t20-d1e295" type="question-title">Crimen nunc probatum repellit testem alias de illo crimine non damnatum.</head>
           <p xml:id="cice-l2t20-d1e298">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l2t20-d1e301">Super eo vero, quod quaesivisti a nobis, utrum testes illi sint reprobandi in causa
             criminali vel civili quibus ab adversa parte crimina opponuntur tuae prudentiae
@@ -245,8 +245,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e305">
           <head xml:id="cice-l2t20-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t20-d1e310">Laicus in criminali non testificatur contra clericum, accusat tamcn pro sua vel suorum
-            iniuria.</p>
+          <head xml:id="cice-l2t20-d1e310" type="question-title">Laicus in criminali non testificatur contra clericum, accusat tamcn pro sua vel suorum
+            iniuria.</head>
           <p xml:id="cice-l2t20-d1e313">Idem Salernitano Archiepiscopo.</p>
           <p xml:id="cice-l2t20-d1e316">De cetero laicos in accusationem vel testimonium contra clericum in criminali causa non
             esse aliquatenus admittendos, censura sacrorum canonum manifestius edocet, nisi forte
@@ -255,10 +255,10 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e320">
           <head xml:id="cice-l2t20-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t20-d1e325">In causis ecclesiasticis et civilibus possunt fieri tres productiones testium; quarta
+          <head xml:id="cice-l2t20-d1e325" type="question-title">In causis ecclesiasticis et civilibus possunt fieri tres productiones testium; quarta
             autem non admittitur absque solennitate legali. Et super dictis testium post ipsorum
             publicationem potest publice disputari. H. d. secundum lecturam communem et verbis
-            textus congruentem.</p>
+            textus congruentem.</head>
           <p xml:id="cice-l2t20-d1e328">Idem eidem.</p>
           <p xml:id="cice-l2t20-d1e331">In causis ecclesiasticis vel civilibus ultra tertiam productionem non debent testes
             produci, nisi adhibita quadam solennitate, quae in legibus invenitur expressa. Et super
@@ -266,9 +266,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e335">
           <head xml:id="cice-l2t20-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l2t20-d1e340">Si quis probat actum gestum post appellationem, et adversarius probat quod ante,
+          <head xml:id="cice-l2t20-d1e340" type="question-title">Si quis probat actum gestum post appellationem, et adversarius probat quod ante,
             praefertur prima probatio, et actus iudicatur non tenere, nisi secundus probet, quod
-            ante omnem appellationem.</p>
+            ante omnem appellationem.</head>
           <p xml:id="cice-l2t20-d1e343">Idem Praeposito et Canonicis Embrudensis ecclesiae.</p>
           <p xml:id="cice-l2t20-d1e346">Quum tu, fili praeposite, cum quibusdam canonicis tuis, et venerabilis frater [noster]
             archiepiscopus vester pro causa, quae inter vos et ipsum vertebatur, essetis in nostra
@@ -287,8 +287,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e351">
           <head xml:id="cice-l2t20-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l2t20-d1e356">In causa appellationis super novis capitulis tantum testes novi et veteres producuntur
-            iuramento secundum morem prius recepto.</p>
+          <head xml:id="cice-l2t20-d1e356" type="question-title">In causa appellationis super novis capitulis tantum testes novi et veteres producuntur
+            iuramento secundum morem prius recepto.</head>
           <p xml:id="cice-l2t20-d1e359">Idem Episcopo Placentino.</p>
           <p xml:id="cice-l2t20-d1e362">Fraternitatis tuae literis nos consulere voluisti, utrum recipiendi sint novi testes
             super quaestione iudicata, in qua testibus renunciatum esse constet utrinque, et an,
@@ -303,8 +303,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e366">
           <head xml:id="cice-l2t20-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l2t20-d1e371">Qui iuravit testimonium non dicere, testificari compellitur, si testificationes
-            publicatae non sunt.</p>
+          <head xml:id="cice-l2t20-d1e371" type="question-title">Qui iuravit testimonium non dicere, testificari compellitur, si testificationes
+            publicatae non sunt.</head>
           <p xml:id="cice-l2t20-d1e374">Idem Exonensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e377">Intimavit nobis R. presbyter, quod G. clericus capellanum eius et alios quamplures de
             testibus suis iuramento constrinxit, quod testimonium, consilium et auxilium contra
@@ -315,8 +315,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e381">
           <head xml:id="cice-l2t20-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l2t20-d1e386">Publicatio vel renunciatio testium in certis capitulis non praeiudicat volenti testes
-            producere in aliis. H. d. quoad titulum.</p>
+          <head xml:id="cice-l2t20-d1e386" type="question-title">Publicatio vel renunciatio testium in certis capitulis non praeiudicat volenti testes
+            producere in aliis. H. d. quoad titulum.</head>
           <p xml:id="cice-l2t20-d1e389">Idem Abbati et Fratribus de Martura.</p>
           <p xml:id="cice-l2t20-d1e392">Causam, quae vertitur inter vos, et dilectos filios nostros plebanum et clericos plebis
             sanctae Mariae de Martura, iam pridem filiis nostris archipresbytero Vulterano et abbati
@@ -344,7 +344,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e396">
           <head xml:id="cice-l2t20-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l2t20-d1e401">A testimonio repellitur simili morbo laborans.</p>
+          <head xml:id="cice-l2t20-d1e401" type="question-title">A testimonio repellitur simili morbo laborans.</head>
           <p xml:id="cice-l2t20-d1e404">Idem Novicensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e407">Personas ecclesiarum (Et infra: [cf. c. 4. de appell. 2.28.]) Verum si coram te, vel
             alio quolibet huiusmodi negotia ventilentur, nolumus, ut aliqui consimili morbo
@@ -353,7 +353,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e411">
           <head xml:id="cice-l2t20-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l2t20-d1e416">Christianus contra Iudaeum in testem admittitur.</p>
+          <head xml:id="cice-l2t20-d1e416" type="question-title">Christianus contra Iudaeum in testem admittitur.</head>
           <p xml:id="cice-l2t20-d1e419">Idem in concilio Lateranensi.</p>
           <p xml:id="cice-l2t20-d1e422">Iudaei sive Sarraceni (Et infra: cf. c. 5. de Iudaeis V. 5.) Testimonium quoque
             Christianorum adversus Iudaeos in omnibus causis, quum illi adversus Christianos
@@ -364,9 +364,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e426">
           <head xml:id="cice-l2t20-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l2t20-d1e431">Testimonium matris est suspectum, ubi filia petit in virum aliquem se maiorem. Et ad
+          <head xml:id="cice-l2t20-d1e431" type="question-title">Testimonium matris est suspectum, ubi filia petit in virum aliquem se maiorem. Et ad
             dictum solius matris de impedimento deponentis impeditur matrimonium, sed contractum non
-            dissolvitur.</p>
+            dissolvitur.</head>
           <p xml:id="cice-l2t20-d1e434">Idem Matthaeo Cardinali.</p>
           <p xml:id="cice-l2t20-d1e437">Super eo, quod a nobis tua devotio postulavit, utrum, viro negante se mulierem
             affidasse, ipsius mater mulieris et altera mulier possint ad testimonium recipi,
@@ -382,8 +382,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e442">
           <head xml:id="cice-l2t20-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l2t20-d1e447">Ad decisionem causae, maxime pro parte Iudaei, non sufficit regulariter unius
-            testimonium, quam duorum probatae vitae et laudabilis conversationis.</p>
+          <head xml:id="cice-l2t20-d1e447" type="question-title">Ad decisionem causae, maxime pro parte Iudaei, non sufficit regulariter unius
+            testimonium, quam duorum probatae vitae et laudabilis conversationis.</head>
           <p xml:id="cice-l2t20-d1e450">Idem.</p>
           <p xml:id="cice-l2t20-d1e453">Licet universis †[Dei fidelibus ex commissi nobis officii debito debeamus provisione
             adesse, attentius tamen ecclesiasticos viros a pravorum molestiis malignantium vigili
@@ -410,7 +410,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e457">
           <head xml:id="cice-l2t20-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l2t20-d1e462">Non sunt idonei testes, quos actor de familia sua produxit.</p>
+          <head xml:id="cice-l2t20-d1e462" type="question-title">Non sunt idonei testes, quos actor de familia sua produxit.</head>
           <p xml:id="cice-l2t20-d1e465">Idem Firmano Episcopo.</p>
           <p xml:id="cice-l2t20-d1e468">In literis (Et infra:) Quidam nobilis tui episcopatus quandam sibi legitime copulans,
             quum eam in domo sua fere per septennium tenuisset, consobrinam patris eius, antequam
@@ -421,8 +421,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e472">
           <head xml:id="cice-l2t20-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l2t20-d1e477">Donec attestationes fuerint publicatae, et eis renunciatum, produci possunt testes;
-            postea vero non super eodem capitulo, sed super alio sic. H. d. quoad titulum.</p>
+          <head xml:id="cice-l2t20-d1e477" type="question-title">Donec attestationes fuerint publicatae, et eis renunciatum, produci possunt testes;
+            postea vero non super eodem capitulo, sed super alio sic. H. d. quoad titulum.</head>
           <p xml:id="cice-l2t20-d1e480">Urbanus III.</p>
           <p xml:id="cice-l2t20-d1e483">Quum venisset ad apostolicam sedem dilectus filius noster magister M., nobis exposuit,
             quod felicis memoriae Lucius Papa praedecessor noster causam, quae inter ipsum et
@@ -441,9 +441,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e487">
           <head xml:id="cice-l2t20-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l2t20-d1e492">Potest reus producere testes ad probandum contrarium eius, quod actor probavit, si
+          <head xml:id="cice-l2t20-d1e492" type="question-title">Potest reus producere testes ad probandum contrarium eius, quod actor probavit, si
             publicatio attestationum non est facta, consuetudine contraria non obstante. H. d.
-            secundum notabiliorem lecturam.</p>
+            secundum notabiliorem lecturam.</head>
           <p xml:id="cice-l2t20-d1e495">Clemens III.</p>
           <p xml:id="cice-l2t20-d1e498">Series tui rescripti nobis aperuit, quod, quum nuper inter filios et filias quorundam
             nobilium tuae civitatis coniugalis quaestio tractaretur, †quia distrahebaris ad alia
@@ -462,8 +462,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e502">
           <head xml:id="cice-l2t20-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l2t20-d1e507">Carnalis copula probatur per conveniens testimonium de visu; idem in testimonio
-            auditus, quod adminicula et fama coadiuvant.</p>
+          <head xml:id="cice-l2t20-d1e507" type="question-title">Carnalis copula probatur per conveniens testimonium de visu; idem in testimonio
+            auditus, quod adminicula et fama coadiuvant.</head>
           <p xml:id="cice-l2t20-d1e510">Coelestinus III.</p>
           <p xml:id="cice-l2t20-d1e513">Praeterea quum quis accusatur aliquam cognovisse, an sint testes interrogandi de visu,
             aut sola viciniae fama sufficiat, vel si iuratis testibus sit credendum, qui se carnalis
@@ -477,8 +477,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e517">
           <head xml:id="cice-l2t20-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l2t20-d1e522">Unius iudicis verbo non creditur; scripturae vero eius per testes reprobari possunt.
-            Fallit hoc in Papa. Ita communiter summatur.</p>
+          <head xml:id="cice-l2t20-d1e522" type="question-title">Unius iudicis verbo non creditur; scripturae vero eius per testes reprobari possunt.
+            Fallit hoc in Papa. Ita communiter summatur.</head>
           <p xml:id="cice-l2t20-d1e525">Innocentius III. Consulibus et Populo Beneventano.</p>
           <p xml:id="cice-l2t20-d1e528">Quum a nobis (Et infra:) Et canonica et civilia iura sequentes districtius inhibemus,
             ne unius iudicis, quantaecunque fuerit auctoritatis, verbo credatur in causis, sive
@@ -490,8 +490,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e533">
           <head xml:id="cice-l2t20-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l2t20-d1e538">Testi super dilatoria inducto non creditur super principali, nec cogitur deponere;
-            secus si super peremptoria. Tunc enim cogi potest, ut iuret deponere super toto.</p>
+          <head xml:id="cice-l2t20-d1e538" type="question-title">Testi super dilatoria inducto non creditur super principali, nec cogitur deponere;
+            secus si super peremptoria. Tunc enim cogi potest, ut iuret deponere super toto.</head>
           <p xml:id="cice-l2t20-d1e541">Idem Tyrensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e544">De testibus, †qui ad exceptionem probandam a partibus inducuntur, tua nos duxit
             fraternitas consulendos, utrum cogendi sint super principali etiam negotio ferre
@@ -511,9 +511,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e548">
           <head xml:id="cice-l2t20-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l2t20-d1e553">Dicta testium non sunt ad petitionem tertii publicanda. Et is, qui produxit testes
+          <head xml:id="cice-l2t20-d1e553" type="question-title">Dicta testium non sunt ad petitionem tertii publicanda. Et is, qui produxit testes
             coram certis iudicibus, non potest ad eundem effectum coram iudicibus aliis illos
-            producere; sed illorum attestationibus debet esse contentus.</p>
+            producere; sed illorum attestationibus debet esse contentus.</head>
           <p xml:id="cice-l2t20-d1e556">Idem Heliensi et Cistrensi Episcopis et Archidiacono de Norban.</p>
           <p xml:id="cice-l2t20-d1e559">Constitutus in praesentia nostra dilectus filius magister Robertus procurator magistri
             R. de sancto Eadmundo proposuit, quod, quum dilecti filii decanus et capitulum
@@ -547,8 +547,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e563">
           <head xml:id="cice-l2t20-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l2t20-d1e568">Publicatis attestationibus non opponitur in personas testium; tres casus excipit, et ad
-            secundum determinationem subdit.</p>
+          <head xml:id="cice-l2t20-d1e568" type="question-title">Publicatis attestationibus non opponitur in personas testium; tres casus excipit, et ad
+            secundum determinationem subdit.</head>
           <p xml:id="cice-l2t20-d1e571">Idem.</p>
           <p xml:id="cice-l2t20-d1e574">Praesentium auctoritate statuimus, ut si quis post depositiones testium publicatas
             obiicere voluerit in personas eorum, ei tunc tandem id liceat, quum iuramento
@@ -560,9 +560,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e578">
           <head xml:id="cice-l2t20-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l2t20-d1e583">Si actoris et rei testes contraria deponunt, fidem sibi non derogant, sed praevalent
+          <head xml:id="cice-l2t20-d1e583" type="question-title">Si actoris et rei testes contraria deponunt, fidem sibi non derogant, sed praevalent
             digniores, et verisimiliora deponentes, et, si in ceteris est disparitas, praefertur
-            numerus.</p>
+            numerus.</head>
           <p xml:id="cice-l2t20-d1e586">Idem Londonensi et Heliensi Episcopis.</p>
           <p xml:id="cice-l2t20-d1e589">In nostra praesentia †constitutus dilectus filius magister Walterus, nomine dilecti
             filii archidiaconi Cantuariensis, a quo procurator ad hoc fuerat destinatus,
@@ -599,8 +599,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e593">
           <head xml:id="cice-l2t20-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l2t20-d1e598">Ad probanda impedimenta electi, laici et feminae admittuntur. Adde: et testes de auditu
-            et fama sufficienter non probant.</p>
+          <head xml:id="cice-l2t20-d1e598" type="question-title">Ad probanda impedimenta electi, laici et feminae admittuntur. Adde: et testes de auditu
+            et fama sufficienter non probant.</head>
           <p xml:id="cice-l2t20-d1e601">Idem Priori sancti Fridiani Lucani et magistro G. Canonico Pisano.</p>
           <p xml:id="cice-l2t20-d1e604">Tam literis vestris, quam depositionibus testium diligenter auditis, intelleximus
             evidenter, nihil esse contra dilectum filium Lucanum electum sufficienter ostensum, nisi
@@ -632,8 +632,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e608">
           <head xml:id="cice-l2t20-Hd1e610">CAP. XXXIV.</head>
-          <p xml:id="cice-l2t20-d1e613">In causa liberali contra contumacem, etiam lite non contestata, testes recipi possunt.
-            Hoc dicit notabiliter secundum lectur. communem.</p>
+          <head xml:id="cice-l2t20-d1e613" type="question-title">In causa liberali contra contumacem, etiam lite non contestata, testes recipi possunt.
+            Hoc dicit notabiliter secundum lectur. communem.</head>
           <p xml:id="cice-l2t20-d1e616">Idem Dulmensi Episcopo et Decano et Priori sanctae Trinitatis Eboracensis.</p>
           <p xml:id="cice-l2t20-d1e619">Quum olim dilectus filius archidiaconus Menensis adversus venerabilem fratrem nostrum
             Cantuariensem archiepiscopum super statu Menensis ecclesiae proposuerit in nostra et
@@ -661,9 +661,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e624">
           <head xml:id="cice-l2t20-Hd1e626">CAP. XXXV.</head>
-          <p xml:id="cice-l2t20-d1e629">Publicatis attestationibus, admittitur adversarius ad probandum contrarium, si ante
+          <head xml:id="cice-l2t20-d1e629" type="question-title">Publicatis attestationibus, admittitur adversarius ad probandum contrarium, si ante
             publicationem super hac probatione contraria instrui non potuit. H. d. et est casus
-            singularis.</p>
+            singularis.</head>
           <p xml:id="cice-l2t20-d1e632">Idem Priori de Bolonic. et I. Rectori ecclesiae de Borellis.</p>
           <p xml:id="cice-l2t20-d1e635">Ex tenore vestrarum accepimus literarum, quod, quum vobis et dilecto filio abbati de
             Furneia causam, quae vertitur inter R. filium W. de Eston. militem, et M. mulierem,
@@ -692,8 +692,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e639">
           <head xml:id="cice-l2t20-Hd1e641">CAP. XXXVI.</head>
-          <p xml:id="cice-l2t20-d1e644">Indulgenda est in causa quarta productio testium petita cum solennitate legali, causa
-            legitima non refragante; alias legitime appellatur.</p>
+          <head xml:id="cice-l2t20-d1e644" type="question-title">Indulgenda est in causa quarta productio testium petita cum solennitate legali, causa
+            legitima non refragante; alias legitime appellatur.</head>
           <p xml:id="cice-l2t20-d1e647">Idem Priori sancti Victoris.</p>
           <p xml:id="cice-l2t20-d1e650">Significaverunt nobis per literas suas venerabilis frater noster Silvanectensis
             episcopus, et dilecti filii I. abbas S. Victoris Parisiensis et F. Aurelianensis
@@ -767,8 +767,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e654">
           <head xml:id="cice-l2t20-Hd1e656">CAP. XXXVII.</head>
-          <p xml:id="cice-l2t20-d1e659">Diligenter examinandi sunt testes, et puniendi qui eos impediunt; et ipsorum testium
-            multitudo est per iudicem refrenanda.</p>
+          <head xml:id="cice-l2t20-d1e659" type="question-title">Diligenter examinandi sunt testes, et puniendi qui eos impediunt; et ipsorum testium
+            multitudo est per iudicem refrenanda.</head>
           <p xml:id="cice-l2t20-d1e662">Idem Episcopo Placentino.</p>
           <p xml:id="cice-l2t20-d1e665">Quum causam, quae inter venerabilem fratrem nostrum archiepiscopum Ravennatensem ac
             dilectos filios commune Faventiae †super villa Luci et S. Politi, et castro Aureoli et
@@ -807,9 +807,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e669">
           <head xml:id="cice-l2t20-Hd1e671">CAP. XXXVIII.</head>
-          <p xml:id="cice-l2t20-d1e674">Attestationes receptae in summario fidem non faciunt in plenario iudicio. Et illarum
+          <head xml:id="cice-l2t20-d1e674" type="question-title">Attestationes receptae in summario fidem non faciunt in plenario iudicio. Et illarum
             publicatione non obstante iidem vel alii testes super eisdem capitulis recipi
-            possunt.</p>
+            possunt.</head>
           <p xml:id="cice-l2t20-d1e677">Idem de Novo Fonte et Casae Dei Abbatibus.</p>
           <p xml:id="cice-l2t20-d1e680">Veniens ad apostolicam sedem dilectus filius G. de Cros archidiaconus Claremontensis
             nobis humiliter supplicavit, ut sententiam per venerabilem fratrem nostrum Lemovicensem
@@ -866,8 +866,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e684">
           <head xml:id="cice-l2t20-Hd1e686">CAP. XXXIX.</head>
-          <p xml:id="cice-l2t20-d1e689">Religiosi etiam ad testificandum non admittuntur absque iuramento, nisi a partibus
-            remittatur.</p>
+          <head xml:id="cice-l2t20-d1e689" type="question-title">Religiosi etiam ad testificandum non admittuntur absque iuramento, nisi a partibus
+            remittatur.</head>
           <p xml:id="cice-l2t20-d1e692">Idem Bisuntino Archiepiscopo.</p>
           <p xml:id="cice-l2t20-d1e695">Tuis quaestionibus (Et infra: [cf. c. 23. de praeb. III. 5.]) Monachi vero de suis
             fratribus ac conversis testes in causis propriis producere absque iuramenti exhibitione
@@ -876,7 +876,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e699">
           <head xml:id="cice-l2t20-Hd1e701">CAP. XL.</head>
-          <p xml:id="cice-l2t20-d1e704">Delegatus necessarius in testem removetur a iudicando, et alius subrogatur.</p>
+          <head xml:id="cice-l2t20-d1e704" type="question-title">Delegatus necessarius in testem removetur a iudicando, et alius subrogatur.</head>
           <p xml:id="cice-l2t20-d1e707">Idem Attrebatensi Episcopo et Dedimenen. et Ursicampi Abbatibus.</p>
           <p xml:id="cice-l2t20-d1e710">Dilecto filio Ariensi praeposito nobis innotuit exponente, quod, quum causam, quae
             inter ipsum et nobilem mulierem comitissam Flandrensem super donatione sex praebendarum
@@ -896,8 +896,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e715">
           <head xml:id="cice-l2t20-Hd1e717">CAP. XLI.</head>
-          <p xml:id="cice-l2t20-d1e720">Ne probationis copia pereat, citato adversario recipiuntur et publicantur testes, quos
-            reus induxit.</p>
+          <head xml:id="cice-l2t20-d1e720" type="question-title">Ne probationis copia pereat, citato adversario recipiuntur et publicantur testes, quos
+            reus induxit.</head>
           <p xml:id="cice-l2t20-d1e723">Idem Iudici Sabinensi.</p>
           <p xml:id="cice-l2t20-d1e726">Significavit nobis dilectus filius [B.] presbyter sancti N. Sabinensis dioecesis, quod
             fundatores eiusdem ecclesiae liberam eam esse volentes, fundationis tempore se in ea
@@ -911,8 +911,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e730">
           <head xml:id="cice-l2t20-Hd1e732">CAP. XLII.</head>
-          <p xml:id="cice-l2t20-d1e735">Si materia antiqui capituli repetitur aliquo addito, quod subiicitur necessitati
-            probandi, possunt testes etiam antiqui publicatis attestationibus produci.</p>
+          <head xml:id="cice-l2t20-d1e735" type="question-title">Si materia antiqui capituli repetitur aliquo addito, quod subiicitur necessitati
+            probandi, possunt testes etiam antiqui publicatis attestationibus produci.</head>
           <p xml:id="cice-l2t20-d1e738">Idem Episcopo et Archidiacono Beneventanis.</p>
           <p xml:id="cice-l2t20-d1e741">Quum causa, quae inter oeconomum monasterii sancti Martini de Monte (Et infra: cf. c.
             6. de empt. III. 17.) Quum igitur abbas et fratres eiusdem loci probare per testes
@@ -927,8 +927,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e745">
           <head xml:id="cice-l2t20-Hd1e747">CAP. XLIII.</head>
-          <p xml:id="cice-l2t20-d1e750">Recipiuntur et publicantur testes, qui interfuerunt sententiae, ubi per scripturam de
-            sententia non apparet.</p>
+          <head xml:id="cice-l2t20-d1e750" type="question-title">Recipiuntur et publicantur testes, qui interfuerunt sententiae, ubi per scripturam de
+            sententia non apparet.</head>
           <p xml:id="cice-l2t20-d1e753">Idem.</p>
           <p xml:id="cice-l2t20-d1e756">Albericus miles nobis insinuare curavit, quod, quum olim inter ipsum et C. mulierem
             Ravennatensem coram capitulo Ravennatensi matrimonii quaestio verteretur, tandem
@@ -943,11 +943,11 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e760">
           <head xml:id="cice-l2t20-Hd1e762">CAP. XLIV.</head>
-          <p xml:id="cice-l2t20-d1e765">Publicatis attestationibus possunt produci testes super eodem articulo, vel directe
+          <head xml:id="cice-l2t20-d1e765" type="question-title">Publicatis attestationibus possunt produci testes super eodem articulo, vel directe
             contrario, qui prius fuerunt producti in iudicio summario seu extra iudicium. H. d.
             secundum notabiliorem intellectum, non ponendo aliquam specialitatem in causa
             matrimoniali. Et tunc expone textum in fin. ibi, in hoc casu; scilicet quum testes alias
-            producti reproducantur. Panorm.</p>
+            producti reproducantur. Panorm.</head>
           <p xml:id="cice-l2t20-d1e768">Idem Belvacensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e771">Quum in tua dioecesi: (Et infra: [cf. c. 30. de decimis III. 30.]) Utrum autem, si
             accusatore idoneo comparente, per tres vel quatuor testes inter iam coniunctos parentela
@@ -963,10 +963,10 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e775">
           <head xml:id="cice-l2t20-Hd1e777">CAP. XLV.</head>
-          <p xml:id="cice-l2t20-d1e780">Excommunicari possunt qui partem impediunt in testibus producendis et denunciandi sunt
+          <head xml:id="cice-l2t20-d1e780" type="question-title">Excommunicari possunt qui partem impediunt in testibus producendis et denunciandi sunt
             testes non teneri iuramento de veritate non dicenda. Et si consauguinei impediunt testes
             actoris de veritate non dicenda, punitur reus, de cuius voluntate hoc fieri
-            praesumitur.</p>
+            praesumitur.</head>
           <p xml:id="cice-l2t20-d1e783">Idem.</p>
           <p xml:id="cice-l2t20-d1e786">Constitutis in praesentia nostra venerabili fratre nostro [Alferio] archiepiscopo et
             dilecto filio M. canonico Surrentianis, dum ipse [accusationis concepto libello] illum
@@ -1076,8 +1076,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e790">
           <head xml:id="cice-l2t20-Hd1e792">CAP. XLVI.</head>
-          <p xml:id="cice-l2t20-d1e795">Qui testificata non didicit, nec renunciavit testibus producendis, super antiquis
-            articulis seu capitulis testes etiam alias productos producere potest.</p>
+          <head xml:id="cice-l2t20-d1e795" type="question-title">Qui testificata non didicit, nec renunciavit testibus producendis, super antiquis
+            articulis seu capitulis testes etiam alias productos producere potest.</head>
           <p xml:id="cice-l2t20-d1e798">Idem Magdeburgensi Archiepiscopo et Praeposito Seburgensi.</p>
           <p xml:id="cice-l2t20-d1e801">Constitutis in praesentia nostra procuratore dilectae filiae in Christo A. sororis
             nobilis viri marchionis Misnensis et nuncio illustris principis Bohemorum, †dilectum
@@ -1103,8 +1103,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e806">
           <head xml:id="cice-l2t20-Hd1e808">CAP. XLVII.</head>
-          <p xml:id="cice-l2t20-d1e811">Ponit concilium duodecim, sine quibus ad probandam consanguinitatem in causa
-            matrimoniali, non valet testimonium de auditu. H. d. summando generaliter.</p>
+          <head xml:id="cice-l2t20-d1e811" type="question-title">Ponit concilium duodecim, sine quibus ad probandam consanguinitatem in causa
+            matrimoniali, non valet testimonium de auditu. H. d. summando generaliter.</head>
           <p xml:id="cice-l2t20-d1e814">Idem in concilio generali.</p>
           <p xml:id="cice-l2t20-d1e817">Licet ex quadam necessitate praeter communem formam olim fuerit institutum, in
             consanguinitatis et affinitatis gradibus computandis valere testimonium de auditu, quum
@@ -1132,8 +1132,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e821">
           <head xml:id="cice-l2t20-Hd1e823">CAP. XLVIII.</head>
-          <p xml:id="cice-l2t20-d1e826">Post publicationem ad petitionem producentis interrogari non debent testes, nisi quando
-            dolo vel negligentia examinatorum super omnibus capitulis interrogati non fuerunt.</p>
+          <head xml:id="cice-l2t20-d1e826" type="question-title">Post publicationem ad petitionem producentis interrogari non debent testes, nisi quando
+            dolo vel negligentia examinatorum super omnibus capitulis interrogati non fuerunt.</head>
           <p xml:id="cice-l2t20-d1e829">Honorius III. Praeposito Molisii Firmanae dioecesis.</p>
           <p xml:id="cice-l2t20-d1e832">Per tuas nobis literas intimasti, quod, quum causa, quae super quibusdam terris
             vertitur inter canonicos sancti Petri veteris ex una parte, et G. sancti Simonis
@@ -1146,8 +1146,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e836">
           <head xml:id="cice-l2t20-Hd1e838">CAP. XLIX.</head>
-          <p xml:id="cice-l2t20-d1e841">Testes probatorios et roprobatorios probatoriorum reprobare licet; sed reprobatorios
-            reprobatorium non licet.</p>
+          <head xml:id="cice-l2t20-d1e841" type="question-title">Testes probatorios et roprobatorios probatoriorum reprobare licet; sed reprobatorios
+            reprobatorium non licet.</head>
           <p xml:id="cice-l2t20-d1e844">Idem Vallis Oleti et Sacrameniae Abbatibus Palentinae et Segobiensis dioecesis.</p>
           <p xml:id="cice-l2t20-d1e847">Licet dilectus filius noster L. tituli sanctae Crucis presbyter cardinalis, quem
             procuratoribus venerabilis fratris nostri Burgensis episcopi, et clericorum sanctae
@@ -1166,10 +1166,10 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e851">
           <head xml:id="cice-l2t20-Hd1e853">CAP. L.</head>
-          <p xml:id="cice-l2t20-d1e856">Attestationes receptae per arbitrum fidem faciunt in iudicio, si testes mortui sunt; si
+          <head xml:id="cice-l2t20-d1e856" type="question-title">Attestationes receptae per arbitrum fidem faciunt in iudicio, si testes mortui sunt; si
             vivunt, est in optione illius, contra quem testes producti sunt, an velit attestationes
             recipere, an testes de novo deponere. Et adde: etiamsi attestationes publicatae sunt. Et
-            hoc ultimum non. est in I. fin. C. eod., ubi ponitur casus huius decret.</p>
+            hoc ultimum non. est in I. fin. C. eod., ubi ponitur casus huius decret.</head>
           <p xml:id="cice-l2t20-d1e859">Idem Praeposito et Magistro G. et R. Laudun. Canonicis.</p>
           <p xml:id="cice-l2t20-d1e862">Praesentata nobis Garaudi Suessionensis archidiaconi petitio continebat, quod, quum
             inter R. quondam praedecessorem suum ex una parte, et capitulum sancti Petri
@@ -1194,7 +1194,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e866">
           <head xml:id="cice-l2t20-Hd1e868">CAP. LI.</head>
-          <p xml:id="cice-l2t20-d1e871">Non creditur testi etiam religioso, qui sine iuramento deponit.</p>
+          <head xml:id="cice-l2t20-d1e871" type="question-title">Non creditur testi etiam religioso, qui sine iuramento deponit.</head>
           <p xml:id="cice-l2t20-d1e874">Idem Pennensi Episcopo.</p>
           <p xml:id="cice-l2t20-d1e877">Nuper nobis A. presbytero supplicante innotuit, ut, quum ipse ordinem fratrum Minorum
             causa probationis intrasset, ac exinde, nulla facta professione, infra annum exiisset,
@@ -1213,8 +1213,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e881">
           <head xml:id="cice-l2t20-Hd1e883">CAP. LII.</head>
-          <p xml:id="cice-l2t20-d1e886">Diligenter et sigillatim examinandi sunt testes. Supple: etiamsi agitur de vita et
-            miraculis alicuius canonizandi. Abbas.</p>
+          <head xml:id="cice-l2t20-d1e886" type="question-title">Diligenter et sigillatim examinandi sunt testes. Supple: etiamsi agitur de vita et
+            miraculis alicuius canonizandi. Abbas.</head>
           <p xml:id="cice-l2t20-d1e889">Idem Corisopitensi et Trecorensi Episcopis.</p>
           <p xml:id="cice-l2t20-d1e892">Venerabili fratre nostro episcopo et dilectis filiis capitulo Corisopitensi, ac
             universis abbatibus apud Cistercium in generali capitulo congregatis, †multisque
@@ -1248,7 +1248,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e897">
           <head xml:id="cice-l2t20-Hd1e899">CAP. LIII.</head>
-          <p xml:id="cice-l2t20-d1e902">Iterum examinandus est testis, qui obscure deposuit. Supple tu: ex iudicis officio.</p>
+          <head xml:id="cice-l2t20-d1e902" type="question-title">Iterum examinandus est testis, qui obscure deposuit. Supple tu: ex iudicis officio.</head>
           <p xml:id="cice-l2t20-d1e905">Gregorius IX.</p>
           <p xml:id="cice-l2t20-d1e908">Quum clamor validus contra Acherontinum episcopum super simonia et aliis criminibus
             adscendisset, Melfitensi et Rubensi episcopis dedimus in mandatis, ut super his
@@ -1260,9 +1260,9 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e912">
           <head xml:id="cice-l2t20-Hd1e914">CAP. LIV.</head>
-          <p xml:id="cice-l2t20-d1e917">Perseverans in crimine, etiam in civili repellitur a testimonio; emendatus vero, non
+          <head xml:id="cice-l2t20-d1e917" type="question-title">Perseverans in crimine, etiam in civili repellitur a testimonio; emendatus vero, non
             infamis, admittitur in civili, et etiam criminali mota civiliter. Fallit in periuro, qui
-            in criminali repellitur.</p>
+            in criminali repellitur.</head>
           <p xml:id="cice-l2t20-d1e920">Idem.</p>
           <p xml:id="cice-l2t20-d1e923">Testimonium eius, cui ab adversa parte opponitur crimen, merito reprobatur in criminali
             causa, sive civili, si in ipso crimine perseveret. Si vero sit et crimine emendatus, et
@@ -1275,7 +1275,7 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e927">
           <head xml:id="cice-l2t20-Hd1e929">CAP. LV.</head>
-          <p xml:id="cice-l2t20-d1e932">Quarta productio non est danda sine solennitate legali, de qua hic.</p>
+          <head xml:id="cice-l2t20-d1e932" type="question-title">Quarta productio non est danda sine solennitate legali, de qua hic.</head>
           <p xml:id="cice-l2t20-d1e935">Idem.</p>
           <p xml:id="cice-l2t20-d1e938">Ultra tertiam productionem non debent testes ulterius produci in causa, nisi praestito
             ab eo, qui hoc postulat, iuramento, quod neque per se, neque per alium testificata
@@ -1285,8 +1285,8 @@
         </div>
         <div xml:id="cice-l2t20-Dd1e942">
           <head xml:id="cice-l2t20-Hd1e944">CAP. LVI.</head>
-          <p xml:id="cice-l2t20-d1e947">Accusatus criminaliter non admittitur in testem contra alium in causa criminali sua
-            accusatione pendente, nisi in exceptis criminibus.</p>
+          <head xml:id="cice-l2t20-d1e947" type="question-title">Accusatus criminaliter non admittitur in testem contra alium in causa criminali sua
+            accusatione pendente, nisi in exceptis criminibus.</head>
           <p xml:id="cice-l2t20-d1e950">Idem.</p>
           <p xml:id="cice-l2t20-d1e953">Non debet quis in criminibus, nisi forsan in exceptis, ad testificandum admitti
             pendente accusatione de crimine contra ipsum, quum etiam accusati, nisi prius se

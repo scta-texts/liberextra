@@ -57,7 +57,7 @@
         <div xml:id="cice-l1t30-Dd1e108">
           <head xml:id="cice-l1t30-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l1t30-d1e113">Legatus Papa etiam per simplicem querelam adiri potest.</p>
+          <head xml:id="cice-l1t30-d1e113" type="question-title">Legatus Papa etiam per simplicem querelam adiri potest.</head>
           <p xml:id="cice-l1t30-d1e116">Alexander III. universis Suffraganeis Cantuariensis ecclesiae.</p>
           <p xml:id="cice-l1t30-d1e119">Quum non ignoretis, venerabilem fratrem nostrum Cantuariensem archiepiscopum vobis non
             solum metropolitico, sed etiam legationis iure praeesse, †mirabile satis est, quod
@@ -75,7 +75,7 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e123">
           <head xml:id="cice-l1t30-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t30-d1e128">De causa specialiter delegata a Papa legatus se intromittere non potest.</p>
+          <head xml:id="cice-l1t30-d1e128" type="question-title">De causa specialiter delegata a Papa legatus se intromittere non potest.</head>
           <p xml:id="cice-l1t30-d1e131">Coelestinus III.</p>
           <p xml:id="cice-l1t30-d1e134">Studuisti a nobis quaerere utrum de causa, quam alicui delegamus, alius, qui sit
             generalis in provincia legatus, vel ante cognitionem, vel postea cognoscere valeat, vel
@@ -91,10 +91,10 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e141">
           <head xml:id="cice-l1t30-Hd1e143">CAP. III.</head>
-          <p xml:id="cice-l1t30-d1e146">Legatus etiam de latere ex generali legatione non potest transferre episcopos, vel unam
+          <head xml:id="cice-l1t30-d1e146" type="question-title">Legatus etiam de latere ex generali legatione non potest transferre episcopos, vel unam
             ecclesiam cathedralem alteri subiicere, et alteri concedere ius primatiae, vel duos
             episcopatus unire, vel unum dividere; excommunicatos tamen propter manuum iniectionem in
-            clericos absolvere potest. Hoc dicit cum c. seq.</p>
+            clericos absolvere potest. Hoc dicit cum c. seq.</head>
           <p xml:id="cice-l1t30-d1e149">Innocentius III. tit. sancti Laurentii in Lucina Presbytero cardinali, sedis
             apostolicae Legato.</p>
           <p xml:id="cice-l1t30-d1e152">Nisi specialis illa dilectio, quam ad personam tuam habuimus et habemus, iustum, immo
@@ -109,7 +109,7 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e156">
           <head xml:id="cice-l1t30-Hd1e158">CAP. IV.</head>
-          <p xml:id="cice-l1t30-d1e161">Summatum fuit supra in cap. praecedenti.</p>
+          <head xml:id="cice-l1t30-d1e161" type="question-title">Summatum fuit supra in cap. praecedenti.</head>
           <p xml:id="cice-l1t30-d1e164">Idem eidem.</p>
           <p xml:id="cice-l1t30-d1e167">Quod translationem †pontificis de Troiano episcopatu ad Panormitanam metropolim a te
             factam nolumus ratam habere, zelus utique non amaritudinis, sed rectitudinis nos
@@ -130,7 +130,7 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e172">
           <head xml:id="cice-l1t30-Hd1e174">CAP. V.</head>
-          <p xml:id="cice-l1t30-d1e177">Ex quo legatus retulit causam Papae, illius desinit esse iudex.</p>
+          <head xml:id="cice-l1t30-d1e177" type="question-title">Ex quo legatus retulit causam Papae, illius desinit esse iudex.</head>
           <p xml:id="cice-l1t30-d1e180">Idem Bononiensi Episcopo et M. Capellano, Subdiacono nostro.</p>
           <p xml:id="cice-l1t30-d1e183">Licet Tranenses canonici ab initio dissensissent, tandem tamen omnes unanimiter
             consenserunt, dilectum filium G. fratrem Cassinensis abbatis in archiepiscopum
@@ -157,8 +157,8 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e187">
           <head xml:id="cice-l1t30-Hd1e189">CAP. VI.</head>
-          <p xml:id="cice-l1t30-d1e192">Legatus de latere confert beneficium vacans, licet illud spectet ad praesentationem
-            alicuius clerici. Hoc dicit et est casus notabilis.</p>
+          <head xml:id="cice-l1t30-d1e192" type="question-title">Legatus de latere confert beneficium vacans, licet illud spectet ad praesentationem
+            alicuius clerici. Hoc dicit et est casus notabilis.</head>
           <p xml:id="cice-l1t30-d1e195">Idem sancti P. et sancti Leonis Abbatibus, et R. archidiacono Tullensibus.</p>
           <p xml:id="cice-l1t30-d1e198">Dilectus filius R. Metensis canonicus nobis humiliter intimavit, quod, quum venerabilis
             frater noster Praenestinus episcopus, apostolicae sedis legatus, ecclesiam sancti
@@ -175,8 +175,8 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e202">
           <head xml:id="cice-l1t30-Hd1e204">CAP. VII.</head>
-          <p xml:id="cice-l1t30-d1e207">Legatus in pluribus locis potest in quolibet dictorum locorum iurisdictionem suam
-            exercere ita, quod facta unius loci potest in alio explicare. Hoc dicit Panorm.</p>
+          <head xml:id="cice-l1t30-d1e207" type="question-title">Legatus in pluribus locis potest in quolibet dictorum locorum iurisdictionem suam
+            exercere ita, quod facta unius loci potest in alio explicare. Hoc dicit Panorm.</head>
           <p xml:id="cice-l1t30-d1e210">Idem illustri Regi Francorum.</p>
           <p xml:id="cice-l1t30-d1e213">Novit ille, qui nihil ignorat, quod regiae sublimitati (Et infra:) Ex parte tua
             querimoniam accepimus, videlicet quod, quum tibi legatus esset certa ratione suspectus,
@@ -193,7 +193,7 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e217">
           <head xml:id="cice-l1t30-Hd1e219">CAP. VIII.</head>
-          <p xml:id="cice-l1t30-d1e222">Praesente legato de latere minor legatus exsecutionem officii sui dimittere debet.</p>
+          <head xml:id="cice-l1t30-d1e222" type="question-title">Praesente legato de latere minor legatus exsecutionem officii sui dimittere debet.</head>
           <p xml:id="cice-l1t30-d1e225">Gregorius IX. Patriarchae Hierosolymitano.</p>
           <p xml:id="cice-l1t30-d1e228">Volentes (Et infra:) Fraternitati tuae legationis officium in provincia tua duximus
             committendum, ita tamen, quod, si legatum ad partes illas de latere nostro contigerit
@@ -202,10 +202,10 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e232">
           <head xml:id="cice-l1t30-Hd1e234">CAP. IX.</head>
-          <p xml:id="cice-l1t30-d1e237">Legatus, non de latere sed ratione personae, extra provinciam sibi decretam absolvere
+          <head xml:id="cice-l1t30-d1e237" type="question-title">Legatus, non de latere sed ratione personae, extra provinciam sibi decretam absolvere
             nequit excommunicatos pro iniectione manuum in clericos, nec etiam in provincia, si
             tales excommunicati aliunde veniant. Legatus vero ratione dignitatis nullos tales
-            absolvit. H. d. secundum communem intellectum.</p>
+            absolvit. H. d. secundum communem intellectum.</head>
           <p xml:id="cice-l1t30-d1e240">Idem.</p>
           <p xml:id="cice-l1t30-d1e243">Excommunicatis pro iniectione manuum violenta ecclesiae Romanae legati, qui de ipsius
             latere non mittuntur, extra provinciam sibi commissam, vel ibidem, si huiusmodi manuum
@@ -216,8 +216,8 @@
         </div>
         <div xml:id="cice-l1t30-Dd1e247">
           <head xml:id="cice-l1t30-Hd1e249">CAP. X.</head>
-          <p xml:id="cice-l1t30-d1e252">Durant legati statuta etiam legatione finita, finitur tamen sui delegati iurisdictio,
-            si citatio non praecessit.</p>
+          <head xml:id="cice-l1t30-d1e252" type="question-title">Durant legati statuta etiam legatione finita, finitur tamen sui delegati iurisdictio,
+            si citatio non praecessit.</head>
           <p xml:id="cice-l1t30-d1e255">Idem.</p>
           <p xml:id="cice-l1t30-d1e258">Nemini dubium esse volumus, quin legatorum sedis apostolicae statuta edita in provincia
             sibi commissa durent tanquam perpetua, licet eandem postmodum sint egressi; secus autem,

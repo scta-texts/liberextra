@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l5t33-Dd1e108">
           <head xml:id="cice-l5t33-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t33-d1e113">Episcopalis dignitas non debet tribui, nisi locis insignibus et populosis.</p>
+          <head xml:id="cice-l5t33-d1e113" type="question-title">Episcopalis dignitas non debet tribui, nisi locis insignibus et populosis.</head>
           <p xml:id="cice-l5t33-d1e116">Leo Papa.</p>
           <p xml:id="cice-l5t33-d1e119">Episcopalia gubernacula non nisi maioribus populis et frequentioribus civitatibus
             praesidere oportet, ne, quod, sanctorum Patrum divinitus inspirata decreta vetuerunt,
@@ -67,8 +67,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e123">
           <head xml:id="cice-l5t33-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t33-d1e128">Non obstante privilegio fori potest laicus ecclesiae malefactor per ecclesiam
-            puniri.</p>
+          <head xml:id="cice-l5t33-d1e128" type="question-title">Non obstante privilegio fori potest laicus ecclesiae malefactor per ecclesiam
+            puniri.</head>
           <p xml:id="cice-l5t33-d1e131">Gregorius P. Subdiacono.</p>
           <p xml:id="cice-l5t33-d1e134">Sicut in iudiciis laicorum privilegia turbare nolumus, ita eis praeiudicantibus nobis
             moderata volumus auctoritate resistere. Violentos itaque laicos coercere non contra
@@ -76,7 +76,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e138">
           <head xml:id="cice-l5t33-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t33-d1e143">Religiosi etiam ex empti ecclesias et decimas non debent a laicis recipere, sine
+          <head xml:id="cice-l5t33-d1e143" type="question-title">Religiosi etiam ex empti ecclesias et decimas non debent a laicis recipere, sine
             consensu dioecesanorum. Hoc dicit usque ad §. Excommunicatos. – §. 1. Excommunicati et
             interdicti omnino non debent admitti ad divina, etiam per religiosos exemptos. H. d.
             usque ad §. In ecclesiis. Abbas Siculus. – §. 2. Religiosi etiam exempti in ecclesiis,
@@ -86,7 +86,7 @@
             interdicto; ibi tamen non sepeliuntur corpora mortuorum. H. d. usque ad §. De
             confratribus. Abbas. – §. 4. Confratres exemptorum, seu ipsorum oblati, qui in totum non
             se transtulerunt, iudicari possunt ab ordinariis locorum. H. d. usque ad tuo. Abbas
-            Siculus.</p>
+            Siculus.</head>
           <p xml:id="cice-l5t33-d1e146">Alexander III. in concilio Lateranensi.</p>
           <p xml:id="cice-l5t33-d1e149">Quum et plantare sacram religionem, et plantatam fovere modis omnibus debeamus, nusquam
             hoc melius exsequimur, quam si nutrire ea, quae recta sunt, et corrigere, quae profectum
@@ -130,7 +130,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e153">
           <head xml:id="cice-l5t33-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t33-d1e158">Suis privilegiis privandus est qui alienis derogat.</p>
+          <head xml:id="cice-l5t33-d1e158" type="question-title">Suis privilegiis privandus est qui alienis derogat.</head>
           <p xml:id="cice-l5t33-d1e161">Idem Archiepiscopis et Episcopis, ad quos literae istae pervenerint.</p>
           <p xml:id="cice-l5t33-d1e164">Dilecti filii nostri fratres Hospitalis Hierosolymitani transmissa nobis conquestione
             monstrarunt, quod vos eis de malefactoribus suis iustitiam facere non vultis, privilegia
@@ -147,8 +147,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e169">
           <head xml:id="cice-l5t33-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t33-d1e174">Etiam privilegiati non possunt admittere excommunicatos ad sepulturam, et, si
-            admiserint, debent inde eos eiicere, et, si non fecerint, episcopus supplebit.</p>
+          <head xml:id="cice-l5t33-d1e174" type="question-title">Etiam privilegiati non possunt admittere excommunicatos ad sepulturam, et, si
+            admiserint, debent inde eos eiicere, et, si non fecerint, episcopus supplebit.</head>
           <p xml:id="cice-l5t33-d1e177">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l5t33-d1e180">Ad haec †in beatorum Apostolorum principis sede Domino disponente quanquam immeriti
             sumus constituti, ut plantare debeamus quae ad virtutum spectant decorem, et evellere et
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e184">
           <head xml:id="cice-l5t33-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t33-d1e189">Contra privilegium ecclesiae praescribitur spatio XXX. annorum, hodie vero XL. ut infra
-            eod. Accedentibus.</p>
+          <head xml:id="cice-l5t33-d1e189" type="question-title">Contra privilegium ecclesiae praescribitur spatio XXX. annorum, hodie vero XL. ut infra
+            eod. Accedentibus.</head>
           <p xml:id="cice-l5t33-d1e192">Idem Abbati et Monachis S. Andreae Cisterciensis ordinis.</p>
           <p xml:id="cice-l5t33-d1e195">Si de terra, quam habetis in parochia canonicorum de Plautio, per XXX. annos eis
             decimas persolvistis, eas sibi de cetero [et] integre [aliqua] sine molestatione
@@ -181,8 +181,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e199">
           <head xml:id="cice-l5t33-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t33-d1e204">De privilegiis non est iudicandum, nisi eorum tenore inspecto, et secundum continentiam
-            eorum ab omnibus subditis sunt servanda.</p>
+          <head xml:id="cice-l5t33-d1e204" type="question-title">De privilegiis non est iudicandum, nisi eorum tenore inspecto, et secundum continentiam
+            eorum ab omnibus subditis sunt servanda.</head>
           <p xml:id="cice-l5t33-d1e207">Idem Ambianensi Episcopo.</p>
           <p xml:id="cice-l5t33-d1e210">Porro, quamvis Templarii et Hospitalarii multa sint libertatis praerogativa donati, non
             dubitamus, quin aliam libertatem habeant in locis, in quibus, antequam pervenissent ad
@@ -192,8 +192,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e214">
           <head xml:id="cice-l5t33-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t33-d1e219">Per solutionem census, quae fit Romanae ecclesiae, non probatur exemptio a
-            iurisdictione episcoporum.</p>
+          <head xml:id="cice-l5t33-d1e219" type="question-title">Per solutionem census, quae fit Romanae ecclesiae, non probatur exemptio a
+            iurisdictione episcoporum.</head>
           <p xml:id="cice-l5t33-d1e222">Idem I. apostolicae sedis Legato.</p>
           <p xml:id="cice-l5t33-d1e225">Recepimus literas, quas de ecclesiis censualibus episcopatus venerabilis fratris nostri
             Novariensis episcopi direxisti, et ex earum tenore perpendimus, qualiter ad iura nostra
@@ -212,8 +212,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e229">
           <head xml:id="cice-l5t33-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t33-d1e234">Privilegium, uni concessum, non potest ad alium extendi propter identitatem rationis.
-            H. d. et solet quotidie allegari.</p>
+          <head xml:id="cice-l5t33-d1e234" type="question-title">Privilegium, uni concessum, non potest ad alium extendi propter identitatem rationis.
+            H. d. et solet quotidie allegari.</head>
           <p xml:id="cice-l5t33-d1e237">Idem.</p>
           <p xml:id="cice-l5t33-d1e240">Sane (Et infra:) Temerarium est et indignum, aliquem sibi sua auctoritate praesumere,
             quod Romana ecclesia alicui, certa ratione inspecta, singularibus voluit beneficiis
@@ -221,8 +221,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e244">
           <head xml:id="cice-l5t33-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t33-d1e249">In oratoriis privatis campanae publicae teneri non possunt etiam per religiosos. H. d.
-            et tene menti hunc textum, qui quotidie allegatur et est in usu.</p>
+          <head xml:id="cice-l5t33-d1e249" type="question-title">In oratoriis privatis campanae publicae teneri non possunt etiam per religiosos. H. d.
+            et tene menti hunc textum, qui quotidie allegatur et est in usu.</head>
           <p xml:id="cice-l5t33-d1e252">Coelestinus III. Abulensi Episcopo.</p>
           <p xml:id="cice-l5t33-d1e255">Patentibus literis nostris certificari desideras, utrum Templariis, Hospitalariis et
             aliis, oratoria in domibus suis habentibus, liceat campanas in eis ponere publiceque
@@ -232,12 +232,12 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e260">
           <head xml:id="cice-l5t33-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t33-d1e265">In tota provincia exhortationis officio privantur Hospitalarii, qui mittunt pro
+          <head xml:id="cice-l5t33-d1e265" type="question-title">In tota provincia exhortationis officio privantur Hospitalarii, qui mittunt pro
             eleemosynis cruce falso signatos, et, si missi sunt laici, excommunicantur; si sunt
             clerici, ab officio et beneficio suspenduntur. Et eadem suspensione puniuntur qui ante
             reconciliationem in polluta ecclesia celebrant; et suspensi per episcopos exemptos
             absolvi non possunt; et fratres privilegiatorum, qui ad eos se omnino non transferunt,
-            privilegiati non sunt.</p>
+            privilegiati non sunt.</head>
           <p xml:id="cice-l5t33-d1e268">Innocentius III. Archiepiscopo Lugdunensi.</p>
           <p xml:id="cice-l5t33-d1e271">Tuarum nos tenor edocuit literarum, quod fratres Hospitalis sancti Ioannis laicos et
             illiteratos mittunt pro eleemosynis colligendis, †quas populus ex devotione pro
@@ -278,9 +278,9 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e275">
           <head xml:id="cice-l5t33-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t33-d1e280">Contenta in instrumento perdito probari possunt per testes, qui illud perlegerunt, si
+          <head xml:id="cice-l5t33-d1e280" type="question-title">Contenta in instrumento perdito probari possunt per testes, qui illud perlegerunt, si
             deponunt de tenore, et quod erat sine vitio. H. d. et non est alibi casus ita
-            clarus.</p>
+            clarus.</head>
           <p xml:id="cice-l5t33-d1e283">Idem Abbati et Conventui S. Petri Eugubini.</p>
           <p xml:id="cice-l5t33-d1e286">Quum olim essemus apud Perusiam constituti, et tu, fili abbas, privilegium bonae
             memoriae Lucii Papae praedecessoris nostri nobis humiliter praesentans, postulaveris
@@ -329,8 +329,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e290">
           <head xml:id="cice-l5t33-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t33-d1e295">Innovatio privilegiorum novum ius non tribuit, sed antiquum conservat. H. d. quoad
-            titulum.</p>
+          <head xml:id="cice-l5t33-d1e295" type="question-title">Innovatio privilegiorum novum ius non tribuit, sed antiquum conservat. H. d. quoad
+            titulum.</head>
           <p xml:id="cice-l5t33-d1e298">Idem Cathalanensi Electo et Abbati trium Fontium.</p>
           <p xml:id="cice-l5t33-d1e301">Ex parte abbatissae ac sororum Iotrensis ecclesiae nostris exstitit auribus intimatum,
             quod venerabilis frater noster Meldensis episcopus commissionis occasione cuiusdam, per
@@ -381,11 +381,11 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e305">
           <head xml:id="cice-l5t33-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t33-d1e310">Ecclesia, utens duplici privilegio exemptionis, licet succumbat ex uno potest
+          <head xml:id="cice-l5t33-d1e310" type="question-title">Ecclesia, utens duplici privilegio exemptionis, licet succumbat ex uno potest
             nihilominus ex alio se iuvare et obtinere; nec tenetur exemptus promittere obedientiam
             dioecesano; vigore tamen exemptionis non potest sine licentia dioecesani ecclesiam
             construere in loco non exempto; et, si exemptus de facto in loco non exempto construit
-            ecclesiam, cedit iuri episcopi.</p>
+            ecclesiam, cedit iuri episcopi.</head>
           <p xml:id="cice-l5t33-d1e313">Idem Colubriensi Episcopo.</p>
           <p xml:id="cice-l5t33-d1e316">Quum olim ad apostolicam sedem accessisses, et propter quaestiones, quas adversus
             dilectos filios priorem et canonicos monasterii sanctae Crucis habebas, pro quibus ad
@@ -710,8 +710,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e320">
           <head xml:id="cice-l5t33-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t33-d1e325">Contra privilegia ecclesiae minori spatio quadraginta annorum non praescribitur. H. d.
-            secundum verum intellectum.</p>
+          <head xml:id="cice-l5t33-d1e325" type="question-title">Contra privilegia ecclesiae minori spatio quadraginta annorum non praescribitur. H. d.
+            secundum verum intellectum.</head>
           <p xml:id="cice-l5t33-d1e328">Idem Episcopo et Magistro G. Lemovicensibus.</p>
           <p xml:id="cice-l5t33-d1e331">Accedentibus ad praesentiam nostram dilectis filiis magistro Zacharia abbatis et
             conventus Naugiacensis ex una parte, et fratre Petro Templariorum de Tocen. ex altera
@@ -746,8 +746,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e335">
           <head xml:id="cice-l5t33-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t33-d1e340">Exemptus ratione certae rei vel certi loci non censetur exemptus respectu ulterius rei
-            vel loci. H. d. et est textus notabilis et multum allegabilis.</p>
+          <head xml:id="cice-l5t33-d1e340" type="question-title">Exemptus ratione certae rei vel certi loci non censetur exemptus respectu ulterius rei
+            vel loci. H. d. et est textus notabilis et multum allegabilis.</head>
           <p xml:id="cice-l5t33-d1e343">Idem Episcopo Lingonensi.</p>
           <p xml:id="cice-l5t33-d1e346">Quum capella nobilis viri ducis Burgundiae gaudere dicatur huiusmodi privilegio, quod
             nullus archiepiscopus vel episcopus in personas canonicorum eiusdem capellae
@@ -765,8 +765,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e351">
           <head xml:id="cice-l5t33-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t33-d1e356">Per exemptionem, concessam monasterio, capellae sibi subiectae non censentur
-            exemptae.</p>
+          <head xml:id="cice-l5t33-d1e356" type="question-title">Per exemptionem, concessam monasterio, capellae sibi subiectae non censentur
+            exemptae.</head>
           <p xml:id="cice-l5t33-d1e359">Idem Abbati et Fratribus Evasensis coenobii.</p>
           <p xml:id="cice-l5t33-d1e362">Ex ore sedentis in throno procedit gladius bis acutus, quoniam ex ore Romani
             Pontificis, qui praesidet apostolicae sedi, rectissima debet exire sententia, quae
@@ -891,7 +891,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e366">
           <head xml:id="cice-l5t33-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t33-d1e371">Receptus sub protectione Papae per hoc non censetur exemptus. Hoc dicit.</p>
+          <head xml:id="cice-l5t33-d1e371" type="question-title">Receptus sub protectione Papae per hoc non censetur exemptus. Hoc dicit.</head>
           <p xml:id="cice-l5t33-d1e374">Idem Ausonensi Episcopo.</p>
           <p xml:id="cice-l5t33-d1e377">Ex parte tua fuit quaesitum a nobis, utrum clerici et laici, qui literas protectionis
             ostendunt, in quibus personae suae expresso nomine cum omnibus rebus suis sub apostolica
@@ -902,9 +902,9 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e381">
           <head xml:id="cice-l5t33-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t33-d1e386">Religiosi, quibus a Papa concessum est, ut ecclesias eis subiectas possint in proprios
+          <head xml:id="cice-l5t33-d1e386" type="question-title">Religiosi, quibus a Papa concessum est, ut ecclesias eis subiectas possint in proprios
             usus convertere, non auctoritate propria, sed a dioecesano loci possessionem illarum
-            ecclesiarum recipere debent, nisi in privilegio aliud exprimatur.</p>
+            ecclesiarum recipere debent, nisi in privilegio aliud exprimatur.</head>
           <p xml:id="cice-l5t33-d1e389">Idem Elidensi Episcopo.</p>
           <p xml:id="cice-l5t33-d1e392">Pastoralis officii (Et infra: [cf. c. 28. de off. iud. del. I. 29.]) Interrogasti
             praeterea utrum viris religiosis, quibus a sede apostolica est indultum, ut ecclesias
@@ -918,9 +918,9 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e396">
           <head xml:id="cice-l5t33-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l5t33-d1e401">Si is propter cuius delictum positum est interdictum, illud non servat, alii
+          <head xml:id="cice-l5t33-d1e401" type="question-title">Si is propter cuius delictum positum est interdictum, illud non servat, alii
             nihilominus servare tenentur; secus, si ille non servat, in cuius favorem latum
-            fuit.</p>
+            fuit.</head>
           <p xml:id="cice-l5t33-d1e404">Idem Episcopo et Capitulo Tripolitanis.</p>
           <p xml:id="cice-l5t33-d1e407">Petiistis per sedem apostolicam edoceri, utrum, quum propter Hospitalarios vel
             Templarios civitas vestra generali supponitur interdicto, eisdem non servantibus, vos
@@ -933,9 +933,9 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e411">
           <head xml:id="cice-l5t33-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l5t33-d1e416">Privilegium concessum monasterio, ut eius monachi excommunicari non possint,
+          <head xml:id="cice-l5t33-d1e416" type="question-title">Privilegium concessum monasterio, ut eius monachi excommunicari non possint,
             intelligitur de monachis, exsistentibus in monasterio, vel in ecclesiis sibi subiectis
-            utroque iure. Hoc dicit, et est casus quotidianus.</p>
+            utroque iure. Hoc dicit, et est casus quotidianus.</head>
           <p xml:id="cice-l5t33-d1e419">Idem.</p>
           <p xml:id="cice-l5t33-d1e422">Quoniam, sicut nobis per tuas literas intimasti, per confessionem constat partis
             adversae, quod Nepesinus episcopus ius episcopale percipit in ecclesia sancti Blasii de
@@ -950,8 +950,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e426">
           <head xml:id="cice-l5t33-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l5t33-d1e431">Episcopus, remittens alicui ecclesiae decimas episcopales indefinite remisisse videtur
-            non solum praeteritas, sed et futuras. Et est casus notabilis.</p>
+          <head xml:id="cice-l5t33-d1e431" type="question-title">Episcopus, remittens alicui ecclesiae decimas episcopales indefinite remisisse videtur
+            non solum praeteritas, sed et futuras. Et est casus notabilis.</head>
           <p xml:id="cice-l5t33-d1e434">Idem Londonensi Archiepiscopo, apostolicae sedis Legato.</p>
           <p xml:id="cice-l5t33-d1e437">Quia circa (Et infra: [cf. c. 6. de big. I. 21.]) Subsequenter etiam Quaesivisti, utrum
             monachi omnium Sanctorum privilegium bonae memoriae E. praedecessoris tui super
@@ -966,10 +966,10 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e442">
           <head xml:id="cice-l5t33-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l5t33-d1e447">Ponit concilium ordinem quatuor patriarchalium sedium, usque ibi: Servata, ubi ponit
+          <head xml:id="cice-l5t33-d1e447" type="question-title">Ponit concilium ordinem quatuor patriarchalium sedium, usque ibi: Servata, ubi ponit
             tria privilegia ipsarum. Primum, quia dant pallium. Secundum ibi: Dominicae, quia ante
             se crucem deferri faciunt, praeterquam in casibus, hic exceptis. Tertium ibi: In
-            omnibus, quia ad ipsos appellatur. Et in hoc protestatur ibi: Salvis.</p>
+            omnibus, quia ad ipsos appellatur. Et in hoc protestatur ibi: Salvis.</head>
           <p xml:id="cice-l5t33-d1e450">Idem in concilio generali.</p>
           <p xml:id="cice-l5t33-d1e453">Antiqua patriarchalium sedium privilegia renovantes, sancta universali synodo
             approbante sancimus, ut post Romanam ecclesiam, quae disponente Domino super omnes alias
@@ -988,13 +988,13 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e457">
           <head xml:id="cice-l5t33-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l5t33-d1e462">Privilegium religiosis concessum, ut possint sepelire confratres suos tempore
+          <head xml:id="cice-l5t33-d1e462" type="question-title">Privilegium religiosis concessum, ut possint sepelire confratres suos tempore
             interdicti, intelligitur de illis confratribus, qui, licet maneant in saeculo,
             obtulerunt se tamen ordini, mutato habitu saeculari, vel de illis, qui bona sua eis
             dederunt usufructu retento. Hoc primo. Privilegium religiosis concessum, quo eis,
             venientibus ad locum interdictum, semel in anno aperiantur ecclesiae, ut celebrentur in
             eis divina, intelligitur, quod una tantum sola ecclesia aperiatur in loco. Hoc
-            secundo.</p>
+            secundo.</head>
           <p xml:id="cice-l5t33-d1e465">Idem in eodem.</p>
           <p xml:id="cice-l5t33-d1e468">Ut privilegia, quae quibusdam religiosis [personis] Romana concessit ecclesia,
             permaneant inconcussa, quaedam in eisdem duximus declaranda, ne minus sane intellecta
@@ -1027,10 +1027,10 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e472">
           <head xml:id="cice-l5t33-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l5t33-d1e477">Tempore generalis interdicti episcopi non prohibiti, qui non fuerunt culpabiles
+          <head xml:id="cice-l5t33-d1e477" type="question-title">Tempore generalis interdicti episcopi non prohibiti, qui non fuerunt culpabiles
             interdicti, clam celebrare possunt, et hodie istud non est privilegium episcoporum, sed
             ius commune, ut in c. fin. de sent. excomm. in VI. et ibi plene habetur, an et quando et
-            qualiter possit celebrari tempore interdicti.</p>
+            qualiter possit celebrari tempore interdicti.</head>
           <p xml:id="cice-l5t33-d1e480">Idem in eodem.</p>
           <p xml:id="cice-l5t33-d1e483">Quod nonnullis est religiosis indultum, in favorem pontificalis officii ad episcopos
             extendentes concedimus, ut, quum commune terrae interdictum fuerit, excommunicatis et
@@ -1042,7 +1042,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e487">
           <head xml:id="cice-l5t33-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l5t33-d1e492">Privilegia non sunt violanda etiam indirecte. H. d. generaliter.</p>
+          <head xml:id="cice-l5t33-d1e492" type="question-title">Privilegia non sunt violanda etiam indirecte. H. d. generaliter.</head>
           <p xml:id="cice-l5t33-d1e495">Honorius III. Archiepiscopis et Episcopis, in quorum dioecesibus monasteria et
             prioratus Cluniacensi monasterio subiecta consistunt.</p>
           <p xml:id="cice-l5t33-d1e498">Quanto amplius (Et infra:) Sane dilecti filii abbas et conventus Cluniacensis gravem
@@ -1063,8 +1063,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e502">
           <head xml:id="cice-l5t33-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l5t33-d1e507">Qui in habitu et tonsura et ceteris ut laici conversantur, deprehensi in maleficiis se
-            pro clericis non defendunt. Ita communiter summatur.</p>
+          <head xml:id="cice-l5t33-d1e507" type="question-title">Qui in habitu et tonsura et ceteris ut laici conversantur, deprehensi in maleficiis se
+            pro clericis non defendunt. Ita communiter summatur.</head>
           <p xml:id="cice-l5t33-d1e510">Idem V. quondam Anglorum Reginae illustri.</p>
           <p xml:id="cice-l5t33-d1e513">Ex parte tua fuit propositum coram nobis, quod nonnulli literati, quos nec habitus nec
             tonsura clericos profitetur, in terra tuae iurisdictioni subiecta degentes, quum
@@ -1078,7 +1078,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e517">
           <head xml:id="cice-l5t33-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l5t33-d1e522">Parisiis et in locis vicinis ius civile legi non debet.</p>
+          <head xml:id="cice-l5t33-d1e522" type="question-title">Parisiis et in locis vicinis ius civile legi non debet.</head>
           <p xml:id="cice-l5t33-d1e525">Idem.</p>
           <p xml:id="cice-l5t33-d1e528">Super specula (Et infra: [cf. c. 5. de mag. V. 5.]) Sane, licet sancta ecclesia legum
             saecularium non respuat famulatum, quae satis aequitatis et iustitiae vestigia
@@ -1097,7 +1097,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e533">
           <head xml:id="cice-l5t33-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l5t33-d1e538">Innovatio privilegii ius novum non inducit, sed vetus conservat.</p>
+          <head xml:id="cice-l5t33-d1e538" type="question-title">Innovatio privilegii ius novum non inducit, sed vetus conservat.</head>
           <p xml:id="cice-l5t33-d1e541">Idem Episcopo Baiocensi.</p>
           <p xml:id="cice-l5t33-d1e544">Quia intentionis nostrae †non exstitit, ut per innovationem, quam fecimus cuiusdam
             scripti monasterii S. Stephani Cadomensis, quod in registro bonae memoriae Alexandri
@@ -1108,8 +1108,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e548">
           <head xml:id="cice-l5t33-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l5t33-d1e553">Privilegiati, ut ubique possint cum altari viatico celebrare, hoc possunt sine licentia
-            praelatorum.</p>
+          <head xml:id="cice-l5t33-d1e553" type="question-title">Privilegiati, ut ubique possint cum altari viatico celebrare, hoc possunt sine licentia
+            praelatorum.</head>
           <p xml:id="cice-l5t33-d1e556">Idem.</p>
           <p xml:id="cice-l5t33-d1e559">In his, quae ad cultum divinum facere dignoscuntur, non maligna, sed benigna esset
             potius interpretatio facienda. Unde mirari compellimur, quod, quum fratribus
@@ -1128,9 +1128,9 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e563">
           <head xml:id="cice-l5t33-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l5t33-d1e568">Privilegium de decimis novalium non solvendis non comprehendit decimas tempore
+          <head xml:id="cice-l5t33-d1e568" type="question-title">Privilegium de decimis novalium non solvendis non comprehendit decimas tempore
             privilegii impetrati possessas ac aliis, nisi de possessione alterius in privilegio fiat
-            mentio.</p>
+            mentio.</head>
           <p xml:id="cice-l5t33-d1e571">Gregorius IX. maioris ecclesiae et Christianitatis Decano et Archidiacono
             Linconiensibus.</p>
           <p xml:id="cice-l5t33-d1e574">Dudum inter priorem et conventum de Butele ex parte una, et priorissam et moniales de
@@ -1142,8 +1142,8 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e578">
           <head xml:id="cice-l5t33-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l5t33-d1e583">Confratres privilegiatorum, nisi se ad eos in totum transtulerint, ad episcopalia iura
-            tenentur.</p>
+          <head xml:id="cice-l5t33-d1e583" type="question-title">Confratres privilegiatorum, nisi se ad eos in totum transtulerint, ad episcopalia iura
+            tenentur.</head>
           <p xml:id="cice-l5t33-d1e586">Idem.</p>
           <p xml:id="cice-l5t33-d1e589">Quidam, sicut asseris, in privilegiatorum fraternitate recepti, nolunt tibi de iuribus
             episcopalibus respondere. Verum, quamdiu huiusmodi fratres moram in domibus suis
@@ -1151,7 +1151,7 @@
         </div>
         <div xml:id="cice-l5t33-Dd1e593">
           <head xml:id="cice-l5t33-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l5t33-d1e598">Quoad privilegium retentionis decimae semel novale semper est novale.</p>
+          <head xml:id="cice-l5t33-d1e598" type="question-title">Quoad privilegium retentionis decimae semel novale semper est novale.</head>
           <p xml:id="cice-l5t33-d1e601">Idem Arelatensi Capitulo.</p>
           <p xml:id="cice-l5t33-d1e604">Consultationi vestrae breviter respondemus, quod terra, de qua non exstat memoria, quod
             aliquando culta fuisset, redacta per religiosos noviter ad culturam, perpetuo debet

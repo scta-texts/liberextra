@@ -57,12 +57,12 @@
 
         <div xml:id="cice-l4t15-Dd1e108">
           <head xml:id="cice-l4t15-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t15-d1e113">Si, marito provocante ad divortium, et se impotentem asserente, mulier hoc idem
+          <head xml:id="cice-l4t15-d1e113" type="question-title">Si, marito provocante ad divortium, et se impotentem asserente, mulier hoc idem
             fatetur, servata solennitate canonica matrimonium indistincte dirimitur. Sed si
             decipiatur ecclesia, primum matrimonium reparatur. Si vero muliere agente vir asserat se
             potentem, nisi per aspectum corporis vel alio indubitato modo convincatur; mulier non
             auditur. Sed si vir hoc idem confitetur vel convincitur, matrimonium separatur, et
-            mulieri contrahendi licentia datur. H. d. secundum Hostiensem.</p>
+            mulieri contrahendi licentia datur. H. d. secundum Hostiensem.</head>
           <p xml:id="cice-l4t15-d1e116">Ex Brocardico libr. XIX.</p>
           <p xml:id="cice-l4t15-d1e119">Accepisti mulierem et, per aliquod tempus habuisti, per mensem aut per tres, aut
             postremo per annum, et nunc primum dixisti, te esse frigidae naturae ita, ut non
@@ -82,8 +82,8 @@
         </div>
         <div xml:id="cice-l4t15-Dd1e123">
           <head xml:id="cice-l4t15-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t15-d1e128">Impotens ad copulam est impotens ad contrahendum matrimonium, sive sit impedimentum
-            aetatis sive naturae.</p>
+          <head xml:id="cice-l4t15-d1e128" type="question-title">Impotens ad copulam est impotens ad contrahendum matrimonium, sive sit impedimentum
+            aetatis sive naturae.</head>
           <p xml:id="cice-l4t15-d1e131">Alexander III. Ambianensi Episcopo.</p>
           <p xml:id="cice-l4t15-d1e134">Quod sedem apostolicam consulis super his, quae tibi dubia exsistunt, gratum gerimus et
             acceptum, et tua exinde fraternitas non parum commendanda videtur. Ex tua siquidem parte
@@ -102,7 +102,7 @@
         </div>
         <div xml:id="cice-l4t15-Dd1e138">
           <head xml:id="cice-l4t15-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t15-d1e143">Naturale impedimentum ad coitum, irreparibile arte medicorum, matrimonium impedit.</p>
+          <head xml:id="cice-l4t15-d1e143" type="question-title">Naturale impedimentum ad coitum, irreparibile arte medicorum, matrimonium impedit.</head>
           <p xml:id="cice-l4t15-d1e146">Idem.</p>
           <p xml:id="cice-l4t15-d1e149">Ex literis tuis accepimus, quod quidam sedecim annorum vel eo amplius quandam annorum
             tredecim duxit in uxorem, qui quum debitum reddere deberet, et non posset, mulier tam
@@ -115,7 +115,7 @@
         </div>
         <div xml:id="cice-l4t15-Dd1e153">
           <head xml:id="cice-l4t15-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t15-d1e158">Contrahens scienter cum impotenti ad copulam, ab ea non separatur.</p>
+          <head xml:id="cice-l4t15-d1e158" type="question-title">Contrahens scienter cum impotenti ad copulam, ab ea non separatur.</head>
           <p xml:id="cice-l4t15-d1e161">Lucius III.</p>
           <p xml:id="cice-l4t15-d1e164">Consultationi tuae, qua nos consuluisti, utrum feminae clausae, impotentes commisceri
             maribus, matrimonium possint contrahere, et, si contraxerint, an debeat rescindi,
@@ -127,10 +127,10 @@
         </div>
         <div xml:id="cice-l4t15-Dd1e169">
           <head xml:id="cice-l4t15-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t15-d1e174">Si de impotentia coeundi constet, statim matrimonium separatur; alias cohabitabunt
+          <head xml:id="cice-l4t15-d1e174" type="question-title">Si de impotentia coeundi constet, statim matrimonium separatur; alias cohabitabunt
             coniuges per triennium. Et si cum septima manu propinquorum iurant, quod dederunt operam
             carnali copulae, et non potuerunt coniungi: statim separantur. Ita communiter
-            summatur.</p>
+            summatur.</head>
           <p xml:id="cice-l4t15-d1e177">Coelestinus III.</p>
           <p xml:id="cice-l4t15-d1e180">Laudabilem (Et infra: [cf. c. 2. Ut lite pend. II. 16.]) Sollicite quoque ad ultimum
             Requisisti, quantum tempus indulgendum sit naturaliter frigidis ad experientiam copulae
@@ -151,9 +151,9 @@
         </div>
         <div xml:id="cice-l4t15-Dd1e184">
           <head xml:id="cice-l4t15-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t15-d1e189">Propter arctationem mulieris, si apparet, quod praeter divinum miraculum absque
+          <head xml:id="cice-l4t15-d1e189" type="question-title">Propter arctationem mulieris, si apparet, quod praeter divinum miraculum absque
             periculo corporali habilis reddi non potest, separatur matrimonium, redintegratur tamen,
-            si postea appareat, ecclesiam fuisse deceptam.</p>
+            si postea appareat, ecclesiam fuisse deceptam.</head>
           <p xml:id="cice-l4t15-d1e192">Innocentius III. Altissiodorensi Episcopo.</p>
           <p xml:id="cice-l4t15-d1e195">Fraternitatis tuae literas recepimus, continentes, quod O. mulier cuidam viro
             matrimonialiter nupsit, cum quo per multos annos morata, non potuit carnaliter ab ipso
@@ -203,9 +203,9 @@
         </div>
         <div xml:id="cice-l4t15-Dd1e199">
           <head xml:id="cice-l4t15-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t15-d1e204">Si uxor dicit, virum, cui cohabitavit per triennium, non habere potentiam coeundi, eis
+          <head xml:id="cice-l4t15-d1e204" type="question-title">Si uxor dicit, virum, cui cohabitavit per triennium, non habere potentiam coeundi, eis
             hoc iurantibus cum septima manu propinquorum, matrimonium separatur. H. d. inhaerendo
-            verbis literae.</p>
+            verbis literae.</head>
           <p xml:id="cice-l4t15-d1e207">Honorius III.</p>
           <p xml:id="cice-l4t15-d1e210">Literae vestrae nobis exhibitae continebant, quod, quum causa matrimonii, quae inter M.
             mulierem et A. eius virum Atrebatensis dioecesis vertitur, vobis fuisset a bonae

@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t17-Dd1e108">
           <head xml:id="cice-l5t17-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t17-d1e113">Ratione rapinae sortitur quis forum non sui iudicis, et ab eo poterit puniri proprio
-            iudice suffragante.</p>
+          <head xml:id="cice-l5t17-d1e113" type="question-title">Ratione rapinae sortitur quis forum non sui iudicis, et ab eo poterit puniri proprio
+            iudice suffragante.</head>
           <p xml:id="cice-l5t17-d1e116">Ex concilio Meldensi.</p>
           <p xml:id="cice-l5t17-d1e119">De illis autem, qui intra parochiam beneficium aut hereditatem habent et alterius
             episcopi parochiani sunt, et de loco ad locum iter faciunt, et ibi rapinas et
@@ -96,9 +96,9 @@
         </div>
         <div xml:id="cice-l5t17-Dd1e136">
           <head xml:id="cice-l5t17-Hd1e138">CAP. III.</head>
-          <p xml:id="cice-l5t17-d1e141">Excommunicari debent qui capiunt vel spoliant fideles, ex iusta causa navigantes. H. d.
+          <head xml:id="cice-l5t17-d1e141" type="question-title">Excommunicari debent qui capiunt vel spoliant fideles, ex iusta causa navigantes. H. d.
             primo. Excommunicati sunt spoliantes naufragium patientes, nisi ablata restituant. Hoc
-            secundo.</p>
+            secundo.</head>
           <p xml:id="cice-l5t17-d1e144">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l5t17-d1e147">Excommunicationi quoque subdantur, qui Romanos aut alios Christianos, pro negotiatione
             vel aliis honestis causis navigio vectos, aut capere aut rebus suis spoliare praesumunt.
@@ -108,8 +108,8 @@
         </div>
         <div xml:id="cice-l5t17-Dd1e151">
           <head xml:id="cice-l5t17-Hd1e153">CAP. IV.</head>
-          <p xml:id="cice-l5t17-d1e156">Ex principis delegatione possunt praelati de raptu et aliis criminibus iudicare; poenam
-            tamen sanguinis infligere non possunt.</p>
+          <head xml:id="cice-l5t17-d1e156" type="question-title">Ex principis delegatione possunt praelati de raptu et aliis criminibus iudicare; poenam
+            tamen sanguinis infligere non possunt.</head>
           <p xml:id="cice-l5t17-d1e159">Alexander III. Panormitano Archiepiscopo.</p>
           <p xml:id="cice-l5t17-d1e162">In archiepiscopatu tuo dicitur contingere quandoque, quod Sarraceni mulieres
             Christianas et pueros rapiunt, et eis abuti praesumunt, et quosdam etiam, [quod auditu
@@ -125,8 +125,8 @@
         </div>
         <div xml:id="cice-l5t17-Dd1e166">
           <head xml:id="cice-l5t17-Hd1e168">CAP. V.</head>
-          <p xml:id="cice-l5t17-d1e171">Incendiarius ecclesiae, in morte poenitens et absolutus, in coemeterio sepelitur, et
-            heredes compelluntur ad satisfaciendum iuxta facultatem defuncti. Hoc dicit.</p>
+          <head xml:id="cice-l5t17-d1e171" type="question-title">Incendiarius ecclesiae, in morte poenitens et absolutus, in coemeterio sepelitur, et
+            heredes compelluntur ad satisfaciendum iuxta facultatem defuncti. Hoc dicit.</head>
           <p xml:id="cice-l5t17-d1e174">Idem Claremontensi Episcopo.</p>
           <p xml:id="cice-l5t17-d1e177">In literis tuis, quas I. lator praesentium exhibuit, continebatur, quod, quum H. multis
             fuisset criminibus irretitus, qui ecclesiarum incendium diabolo instigante commiserat,
@@ -141,9 +141,9 @@
         </div>
         <div xml:id="cice-l5t17-Dd1e182">
           <head xml:id="cice-l5t17-Hd1e184">CAP. VI.</head>
-          <p xml:id="cice-l5t17-d1e187">Raptus non dicitur, ubi volens pro matrimonio abducitur; raptor tamen cum rapta
+          <head xml:id="cice-l5t17-d1e187" type="question-title">Raptus non dicitur, ubi volens pro matrimonio abducitur; raptor tamen cum rapta
             matrimonium contrahere potest, et post consummationem matrimonii alter sine consensu
-            alterius religionem ingredi non potest. H. d. cum cap. sequenti.</p>
+            alterius religionem ingredi non potest. H. d. cum cap. sequenti.</head>
           <p xml:id="cice-l5t17-d1e190">Lucius III. Burgensi Episcopo.</p>
           <p xml:id="cice-l5t17-d1e193">Quum causam, quae inter E. militem latorem praesentium et uxorem eius vertitur, †tuae
             commisissemus experientiae terminandam, E. miles repetens, mulierem legitime sibi
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l5t17-Dd1e197">
           <head xml:id="cice-l5t17-Hd1e199">CAP. VII.</head>
-          <p xml:id="cice-l5t17-d1e202">Rapta potest matrimonium contrahere cum raptore, ubi dabitur libera facultas in
-            contrahendo.</p>
+          <head xml:id="cice-l5t17-d1e202" type="question-title">Rapta potest matrimonium contrahere cum raptore, ubi dabitur libera facultas in
+            contrahendo.</head>
           <p xml:id="cice-l5t17-d1e205">Innocentius III. Episcopo Saronensi.</p>
           <p xml:id="cice-l5t17-d1e208">Accedens ad apostolicam sedem (Et infra: [cf. c. 24. de praeb. III. 5.]) Rapta puella
             legitime contrahet cum raptore, si prior dissensio transeat postmodum in consensum, et

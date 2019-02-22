@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t12-Dd1e108">
           <head xml:id="cice-l1t12-Hd1e110">CAP. UN.</head>
-          <p xml:id="cice-l1t12-d1e113">Episcopus interrogatus in scrutinio episcopi ordinandi, potest respondere illum dignum,
-            si non novit illum indignum.</p>
+          <head xml:id="cice-l1t12-d1e113" type="question-title">Episcopus interrogatus in scrutinio episcopi ordinandi, potest respondere illum dignum,
+            si non novit illum indignum.</head>
           <p xml:id="cice-l1t12-d1e116">Innocentius III.</p>
           <p xml:id="cice-l1t12-d1e119">Ex parte tua fuit propositum (Et infra:) Quaesivisti praeterea per sedem apostolicam
             doceri, ut, quum episcopi ad consecrationes episcoporum ab archiepiscopo vel etiam alio

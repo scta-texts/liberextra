@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l4t8-Dd1e108">
           <head xml:id="cice-l4t8-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t8-d1e113">Lepra superveniens non dissolvit matrimonium, nec matrimonii effectum, ideo adinvicem
+          <head xml:id="cice-l4t8-d1e113" type="question-title">Lepra superveniens non dissolvit matrimonium, nec matrimonii effectum, ideo adinvicem
             maritali affectione coniuncti se tractare debent, aut ad perpetuam continentiam vovendam
-            induci.</p>
+            induci.</head>
           <p xml:id="cice-l4t8-d1e116">Alexander III. Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l4t8-d1e119">Pervenit ad nos, quod, quum hi, qui leprae morbum incurrunt, de consuetudine generali a
             communione hominum separentur, et extra civitates et villas ad loca solitaria
@@ -74,8 +74,8 @@
         </div>
         <div xml:id="cice-l4t8-Dd1e123">
           <head xml:id="cice-l4t8-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t8-d1e128">Coniuges propter lepram separandi non sunt a coniugio, et contrahere possunt
-            matrimonium, et invicem sibi reddere debitam tenentur.</p>
+          <head xml:id="cice-l4t8-d1e128" type="question-title">Coniuges propter lepram separandi non sunt a coniugio, et contrahere possunt
+            matrimonium, et invicem sibi reddere debitam tenentur.</head>
           <p xml:id="cice-l4t8-d1e131">Idem Baionensi Episcopo.</p>
           <p xml:id="cice-l4t8-d1e134">Quoniam ex multis auctoritatibus et praecipue ex evangelica veritate nemini licet,
             excepta causa fornicationis, uxorem suam dimittere: constat, quod, sive mulier lepra
@@ -89,8 +89,8 @@
         </div>
         <div xml:id="cice-l4t8-Dd1e138">
           <head xml:id="cice-l4t8-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t8-d1e143">Sponsalia de futuro praecise non compellunt ad contrahendum matrimonium cum leproso,
-            lepra post sponsalia superveniente.</p>
+          <head xml:id="cice-l4t8-d1e143" type="question-title">Sponsalia de futuro praecise non compellunt ad contrahendum matrimonium cum leproso,
+            lepra post sponsalia superveniente.</head>
           <p xml:id="cice-l4t8-d1e146">Urbanus III. Episcopo Florentino.</p>
           <p xml:id="cice-l4t8-d1e149">Literas fraternitatis tuae debita benignitate suscepimus, quibus certiores de
             sinceritate tuae fidei et devotionis effecti, ad honorem et commodum tuum abundantius

@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t35-Dd1e108">
           <head xml:id="cice-l3t35-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t35-d1e113">Dioecesanus non debet molestare monasteria, praeterquam pro causa correctionis nec eis
-            oblata sibi vendicare.</p>
+          <head xml:id="cice-l3t35-d1e113" type="question-title">Dioecesanus non debet molestare monasteria, praeterquam pro causa correctionis nec eis
+            oblata sibi vendicare.</head>
           <p xml:id="cice-l3t35-d1e116">Gregorius Archiepiscopo Neapolis.</p>
           <p xml:id="cice-l3t35-d1e119">Theodosius †[abbas monasterii S. Martini petitoria nobis insinuatione suggessit, quae
             habetur in subditis, in domo quondam Martini ex eius voluntate decessorem suum Andream
@@ -75,14 +75,14 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e123">
           <head xml:id="cice-l3t35-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t35-d1e128">Monachi non debent poni singuli per parochias. Hoc primo. Si pro monachatu aliquid
+          <head xml:id="cice-l3t35-d1e128" type="question-title">Monachi non debent poni singuli per parochias. Hoc primo. Si pro monachatu aliquid
             detur, receptus a sacris ordinibus prohibetur, et recipiens ab officio suspenditur. Hoc
             secundo. Monachus, habens peculium sine licentia abbatis, ab altaris communione
             removetur, et, sic decedens sepultura et fratrum communione privatur. Hoc tertio. Si
             pecunia confertur pro habendo aliquod officium in monasterio, dans et recipiens
             deponuntur. Hoc quarto. In prioratibus conventualibus per electionem instituti non sunt
             removendi sine causa rationabili, et de causa rationabili tria ponit exempla. H. d.
-            comprehendendo substantiam.</p>
+            comprehendendo substantiam.</head>
           <p xml:id="cice-l3t35-d1e131">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t35-d1e134">Monachi non pretio recipiantur in monasterio, nec peculium permittantur habere, nec
             singuli per villas et oppida, sive per quascunque parochiales ponantur ecclesias, sed in
@@ -105,9 +105,9 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e138">
           <head xml:id="cice-l3t35-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t35-d1e143">Monet Cistercienses, ut servent regulam secundum primaevam institutionem. H. d. primo.
+          <head xml:id="cice-l3t35-d1e143" type="question-title">Monet Cistercienses, ut servent regulam secundum primaevam institutionem. H. d. primo.
             Et domus religiosa aggregata Cisterciensibus eorum mores servare tenetur. H. d.
-            secundo.</p>
+            secundo.</head>
           <p xml:id="cice-l3t35-d1e146">Alexander III. Abbatibus et Conventibus Cisterciensis ordinis.</p>
           <p xml:id="cice-l3t35-d1e149">Recolentes, qualiter haec sancta plantatio, †haec vitis fructifera, haec denique vinea
             Domini Sabaoth sub primis ordinis patribus pullulavit, et, palmites longe lateque
@@ -151,9 +151,9 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e153">
           <head xml:id="cice-l3t35-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t35-d1e158">Regularis canonicus, qui non resignavit proprium in morte, non debet in coemeterio
+          <head xml:id="cice-l3t35-d1e158" type="question-title">Regularis canonicus, qui non resignavit proprium in morte, non debet in coemeterio
             sepeliri; et, si de facto sepultus fuit, inde debet exhumari, si sine scandalo fieri
-            potest.</p>
+            potest.</head>
           <p xml:id="cice-l3t35-d1e161">Clemens III.</p>
           <p xml:id="cice-l3t35-d1e164">Super quodam canonico regulari, qui, in articulo mortis agens, licet a priore suo
             commonitus, proprium, quod contra regulam latenter habuerat, noluit resignare, et sic
@@ -169,8 +169,8 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e169">
           <head xml:id="cice-l3t35-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t35-d1e174">Canonicus regularis potest praefici ecclesiae parochiali etiam saeculari; sed debet
-            habere socium secum sui ordinis, si commode fieri potest.</p>
+          <head xml:id="cice-l3t35-d1e174" type="question-title">Canonicus regularis potest praefici ecclesiae parochiali etiam saeculari; sed debet
+            habere socium secum sui ordinis, si commode fieri potest.</head>
           <p xml:id="cice-l3t35-d1e177">Innocentius III. V. Plebano sancti Gavinii.</p>
           <p xml:id="cice-l3t35-d1e180">Quod Dei timorem prae oculis habeas, ex fructibus tuis colligitur evidenter, quum
             opera, quae facis, testimonium perhibeant veritati. Unde tuum in Domino propositum
@@ -200,8 +200,8 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e184">
           <head xml:id="cice-l3t35-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t35-d1e189">Primo tractat de vestibus monachorum. Secundo de abdicatione proprietatis. Tertio de
-            silentio. Quarto de cibis. Quinto de officiis in genere et in specie.</p>
+          <head xml:id="cice-l3t35-d1e189" type="question-title">Primo tractat de vestibus monachorum. Secundo de abdicatione proprietatis. Tertio de
+            silentio. Quarto de cibis. Quinto de officiis in genere et in specie.</head>
           <p xml:id="cice-l3t35-d1e192">Idem Abbati et Conventui Sublacensibus.</p>
           <p xml:id="cice-l3t35-d1e195">Quum ad monasterium Sublacense †personaliter venissemus: (Et infra:) Firmiter
             inhibuimus, ne quis de cetero monachorum lineis camisiis uteretur. †Ad defectum autem
@@ -256,14 +256,14 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e199">
           <head xml:id="cice-l3t35-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t35-d1e204">Primo statuit de conciliis regularium provincialibus celebrandis singulis trienniis.
+          <head xml:id="cice-l3t35-d1e204" type="question-title">Primo statuit de conciliis regularium provincialibus celebrandis singulis trienniis.
             Secundo moderatur numerum evectionum et personarum venientium. Tertio disponit de
             instructoribus et praesidentibus capitulo. Quarto de tempore, quo duret capitulum, et
             quid ibi fiet. Quinto quod observetur quod ibi fiet. Sexto de capitulo sequenti. Septimo
             de communi vita ducenda. Octavo de visitatoribus eligendis et ipsorum officio. Nono
             extendit ad canonicos regulares. Decimo providet super discordia visitatorum. Undecimo
             hortatur dioecesanos ad monasteriorum reformationem. Duodecimo praecipit protervos et
-            similes compesci ab offensis monasteriorum. Et haec divisio sufficit pro summario.</p>
+            similes compesci ab offensis monasteriorum. Et haec divisio sufficit pro summario.</head>
           <p xml:id="cice-l3t35-d1e207">Idem in concilio generali.</p>
           <p xml:id="cice-l3t35-d1e210">In singulis regnis sive provinciis fiat de triennio in triennium, salvo iure
             dioecesanorum pontificum, commune capitulum abbatum atque priorum, abbates proprios non
@@ -306,9 +306,9 @@
         </div>
         <div xml:id="cice-l3t35-Dd1e214">
           <head xml:id="cice-l3t35-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t35-d1e219">Primo tractat de correctione monachorum. Secundo de correctione abbatum, tertio
+          <head xml:id="cice-l3t35-d1e219" type="question-title">Primo tractat de correctione monachorum. Secundo de correctione abbatum, tertio
             visitatorum. Quarto de saecularibus in monasteriis beneficiatis. Quinto constitutionem
-            extendit ad moniales. Hoc sufficiat pro summario.</p>
+            extendit ad moniales. Hoc sufficiat pro summario.</head>
           <p xml:id="cice-l3t35-d1e222">Honorius III. Abbatibus et Monachis in Lombardia et Marchia Tervisina constitutis.</p>
           <p xml:id="cice-l3t35-d1e225">Ea, quae pro religionis honestate †ac religiosorum salute provide ordinantur,
             apostolico munimine sunt roboranda, ut suscipiantur devotius et diligentius observentur.

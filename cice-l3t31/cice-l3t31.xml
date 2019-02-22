@@ -57,15 +57,15 @@
 
         <div xml:id="cice-l3t31-Dd1e108">
           <head xml:id="cice-l3t31-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t31-d1e113">Non potest quis ad religionem admitti, nisi volens et in aetate idoneus.</p>
+          <head xml:id="cice-l3t31-d1e113" type="question-title">Non potest quis ad religionem admitti, nisi volens et in aetate idoneus.</head>
           <p xml:id="cice-l3t31-d1e116">Ex concilio Maguntino.</p>
           <p xml:id="cice-l3t31-d1e119">Nullus tondeatur, nisi in legitima aetate et spontanea voluntate.</p>
         </div>
         <div xml:id="cice-l3t31-Dd1e123">
           <head xml:id="cice-l3t31-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t31-d1e128">Impubes monasterium ingressus post annum a parentibus revocari non potest. H. d. primo.
+          <head xml:id="cice-l3t31-d1e128" type="question-title">Impubes monasterium ingressus post annum a parentibus revocari non potest. H. d. primo.
             Pubes per vim ingressus post annum exire vel a parentibus revocari non potest. H. d.
-            secundo. Abbas Siculus.</p>
+            secundo. Abbas Siculus.</head>
           <p xml:id="cice-l3t31-d1e131">Ex eodem.</p>
           <p xml:id="cice-l3t31-d1e134">Si quis ante annos legitimos tonsuratus est sine consensu parentum suorum, [et] si
             parentes ipsius infra annum non se reclamaverint ad principem, aut ad proprium episcopum
@@ -76,16 +76,16 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e138">
           <head xml:id="cice-l3t31-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t31-d1e143">Clericus saecularis, utens habitu et nomine monachali, cogitur, ut fiat monachus, vel
-            ab hoc desistat.</p>
+          <head xml:id="cice-l3t31-d1e143" type="question-title">Clericus saecularis, utens habitu et nomine monachali, cogitur, ut fiat monachus, vel
+            ab hoc desistat.</head>
           <p xml:id="cice-l3t31-d1e146">Ex concilio Toletano.</p>
           <p xml:id="cice-l3t31-d1e149">Ut clerici, qui se fingunt habitu et nomine monachos esse, et non sunt, omnimodis
             corrigantur atque emendentur, ut vel veri monachi sint, vel veri clerici.</p>
         </div>
         <div xml:id="cice-l3t31-Dd1e153">
           <head xml:id="cice-l3t31-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t31-d1e158">Novitia, quae sponte se ingerit actibus professarum, per hoc censetur professa. H. d.
-            et est casus multum notabilis.</p>
+          <head xml:id="cice-l3t31-d1e158" type="question-title">Novitia, quae sponte se ingerit actibus professarum, per hoc censetur professa. H. d.
+            et est casus multum notabilis.</head>
           <p xml:id="cice-l3t31-d1e161">Ex concilio Arelatensi.</p>
           <p xml:id="cice-l3t31-d1e164">Vidua, si sponte velum conversionis, quamvis non sacrum, sibi imposuerit, et in
             ecclesia inter velatas oblationem Deo obtulerit, velit nolit, sanctimoniae habitum
@@ -94,7 +94,7 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e169">
           <head xml:id="cice-l3t31-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t31-d1e174">Monachus temere ad aliud monasterium transire vel peculium habere non potest.</p>
+          <head xml:id="cice-l3t31-d1e174" type="question-title">Monachus temere ad aliud monasterium transire vel peculium habere non potest.</head>
           <p xml:id="cice-l3t31-d1e177">Gregorius Anthemio Subdiacono.</p>
           <p xml:id="cice-l3t31-d1e180">Ioannes frater †et coepiscopus noster [directo] per Iustum clericum [suum capitulari
             inter alia plura hoc nobis noscitur intimasse, aliquos monachos monasteriorum in
@@ -109,9 +109,9 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e184">
           <head xml:id="cice-l3t31-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t31-d1e189">Ubi est dura congregatio vel religio, requiritur in profitente plena pubertas, scilicet
+          <head xml:id="cice-l3t31-d1e189" type="question-title">Ubi est dura congregatio vel religio, requiritur in profitente plena pubertas, scilicet
             tempus XVIII. annorum. H. d. habito respectu ad mentem literae, et est textus
-            singularis.</p>
+            singularis.</head>
           <p xml:id="cice-l3t31-d1e192">Ex Registro Gregorii.</p>
           <p xml:id="cice-l3t31-d1e195">Quia in insulis dura est congregatio monachorum, etiam pueros in eorum monasteriis ante
             XVIII. annum suscipi prohibemus. Vel si qui nunc sunt, tua eos experientia auferat, et
@@ -120,8 +120,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e199">
           <head xml:id="cice-l3t31-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t31-d1e204">Si Cisterciensis sine licentia sui abbatis ad aliud monasterium transit, ad proprium
-            monasterium regredi cogitur.</p>
+          <head xml:id="cice-l3t31-d1e204" type="question-title">Si Cisterciensis sine licentia sui abbatis ad aliud monasterium transit, ad proprium
+            monasterium regredi cogitur.</head>
           <p xml:id="cice-l3t31-d1e207">Alexander III. Archiepiscopis et aliis ecclesiarum Praelatis per Galliam
             constitutis.</p>
           <p xml:id="cice-l3t31-d1e210">Non est vobis dubium †aut incertum, quomodo fratres religiosi Cisterciensis ordinis ea
@@ -139,8 +139,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e214">
           <head xml:id="cice-l3t31-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t31-d1e219">Professio, facta ante XIV. annum, non obligat; post XIV. vero, si fit per susceptionem
-            habitus professorum, etiam non obligat, nisi detur perseverantia tridui.</p>
+          <head xml:id="cice-l3t31-d1e219" type="question-title">Professio, facta ante XIV. annum, non obligat; post XIV. vero, si fit per susceptionem
+            habitus professorum, etiam non obligat, nisi detur perseverantia tridui.</head>
           <p xml:id="cice-l3t31-d1e222">Idem Magistro F. Civitatensi Canonico.</p>
           <p xml:id="cice-l3t31-d1e225">Ad nostram noveris audientiam pervenisse, quod eremitae de Montefoll. quosdam pueros
             infra XIV. annum seduxerunt in tantum, quod quidam illorum, suasionibus eorum assensum
@@ -160,8 +160,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e229">
           <head xml:id="cice-l3t31-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t31-d1e234">Qui recipit habitum professorum, ubi distincti sunt habitus, compellitur ibi vel alibi
-            esse religiosus; sed, si recipit habitum novitiorum, potest ad saeculum redire.</p>
+          <head xml:id="cice-l3t31-d1e234" type="question-title">Qui recipit habitum professorum, ubi distincti sunt habitus, compellitur ibi vel alibi
+            esse religiosus; sed, si recipit habitum novitiorum, potest ad saeculum redire.</head>
           <p xml:id="cice-l3t31-d1e237">Idem Eliensi Episcopo.</p>
           <p xml:id="cice-l3t31-d1e240">Super eo, quod quaesitum fuit a nobis ex parte tua de clericis, qui religionis habitum
             susceperunt, et ante professionem ad priorem statum sunt reversi, fraternitati tuae
@@ -175,8 +175,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e244">
           <head xml:id="cice-l3t31-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t31-d1e249">Canonicus regularis potest effici monachus, si religio, ad quam transit, est strictior
-            sua; alias secus.</p>
+          <head xml:id="cice-l3t31-d1e249" type="question-title">Canonicus regularis potest effici monachus, si religio, ad quam transit, est strictior
+            sua; alias secus.</head>
           <p xml:id="cice-l3t31-d1e252">Index Ambianensi Episcopo.</p>
           <p xml:id="cice-l3t31-d1e255">Sane de canonico, qui in ecclesia Aromatensi professionem fecerat, et fugerat ab eadem,
             in monachum a quodam abbate recepto id tuae fraternitati significamus, quod, si locus,
@@ -186,8 +186,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e260">
           <head xml:id="cice-l3t31-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t31-d1e265">Minor XIV. annis profitendo non obligatur religioni, nisi factus maior ratum
-            habuerit.</p>
+          <head xml:id="cice-l3t31-d1e265" type="question-title">Minor XIV. annis profitendo non obligatur religioni, nisi factus maior ratum
+            habuerit.</head>
           <p xml:id="cice-l3t31-d1e268">Idem Belvacensi Episcopo.</p>
           <p xml:id="cice-l3t31-d1e271">Significatum est nobis, †et pro certo monstratum, quod Guiboldus, nondum incipiens esse
             XIV. annorum, timore magistri, qui eum literis erudiebat, habitum religionis apud
@@ -206,8 +206,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e275">
           <head xml:id="cice-l3t31-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t31-d1e280">Si filia, minor XII. annis a parentibus monasterio tradita, maior facta sponte veletur,
-            ad saeculum redire non potest.</p>
+          <head xml:id="cice-l3t31-d1e280" type="question-title">Si filia, minor XII. annis a parentibus monasterio tradita, maior facta sponte veletur,
+            ad saeculum redire non potest.</head>
           <p xml:id="cice-l3t31-d1e283">Clemens III.</p>
           <p xml:id="cice-l3t31-d1e286">Quum virum †te prudentem fore noverimus et discretum, si in quibus dubitas consilium a
             nobis sollicitudine pastorali requiris, et tibi de iure canonico, quod possumus,
@@ -232,7 +232,7 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e290">
           <head xml:id="cice-l3t31-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l3t31-d1e295">Valet professio facta sine susceptione habitus religionis.</p>
+          <head xml:id="cice-l3t31-d1e295" type="question-title">Valet professio facta sine susceptione habitus religionis.</head>
           <p xml:id="cice-l3t31-d1e298">Idem.</p>
           <p xml:id="cice-l3t31-d1e301">Porrectum nobis ex parte tua petitorium continebat, quod I. canonicus Acherontinus,
             infirmitate gravatus, votum, ut fieret monachus, se asserit emisisse; unde metuens, ne
@@ -249,8 +249,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e305">
           <head xml:id="cice-l3t31-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l3t31-d1e310">Si pater se cum bonis suis et filio impubere obtulit monasterio, filius factus maior
-            exire potest religionem et legitimam a monasterio petere.</p>
+          <head xml:id="cice-l3t31-d1e310" type="question-title">Si pater se cum bonis suis et filio impubere obtulit monasterio, filius factus maior
+            exire potest religionem et legitimam a monasterio petere.</head>
           <p xml:id="cice-l3t31-d1e313">Coelestinus III.</p>
           <p xml:id="cice-l3t31-d1e316">Quum simus: (Et infra:) Sane nuper nostris auribus est relatum, quod, quum B. miles
             leprae morbo Domino permittente esset respersus, se cum filio suo discretionis annos
@@ -272,7 +272,7 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e320">
           <head xml:id="cice-l3t31-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l3t31-d1e325">Furiosus profitendo non obligatur; nisi factus sanae mentis ratum habuerit.</p>
+          <head xml:id="cice-l3t31-d1e325" type="question-title">Furiosus profitendo non obligatur; nisi factus sanae mentis ratum habuerit.</head>
           <p xml:id="cice-l3t31-d1e328">Innocentius III. Episcopo et Capitulo Targilensibus.</p>
           <p xml:id="cice-l3t31-d1e331">Sicut tenor literarum †vestrarum nobis aperuit, quum lator praesentium in sacerdotali
             esset officio constitutus, et tanta rerum temporalium indigentia laboraret, quod nec
@@ -297,8 +297,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e335">
           <head xml:id="cice-l3t31-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l3t31-d1e340">Professio nec fieri, nec recipi debet infra tempus probationis; sed facta et recepta
-            tenet. Hoc dicit, et est casus notabilis, et quotidie allegatur.</p>
+          <head xml:id="cice-l3t31-d1e340" type="question-title">Professio nec fieri, nec recipi debet infra tempus probationis; sed facta et recepta
+            tenet. Hoc dicit, et est casus notabilis, et quotidie allegatur.</head>
           <p xml:id="cice-l3t31-d1e343">Idem Pisano Archiepiscopo.</p>
           <p xml:id="cice-l3t31-d1e346">Ad apostolicam sedem, †quae disponente Domino cunctorum fidelium mater est et magistra,
             super diversis articulis quaestiones dubiae referuntur, ut quod ab ea fuerit super earum
@@ -334,8 +334,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e351">
           <head xml:id="cice-l3t31-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l3t31-d1e356">Qui professionem fecit, licet in claustro nunquam permanserit, sed in saeculo, et suis
-            bonis usus fuerit, ad observantiam regularem compellitur.</p>
+          <head xml:id="cice-l3t31-d1e356" type="question-title">Qui professionem fecit, licet in claustro nunquam permanserit, sed in saeculo, et suis
+            bonis usus fuerit, ad observantiam regularem compellitur.</head>
           <p xml:id="cice-l3t31-d1e359">Idem Aconensi Episcopo.</p>
           <p xml:id="cice-l3t31-d1e362">Sicut nobis ex parte tua fuit propositum, quidam clericus, quum aegritudine nimia
             laboraret, quasi de morte securus, et de recuperanda sanitate desperans, habitum
@@ -355,10 +355,10 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e366">
           <head xml:id="cice-l3t31-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l3t31-d1e371">Potest religiosus zelo sanctioris vitae ad religionem transire strictiorem, petita
+          <head xml:id="cice-l3t31-d1e371" type="question-title">Potest religiosus zelo sanctioris vitae ad religionem transire strictiorem, petita
             prius licentia praelati sui, licet non obtenta, etiam si primum monasterium sit
             privilegiatum, quod de illo ad aliud etiam arctius transire non possit. H. d., et est
-            casus notabilis, et quotidie allegatur.</p>
+            casus notabilis, et quotidie allegatur.</head>
           <p xml:id="cice-l3t31-d1e374">Idem Priori et Conventui Dimoliensi.</p>
           <p xml:id="cice-l3t31-d1e377">Licet quibusdam monachis et canonicis, nec non hospitalariis et templariis a sede
             apostolica sit indultum, ne, postquam aliquis professus fuerit apud eos, ad alium locum
@@ -401,8 +401,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e381">
           <head xml:id="cice-l3t31-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l3t31-d1e386">Coniuges religionem profitendo ab invicem devertere possunt; aliter si se abiuraut et
-            non continent, illicitum est iuramentum.</p>
+          <head xml:id="cice-l3t31-d1e386" type="question-title">Coniuges religionem profitendo ab invicem devertere possunt; aliter si se abiuraut et
+            non continent, illicitum est iuramentum.</head>
           <p xml:id="cice-l3t31-d1e389">Idem Praeposito, et Decano, et Scholastico Demerensibus Coloniensis dioecesis.</p>
           <p xml:id="cice-l3t31-d1e392">Veniens ad apostolicam sedem G. mulier latrix praesentium supplici nobis insinuatione
             monstravit, quod, quum matrimonium cum E. de Hard. Coloniensis dioeceseos in facie
@@ -426,8 +426,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e396">
           <head xml:id="cice-l3t31-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l3t31-d1e401">Qui ad monasterium convertitur sumendo habitum novitii, potest infra tempus probationis
-            redire ad saeculum, nisi appareat, eum vitam voluisse mutare omnino.</p>
+          <head xml:id="cice-l3t31-d1e401" type="question-title">Qui ad monasterium convertitur sumendo habitum novitii, potest infra tempus probationis
+            redire ad saeculum, nisi appareat, eum vitam voluisse mutare omnino.</head>
           <p xml:id="cice-l3t31-d1e404">Idem Abbati de Affligen. et Magistro R. et G. Canonicis Traiectensibus.</p>
           <p xml:id="cice-l3t31-d1e407">Consulti sumus frequenter a multis, utrum is, qui monasterium ingressus est habitum
             sumendo novitii, si ante professionem emissam infra tempus probationis exire voluerit,
@@ -446,8 +446,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e411">
           <head xml:id="cice-l3t31-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l3t31-d1e416">Qui, infra annum probationis non facta professione, redit ad saeculum, licite potest ad
-            ordines et beneficia promoveri.</p>
+          <head xml:id="cice-l3t31-d1e416" type="question-title">Qui, infra annum probationis non facta professione, redit ad saeculum, licite potest ad
+            ordines et beneficia promoveri.</head>
           <p xml:id="cice-l3t31-d1e419">Idem.</p>
           <p xml:id="cice-l3t31-d1e422">Postulasti (Et infra: [cf. c. 14. de Iud. V. 6.]) Tertio quaesivisti, utrum illi, qui
             in annis minoribus constituti novitiorum habitum susceperunt, et infra annum postmodum
@@ -461,8 +461,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e426">
           <head xml:id="cice-l3t31-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l3t31-d1e431">Qui ultra annum portat habitum monachelem in monasterio, ubi sunt habitus indistincti,
-            censetur professus.</p>
+          <head xml:id="cice-l3t31-d1e431" type="question-title">Qui ultra annum portat habitum monachelem in monasterio, ubi sunt habitus indistincti,
+            censetur professus.</head>
           <p xml:id="cice-l3t31-d1e434">Honorius III. Venetensi Episcopo.</p>
           <p xml:id="cice-l3t31-d1e437">Ex parte tua fuit propositum coram nobis, quod nonnulli sunt in dioecesi Venetensi,
             qui, licet pluribus annis gestaverint habitum monachalem, professionem tamen monasticam
@@ -479,10 +479,10 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e442">
           <head xml:id="cice-l3t31-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l3t31-d1e447">Infra probationis annum libere quis redit ad saeculum, nisi professionem fecerit tacite
+          <head xml:id="cice-l3t31-d1e447" type="question-title">Infra probationis annum libere quis redit ad saeculum, nisi professionem fecerit tacite
             vel expresse, vel appareat, eum vitam mutare voluisse. Hoc primo. Secundo dicit, quod ad
             hoc, ut dignoscantur novitii a professis, debet habitus professorum benedici in locis,
-            ubi habitus non est distinctus.</p>
+            ubi habitus non est distinctus.</head>
           <p xml:id="cice-l3t31-d1e450">Gregorius IX.</p>
           <p xml:id="cice-l3t31-d1e453">Statuimus, novitios in probatione positos ante susceptum religionis habitum, qui dari
             profitentibus consuevit, vel ante professionem emissam, ad priorem statum redire posse
@@ -495,8 +495,8 @@
         </div>
         <div xml:id="cice-l3t31-Dd1e457">
           <head xml:id="cice-l3t31-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l3t31-d1e462">Religiosi fugitivi annuatim sunt requirendi, et cogendi, ut at monasterium
-            revertantur.</p>
+          <head xml:id="cice-l3t31-d1e462" type="question-title">Religiosi fugitivi annuatim sunt requirendi, et cogendi, ut at monasterium
+            revertantur.</head>
           <p xml:id="cice-l3t31-d1e465">Idem.</p>
           <p xml:id="cice-l3t31-d1e468">Ne religiosi, vagandi occasionem habentes, salutis propriae detrimentum incurrant, et
             sanguis eorum de praelatorum manibus requiratur: statuimus, ut praesidentes capitulis

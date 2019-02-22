@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t23-Dd1e108">
           <head xml:id="cice-l1t23-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t23-d1e113">Ponit quae spectant ad officium archidiaconi.</p>
+          <head xml:id="cice-l1t23-d1e113" type="question-title">Ponit quae spectant ad officium archidiaconi.</head>
           <p xml:id="cice-l1t23-d1e116">Ex libro Romani ordinis.</p>
           <p xml:id="cice-l1t23-d1e119">Ut archidiaconus post episcopum sciat se vicarium esse eius in omnibus, et omnem curam
             in clero, tam in urbe positorum, quam eorum, qui per parochias habitare noscuntur, ad se
@@ -69,7 +69,7 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e123">
           <head xml:id="cice-l1t23-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t23-d1e128">Non summatur, sed ponit quaedam, quae spectant ad officium archidiaconi.</p>
+          <head xml:id="cice-l1t23-d1e128" type="question-title">Non summatur, sed ponit quaedam, quae spectant ad officium archidiaconi.</head>
           <p xml:id="cice-l1t23-d1e131">Ex concilio Toletano.</p>
           <p xml:id="cice-l1t23-d1e134">Officium vero archidiaconi est, evangelium quando voluerit legere, vel alicui de
             diaconis praecipere, et quando episcopus missam canit, ad iussionem illius induant se
@@ -85,7 +85,7 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e138">
           <head xml:id="cice-l1t23-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t23-d1e143">Custodia vasorum ecclesiae spectat ad archidiaconum.</p>
+          <head xml:id="cice-l1t23-d1e143" type="question-title">Custodia vasorum ecclesiae spectat ad archidiaconum.</head>
           <p xml:id="cice-l1t23-d1e146">Gregorius III. Archidiacono Salonitano.</p>
           <p xml:id="cice-l1t23-d1e149">Ea, quae nobis contra †vos tu et episcopus tuus direxistis scripta, doluimus
             agnoscentes eo, quod inter vos nihil caritas recognoscit. Verumtamen te in officio
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e153">
           <head xml:id="cice-l1t23-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t23-d1e158">Archidiaconus sine mandato episcopi non committit curam animarum, id est, non habet
-            institutionem auctorizabilem.</p>
+          <head xml:id="cice-l1t23-d1e158" type="question-title">Archidiaconus sine mandato episcopi non committit curam animarum, id est, non habet
+            institutionem auctorizabilem.</head>
           <p xml:id="cice-l1t23-d1e161">Alexander III. Eliensi Archidiacono.</p>
           <p xml:id="cice-l1t23-d1e164">Quum satis sit absurdum †et a sanctorum Patrum institutionibus alienum, ut
             archidiaconus auctoritate propria debeat cuilibet curam ecclesiarum committere, aegre
@@ -115,15 +115,15 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e169">
           <head xml:id="cice-l1t23-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t23-d1e174">Archidiaconus de iure communi non potest excommunicare. Ant. de But.</p>
+          <head xml:id="cice-l1t23-d1e174" type="question-title">Archidiaconus de iure communi non potest excommunicare. Ant. de But.</head>
           <p xml:id="cice-l1t23-d1e177">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l1t23-d1e180">Archidiaconis non videtur de ecclesiastica institutione licere, nisi auctoritas
             episcoporum et consensus accesserit, in aliquos sententiam promulgare.</p>
         </div>
         <div xml:id="cice-l1t23-Dd1e184">
           <head xml:id="cice-l1t23-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t23-d1e189">Archidiaconus semel in anno, nisi necessitas exigat plus, visitat suam provinciam, id
-            est paroeciam. Hoc dicit.</p>
+          <head xml:id="cice-l1t23-d1e189" type="question-title">Archidiaconus semel in anno, nisi necessitas exigat plus, visitat suam provinciam, id
+            est paroeciam. Hoc dicit.</head>
           <p xml:id="cice-l1t23-d1e192">Idem Episcopo Conventrensi et Abbati Cestrensi.</p>
           <p xml:id="cice-l1t23-d1e195">Mandamus, quatenus prohibeatis R. Cestrensi archidiacono, ne clericos sive laicos, qui
             pro suis excessibus puniendi sunt, poena pecuniaria mulctare, sive in examinatione ignis
@@ -139,9 +139,9 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e199">
           <head xml:id="cice-l1t23-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t23-d1e204">Dicit primo, quod sit officium archidiaconi, et in quo per illud relevetur episcopus.
+          <head xml:id="cice-l1t23-d1e204" type="question-title">Dicit primo, quod sit officium archidiaconi, et in quo per illud relevetur episcopus.
             Et secundo dicit, decanos rurales per episcopum et archidiaconum eligendos et amovendos,
-            si illorum vices communiter gerant.</p>
+            si illorum vices communiter gerant.</head>
           <p xml:id="cice-l1t23-d1e207">Innocentius III.</p>
           <p xml:id="cice-l1t23-d1e210">Ad haec non dicimus (Et infra:) §. 1. Sane consuluit nos tuae fraternitatis devotio,
             quid ad officium archidiaconi debeat pertinere, et in quibus per ipsum cura episcopalis
@@ -170,7 +170,7 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e214">
           <head xml:id="cice-l1t23-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t23-d1e219">Archidiaconus non dat commendatitias ad ordines.</p>
+          <head xml:id="cice-l1t23-d1e219" type="question-title">Archidiaconus non dat commendatitias ad ordines.</head>
           <p xml:id="cice-l1t23-d1e222">Idem.</p>
           <p xml:id="cice-l1t23-d1e225">Significasti (Et infra:) Interdicas autem archidiacono tuo, ne sine conscientia tua et
             auctoritate literas suas promovendis concedat, et eis etiam districte prohibeas, ne ad
@@ -180,7 +180,7 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e229">
           <head xml:id="cice-l1t23-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t23-d1e234">Archidiaconus examinat et praesentat ordinandos, et ponit praelatos in sede.</p>
+          <head xml:id="cice-l1t23-d1e234" type="question-title">Archidiaconus examinat et praesentat ordinandos, et ponit praelatos in sede.</head>
           <p xml:id="cice-l1t23-d1e237">Idem.</p>
           <p xml:id="cice-l1t23-d1e240">Ut nostrum (Et infra:) [(cf. c. un. ut. eccl. ben. III. 12.) Quia vero maiorum excessus
             maiori debent severitate puniri, quum iuxta divinae legis oraculum sacerdos, si unctus
@@ -204,8 +204,8 @@
         </div>
         <div xml:id="cice-l1t23-Dd1e244">
           <head xml:id="cice-l1t23-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t23-d1e249">Archidiaconi in monasteriis iurisdictionem non habent, nisi quantum tribuit eis
-            generalis vel specialis consuetudo.</p>
+          <head xml:id="cice-l1t23-d1e249" type="question-title">Archidiaconi in monasteriis iurisdictionem non habent, nisi quantum tribuit eis
+            generalis vel specialis consuetudo.</head>
           <p xml:id="cice-l1t23-d1e252">Honorius III. Abbati Arimanensi Trecensis dioecesis, et Archidiacono et Decano S.
             Stephani Trecensis.</p>
           <p xml:id="cice-l1t23-d1e255">Dilecto filio (Et infra:) Ad petitionem archidiaconi Senonensis conquerentis, quod

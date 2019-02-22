@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t13-Dd1e108">
           <head xml:id="cice-l3t13-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t13-d1e113">Non potest praelatus res unius ecclesiae alteri dare, nec invicem res illas commutare,
-            sine ambarum consensu.</p>
+          <head xml:id="cice-l3t13-d1e113" type="question-title">Non potest praelatus res unius ecclesiae alteri dare, nec invicem res illas commutare,
+            sine ambarum consensu.</head>
           <p xml:id="cice-l3t13-d1e116">Ex concilio Lugdunensi IV.</p>
           <p xml:id="cice-l3t13-d1e119">Non licet episcopo vel abbati terram unius ecclesiae vertere ad aliam, quamvis ambae in
             eius sint potestate; tamen, si commutare voluerit terras earum, cum consensu ambarum
@@ -66,9 +66,9 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e123">
           <head xml:id="cice-l3t13-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t13-d1e128">Principes saeculares res ecclesiae donare non possunt, et qui ab eis recipiunt,
+          <head xml:id="cice-l3t13-d1e128" type="question-title">Principes saeculares res ecclesiae donare non possunt, et qui ab eis recipiunt,
             excommunicantur, et perdunt omnia, quae ab ecclesia alias legitime obtinebant. H. d.
-            secundum unum intellectum, qui satis placet.</p>
+            secundum unum intellectum, qui satis placet.</head>
           <p xml:id="cice-l3t13-d1e131">Ex eodem.</p>
           <p xml:id="cice-l3t13-d1e134">Qui res ecclesiae petunt a regibus, et horrendae cupiditatis impulsu egentium
             substantiam rapiunt, irrita habeantur quae obtinent, et a communione ecclesiae, cuius
@@ -76,10 +76,10 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e138">
           <head xml:id="cice-l3t13-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t13-d1e143">Rector ecclesiae, qui dat ecclesiae rem duplae aestimationis, servos ecclesiae
+          <head xml:id="cice-l3t13-d1e143" type="question-title">Rector ecclesiae, qui dat ecclesiae rem duplae aestimationis, servos ecclesiae
             manumittere potest; ipse tamen manumissus et eius posteri erunt sub patrocinio
             ecclesiae. Ita communiter summatur, tamen non placet Panorm. id, quod dicitur de
-            aestimatione.</p>
+            aestimatione.</head>
           <p xml:id="cice-l3t13-d1e146">Ex concilio Toletano.</p>
           <p xml:id="cice-l3t13-d1e149">Consensus totius concilii diffinivit, ut sacerdotes, qui aut aliquid ecclesiae suae
             relinquunt, aut nihil habentes aliqua tamen praedia vel familias ecclesiis suis
@@ -90,8 +90,8 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e153">
           <head xml:id="cice-l3t13-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t13-d1e158">Si praelatus nil de suo dans ecclesiae servum ecclesiae manumittit, non tenet
-            manumissio.</p>
+          <head xml:id="cice-l3t13-d1e158" type="question-title">Si praelatus nil de suo dans ecclesiae servum ecclesiae manumittit, non tenet
+            manumissio.</head>
           <p xml:id="cice-l3t13-d1e161">Ex eodem.</p>
           <p xml:id="cice-l3t13-d1e164">Episcopi, qui nihil ex proprio suo ecclesiae Christi conferunt, [hanc divinam
             sententiam metuant et] liberos ex famulis ecclesiae ad condemnationem suam facere non
@@ -102,7 +102,7 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e169">
           <head xml:id="cice-l3t13-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t13-d1e174">Res ecclesiae alienari non debent.</p>
+          <head xml:id="cice-l3t13-d1e174" type="question-title">Res ecclesiae alienari non debent.</head>
           <p xml:id="cice-l3t13-d1e177">Ex concilio apud Silvanectim.</p>
           <p xml:id="cice-l3t13-d1e180">Nulli liceat alienare rem immobilem ecclesiae suae, sive domum sive agrum, sive hortum
             sive rusticum mancipium [vel panes civiles,] neque creditoribus specialis hypothecae
@@ -113,9 +113,9 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e184">
           <head xml:id="cice-l3t13-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t13-d1e189">Alienatio de rebus ecclesiae facta non tenet, et alienatores, nisi rem restituant,
+          <head xml:id="cice-l3t13-d1e189" type="question-title">Alienatio de rebus ecclesiae facta non tenet, et alienatores, nisi rem restituant,
             excommunicantur, et quilibet clericus potest contradicere, et rem cum fructibus
-            repetere. H. d. et est textus notabilis, et quotidie allegatur.</p>
+            repetere. H. d. et est textus notabilis, et quotidie allegatur.</head>
           <p xml:id="cice-l3t13-d1e192">Symmachus Papa.</p>
           <p xml:id="cice-l3t13-d1e195">Si quis presbyterorum, diaconorum seu defensorum alienanti praedium ecclesiae
             subscripserit, quo iratus Deus animas percutit anathemate feriatur, servata, quam
@@ -130,8 +130,8 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e199">
           <head xml:id="cice-l3t13-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t13-d1e204">Terra non fertilis ecclesiae dari potest in emphyteusin ei, cuius studio reducatur ad
-            culturam.</p>
+          <head xml:id="cice-l3t13-d1e204" type="question-title">Terra non fertilis ecclesiae dari potest in emphyteusin ei, cuius studio reducatur ad
+            culturam.</head>
           <p xml:id="cice-l3t13-d1e207">Alexander III. Vigoriensi Episcopo.</p>
           <p xml:id="cice-l3t13-d1e210">Ad aures (Et infra:) Illas vero terras, quae de silvis exstirpatae sunt arabiles
             factae, eis hereditario iure poteris concedere sub annuo censu tenendas, a quibus ipsas
@@ -140,10 +140,10 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e214">
           <head xml:id="cice-l3t13-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t13-d1e219">Iurans non alienare bona ecclesiae, non potest alienare ea, quae sunt de mensa, vel ea,
+          <head xml:id="cice-l3t13-d1e219" type="question-title">Iurans non alienare bona ecclesiae, non potest alienare ea, quae sunt de mensa, vel ea,
             de quibus dubitatur, an sint de mensa. Hoc dicit, usque ad §. Possessiones. Abbas –
             (Possessiones etc.:) Possessiones ecclesiae minus utiles pro utilioribus de consensu
-            capituli potest episcopus permutare vel alienare. H. d.</p>
+            capituli potest episcopus permutare vel alienare. H. d.</head>
           <p xml:id="cice-l3t13-d1e222">Coelestinus III. Ravennatensi Archiepiscopo.</p>
           <p xml:id="cice-l3t13-d1e225">Ut super aliqua †repositae quaestionis dubietas apostolicae sedis providentia enodetur,
             Romana ecclesia, cui licet immeriti praesidemus, singulorum consultationibus consuevit
@@ -161,7 +161,7 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e229">
           <head xml:id="cice-l3t13-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t13-d1e234">Canonicus praedium ecclesiae perpetuo locare non potest.</p>
+          <head xml:id="cice-l3t13-d1e234" type="question-title">Canonicus praedium ecclesiae perpetuo locare non potest.</head>
           <p xml:id="cice-l3t13-d1e237">Idem Exonensi episcopo.</p>
           <p xml:id="cice-l3t13-d1e240">Ad audientiam nostram noveris pervenisse, quod quidam de canonicis Exonensis ecclesiae,
             quaedam praedia eiusdem ecclesiae, inconsultis aliis fratribus, in damnum eius et
@@ -175,8 +175,8 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e244">
           <head xml:id="cice-l3t13-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t13-d1e249">Possesiones, quae sunt de mensa, non possunt alienari. Et ecclesiae consuetae regi per
-            regulares saecularibus clericis conferri non debent. H. d. Ioann. de Imola.</p>
+          <head xml:id="cice-l3t13-d1e249" type="question-title">Possesiones, quae sunt de mensa, non possunt alienari. Et ecclesiae consuetae regi per
+            regulares saecularibus clericis conferri non debent. H. d. Ioann. de Imola.</head>
           <p xml:id="cice-l3t13-d1e252">Innocentius III. Archiepiscopo Montis regalis.</p>
           <p xml:id="cice-l3t13-d1e255">Possessiones ad mensam tuam vel capituli pertinentes, alienare non debes, aut
             ecclesias, in quibus monachi ministrare consueverunt, clericis vel laicis assignare
@@ -190,8 +190,8 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e260">
           <head xml:id="cice-l3t13-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t13-d1e265">Restituitur ecclesia contra alienationem, per quam enormiter fuit laesa. H. d. secundum
-            lecturam veriorem.</p>
+          <head xml:id="cice-l3t13-d1e265" type="question-title">Restituitur ecclesia contra alienationem, per quam enormiter fuit laesa. H. d. secundum
+            lecturam veriorem.</head>
           <p xml:id="cice-l3t13-d1e268">Idem Episcopo Mauriensi et Praeposito Ulconensi.</p>
           <p xml:id="cice-l3t13-d1e271">Ad nostram noveritis audientiam pervenisse, quod, quum Tusiense monasterium depressum
             esset onere maximo debitorum, dilecti filii abbas et conventus eiusdem villam quandam
@@ -215,8 +215,8 @@
         </div>
         <div xml:id="cice-l3t13-Dd1e275">
           <head xml:id="cice-l3t13-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t13-d1e280">Alienatio rei ecclesiasticae facta sine legitimo ecclesiasticarum personarum assensu
-            non tenet, licet approbetur per constitutionem laicorum.</p>
+          <head xml:id="cice-l3t13-d1e280" type="question-title">Alienatio rei ecclesiasticae facta sine legitimo ecclesiasticarum personarum assensu
+            non tenet, licet approbetur per constitutionem laicorum.</head>
           <p xml:id="cice-l3t13-d1e283">Idem in concilio generali.</p>
           <p xml:id="cice-l3t13-d1e286">Quum laicis, quamvis religiosis, disponendi de rebus ecclesiae nulla sit attributa
             potestas, quos obsequendi manet necessitas, non auctoritas imperandi: dolemus, in

@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t6-Dd1e108">
           <head xml:id="cice-l3t6-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t6-d1e113">Clericus infirmus integre percipit fructus beneficii sui.</p>
+          <head xml:id="cice-l3t6-d1e113" type="question-title">Clericus infirmus integre percipit fructus beneficii sui.</head>
           <p xml:id="cice-l3t6-d1e116">Gregorius Candido Episcopo Urbevetano.</p>
           <p xml:id="cice-l3t6-d1e119">Quum percussio corporalis, †[utrum pro purgatione an pro vindicta contingat, Dei in hoc
             iudicium ignoratur, non debet a nobis addi flagellatis afflictio, ne nos culpae,] quod
@@ -72,8 +72,8 @@
         </div>
         <div xml:id="cice-l3t6-Dd1e123">
           <head xml:id="cice-l3t6-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t6-d1e128">Presbyter, cui medietas palmae cum duobus digitis est abscissa, missam non celebrat,
-            sed ceteris sacerdotalibus fungi potest.</p>
+          <head xml:id="cice-l3t6-d1e128" type="question-title">Presbyter, cui medietas palmae cum duobus digitis est abscissa, missam non celebrat,
+            sed ceteris sacerdotalibus fungi potest.</head>
           <p xml:id="cice-l3t6-d1e131">Eugenius Papa.</p>
           <p xml:id="cice-l3t6-d1e134">Presbyterum, cuius duos digitos cum medietate palmae a praedone abscissos esse
             significasti, missam non permittimus celebrare, quia nec secure propter debilitatem, nec
@@ -83,7 +83,7 @@
         </div>
         <div xml:id="cice-l3t6-Dd1e138">
           <head xml:id="cice-l3t6-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t6-d1e143">Si rector ecclesia sit leprosus, dandus est ei coadiutor.</p>
+          <head xml:id="cice-l3t6-d1e143" type="question-title">Si rector ecclesia sit leprosus, dandus est ei coadiutor.</head>
           <p xml:id="cice-l3t6-d1e146">Lucius III.</p>
           <p xml:id="cice-l3t6-d1e149">De rectoribos ecclesiarum leprae macula usque adeo infectis, quod altari servire non
             possunt, nec sine magno scandalo eorum, qui sani sunt, ecclesias ingredi, hoc volumus te
@@ -92,8 +92,8 @@
         </div>
         <div xml:id="cice-l3t6-Dd1e153">
           <head xml:id="cice-l3t6-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t6-d1e158">Si rector ecclesiae sit leprosus, ab administrationis officio removetur; sed de bonis
-            ecclesiae sustentatur.</p>
+          <head xml:id="cice-l3t6-d1e158" type="question-title">Si rector ecclesiae sit leprosus, ab administrationis officio removetur; sed de bonis
+            ecclesiae sustentatur.</head>
           <p xml:id="cice-l3t6-d1e161">Clemens III. Tua nos duxit fraternitas consulendos: (Et infra: [cf. c. 19. de sent.
             exc. V. 39.]) De sacerdote vero, qui divino iudicio leprae morbo repercussus in
             parochiali ecclesia praelationis officio fungitur, dicimus, quod pro scandalo et
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l3t6-Dd1e166">
           <head xml:id="cice-l3t6-Hd1e168">CAP. V.</head>
-          <p xml:id="cice-l3t6-d1e171">Episcopo, qui propter morbum incurabilem pastorale officium exercere non potest, dandus
-            est coadiutor.</p>
+          <head xml:id="cice-l3t6-d1e171" type="question-title">Episcopo, qui propter morbum incurabilem pastorale officium exercere non potest, dandus
+            est coadiutor.</head>
           <p xml:id="cice-l3t6-d1e174">Innocentius III. Arelatensi Archiepiscopo.</p>
           <p xml:id="cice-l3t6-d1e177">Ex parte fuit propositum coram nobis, quod, quum venerabilis frater noster Aurasiensis
             episcopus gravi et incurabili morbo fere iam per quadriennium labotaverit ita, quod
@@ -122,7 +122,7 @@
         </div>
         <div xml:id="cice-l3t6-Dd1e181">
           <head xml:id="cice-l3t6-Hd1e183">CAP. VI.</head>
-          <p xml:id="cice-l3t6-d1e186">Honorius III. Episcopo Aversano.</p>
+          <head xml:id="cice-l3t6-d1e186" type="question-title">Honorius III. Episcopo Aversano.</head>
           <p xml:id="cice-l3t6-d1e189">Consultationibus (Et infra:) Archidiacono autem, quem morbo paralytico laborantem
             officium linguae asseris amisisse, coadiutor est merito adhibendus, maxime si de ipsius
             processerit voluntate.</p>

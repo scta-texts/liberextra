@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t11-Dd1e108">
           <head xml:id="cice-l3t11-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t11-d1e113">In universitatibus ecclesiasticis praevalet regulariter quod fit a maiori parte, nisi
-            minor pars rationabiliter contradicat H. d.</p>
+          <head xml:id="cice-l3t11-d1e113" type="question-title">In universitatibus ecclesiasticis praevalet regulariter quod fit a maiori parte, nisi
+            minor pars rationabiliter contradicat H. d.</head>
           <p xml:id="cice-l3t11-d1e116">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t11-d1e119">Quum in cunctis ecclesiis quod pluribus et sanioribus fratribus visum fuerit
             incunctanter debeat observari, grave nimis est et reprehensione dignissimum, quod per
@@ -76,7 +76,7 @@
         </div>
         <div xml:id="cice-l3t11-Dd1e123">
           <head xml:id="cice-l3t11-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t11-d1e128">Canonicus non interdicit ecclesiam, sed hoc facere debet episcopus cum capitulo.</p>
+          <head xml:id="cice-l3t11-d1e128" type="question-title">Canonicus non interdicit ecclesiam, sed hoc facere debet episcopus cum capitulo.</head>
           <p xml:id="cice-l3t11-d1e131">Coelestinus III. Claremontensi Episcopo.</p>
           <p xml:id="cice-l3t11-d1e134">Quaesivit †a nobis tuae diligentia probitatis, quid observare debeas, et apostolicae
             responsionis auctoritate statuere super eo, quod ecclesiam tuam quidam ex canonicis vel
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l3t11-Dd1e138">
           <head xml:id="cice-l3t11-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t11-d1e143">Communis ordinatio ecclesiae per contradictionem et appellationem eius, cuius non
-            interest, imepediri non debet. H. d. quoad titulum.</p>
+          <head xml:id="cice-l3t11-d1e143" type="question-title">Communis ordinatio ecclesiae per contradictionem et appellationem eius, cuius non
+            interest, imepediri non debet. H. d. quoad titulum.</head>
           <p xml:id="cice-l3t11-d1e146">Innocentius III. Augustensi Praeposito.</p>
           <p xml:id="cice-l3t11-d1e149">Ex ore sedentis †in throno procedebat gladius bis acutus. Hic est gladius Salomonis,
             qui secat utrimque, reddens unicuique quod suum est. Nos igitur, qui, licet immeriti,
@@ -215,8 +215,8 @@
         </div>
         <div xml:id="cice-l3t11-Dd1e153">
           <head xml:id="cice-l3t11-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t11-d1e158">Praelatus cum maiori parte capituli contradicente minori statuere potest quod ad
-            necessariam reperationem fabricae quilibet canonicus conferre teneatur.</p>
+          <head xml:id="cice-l3t11-d1e158" type="question-title">Praelatus cum maiori parte capituli contradicente minori statuere potest quod ad
+            necessariam reperationem fabricae quilibet canonicus conferre teneatur.</head>
           <p xml:id="cice-l3t11-d1e161">Idem.</p>
           <p xml:id="cice-l3t11-d1e164">Ex parte tua nobis fuit, frater archiepiscope, intimatum, quod ad restaurandam fabricam
             Rothomagensis ecclesiae tractatum communiter habuistis, te, frater archiepiscope,

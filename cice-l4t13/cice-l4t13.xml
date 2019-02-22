@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l4t13-Dd1e108">
           <head xml:id="cice-l4t13-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t13-d1e113">Affinitas, superveniens post matrimonium contractum, non solvit matrimonium, sed
+          <head xml:id="cice-l4t13-d1e113" type="question-title">Affinitas, superveniens post matrimonium contractum, non solvit matrimonium, sed
             exactionem debiti impedit, et crimen incestus inhabilitat quoad matrimonium
-            contrahendum.</p>
+            contrahendum.</head>
           <p xml:id="cice-l4t13-d1e116">Ex concilio apud Metiam.</p>
           <p xml:id="cice-l4t13-d1e119">Si quis cum filiastra sua scienter fornicatus fuerit, nec a matre debitum petere, nec
             filiam unquam habere potest uxorem; nec filiastra, nec ille ullo unquam tempore alii se
@@ -69,8 +69,8 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e123">
           <head xml:id="cice-l4t13-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t13-d1e128">Affinitas, superveniens per illicitum coitum, dissolvit sponsalia de futuro, sed non
-            matrimonium; et incestuosus contrahere non potest.</p>
+          <head xml:id="cice-l4t13-d1e128" type="question-title">Affinitas, superveniens per illicitum coitum, dissolvit sponsalia de futuro, sed non
+            matrimonium; et incestuosus contrahere non potest.</head>
           <p xml:id="cice-l4t13-d1e131">Alexander III. Pictaviensi Episcopo.</p>
           <p xml:id="cice-l4t13-d1e134">Veniens ad nos P. praesentium lator nobis fraternitatis tuae literas praesentavit, ex
             quarum tenore perpendimus, quod quandam duxerat in uxorem, quam quidam dissuaserunt ei
@@ -91,8 +91,8 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e138">
           <head xml:id="cice-l4t13-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t13-d1e143">Non separatur matrimonium ad dictum unius, asserentis, affinitatem inter coniuges
-            praecessisse.</p>
+          <head xml:id="cice-l4t13-d1e143" type="question-title">Non separatur matrimonium ad dictum unius, asserentis, affinitatem inter coniuges
+            praecessisse.</head>
           <p xml:id="cice-l4t13-d1e146">Idem.</p>
           <p xml:id="cice-l4t13-d1e149">De illo autem, qui uxorem fratris sui, antequam ei matrimonio iungeretur, se proposuit
             cognovisse, hoc tuae prudentiae respondemus, quod, nisi hoc publicum et notorium fuerit
@@ -104,9 +104,9 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e153">
           <head xml:id="cice-l4t13-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t13-d1e158">Incestuosus matrimonium contrahere non debet; sed, si contrahit, tenet. Et tunc tenetur
+          <head xml:id="cice-l4t13-d1e158" type="question-title">Incestuosus matrimonium contrahere non debet; sed, si contrahit, tenet. Et tunc tenetur
             reddere, sed non potest debitum exigere; et non minus tenetur uxori necessaria
-            administrare.</p>
+            administrare.</head>
           <p xml:id="cice-l4t13-d1e161">Coelestinus III.</p>
           <p xml:id="cice-l4t13-d1e164">Transmissae nobis tuae literae demonstrarunt, quod G. lator praesentium, uxore sua
             defuncta, filiam eius, privignam videlicet propriam, copula carnali cognovit; postmodum
@@ -121,8 +121,8 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e169">
           <head xml:id="cice-l4t13-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t13-d1e174">Non separatur matrimonium ad confessionem coniugum, qui dicunt affinitatem processisse,
-            etiamsi rumor viciniae consentiat. Et est casus multum allegabilis et notabilis.</p>
+          <head xml:id="cice-l4t13-d1e174" type="question-title">Non separatur matrimonium ad confessionem coniugum, qui dicunt affinitatem processisse,
+            etiamsi rumor viciniae consentiat. Et est casus multum allegabilis et notabilis.</head>
           <p xml:id="cice-l4t13-d1e177">Idem.</p>
           <p xml:id="cice-l4t13-d1e180">Super eo vero, quod postulas, utrum coniugatus, qui ante contractum matrimonium uxoris
             suae consanguineam vel propinquam carnali commixtione cognovit, quum id fateatur
@@ -138,7 +138,7 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e184">
           <head xml:id="cice-l4t13-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t13-d1e189">Affinitas superveniens non dissolvit sponsalia de praesenti.</p>
+          <head xml:id="cice-l4t13-d1e189" type="question-title">Affinitas superveniens non dissolvit sponsalia de praesenti.</head>
           <p xml:id="cice-l4t13-d1e192">Innocentius III. Praeposito Magdeburgensi.</p>
           <p xml:id="cice-l4t13-d1e195">Discretionem tuam in Domino commendamus, quod in his, quae dubia reputas vel obscura,
             sedem consulis apostolicam, ut in eis de cetero ipsius auctoritate procedas. Sane in
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e199">
           <head xml:id="cice-l4t13-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t13-d1e204">Copula carnalis, habita cum puella septem annorum, dirimit matrimonium postea
-            contractum cum consanguinea. H. d. secundum unum intellectum.</p>
+          <head xml:id="cice-l4t13-d1e204" type="question-title">Copula carnalis, habita cum puella septem annorum, dirimit matrimonium postea
+            contractum cum consanguinea. H. d. secundum unum intellectum.</head>
           <p xml:id="cice-l4t13-d1e207">Idem Bisuntinensi Archiepiscopo.</p>
           <p xml:id="cice-l4t13-d1e210">Fraternitati tuae super tribus capitulis sedem consulenti apostolicam, ad cuius
             consilium est in rebus dubiis a cunctis fidelibus recurrendum, scriptis praesentibus
@@ -178,8 +178,8 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e214">
           <head xml:id="cice-l4t13-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l4t13-d1e219">Affinitas, causata ex copula illicita, rumpit sponsalia praecedentia, et privat
-            facultate contrahendi matrimonium.</p>
+          <head xml:id="cice-l4t13-d1e219" type="question-title">Affinitas, causata ex copula illicita, rumpit sponsalia praecedentia, et privat
+            facultate contrahendi matrimonium.</head>
           <p xml:id="cice-l4t13-d1e222">Idem Episcopo Gerundensi.</p>
           <p xml:id="cice-l4t13-d1e225">Ex literis fraternitatis tuae accepimus, quod G. lator earum, matrem puellae, quam
             infra nubiles annos desponsaverat in uxorem, carnaliter saepe cognovit, et post carnali
@@ -196,7 +196,7 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e229">
           <head xml:id="cice-l4t13-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l4t13-d1e234">Idem quoad titulum dicit, quod decretalis supr. proxima.</p>
+          <head xml:id="cice-l4t13-d1e234" type="question-title">Idem quoad titulum dicit, quod decretalis supr. proxima.</head>
           <p xml:id="cice-l4t13-d1e237">Idem Archiepiscopo Magdeburgensi.</p>
           <p xml:id="cice-l4t13-d1e240">Veniens ad apostolicam sedem E. laicus, lator praesentium humili nobis confessione
             proposuit, quod, quum olim tempore infantiae suae de consilio amicorum quandam puellam
@@ -218,7 +218,7 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e244">
           <head xml:id="cice-l4t13-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l4t13-d1e249">Affinitas superveniens non dissolvit matrimonium.</p>
+          <head xml:id="cice-l4t13-d1e249" type="question-title">Affinitas superveniens non dissolvit matrimonium.</head>
           <p xml:id="cice-l4t13-d1e252">Idem Archiepiscopo Strigoniensi.</p>
           <p xml:id="cice-l4t13-d1e255">Tuae fraternitatis devotio postulavit per sedem apostolicam edoceri, utrum is, qui cum
             sorore legitimae coniugis fornicatur, cum uxore possit postmodum commorari, et exigere
@@ -234,7 +234,7 @@
         </div>
         <div xml:id="cice-l4t13-Dd1e260">
           <head xml:id="cice-l4t13-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l4t13-d1e265">Summatum est supr. capitulo proximo.</p>
+          <head xml:id="cice-l4t13-d1e265" type="question-title">Summatum est supr. capitulo proximo.</head>
           <p xml:id="cice-l4t13-d1e268">Gregorius IX. Episcopo Pictaviensi.</p>
           <p xml:id="cice-l4t13-d1e271">Iordanae mulieris petitio continebat, quod I. laicus cum ipsa, quae nondum decimum
             aetatis suae annum compleverat, per verba de futuro contraxit, et, ea infra eiusdem anni

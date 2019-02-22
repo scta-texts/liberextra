@@ -57,14 +57,14 @@
 
         <div xml:id="cice-l3t14-Dd1e108">
           <head xml:id="cice-l3t14-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t14-d1e113">Breve est, nec potest brevius summari.</p>
+          <head xml:id="cice-l3t14-d1e113" type="question-title">Breve est, nec potest brevius summari.</head>
           <p xml:id="cice-l3t14-d1e116">Ex concilio apud Belvacum.</p>
           <p xml:id="cice-l3t14-d1e119">Precariae de quinquennio in quinquennium secundum auctoritatem et antiquam
             consuetudinem renoventur.</p>
         </div>
         <div xml:id="cice-l3t14-Dd1e123">
           <head xml:id="cice-l3t14-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t14-d1e128">Revocat successor precariam per praedecessorem irrationabiliter factam.</p>
+          <head xml:id="cice-l3t14-d1e128" type="question-title">Revocat successor precariam per praedecessorem irrationabiliter factam.</head>
           <p xml:id="cice-l3t14-d1e131">Ex concilio Carthaginensi.</p>
           <p xml:id="cice-l3t14-d1e134">De precariis, irrationabiliter factis a rectoribus ecclesiarum, se suosque successores
             poena gravi obligantibus, ut facta ipsorum dissolvere nequeant, praecipimus, ut nemo
@@ -74,8 +74,8 @@
         </div>
         <div xml:id="cice-l3t14-Dd1e138">
           <head xml:id="cice-l3t14-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t14-d1e143">Concessio precarii extinguitur voluntate concedentis aut ei succedentis; precariae
-            autem concessio non.</p>
+          <head xml:id="cice-l3t14-d1e143" type="question-title">Concessio precarii extinguitur voluntate concedentis aut ei succedentis; precariae
+            autem concessio non.</head>
           <p xml:id="cice-l3t14-d1e146">Gregorius IX.</p>
           <p xml:id="cice-l3t14-d1e149">Precarium utendum conceditur, quamdiu patitur qui concessit. Solvitur quoque obitu
             eius, cui concessum est, non etiam concedentis; aut quum ipsum alienari contingit alicui

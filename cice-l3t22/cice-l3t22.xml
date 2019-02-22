@@ -57,14 +57,14 @@
 
         <div xml:id="cice-l3t22-Dd1e108">
           <head xml:id="cice-l3t22-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t22-d1e113">Breve est, nec potest brevius summari.</p>
+          <head xml:id="cice-l3t22-d1e113" type="question-title">Breve est, nec potest brevius summari.</head>
           <p xml:id="cice-l3t22-d1e116">Ex concilio Cantuariensi.</p>
           <p xml:id="cice-l3t22-d1e119">Clericus fideiussionibus inserviens abiiciatur.</p>
         </div>
         <div xml:id="cice-l3t22-Dd1e123">
           <head xml:id="cice-l3t22-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t22-d1e128">Compellitur clericus servare fideiussorem indemnem per assignationem redituum
-            suorum.</p>
+          <head xml:id="cice-l3t22-d1e128" type="question-title">Compellitur clericus servare fideiussorem indemnem per assignationem redituum
+            suorum.</head>
           <p xml:id="cice-l3t22-d1e131">Lucius III. Eliensi Episcopo et Archidiacono Norvicensi.</p>
           <p xml:id="cice-l3t22-d1e134">Pervenit ad nos ex transmissa nobis conquestione R. clerici de sancto Albano, quod,
             quum ipse pro C. et F. clericis Lundoniensibus ad eorum instantiam pro altero eorum
@@ -89,8 +89,8 @@
         </div>
         <div xml:id="cice-l3t22-Dd1e138">
           <head xml:id="cice-l3t22-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t22-d1e143">Per districtionem canonicam compellitur debitor a fideiussione absolvere fideiusssorem,
-            qui a creditoribus molestatur.</p>
+          <head xml:id="cice-l3t22-d1e143" type="question-title">Per districtionem canonicam compellitur debitor a fideiussione absolvere fideiusssorem,
+            qui a creditoribus molestatur.</head>
           <p xml:id="cice-l3t22-d1e146">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l3t22-d1e149">Constitutus in praesentia nostra dilectus filius noster magister S. sua nobis
             assertione monstravit, quod pro magistro P. Blesensi cancellario tuo tempore
@@ -116,9 +116,9 @@
         </div>
         <div xml:id="cice-l3t22-Dd1e153">
           <head xml:id="cice-l3t22-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t22-d1e158">Si sine licentia praelati et maioris partis capituli religiosus fideiusserit, vel
+          <head xml:id="cice-l3t22-d1e158" type="question-title">Si sine licentia praelati et maioris partis capituli religiosus fideiusserit, vel
             mutuum acceperit, non tenetur ecclesia, et ipse recipiens punitur, nisi mutuum sit
-            versum in utilitatem ecclesiae.</p>
+            versum in utilitatem ecclesiae.</head>
           <p xml:id="cice-l3t22-d1e161">Innocentius III. in concilio generali.</p>
           <p xml:id="cice-l3t22-d1e164">Quod quibusdam religiosis a sede apostolica est prohibitum, volumus et mandamus ad
             universos extendi, ne quis videlicet religiosus absque maioris partis capituli et
@@ -130,8 +130,8 @@
         </div>
         <div xml:id="cice-l3t22-Dd1e169">
           <head xml:id="cice-l3t22-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t22-d1e174">Ponit tres casus, in quibus fideiussor contra debitorem agit, antequam solvat, ut a
-            fideiussione liberetur.</p>
+          <head xml:id="cice-l3t22-d1e174" type="question-title">Ponit tres casus, in quibus fideiussor contra debitorem agit, antequam solvat, ut a
+            fideiussione liberetur.</head>
           <p xml:id="cice-l3t22-d1e177">Gregorius IX.</p>
           <p xml:id="cice-l3t22-d1e180">Eum, pro quo te fideiussorem obligasti, si diu in debiti solutione cessavit, aut
             dissipare bona sua coepit, seu super hoc condemnatus fuisti, iure poteris convenire, ut

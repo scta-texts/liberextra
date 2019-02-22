@@ -57,8 +57,8 @@
         <div xml:id="cice-l2t9-Dd1e108">
           <head xml:id="cice-l2t9-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l2t9-d1e113">Diebus dominicis mercari, litigari, iudicari, vel iurari non debet, sed de vespera in
-            vesperam debent celebrari.</p>
+          <head xml:id="cice-l2t9-d1e113" type="question-title">Diebus dominicis mercari, litigari, iudicari, vel iurari non debet, sed de vespera in
+            vesperam debent celebrari.</head>
           <p xml:id="cice-l2t9-d1e116">Ex concilio apud Compendium.</p>
           <p xml:id="cice-l2t9-d1e119">Omnes dies dominicos a vespera in vesperam cum omni veneratione decernimus observari,
             et ab omni illicito opere abstinere, ut in eis mercatum minime fiat, neque placitum,
@@ -67,12 +67,12 @@
         </div>
         <div xml:id="cice-l2t9-Dd1e123">
           <head xml:id="cice-l2t9-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t9-d1e128">Festorum principium et finis fieri debet secundum ipsorum magnitudinem et consuetudinem
+          <head xml:id="cice-l2t9-d1e128" type="question-title">Festorum principium et finis fieri debet secundum ipsorum magnitudinem et consuetudinem
             regionis. Hoc primo. In praecipuis festis et intra Pascha et Pentecosten non fit
             solennis genuum flexio. Si tamen tunc clerici vel episcopi ordinentur, secundum
             ordinationis modum genua flectuntur. Hoc secundo. Romana ecclesia speciale festum de
             Trinitate non facit; servatur tamen de hoc cuiusque ecclesiae consuetudo. Hoc
-            tertio.</p>
+            tertio.</head>
           <p xml:id="cice-l2t9-d1e131">Alexander III.</p>
           <p xml:id="cice-l2t9-d1e134">Quoniam in parte (Et infra:) Vestram volumus prudentiam certa cognitione tenere,
             quoniam, Licet scriptum sit, de vespera in vesperam celebrabitis sabbata vestra,
@@ -93,8 +93,8 @@
         </div>
         <div xml:id="cice-l2t9-Dd1e138">
           <head xml:id="cice-l2t9-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t9-d1e143">Propter necessitatem alimentorum licet diebus feriatis in honorem Dei operi servili
-            intendere, maxime circa rem tempore perituram. H. d.</p>
+          <head xml:id="cice-l2t9-d1e143" type="question-title">Propter necessitatem alimentorum licet diebus feriatis in honorem Dei operi servili
+            intendere, maxime circa rem tempore perituram. H. d.</head>
           <p xml:id="cice-l2t9-d1e146">Idem Triburiensi Archiepiscopo.</p>
           <p xml:id="cice-l2t9-d1e149">Licet tam veteris quam novi testamenti pagina septimum diem ad humanam quietem
             specialiter deputaverit, et tam eum quam alios dies maiestati altissimae deputatos, nec
@@ -117,9 +117,9 @@
         </div>
         <div xml:id="cice-l2t9-Dd1e153">
           <head xml:id="cice-l2t9-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t9-d1e158">Tres septimanae, quibus canon prohibet fieri nuptias ante festum Ioannis Baptistae, non
+          <head xml:id="cice-l2t9-d1e158" type="question-title">Tres septimanae, quibus canon prohibet fieri nuptias ante festum Ioannis Baptistae, non
             continuantur festo, sed intelligitur de septimana Ascensionis cum duabus
-            sequentibus.</p>
+            sequentibus.</head>
           <p xml:id="cice-l2t9-d1e161">Clemens III. alias Coelestinus.</p>
           <p xml:id="cice-l2t9-d1e164">Capellanus tuus, frater episcope, coram nobis ex parte tua proposuit, quod, quum
             statuta canonica declarent nuptias tribus septimanis ante festum Nativitatis B. Ioannis
@@ -142,9 +142,9 @@
         </div>
         <div xml:id="cice-l2t9-Dd1e169">
           <head xml:id="cice-l2t9-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t9-d1e174">In feriis introductis in honorem Dei et sanctorum, nisi ob necessitatem vel pietatem,
+          <head xml:id="cice-l2t9-d1e174" type="question-title">In feriis introductis in honorem Dei et sanctorum, nisi ob necessitatem vel pietatem,
             iudicium exerceri non potest, etiam de consensu partium; feriis tamen introductis favore
-            hominum partes renunciare possunt.</p>
+            hominum partes renunciare possunt.</head>
           <p xml:id="cice-l2t9-d1e177">Gregorius IX.</p>
           <p xml:id="cice-l2t9-d1e180">Conquestus est nobis (Et infra:) Quamvis non prorogari, sed expediri deceat
             quaestiones, debet tamen iudicialis strepitus diebus conquiescere feriatis, qui ob

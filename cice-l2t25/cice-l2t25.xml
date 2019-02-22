@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l2t25-Dd1e108">
           <head xml:id="cice-l2t25-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t25-d1e113">Si testis de crimine contra eum excepto convincitur, vel alias convictus apparet,
+          <head xml:id="cice-l2t25-d1e113" type="question-title">Si testis de crimine contra eum excepto convincitur, vel alias convictus apparet,
             repellitur a testimonio; sed de crimine non punitur, si non tangit negotium
-            principale.</p>
+            principale.</head>
           <p xml:id="cice-l2t25-d1e116">Coelestinus III.</p>
           <p xml:id="cice-l2t25-d1e119">Denique, quod in dicta et personas testium, †quibus ante iuramentum vel depositiones
             nihil obiectum fuit, post attestationes publicatas possit opponi, hoc in Romana ecclesia
@@ -80,8 +80,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e123">
           <head xml:id="cice-l2t25-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t25-d1e128">Reo excipiente de excommunicatione contra actorem, non obstat communionis
-            replicatio.</p>
+          <head xml:id="cice-l2t25-d1e128" type="question-title">Reo excipiente de excommunicatione contra actorem, non obstat communionis
+            replicatio.</head>
           <p xml:id="cice-l2t25-d1e131">Innocentius III. Archidiacono Richemundiae.</p>
           <p xml:id="cice-l2t25-d1e134">A nobis ex parte tua fuit quaesitum, utrum is, qui excommunicato in locutione vel
             oratione scienter communicat, excommunicatum ipsum a sua possit accusatione repellere,
@@ -92,7 +92,7 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e138">
           <head xml:id="cice-l2t25-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t25-d1e143">Habens plura beneficia contra alium de pluralitate non excipit. H. d. Ioan. Andr.</p>
+          <head xml:id="cice-l2t25-d1e143" type="question-title">Habens plura beneficia contra alium de pluralitate non excipit. H. d. Ioan. Andr.</head>
           <p xml:id="cice-l2t25-d1e146">Idem Audicensi Episcopo.</p>
           <p xml:id="cice-l2t25-d1e149">Quum ecclesiasticae provisionis officium, †[ad quod sumus, licet immeriti, Domino
             disponente vocati, nos iuxta verbum Apostoli sapientibus et insipientibus constituerit
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e153">
           <head xml:id="cice-l2t25-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t25-d1e158">Iudex statuere debet terminum ad omnes dilatorias proponendas, post quem excipientem
-            non audiet, nisi in tribus casibus hic exceptis.</p>
+          <head xml:id="cice-l2t25-d1e158" type="question-title">Iudex statuere debet terminum ad omnes dilatorias proponendas, post quem excipientem
+            non audiet, nisi in tribus casibus hic exceptis.</head>
           <p xml:id="cice-l2t25-d1e161">Idem Episcopi Heliensi.</p>
           <p xml:id="cice-l2t25-d1e164">Pastoralis (Et infra: [cf. c. 28. de off. iud. del. I. 29.]) Quoniam autem per
             dilatorias exceptiones malitiose nonnunquam causarum terminatio prorogatur, inquisitioni
@@ -180,8 +180,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e169">
           <head xml:id="cice-l2t25-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t25-d1e174">Excommunicatus excipere, appellare, et omnem defensionem facere potest; sed reconvenire
-            non potest.</p>
+          <head xml:id="cice-l2t25-d1e174" type="question-title">Excommunicatus excipere, appellare, et omnem defensionem facere potest; sed reconvenire
+            non potest.</head>
           <p xml:id="cice-l2t25-d1e177">Idem Monachis Farsensibus.</p>
           <p xml:id="cice-l2t25-d1e180">Quum inter dilectos filios priorem et conventum de Argentolio ex parte una, et nobilem
             virum S. de Malileone dioecesis Pictaviensis ex altera super damnis et aliis coram vobis
@@ -206,8 +206,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e184">
           <head xml:id="cice-l2t25-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t25-d1e189">Excipiens non videtur fateri ea, quae in exceptione includuntur, et exceptio falsi
-            potest etiam post sententiam opponi.</p>
+          <head xml:id="cice-l2t25-d1e189" type="question-title">Excipiens non videtur fateri ea, quae in exceptione includuntur, et exceptio falsi
+            potest etiam post sententiam opponi.</head>
           <p xml:id="cice-l2t25-d1e192">Idem. Monachis Farsensibus.</p>
           <p xml:id="cice-l2t25-d1e195">Quum venerabilis frater noster I. Sabinensis episcopus coram dilectis filiis nostris R.
             tituli S. Anastasiae presbytero, et P. sanctae Luciae ad septa solis diacono cardinali,
@@ -278,10 +278,10 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e199">
           <head xml:id="cice-l2t25-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t25-d1e204">Si exceptio iurisdictionis exclusiva, propter quam fuit appellatum, probatur vera,
+          <head xml:id="cice-l2t25-d1e204" type="question-title">Si exceptio iurisdictionis exclusiva, propter quam fuit appellatum, probatur vera,
             iudex appellationis non debet de principali cognoscere, sed supersedere. H. d.
             intelligendo, quod isti erant iudices appellationis, et est notabilis intellectus.
-            Panorm.</p>
+            Panorm.</head>
           <p xml:id="cice-l2t25-d1e207">Honorius III. Abbati S. Huberti et sancti Martini Leodiensis.</p>
           <p xml:id="cice-l2t25-d1e210">Olim †nostris fuit auribus intimatum, quod, quum felicis recordationis Innocentius Papa
             praedecessor noster mandavisset venerabili fratri nostro archiepiscopo Treverensi, ut
@@ -350,9 +350,9 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e214">
           <head xml:id="cice-l2t25-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t25-d1e219">Pro defensione suae ecclesiae potest quis opponere exceptionem excommunicationis,
+          <head xml:id="cice-l2t25-d1e219" type="question-title">Pro defensione suae ecclesiae potest quis opponere exceptionem excommunicationis,
             periurii, vel aliam legitimam exceptionem, nec per replicationem excommunicationis vel
-            periurii repelli potest.</p>
+            periurii repelli potest.</head>
           <p xml:id="cice-l2t25-d1e222">Idem Archidiacono Translig. et Officiali, et I. Canonico Turonensi.</p>
           <p xml:id="cice-l2t25-d1e225">Dilecti filii S. et P. ac G. canonici ecclesiae sanctae Mariae Gratiacensis transmissa
             nobis petitione monstrarunt, quod, quum M. canonicus eiusdem ecclesiae Bituricensis
@@ -379,8 +379,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e229">
           <head xml:id="cice-l2t25-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t25-d1e234">Si per exceptionem suspensionis, contra quam replicatur de nullitate, ordinatio
-            ecclesiae retardatur, fit absolutio ad cautelam.</p>
+          <head xml:id="cice-l2t25-d1e234" type="question-title">Si per exceptionem suspensionis, contra quam replicatur de nullitate, ordinatio
+            ecclesiae retardatur, fit absolutio ad cautelam.</head>
           <p xml:id="cice-l2t25-d1e237">Gregorius IX. I. et M. Canonicis Pragensibus.</p>
           <p xml:id="cice-l2t25-d1e240">Apostolicae sedis (Et infra:) Sane vobis apud sedem apostolicam constitutis quaedam
             suspensionis et amotionis a beneficiis sententiae fuerunt in modum exceptionis obectae.
@@ -391,11 +391,11 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e244">
           <head xml:id="cice-l2t25-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t25-d1e249">Excommunicationis exceptione non obstante, valet rescriptum impetratum in causa
+          <head xml:id="cice-l2t25-d1e249" type="question-title">Excommunicationis exceptione non obstante, valet rescriptum impetratum in causa
             appellationis, licet de excommunicatione lata post appellationem a gravamine non faciat
             mentionem. Hoc dicit, et secundum hoc est casus notabilis et singularis, per quem forte
             posset colligi una regula, quod de innovato post appellationem etiam ab interlocutoria
-            non est necesse in rescripto facere mentionem. Panorm.</p>
+            non est necesse in rescripto facere mentionem. Panorm.</head>
           <p xml:id="cice-l2t25-d1e252">Idem Decano Linconiensi.</p>
           <p xml:id="cice-l2t25-d1e255">Dilectae in Christo filiae priorissa et conventus de Campessia nobis significare
             curarunt, quod, quum inter ipsas ex una parte, et priorem et conventum de Buccelleia ex
@@ -420,8 +420,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e260">
           <head xml:id="cice-l2t25-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t25-d1e265">Per exceptionem excommunicationis a prosecutione appellationis etiam originalis actor
-            repelli non debet. H. d. et est casus singularis, quatenus dicit de actore.</p>
+          <head xml:id="cice-l2t25-d1e265" type="question-title">Per exceptionem excommunicationis a prosecutione appellationis etiam originalis actor
+            repelli non debet. H. d. et est casus singularis, quatenus dicit de actore.</head>
           <p xml:id="cice-l2t25-d1e268">Idem Abbati sancti Salvatoris Papiensis et Vercellensi Praeposito.</p>
           <p xml:id="cice-l2t25-d1e271">Significaverunt nobis capitulum de Tornacens., quod, quum P. in suum archipresbyterum
             elegissent, Mediolanensis archiepiscopus praesentatam sibi electionem renuens
@@ -440,9 +440,9 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e275">
           <head xml:id="cice-l2t25-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t25-d1e280">Reus in qualibet parte litis excommunicationem contra actorem obiiciens auditur, et, si
+          <head xml:id="cice-l2t25-d1e280" type="question-title">Reus in qualibet parte litis excommunicationem contra actorem obiiciens auditur, et, si
             malitiose distulerit, in expensis condemnatur, et dato, quod non excipiat, ipse iudex
-            publice excommunicatum repellet.</p>
+            publice excommunicatum repellet.</head>
           <p xml:id="cice-l2t25-d1e283">Idem.</p>
           <p xml:id="cice-l2t25-d1e286">Exceptionem excommunicationis in dilatoriis proponendis reus scienter omittens; in
             qualibet parte litis opponere minime prohibetur, quod est in hac exceptione specialiter
@@ -453,7 +453,7 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e290">
           <head xml:id="cice-l2t25-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t25-d1e295">Non competit exceptio rei iudicatae reo absoluto, quia non possidebat.</p>
+          <head xml:id="cice-l2t25-d1e295" type="question-title">Non competit exceptio rei iudicatae reo absoluto, quia non possidebat.</head>
           <p xml:id="cice-l2t25-d1e298">Idem.</p>
           <p xml:id="cice-l2t25-d1e301">Adversario tuo per iudicem absoluto, quoniam tempore motae litis rem petitam ab ipso
             sine dolo desierat possidere, si eam modo possideat, tibi petenti denuo rei iudicatae
@@ -461,8 +461,8 @@
         </div>
         <div xml:id="cice-l2t25-Dd1e305">
           <head xml:id="cice-l2t25-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t25-d1e310">Valet rescriptum impetratum ab excommunicato super prosecutione appellationis, licet de
-            excommunicatione non fecerit mentionem.</p>
+          <head xml:id="cice-l2t25-d1e310" type="question-title">Valet rescriptum impetratum ab excommunicato super prosecutione appellationis, licet de
+            excommunicatione non fecerit mentionem.</head>
           <p xml:id="cice-l2t25-d1e313">Idem.</p>
           <p xml:id="cice-l2t25-d1e316">Venerabilem fratrem nostrum archiepiscopum Narbonensem, qui a iudicibus ex sufficienti
             gravamine ad apostolicam sedem appellans ad vos super appellatione sua nostras literas

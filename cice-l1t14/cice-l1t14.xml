@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t14-Dd1e108">
           <head xml:id="cice-l1t14-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t14-d1e113">Non summatur.</p>
+          <head xml:id="cice-l1t14-d1e113" type="question-title">Non summatur.</head>
           <p xml:id="cice-l1t14-d1e116">Ex concilio Pictaviensi.</p>
           <p xml:id="cice-l1t14-d1e119">Ut abbates et decani et praepositi, qui presbyteri non sunt, presbyteri fiant, aut
             praelationes amittant; qui archidiaconatus tenent, diaconi fiant, qui vero
@@ -66,8 +66,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e123">
           <head xml:id="cice-l1t14-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t14-d1e128">Ecclesia dispensative minori concessa non per laicos, sed per clericos regi debet,
-            donec ille perveniat ad aetatem.</p>
+          <head xml:id="cice-l1t14-d1e128" type="question-title">Ecclesia dispensative minori concessa non per laicos, sed per clericos regi debet,
+            donec ille perveniat ad aetatem.</head>
           <p xml:id="cice-l1t14-d1e131">Alexander III. Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l1t14-d1e134">Ex ratione †commissae tibi dignitatis et consideratione legationis ad universas
             ecclesias tuae legationis aciem sollicitudinis tuae debes extendere, et quae enormiter
@@ -90,7 +90,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e138">
           <head xml:id="cice-l1t14-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t14-d1e143">Regimen ecclesiae minori XIV. annis committi non debet.</p>
+          <head xml:id="cice-l1t14-d1e143" type="question-title">Regimen ecclesiae minori XIV. annis committi non debet.</head>
           <p xml:id="cice-l1t14-d1e146">Idem Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l1t14-d1e149">Indecorum est admodum et absurdum, ut hi debeant ecclesias regere, qui non noverunt
             gubernare se ipsos, quum ad ecclesiarum regimen tales personae sint admittendae, quae
@@ -105,8 +105,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e153">
           <head xml:id="cice-l1t14-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t14-d1e158">Ad regimen ecclesiarum non debet institui indignus scientia, moribus, vel aetate, et
-            qui habet duas ecclesias, alteram dimittere cogitur, nisi causa subsit.</p>
+          <head xml:id="cice-l1t14-d1e158" type="question-title">Ad regimen ecclesiarum non debet institui indignus scientia, moribus, vel aetate, et
+            qui habet duas ecclesias, alteram dimittere cogitur, nisi causa subsit.</head>
           <p xml:id="cice-l1t14-d1e161">Idem.</p>
           <p xml:id="cice-l1t14-d1e164">Eam te decet †in ordinandis ecclesiis tuae dioecesis curam habere, ne ullus in eis
             contra decreta, quae in Lateranensi concilio edidimus, vel etiam contra antiquas
@@ -123,8 +123,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e169">
           <head xml:id="cice-l1t14-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t14-d1e174">Is, qui nondum est in sacris, si alias est idoneus, ad regimen parochialis ecclesiae
-            dispensative potest assumi.</p>
+          <head xml:id="cice-l1t14-d1e174" type="question-title">Is, qui nondum est in sacris, si alias est idoneus, ad regimen parochialis ecclesiae
+            dispensative potest assumi.</head>
           <p xml:id="cice-l1t14-d1e177">Idem.</p>
           <p xml:id="cice-l1t14-d1e180">Praeterea licet ad regimen parochialis ecclesiae non debeat aliquis, nisi subdiaconus
             sit ad minus, admitti, dispensative tamen in minoribus ordinibus constituti consueverunt
@@ -133,8 +133,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e184">
           <head xml:id="cice-l1t14-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t14-d1e189">Propter necessitatem et utilitatem ecclesiae compelluntur clerici ipsius recipere
-            ordines, suis beneficiis non annexos.</p>
+          <head xml:id="cice-l1t14-d1e189" type="question-title">Propter necessitatem et utilitatem ecclesiae compelluntur clerici ipsius recipere
+            ordines, suis beneficiis non annexos.</head>
           <p xml:id="cice-l1t14-d1e192">Idem.</p>
           <p xml:id="cice-l1t14-d1e195">Quaeris a nobis, quid agendum sit de clericis tuae iurisdictioni commissis, qui, quum
             beneficiis ecclesiasticis multis abundent, a te commoniti nolunt ad maiores ordines
@@ -153,8 +153,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e199">
           <head xml:id="cice-l1t14-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t14-d1e204">Eventus mortalitatis infirmi non impedit promoveri eius medicum peritum, sollicitum et
-            traditiones artis observantem.</p>
+          <head xml:id="cice-l1t14-d1e204" type="question-title">Eventus mortalitatis infirmi non impedit promoveri eius medicum peritum, sollicitum et
+            traditiones artis observantem.</head>
           <p xml:id="cice-l1t14-d1e207">Clemens III. R. Coloniensi Canonico.</p>
           <p xml:id="cice-l1t14-d1e210">Ad aures nostras te significante pervenit, quod, quum in arte physica eruditus sis,
             pluribus iuxta ipsius artis traditionem exhibuisti cum diligentia medicinam, licet
@@ -166,8 +166,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e214">
           <head xml:id="cice-l1t14-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t14-d1e219">Qui steterit per annum in suspensione, privatur beneficio, quod prius habebat, et quod
-            interim acquisivit.</p>
+          <head xml:id="cice-l1t14-d1e219" type="question-title">Qui steterit per annum in suspensione, privatur beneficio, quod prius habebat, et quod
+            interim acquisivit.</head>
           <p xml:id="cice-l1t14-d1e222">Coelestinus III.</p>
           <p xml:id="cice-l1t14-d1e225">Quum bonae memoriae Clemens Papa praedecessor noster I. Buccarum, Melearum, Maium
             Raofacam, et quosdam alios Baranenses clericos vocavisset, ut ad praesentiam ipsius
@@ -184,7 +184,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e229">
           <head xml:id="cice-l1t14-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t14-d1e234">Subdiaconus in episcopum eligi potest.</p>
+          <head xml:id="cice-l1t14-d1e234" type="question-title">Subdiaconus in episcopum eligi potest.</head>
           <p xml:id="cice-l1t14-d1e237">Innocentius III.</p>
           <p xml:id="cice-l1t14-d1e240">A multis multotiens, an subdiaconus in episcopum eligi valeat, haesitatur. Siquidem
             Urbanus Papa primus decrevit, ut nullus in episcopum, nisi in sacris ordinibus et
@@ -212,7 +212,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e244">
           <head xml:id="cice-l1t14-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t14-d1e249">Irregularis et in minoribus potest dispensative in abbatem institui.</p>
+          <head xml:id="cice-l1t14-d1e249" type="question-title">Irregularis et in minoribus potest dispensative in abbatem institui.</head>
           <p xml:id="cice-l1t14-d1e252">Idem tit. S. Crucis Presbytero cardinali.</p>
           <p xml:id="cice-l1t14-d1e255">Tuam in Domino diligentiam commendamus, quam super monasterio sancti Quirici reformando
             dignosceris adhibere. Devotioni tuae praesentium auctoritate Mandamus, quatenus, si non
@@ -227,7 +227,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e260">
           <head xml:id="cice-l1t14-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t14-d1e265">Abbas, si est presbyter, et est benedictus, conferre potest ordinem clericalem.</p>
+          <head xml:id="cice-l1t14-d1e265" type="question-title">Abbas, si est presbyter, et est benedictus, conferre potest ordinem clericalem.</head>
           <p xml:id="cice-l1t14-d1e268">Idem Rothomagensi Archiepiscopo.</p>
           <p xml:id="cice-l1t14-d1e271">Quum contingat interdum, quod laici ad monasteria convolantes a suis abbatibus
             tonsurentur, apostolicae sedis oraculum requisisti, an clericatus ordo in tonsura
@@ -240,8 +240,8 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e275">
           <head xml:id="cice-l1t14-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t14-d1e280">Si canonicus regularis factus monachus, iusta de causa ad canoniam reversus, ubi postea
-            praeficiatur, licite tenere poterit praelaturam.</p>
+          <head xml:id="cice-l1t14-d1e280" type="question-title">Si canonicus regularis factus monachus, iusta de causa ad canoniam reversus, ubi postea
+            praeficiatur, licite tenere poterit praelaturam.</head>
           <p xml:id="cice-l1t14-d1e283">Idem.</p>
           <p xml:id="cice-l1t14-d1e286">Intelleximus, quod, quum ante, quam esses assumptus ad regimen abbatiae, in monasterio
             tuo fueris laudabiliter conversatus, ad monasterium sancti Innocentii talis ordinis
@@ -260,7 +260,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e290">
           <head xml:id="cice-l1t14-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t14-d1e295">Ordinatus ad sacros sine titulo, ab ordinatore iuste petit beneficium.</p>
+          <head xml:id="cice-l1t14-d1e295" type="question-title">Ordinatus ad sacros sine titulo, ab ordinatore iuste petit beneficium.</head>
           <p xml:id="cice-l1t14-d1e298">Idem.</p>
           <p xml:id="cice-l1t14-d1e301">Accepimus te nostris auribus intimante, quod quidam clerici, qui ad sacros ordines sine
             titulo sunt promoti, te ad ecclesiam Bracharensem super beneficiis obtinendis infestant,
@@ -295,7 +295,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e305">
           <head xml:id="cice-l1t14-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t14-d1e310">Minus idoneus in sacerdotem promoveri vel ad regimen animarum assumi non debet.</p>
+          <head xml:id="cice-l1t14-d1e310" type="question-title">Minus idoneus in sacerdotem promoveri vel ad regimen animarum assumi non debet.</head>
           <p xml:id="cice-l1t14-d1e313">Idem in concilio generali.</p>
           <p xml:id="cice-l1t14-d1e316">Quum sit ars artium regimen animarum, districte praecipimus, ut episcopi promovendos in
             sacerdotes diligenter instruant et informent, vel per se ipsos, vel per alios idoneos
@@ -307,7 +307,7 @@
         </div>
         <div xml:id="cice-l1t14-Dd1e320">
           <head xml:id="cice-l1t14-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t14-d1e325">Defectus scientiae deiicit iam promotum.</p>
+          <head xml:id="cice-l1t14-d1e325" type="question-title">Defectus scientiae deiicit iam promotum.</head>
           <p xml:id="cice-l1t14-d1e328">Honorius III. Capitulo Bremensi.</p>
           <p xml:id="cice-l1t14-d1e331">Quamvis multa proposita fuerint contra venerabilem fratrem nostrum episcopum
             Calinensem, etsi nihil probatum esset de illis, quia tamen confessus est coram nobis, se

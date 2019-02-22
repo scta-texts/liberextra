@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l2t27-Dd1e108">
           <head xml:id="cice-l2t27-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t27-d1e113">Sententia lata contra leges vel canones non tenet, nec ab ea opus est appellare.
-            Panorm.</p>
-          <p xml:id="cice-l2t27-d1e116">Gregorius.</p>
+          <head xml:id="cice-l2t27-d1e113" type="question-title">Sententia lata contra leges vel canones non tenet, nec ab ea opus est appellare.
+            Panorm.</head>
+          <head xml:id="cice-l2t27-d1e116" type="question-title">Gregorius.</head>
           <p xml:id="cice-l2t27-d1e119">Sententia contra leges canonesve prolata, licet non sit appellatione suspensa, non
             potest tamen subsistere ipso iure. Postquam tamen ex abundanti, et appellalionem tibi
             constat esse porrectam, mirati sumus, cur nec homines, qui tui iuris potuissent rationem
@@ -67,50 +67,50 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e123">
           <head xml:id="cice-l2t27-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t27-d1e128">Lites debent celeriter terminari.</p>
-          <p xml:id="cice-l2t27-d1e131">Idem.</p>
+          <head xml:id="cice-l2t27-d1e128" type="question-title">Lites debent celeriter terminari.</head>
+          <head xml:id="cice-l2t27-d1e131" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e134">Iurgantium controversias celeri sententia terminare et aequitati [proculdubio] convenit
             et rigori. [Quia ergo etc.]</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e138">
           <head xml:id="cice-l2t27-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t27-d1e143">Sacerdos sine iusta causa non est deponendus.</p>
-          <p xml:id="cice-l2t27-d1e146">Idem.</p>
+          <head xml:id="cice-l2t27-d1e143" type="question-title">Sacerdos sine iusta causa non est deponendus.</head>
+          <head xml:id="cice-l2t27-d1e146" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e149">Non potest quemquam a sacerdotali gradu, nisi iustis ex causis, concors sacerdotum
             sententia submovere. [Hortamur etc.]</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e153">
           <head xml:id="cice-l2t27-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t27-d1e158">Iuste quis petit sententiam a Papa confirmari, si iuste et rationabiliter fuit
-            lata.</p>
-          <p xml:id="cice-l2t27-d1e161">Leo Papa.</p>
+          <head xml:id="cice-l2t27-d1e158" type="question-title">Iuste quis petit sententiam a Papa confirmari, si iuste et rationabiliter fuit
+            lata.</head>
+          <head xml:id="cice-l2t27-d1e161" type="question-title">Leo Papa.</head>
           <p xml:id="cice-l2t27-d1e164">Ea, quae iuxta ecclesiasticum morem iuste et rationabiliter fuerint diffinita, nostra
             quoque sententia roborentur. [Dat. IV. Aug. c. a. 446.]</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e169">
           <head xml:id="cice-l2t27-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t27-d1e174">Iudex deputatus super exsecutione sententiae, admittit exceptionem fraudis seu
+          <head xml:id="cice-l2t27-d1e174" type="question-title">Iudex deputatus super exsecutione sententiae, admittit exceptionem fraudis seu
             nullitatis sententiae, non ad effectum, ut super ea pronunciet, sed ut negotium ad
             superiorem, qui iudicavit, transmittat, si illam probabilem repererit. H. d.
-            notabiliter.</p>
-          <p xml:id="cice-l2t27-d1e177">Alexander III. Eboracensi Archiepiscopo.</p>
+            notabiliter.</head>
+          <head xml:id="cice-l2t27-d1e177" type="question-title">Alexander III. Eboracensi Archiepiscopo.</head>
           <p xml:id="cice-l2t27-d1e180">De cetero noveris, quod, si sententiam a nobis latam praecipimus per aliquem executioni
             mandari, et fraus intervenerit, non est facultas exsecutori de toto negotio cognoscendi,
             sed deferri quaestiones, quae inciderint, ad sedem apostolicam oportebit.</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e184">
           <head xml:id="cice-l2t27-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t27-d1e189">Non sufficit reo damnato ad traditionem possessionis tradero pignus pro ipsa
-            possessione.</p>
-          <p xml:id="cice-l2t27-d1e192">Idem Norvicensi Episcopo.</p>
+          <head xml:id="cice-l2t27-d1e189" type="question-title">Non sufficit reo damnato ad traditionem possessionis tradero pignus pro ipsa
+            possessione.</head>
+          <head xml:id="cice-l2t27-d1e192" type="question-title">Idem Norvicensi Episcopo.</head>
           <p xml:id="cice-l2t27-d1e195">Quum aliquibus est adiudicata possessio, non sufficit eis dari pignora, nisi corporali
             possessione laetentur.</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e199">
           <head xml:id="cice-l2t27-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t27-d1e204">Sententia lata contra matrinionium nunquam transit in rem iudicatam; unde quandocunque
-            revocatur, quum constat de errore.</p>
-          <p xml:id="cice-l2t27-d1e207">Idem eidem et V. Archidiacono.</p>
+          <head xml:id="cice-l2t27-d1e204" type="question-title">Sententia lata contra matrinionium nunquam transit in rem iudicatam; unde quandocunque
+            revocatur, quum constat de errore.</head>
+          <head xml:id="cice-l2t27-d1e207" type="question-title">Idem eidem et V. Archidiacono.</head>
           <p xml:id="cice-l2t27-d1e210">Lator praesentium W. parochianus vester sua nobis insinuatione monstravit, quod, quum
             in facie ecclesiae quandam mulierem viduam A. nomine legitime desponsasset, et carnalis
             esset copula subsecuta, inter eos scandalum est subortum, cuius occasione praedictus vir
@@ -126,8 +126,8 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e214">
           <head xml:id="cice-l2t27-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t27-d1e219">Retractatur sententia praetextu iniquae consuetudinis lata contra ecclesiam.</p>
-          <p xml:id="cice-l2t27-d1e222">Idem T. et Clericis S. Anastasiae Veronensis.</p>
+          <head xml:id="cice-l2t27-d1e219" type="question-title">Retractatur sententia praetextu iniquae consuetudinis lata contra ecclesiam.</head>
+          <head xml:id="cice-l2t27-d1e222" type="question-title">Idem T. et Clericis S. Anastasiae Veronensis.</head>
           <p xml:id="cice-l2t27-d1e225">Quum causa, quae vertitur inter vos, et G. et A. laicos super domo quadam eis ab
             archipresbytero vestro vendita, ad examen dilecti filii nostri I. basilicae XII.
             Apostolorum presbyteri cardinalis, tunc apostolicae sedis legati delata fuisset, post
@@ -145,19 +145,19 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e229">
           <head xml:id="cice-l2t27-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t27-d1e234">Sententia iniqua retractatur per superiorem; licet causa fuerit appellatione remota
+          <head xml:id="cice-l2t27-d1e234" type="question-title">Sententia iniqua retractatur per superiorem; licet causa fuerit appellatione remota
             commissa. Si autem continet manifestam iniquitatem, est nulla. H. d. intelligendo, quod
-            ponat duos casus.</p>
-          <p xml:id="cice-l2t27-d1e237">Idem Eboracensi Archiepiscopo.</p>
+            ponat duos casus.</head>
+          <head xml:id="cice-l2t27-d1e237" type="question-title">Idem Eboracensi Archiepiscopo.</head>
           <p xml:id="cice-l2t27-d1e240">Inter ceteras (Et infra: [cf. c. 2. de off. iud. del. I. 29.]) Item quum aliqua causa
             appellatione remota committitur, et sententia fertur iniqua, eam evacuari oportet, nec
             ei debet stari, si iniquitatem contineat manifestam.</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e244">
           <head xml:id="cice-l2t27-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t27-d1e249">Sententia lata contra absentem non contumacem in causa matrimoniali non valet. H. d.
-            intelligendo, qnod haec mulier non fait contumax. Panorm.</p>
-          <p xml:id="cice-l2t27-d1e252">Clemens III.</p>
+          <head xml:id="cice-l2t27-d1e249" type="question-title">Sententia lata contra absentem non contumacem in causa matrimoniali non valet. H. d.
+            intelligendo, qnod haec mulier non fait contumax. Panorm.</head>
+          <head xml:id="cice-l2t27-d1e252" type="question-title">Clemens III.</head>
           <p xml:id="cice-l2t27-d1e255">Tenor literarum tuarum nobis transmissus ostendit, quod, quum in archipresbyteratu
             sancti Germani inter R. et M. mulierem quaestio matrimonii verteretur, et venerabili
             fratri nostro Theatino episcopo commissa fuisset, quia, terra illa tunc pro regis morte
@@ -184,10 +184,10 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e260">
           <head xml:id="cice-l2t27-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t27-d1e265">Sententia divortii in causa matrimoniali rite lata, ad solum coniugis confessionem
+          <head xml:id="cice-l2t27-d1e265" type="question-title">Sententia divortii in causa matrimoniali rite lata, ad solum coniugis confessionem
             asserentis contrarium non revocatur, sed interim ei statur, donec legitime de contrario
-            doceatur. Ita summatur, ut aliquid de novo afferat, Panorm.</p>
-          <p xml:id="cice-l2t27-d1e268">Idem.</p>
+            doceatur. Ita summatur, ut aliquid de novo afferat, Panorm.</head>
+          <head xml:id="cice-l2t27-d1e268" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e271">Consanguinei E. latricis praesentium, sicut nobis tuis literis intimasti, productis in
             iure sub examine tuo testibus, compaternitatem inter ipsam et virum suum legitime
             probaverunt ita, quod inter eos sententiam divortii protulisti. Praedicta vero E., quum
@@ -203,9 +203,9 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e275">
           <head xml:id="cice-l2t27-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t27-d1e280">Si Papa contra pronunciationem suam confert beneficium, hoc tacito subreptitia dicitur
-            collatio, et non tenet.</p>
-          <p xml:id="cice-l2t27-d1e283">Innocentius III. Archidiacono et Sacristae Magalonensibus.</p>
+          <head xml:id="cice-l2t27-d1e280" type="question-title">Si Papa contra pronunciationem suam confert beneficium, hoc tacito subreptitia dicitur
+            collatio, et non tenet.</head>
+          <head xml:id="cice-l2t27-d1e283" type="question-title">Innocentius III. Archidiacono et Sacristae Magalonensibus.</head>
           <p xml:id="cice-l2t27-d1e286">Quum olim, [sicut accepimus,] bonae memoriae Magalonensis episcopus [habito dilectorum
             filiorum P. de Agrifolio archidiaconi et B. prioris claustralis assensu, dilectum filium
             nostrum] P. de Castro novo, ad vacantem archidiaconatum eiusdem ecclesiae nominasset,
@@ -295,10 +295,10 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e290">
           <head xml:id="cice-l2t27-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t27-d1e295">Valet sententia contra ius litigatoris lata, si sub ea infra X. dies non fuerit
+          <head xml:id="cice-l2t27-d1e295" type="question-title">Valet sententia contra ius litigatoris lata, si sub ea infra X. dies non fuerit
             appellatum. Vel sic aliter: Per sententiam, a qua non fuit appellatum, potest ecclesia
-            subiici praelato inferiori episcopo, seu ad aliam ecclesiam pertinere.</p>
-          <p xml:id="cice-l2t27-d1e298">Idem Abbati et Conventui S.Zenonis Veronensis.</p>
+            subiici praelato inferiori episcopo, seu ad aliam ecclesiam pertinere.</head>
+          <head xml:id="cice-l2t27-d1e298" type="question-title">Idem Abbati et Conventui S.Zenonis Veronensis.</head>
           <p xml:id="cice-l2t27-d1e301">Quum inter vos [ex una parte] pro ecclesia vestra et Musetum archipresbyterum et
             clericos S. Proculi, nomine ecclesiae suae, super subiectione eiusdem ecclesiae S.
             Proculi et aliis multis articulis quaestio verteretur, †[tibi, fili abbas, et ipsi
@@ -397,11 +397,11 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e305">
           <head xml:id="cice-l2t27-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t27-d1e310">Sententia contra actorem lata, nihil iniqui continens, venit in causa appellationis
+          <head xml:id="cice-l2t27-d1e310" type="question-title">Sententia contra actorem lata, nihil iniqui continens, venit in causa appellationis
             confirmanda, licet per attestationes videatur pro actore fuisse probatum, dummodo pro
             sententia concurrant praesumptiones. De quibus hic in litera, et secundum hunc
-            intellectum est hic casus singularis valde.</p>
-          <p xml:id="cice-l2t27-d1e313">Idem canonicis Novariensibus.</p>
+            intellectum est hic casus singularis valde.</head>
+          <head xml:id="cice-l2t27-d1e313" type="question-title">Idem canonicis Novariensibus.</head>
           <p xml:id="cice-l2t27-d1e316">Causam, quae inter vos et dilectum filium A. Siccum clericum super praebenda
             Novariensis ecclesiae vertebatur, quae quondam fuit venerabilis fratris nostri
             Novariensis episcopi, de qua se dicebat idem Albertus per bonae memoriae C. Papam
@@ -427,14 +427,14 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e320">
           <head xml:id="cice-l2t27-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t27-d1e325">Si sententia praecipit aliquid fieri ad certum terminum, tempus decendii ad appellandum
+          <head xml:id="cice-l2t27-d1e325" type="question-title">Si sententia praecipit aliquid fieri ad certum terminum, tempus decendii ad appellandum
             currit a tempore sententiae, non autem a die finiti termini. Hoc primo. Quadrimestre
             tempus, quod a lege datur condemnatis in personali, potest a iudice ex causa arctari, et
             sponte terminum arctatum recipiens non potest post decendium appellare, licet non
             constet, iudicem ex causa terminum abbreviasse. Hoc secundo. Ab exsecutione sententiae
             non appellatur, nisi in exsecutione modus excedatur. Hoc tertio d. evacuando medullam
-            cap. secundum Panorm.</p>
-          <p xml:id="cice-l2t27-d1e328">Idem Constantiensi Episcopo.</p>
+            cap. secundum Panorm.</head>
+          <head xml:id="cice-l2t27-d1e328" type="question-title">Idem Constantiensi Episcopo.</head>
           <p xml:id="cice-l2t27-d1e331">Quod ad consultationem (Et infra:) Quia a nobis similiter postulasti, utrum
             appellationi sit clerici deferendum, qui purgationem indictam sibi per sententiam, et ad
             ipsius receptionem terminum competentem, puta viginti dies vel amplius, sine
@@ -454,9 +454,9 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e335">
           <head xml:id="cice-l2t27-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l2t27-d1e340">Sententia potest probari per testes; licet non deponant de causis, quae solent iudicem
-            movere ad sententiandum.</p>
-          <p xml:id="cice-l2t27-d1e343">Idem Decano, Cancellario et C. Canonico Lundoniensibus.</p>
+          <head xml:id="cice-l2t27-d1e340" type="question-title">Sententia potest probari per testes; licet non deponant de causis, quae solent iudicem
+            movere ad sententiandum.</head>
+          <head xml:id="cice-l2t27-d1e343" type="question-title">Idem Decano, Cancellario et C. Canonico Lundoniensibus.</head>
           <p xml:id="cice-l2t27-d1e346">Sicut nobis vestris literis intimastis, quum causa, quae inter H. subdiaconum et B.
             presbyterum sancti Clementis super quinque frumenti modiis vertebatur, ipsi subdiacono
             per annos singulos exsolvendis, ex delegatione nostra vobis commissa fuisset, et
@@ -479,10 +479,10 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e351">
           <head xml:id="cice-l2t27-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l2t27-d1e356">Ab eadem sententia potest appellare nedum reus victus, sed etiam tertius, cuius
+          <head xml:id="cice-l2t27-d1e356" type="question-title">Ab eadem sententia potest appellare nedum reus victus, sed etiam tertius, cuius
             interest; et poterit sententia quoad reum nil de suo iure docentem confirmari, respectu
-            vero tertii rationabiliter appellantis infirmari.</p>
-          <p xml:id="cice-l2t27-d1e359">Idem Astoricensi Episcopo, et Abbati sancti Isidori Legionensis.</p>
+            vero tertii rationabiliter appellantis infirmari.</head>
+          <head xml:id="cice-l2t27-d1e359" type="question-title">Idem Astoricensi Episcopo, et Abbati sancti Isidori Legionensis.</head>
           <p xml:id="cice-l2t27-d1e362">Quum super controversia, quae inter venerabilem fratrem nostrum Auriensem episcopum ex
             parte una, et monasterium Cellae novae super statu ipsius ex altera vertebatur, pro ipso
             episcopo diversae sententiae latae fuissent, O. archidiaconus et nuncius venerabilis
@@ -507,12 +507,12 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e366">
           <head xml:id="cice-l2t27-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l2t27-d1e371">Si citatus ad sententiam ex legitima causa iudici ignota non comparuit, tenet sententia
+          <head xml:id="cice-l2t27-d1e371" type="question-title">Si citatus ad sententiam ex legitima causa iudici ignota non comparuit, tenet sententia
             eo absente lata, sed retractatur eo probante legitimam absentiae causam. Si vero
             impedimentum probatur non plene, non retractatur sententia, nisi prius doceat de ipsius
             iniquitate. H. d. et est verus et not. intellectus secundum Panorm., quem alii doctores
-            non dare dilucidarunt.</p>
-          <p xml:id="cice-l2t27-d1e374">Idem.</p>
+            non dare dilucidarunt.</head>
+          <head xml:id="cice-l2t27-d1e374" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e377">Quum Bertholdus miles curiam suam sive fundum in Westhusen quondam P. militi pignori
             obligasset, eodem P. sublato de medio A. nepos eius qui, successit eidem, Argentinensis
             dioeceseos, vacante ecclesia eiusdem loci in Westhusen, asserens, quod ius patronatus
@@ -567,8 +567,8 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e381">
           <head xml:id="cice-l2t27-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l2t27-d1e386">Papa in sententiis, quas profert, ordinem iuris servat.</p>
-          <p xml:id="cice-l2t27-d1e389">Idem.</p>
+          <head xml:id="cice-l2t27-d1e386" type="question-title">Papa in sententiis, quas profert, ordinem iuris servat.</head>
+          <head xml:id="cice-l2t27-d1e389" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e392">In causis, quae summi Pontificis iudicio deciduntur, et ordo iuris et vigor aequitatis
             est subtiliter observandus, quum in similibus casibus ceteri teneantur similiter
             iudicare, nisi forte, quum aliquid causa necessitatis et utilitatis inspecta
@@ -577,10 +577,10 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e396">
           <head xml:id="cice-l2t27-Hd1e398">CAP.XX.</head>
-          <p xml:id="cice-l2t27-d1e401">Secunda sententia, in diversa instantia contra primam lata, tenet mero iure; nec debet
+          <head xml:id="cice-l2t27-d1e401" type="question-title">Secunda sententia, in diversa instantia contra primam lata, tenet mero iure; nec debet
             infringi, etiamsi sit iniusta, ex quo ab ea non fuerit appellatum; praesertim si prima
-            sententia secundis iudicibus non fuit ostensa. H. d. Panorm.</p>
-          <p xml:id="cice-l2t27-d1e404">Idem Conventui sancti Leodii.</p>
+            sententia secundis iudicibus non fuit ostensa. H. d. Panorm.</head>
+          <head xml:id="cice-l2t27-d1e404" type="question-title">Idem Conventui sancti Leodii.</head>
           <p xml:id="cice-l2t27-d1e407">Inter monasterium sancti A. Rothomagensis et vestrum super modo eligendi abbatem in
             dicto monasterio vestro iam dudum fuit quaestio agitata, †[pro qua partibus ad sedem
             apostolicam accedentibus, venerabilem fratrem nostrum Octavianum episcopum Hostiensem et
@@ -692,9 +692,9 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e411">
           <head xml:id="cice-l2t27-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l2t27-d1e416">Tenet sententia contra privilegium ostensum vel non ostensum, si ab ea non fuerit
-            appellatum vel supplicatum.</p>
-          <p xml:id="cice-l2t27-d1e419">Idem Episcopo, Decano et Cancellario Parisiensibus.</p>
+          <head xml:id="cice-l2t27-d1e416" type="question-title">Tenet sententia contra privilegium ostensum vel non ostensum, si ab ea non fuerit
+            appellatum vel supplicatum.</head>
+          <head xml:id="cice-l2t27-d1e419" type="question-title">Idem Episcopo, Decano et Cancellario Parisiensibus.</head>
           <p xml:id="cice-l2t27-d1e422">Suborta dudum inter venerabilem fratrem nostrum Meldensem episcopum et monasterium
             Attrebatense super ipsius monasterii subiectione materia quaestionis, et procuratoribus
             partium litigantibus coram nobis, quia per confessionem partis adversae constitit,
@@ -753,9 +753,9 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e426">
           <head xml:id="cice-l2t27-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l2t27-d1e431">Sententia, a qua fuit appellatum, retractatur, si constat, testes, ad quorum dicta
-            tantum lata fuit, conspiratores fuisse, et contradicente parte receptos.</p>
-          <p xml:id="cice-l2t27-d1e434">Idem Alex. III. S. Mariae in Cagi et Vallis secretae Abbatibus.</p>
+          <head xml:id="cice-l2t27-d1e431" type="question-title">Sententia, a qua fuit appellatum, retractatur, si constat, testes, ad quorum dicta
+            tantum lata fuit, conspiratores fuisse, et contradicente parte receptos.</head>
+          <head xml:id="cice-l2t27-d1e434" type="question-title">Idem Alex. III. S. Mariae in Cagi et Vallis secretae Abbatibus.</head>
           <p xml:id="cice-l2t27-d1e437">Quum I. et A. canonici sancti Dionysii Remensis ex parte quorundam canonicorum eiusdem
             ecclesiae nostro apostolatui reserarint, quod abbas eorum super dilapidatione, periurio,
             simonia et quibusdam aliis erat multipliciter infamatus, et quum super his et aliis cum
@@ -838,9 +838,9 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e442">
           <head xml:id="cice-l2t27-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l2t27-d1e447">Damnatus in actione iniuriarum infamis est, et per Papam potest famae restitui. H. d.
-            prout communiter summatur.</p>
-          <p xml:id="cice-l2t27-d1e450">Idem H. de castro Guarti.</p>
+          <head xml:id="cice-l2t27-d1e447" type="question-title">Damnatus in actione iniuriarum infamis est, et per Papam potest famae restitui. H. d.
+            prout communiter summatur.</head>
+          <head xml:id="cice-l2t27-d1e450" type="question-title">Idem H. de castro Guarti.</head>
           <p xml:id="cice-l2t27-d1e453">Quum te a Bartholomaeo iniuriarum actione convento, eo, quod diceres, equum tuum non
             esse minoris pretii quam capillos ipsius, [Iacobus de Guarino et L. de Vico] iudices,
             qui super hoc cognoscebant, te in decem solidos condemnassent, tu timens, ne ipsorum
@@ -851,10 +851,10 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e457">
           <head xml:id="cice-l2t27-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l2t27-d1e462">Revocata sententia propter defectum iurisdictionis, ut, quia unus ex iudicibus publice
+          <head xml:id="cice-l2t27-d1e462" type="question-title">Revocata sententia propter defectum iurisdictionis, ut, quia unus ex iudicibus publice
             excommunicatus erat, vel propter iuris ordinem non servatum, iterum de principali
-            quaeritur.</p>
-          <p xml:id="cice-l2t27-d1e465">Idem.</p>
+            quaeritur.</head>
+          <head xml:id="cice-l2t27-d1e465" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e468">Ad probandum, quod procurator dominae (Et infra:) Vos autem interim agnoscatis de
             confirmationis sententia quae lata est a iudicibus delegatis de electione custodis, ut
             eam, sicut de iure fuerit faciendum, confirmare vel infirmare curetis, ita quidem, ut,
@@ -871,20 +871,20 @@
         </div>
         <div xml:id="cice-l2t27-Dd1e472">
           <head xml:id="cice-l2t27-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l2t27-d1e477">Res inter alios iudicata aliis non nocet. Fallit in eo, qui passus est illum litigare,
+          <head xml:id="cice-l2t27-d1e477" type="question-title">Res inter alios iudicata aliis non nocet. Fallit in eo, qui passus est illum litigare,
             cui secundo loco competebat actio vel defensio, vel a quo causam in iure iudicato
-            habuit.</p>
-          <p xml:id="cice-l2t27-d1e480">Gregorius IX.</p>
+            habuit.</head>
+          <head xml:id="cice-l2t27-d1e480" type="question-title">Gregorius IX.</head>
           <p xml:id="cice-l2t27-d1e483">Quamvis regulariter aliis non noceat res inter alios iudicata, ei tamen, qui, quum sibi
             primum de ea re actio vel defensio competebat, sustinuit sequentem agere, ac illi etiam,
             qui passus est eum, a quo causam habuit, experiri, est praeiudicium generatum.</p>
         </div>
         <div xml:id="cice-l2t27-Dd1e487">
           <head xml:id="cice-l2t27-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l2t27-d1e492">Si duo ordinarii pronunciant contraria, tenet sententia pro reo. Fallit in quatuor
+          <head xml:id="cice-l2t27-d1e492" type="question-title">Si duo ordinarii pronunciant contraria, tenet sententia pro reo. Fallit in quatuor
             casibus hie contentis, et similibus. Si vero delegati discordant, delegans est adeundus;
-            si arbitri, neutra tenet.</p>
-          <p xml:id="cice-l2t27-d1e495">Idem.</p>
+            si arbitri, neutra tenet.</head>
+          <head xml:id="cice-l2t27-d1e495" type="question-title">Idem.</head>
           <p xml:id="cice-l2t27-d1e498">Duobus iudicibus, ut accepimus, diversas sententias proferentibus, si ex iurisdictione
             ordinaria processerunt, tenet pro reo, non pro actore sententia, nisi in causa
             favorabili, puta matrimonio, libertate, dote seu testamento, pro ipso fuerit promulgata.

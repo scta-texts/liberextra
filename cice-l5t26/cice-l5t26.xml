@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l5t26-Dd1e108">
           <head xml:id="cice-l5t26-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t26-d1e113">Maledicens Papae puniendus est, ut alii deinceps deterreantur, et ipse arceatur.</p>
+          <head xml:id="cice-l5t26-d1e113" type="question-title">Maledicens Papae puniendus est, ut alii deinceps deterreantur, et ipse arceatur.</head>
           <p xml:id="cice-l5t26-d1e116">Clemens III.</p>
           <p xml:id="cice-l5t26-d1e119">Innotuit nobis (Et infra:) Ad ultimum fraternitati tuae mandamus atque praecipimus,
             quatenus, Quia nobis per literas tuas retulisti, quod I. clericus sanctae Trinitatis,
@@ -68,8 +68,8 @@
         </div>
         <div xml:id="cice-l5t26-Dd1e123">
           <head xml:id="cice-l5t26-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t26-d1e128">Hic ponitur poena blasphemantis Deum, vel aliquem sanctum, et maximo Virginem
-            gloriosissimam.</p>
+          <head xml:id="cice-l5t26-d1e128" type="question-title">Hic ponitur poena blasphemantis Deum, vel aliquem sanctum, et maximo Virginem
+            gloriosissimam.</head>
           <p xml:id="cice-l5t26-d1e131">Gregorius IX.</p>
           <p xml:id="cice-l5t26-d1e134">Statuimus, ut, si quis contra Deum, vel aliquem sanctorum suorum, et maxime beatam
             Virginem, linguam in blasphemiam publice relaxare praesumpserit, per episcopum suum

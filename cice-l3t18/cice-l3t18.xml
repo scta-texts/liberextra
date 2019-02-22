@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t18-Dd1e108">
           <head xml:id="cice-l3t18-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t18-d1e113">Excommunicati sunt magistri et scholares Bononienses, qui ante tempus conductionis
-            conducunt hospitia aliorum magistrorum vel scholarium sine eorum consensu.</p>
+          <head xml:id="cice-l3t18-d1e113" type="question-title">Excommunicati sunt magistri et scholares Bononienses, qui ante tempus conductionis
+            conducunt hospitia aliorum magistrorum vel scholarium sine eorum consensu.</head>
           <p xml:id="cice-l3t18-d1e116">Clemens III.</p>
           <p xml:id="cice-l3t18-d1e119">Ex rescripto literarum piae recordationis P. quondam Tusculanensis episcopi nobis
             innotuit, quod, quum civitatem Bononiensem tempore suae legationis intrasset, invenit,
@@ -82,9 +82,9 @@
         </div>
         <div xml:id="cice-l3t18-Dd1e123">
           <head xml:id="cice-l3t18-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t18-d1e128">Personae ecclesiasticae locare possunt proventus decimarum his, cum quibus conditio
+          <head xml:id="cice-l3t18-d1e128" type="question-title">Personae ecclesiasticae locare possunt proventus decimarum his, cum quibus conditio
             ecclesiae fit melior, statuto dioecesani contrario non obstante; et eadem ratio est de
-            aliis rebus ecclesiae.</p>
+            aliis rebus ecclesiae.</head>
           <p xml:id="cice-l3t18-d1e131">Innocentius III. Abbati et Conventui S. Petri de Pratel. Londoniensis dioecesis.</p>
           <p xml:id="cice-l3t18-d1e134">Vestra nobis relatio declaravit, quod, quum ad firmam fructus vestrarum dare
             consueveritis decimarum, †diocesani locorum statutum quoddam de huiusmodi decimis
@@ -97,10 +97,10 @@
         </div>
         <div xml:id="cice-l3t18-Dd1e138">
           <head xml:id="cice-l3t18-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t18-d1e143">Propter sterilitatem gravem, conductori sine culpa sua contingentem, remittitur pensio
+          <head xml:id="cice-l3t18-d1e143" type="question-title">Propter sterilitatem gravem, conductori sine culpa sua contingentem, remittitur pensio
             pro rata, nisi possit cum ubertate praecedentis vel sequentis temporis compensari. H. d.
             usque ad §. Verum. – (Verum etc.:) Ponuntur hic quatuor casus, in quibus inquilinus
-            potest ante tempus conductionis finitae licite expelli. Abbas.</p>
+            potest ante tempus conductionis finitae licite expelli. Abbas.</head>
           <p xml:id="cice-l3t18-d1e146">Gregorius IX.</p>
           <p xml:id="cice-l3t18-d1e149">Propter sterilitatem, afficientem magno incommodo conductores, vitio rei sine culpa
             coloni, seu casu fortuito contingentem, colonis ecclesiae tuae pro rata est pensionis
@@ -113,9 +113,9 @@
         </div>
         <div xml:id="cice-l3t18-Dd1e153">
           <head xml:id="cice-l3t18-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t18-d1e158">Emphyteuta ecclesiae meliorationes suas vendere non potest, nisi servatis his, de
+          <head xml:id="cice-l3t18-d1e158" type="question-title">Emphyteuta ecclesiae meliorationes suas vendere non potest, nisi servatis his, de
             quibus hic. Et si contra fecerit, vel canonem per biennium non solverit, nec moram
-            postea celeriter purgaverit, iuste potest expelli.</p>
+            postea celeriter purgaverit, iuste potest expelli.</head>
           <p xml:id="cice-l3t18-d1e161">Idem.</p>
           <p xml:id="cice-l3t18-d1e164">Potuit emphyteuta, ecclesia primitus requisita, eique nunciato quantum sibi ab aliis
             offertur, si nolle se emere dixerit, vel a denunciationis tempore duorum mensium spatium

@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t28-Dd1e108">
           <head xml:id="cice-l2t28-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t28-d1e113">Collatio beneficii facta post appellationem ex probabili et verisimili causa
-            interpositam est ipso iure nulla.</p>
+          <head xml:id="cice-l2t28-d1e113" type="question-title">Collatio beneficii facta post appellationem ex probabili et verisimili causa
+            interpositam est ipso iure nulla.</head>
           <p xml:id="cice-l2t28-d1e116">Alexander III. Exonensi Episcopo et Decano Lundonensi.</p>
           <p xml:id="cice-l2t28-d1e119">Dilecti filii nostri prior et clerici de Gisebergen, gravem admodum et difficilem nobis
             querimoniam transmiserunt, quod venerabilis frater noster R. Eboracensis archiepiscopus
@@ -74,7 +74,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e123">
           <head xml:id="cice-l2t28-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t28-d1e128">Appellatio generalis respectu causae non valet.</p>
+          <head xml:id="cice-l2t28-d1e128" type="question-title">Appellatio generalis respectu causae non valet.</head>
           <p xml:id="cice-l2t28-d1e131">Idem Archiepiscopo Remensi.</p>
           <p xml:id="cice-l2t28-d1e134">Inter cetera †quod nos consulere voluisti, quid facere debeas de his, qui appellant a
             te nec appellationem prosequuntur, taliter respondemus, quod debes eos compellere infra
@@ -86,8 +86,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e138">
           <head xml:id="cice-l2t28-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t28-d1e143">A correctione legitima non appellatur, nisi modus excedatur. H. d. inspecta mente
-            literae.</p>
+          <head xml:id="cice-l2t28-d1e143" type="question-title">A correctione legitima non appellatur, nisi modus excedatur. H. d. inspecta mente
+            literae.</head>
           <p xml:id="cice-l2t28-d1e146">Idem Abbati S. Petri.</p>
           <p xml:id="cice-l2t28-d1e149">Ad nostram †noveris audientiam pervenisse, quod, si quando subditos tuos vis pro suis
             excessibus secundum regulam B. Benedicti et institutionem tui ordinis corrigere et
@@ -101,8 +101,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e153">
           <head xml:id="cice-l2t28-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t28-d1e158">Si appellans infra terminum, a iudice, a quo appellavit, vel a se ipso statutum,
-            appellationem non prosequitur, sententiae vel iudicio illius stare compellitur.</p>
+          <head xml:id="cice-l2t28-d1e158" type="question-title">Si appellans infra terminum, a iudice, a quo appellavit, vel a se ipso statutum,
+            appellationem non prosequitur, sententiae vel iudicio illius stare compellitur.</head>
           <p xml:id="cice-l2t28-d1e161">Idem Norvicensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e164">Personas ecclesiarum †in tua dioecesi consistentium ita tuis et dominorum fundi
             authenticis scriptis praemunias, ut, quum aliquam illarum decedere forte contigerit
@@ -119,10 +119,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e169">
           <head xml:id="cice-l2t28-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t28-d1e174">Appellans ad prosequendum habet annum, et ex causa biennium, nisi iudex moderetur. Et
+          <head xml:id="cice-l2t28-d1e174" type="question-title">Appellans ad prosequendum habet annum, et ex causa biennium, nisi iudex moderetur. Et
             si infra id tempus non prosequitur, rata manet sententia, vel redit ad primum, si ante
             sententiam appellavit. H. d. – §. 1. Qui de crimine impetitur, appellare potest, nisi
-            sit notorium. Hoc dicit.</p>
+            sit notorium. Hoc dicit.</head>
           <p xml:id="cice-l2t28-d1e177">Idem Remensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e180">Quum sit sacrosancta Romana †ecclesia caput et magistra omnium ecclesiarum disponente
             Domino constituta, et ad eam consultationes et quaestiones de diversis mundi partibus
@@ -146,8 +146,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e184">
           <head xml:id="cice-l2t28-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t28-d1e189">Coram iudice, a quo appellavi in una causa, possum in alia conveniri, nisi eum recusem
-            ut suspectum.</p>
+          <head xml:id="cice-l2t28-d1e189" type="question-title">Coram iudice, a quo appellavi in una causa, possum in alia conveniri, nisi eum recusem
+            ut suspectum.</head>
           <p xml:id="cice-l2t28-d1e192">Idem eidem.</p>
           <p xml:id="cice-l2t28-d1e195">Ad haec si in una causa quis appellaverit, et pendente appellatione aliquod crimen
             committat, vel prius commisisse dicatur, vel modo etiam accusetur, aut conveniatur de
@@ -158,11 +158,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e199">
           <head xml:id="cice-l2t28-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t28-d1e204">Si a iudice inferiori unus appellat ad Papam, alius ad inferiorem, tenetur appellans ad
+          <head xml:id="cice-l2t28-d1e204" type="question-title">Si a iudice inferiori unus appellat ad Papam, alius ad inferiorem, tenetur appellans ad
             Papam comparere ad citationem iudicis inferioris, saltem allegaturus appellationem suam;
             alias valebit processus a minori, nisi sciverit appellationem interiectam ad Papam. – §.
             1. A civili iudice, qui non est de temporali iurisdictione ecclesiae, non appellatur ad
-            Papam. H. d. usque ad finem.</p>
+            Papam. H. d. usque ad finem.</head>
           <p xml:id="cice-l2t28-d1e207">Idem.</p>
           <p xml:id="cice-l2t28-d1e210">Si duobus coram suo iudice litigantibus alter ad nostram, alter ad sui iudicis
             audientiam super eodem negotio appellaverit, et ille, qui ad suum iudicem appellavit, ad
@@ -179,8 +179,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e214">
           <head xml:id="cice-l2t28-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t28-d1e219">Lapsus biennii non praeiudicat appellanti, quo minus ex causa legitima audiatur, saltem
-            per beneficium restitutionis in integrum. H. d. secundum uberiorem intellectum.</p>
+          <head xml:id="cice-l2t28-d1e219" type="question-title">Lapsus biennii non praeiudicat appellanti, quo minus ex causa legitima audiatur, saltem
+            per beneficium restitutionis in integrum. H. d. secundum uberiorem intellectum.</head>
           <p xml:id="cice-l2t28-d1e222">Idem Plebano et Clericis sancti Nazarii de Albia.</p>
           <p xml:id="cice-l2t28-d1e225">Ex ratione (Et infra:) Verum si appellationem biennio elapso interpositam a sententia,
             quae fuerat contra vos prolata, de controversia, quam habuistis contra ecclesiam
@@ -190,8 +190,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e229">
           <head xml:id="cice-l2t28-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t28-d1e234">Si reus post citationem vel notitiam literarum ivit ad curiam, delegatus in causa
-            procedat; alias non. Hoc dicit, cum c. Suggestum infra. eod.</p>
+          <head xml:id="cice-l2t28-d1e234" type="question-title">Si reus post citationem vel notitiam literarum ivit ad curiam, delegatus in causa
+            procedat; alias non. Hoc dicit, cum c. Suggestum infra. eod.</head>
           <p xml:id="cice-l2t28-d1e237">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e240">Meminimus (Et infra: [cf. c. 3. Qui cler. vel vov. IV. 6.]) Ceterum quum aliquam causam
             contingit tibi appellatione remota committi, et adversa pars post citationem factam iter
@@ -201,9 +201,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e244">
           <head xml:id="cice-l2t28-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t28-d1e249">Supersedetur propter articulum, in quo appellatum est, etiam super principali causa, si
+          <head xml:id="cice-l2t28-d1e249" type="question-title">Supersedetur propter articulum, in quo appellatum est, etiam super principali causa, si
             sine illo articulo expediri non potest. H. d. inhaerendo literae. – §. 1. Non obstante
-            appellatione, ex falsa causa interposita, potest iudex ad ulteriora procedere. H. d.</p>
+            appellatione, ex falsa causa interposita, potest iudex ad ulteriora procedere. H. d.</head>
           <p xml:id="cice-l2t28-d1e252">Idem.</p>
           <p xml:id="cice-l2t28-d1e255">Super eo, quod a nobis sollicitudo tua quaesivit, utrum sententia per appellationem,
             quam ex incidenti quaestione fieri saepe contingit, fuerit suspendenda, licet causa
@@ -217,7 +217,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e260">
           <head xml:id="cice-l2t28-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t28-d1e265">Etiam pro minoribus seu levioribus causis appellari potest.</p>
+          <head xml:id="cice-l2t28-d1e265" type="question-title">Etiam pro minoribus seu levioribus causis appellari potest.</head>
           <p xml:id="cice-l2t28-d1e268">Idem.</p>
           <p xml:id="cice-l2t28-d1e271">De appellationibus vero pro causis minimis interpositis volumus te tenere, quod eis,
             pro quacunque et quantulacunque levi causa fiant, non minus est, quam si pro maioribus
@@ -227,11 +227,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e275">
           <head xml:id="cice-l2t28-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l2t28-d1e280">Secundum canones appellatur etiam ante sententiam; secundum leges non, nisi in
+          <head xml:id="cice-l2t28-d1e280" type="question-title">Secundum canones appellatur etiam ante sententiam; secundum leges non, nisi in
             quibusdam casibus. Hoc primo. Et appellatio et recusatio aequiparantur in hoc, quia,
             sicut in appellatione requiritur causa rationabilis, ita et in recusatione. Hoc secundo.
             Et tempus assignatum iudici ad causam decidendam incipit currere a tempore
-            praesentationis rescripti. Hoc tertio secundum verum intellectum.</p>
+            praesentationis rescripti. Hoc tertio secundum verum intellectum.</head>
           <p xml:id="cice-l2t28-d1e283">Idem.</p>
           <p xml:id="cice-l2t28-d1e286">Super eo †vero, quod interdum iudices delegati ab altera partium tanquam suspecti
             recusantur, hoc tuae prudentiae praesentibus literis innotescat, quod, quum Sacri
@@ -247,8 +247,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e290">
           <head xml:id="cice-l2t28-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l2t28-d1e295">Conventus super iniuria clerici vel super adulterio appellare potest, nisi sit
-            notorius. H. d. cum c. sequ.</p>
+          <head xml:id="cice-l2t28-d1e295" type="question-title">Conventus super iniuria clerici vel super adulterio appellare potest, nisi sit
+            notorius. H. d. cum c. sequ.</head>
           <p xml:id="cice-l2t28-d1e298">Idem.</p>
           <p xml:id="cice-l2t28-d1e301">Pervenit ad nos, quod, quum presbyteri et alii clerici se conquerantur ab aliquibus
             vulneratos, vel alias graviter esse laesos, et ad probandum quod asserunt plerumque
@@ -266,7 +266,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e305">
           <head xml:id="cice-l2t28-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l2t28-d1e310">Summatum est supr. cap. proximo.</p>
+          <head xml:id="cice-l2t28-d1e310" type="question-title">Summatum est supr. cap. proximo.</head>
           <p xml:id="cice-l2t28-d1e313">Idem Archiepiscopo Toletano.</p>
           <p xml:id="cice-l2t28-d1e316">Consuluit nos fraternitas tua, †utrum deferendum sit appellationibus, quando causa
             frustratoriae dilationis appellatur, nec interpositam appellationem prosequuntur. Super
@@ -280,7 +280,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e320">
           <head xml:id="cice-l2t28-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l2t28-d1e325">Hoc cap. summatum est supr. eod. cap. Meminimus.</p>
+          <head xml:id="cice-l2t28-d1e325" type="question-title">Hoc cap. summatum est supr. eod. cap. Meminimus.</head>
           <p xml:id="cice-l2t28-d1e328">Idem.</p>
           <p xml:id="cice-l2t28-d1e331">Suggestum est auribus nostris, quod, quum oppressi et gravati ad praesidium apostolicae
             sedis recurrunt, et appellatione facta iter arripiunt, adversarii eorum appellationem
@@ -297,8 +297,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e335">
           <head xml:id="cice-l2t28-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l2t28-d1e340">Excommunicatus pendente cognitione appellationis absolvi potest ad cautelam, et, si
-            apparet eum legitima appellasse, non punitur pro eo, quod interim celebravit divina.</p>
+          <head xml:id="cice-l2t28-d1e340" type="question-title">Excommunicatus pendente cognitione appellationis absolvi potest ad cautelam, et, si
+            apparet eum legitima appellasse, non punitur pro eo, quod interim celebravit divina.</head>
           <p xml:id="cice-l2t28-d1e343">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e346">Ad praesentiam nostram R. presbytero veniente, episcopo Tusculano et P. sanctae
             Susannae cardinali tuam et ipsius causam commisimus audiendam. Qui ad obiectionem tuam,
@@ -311,9 +311,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e351">
           <head xml:id="cice-l2t28-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l2t28-d1e356">Si appellans turbatur in possessione, super qua fuit appellatum, iudex a quo potest
+          <head xml:id="cice-l2t28-d1e356" type="question-title">Si appellans turbatur in possessione, super qua fuit appellatum, iudex a quo potest
             illam possessionem sibi reformare, appellatione in suo statu permanente. H. d. secundum
-            communem intellectum.</p>
+            communem intellectum.</head>
           <p xml:id="cice-l2t28-d1e359">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e362">Quum teneamur †consultationibus singulorum, quantum Dominus ministraverit, respondere,
             tanto gratius volumus tibi responsum impendere, quanto personam tuam abundantiori
@@ -324,8 +324,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e366">
           <head xml:id="cice-l2t28-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l2t28-d1e371">Generalis et vaga appellatio respectu cuiuslibet gravaminis non valet, sed restricta ad
-            certam causam. Sic.</p>
+          <head xml:id="cice-l2t28-d1e371" type="question-title">Generalis et vaga appellatio respectu cuiuslibet gravaminis non valet, sed restricta ad
+            certam causam. Sic.</head>
           <p xml:id="cice-l2t28-d1e374">Idem Episcopo et Archidiacono Bononiensibus.</p>
           <p xml:id="cice-l2t28-d1e377">Consuluit †nos vestra devotio, uf, si appellatio, quae ab omni aggravamine
             interponitur, teneat, prudentiam vestram nostris literis redderemus certiorem, et ideo
@@ -342,9 +342,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e381">
           <head xml:id="cice-l2t28-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l2t28-d1e386">Appellatio frivola non excusat inferiorem, quo minus teneatur obedire superiori, et ut
+          <head xml:id="cice-l2t28-d1e386" type="question-title">Appellatio frivola non excusat inferiorem, quo minus teneatur obedire superiori, et ut
             de contemptu puniatur, nisi innocentiam suam aliter purget. H. d. et est casus notabilis
-            in eo, quod dicitur, istum esse puniendum.</p>
+            in eo, quod dicitur, istum esse puniendum.</head>
           <p xml:id="cice-l2t28-d1e389">Idem Zamorensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e392">Quum parati essemus petitiones, quas nobis per nuncium tuum porrexisti, benigne
             admittere, et efficaciter exaudire, dilectus filius noster I. sanctae Mariae in Cosmedin
@@ -366,8 +366,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e396">
           <head xml:id="cice-l2t28-Hd1e398">CAP.XX.</head>
-          <p xml:id="cice-l2t28-d1e401">Si mandatum factum ei, qui iuravit stare iudicio ecclesiae, excedit limites iuramenti
-            et licitae promissionis, appellare poterit; alias secus. H. d. compendiose. Abb.</p>
+          <head xml:id="cice-l2t28-d1e401" type="question-title">Si mandatum factum ei, qui iuravit stare iudicio ecclesiae, excedit limites iuramenti
+            et licitae promissionis, appellare poterit; alias secus. H. d. compendiose. Abb.</head>
           <p xml:id="cice-l2t28-d1e404">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e407">Ad haec (Et infra:) Praeterea de his, qui iuramentum praestant, quod ecclesiae stabunt
             iudicio, et postea praestito sacramento appellant, id tua sollicitudo provideat, ut eos
@@ -376,7 +376,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e411">
           <head xml:id="cice-l2t28-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l2t28-d1e416">Summa ut supr. cap. proximo.</p>
+          <head xml:id="cice-l2t28-d1e416" type="question-title">Summa ut supr. cap. proximo.</head>
           <p xml:id="cice-l2t28-d1e419">Idem Carnotensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e422">Quaestioni [vero,] quam facis, utrum appellationi illius sit deferendum, qui, sicut
             moris est, praestito iuramento absolvi meretur, et antequam ei mandetur aliquid,
@@ -388,9 +388,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e426">
           <head xml:id="cice-l2t28-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l2t28-d1e431">Appellans ab ordinario postea de delicto ab eo commisso puniri potest per ipsum
+          <head xml:id="cice-l2t28-d1e431" type="question-title">Appellans ab ordinario postea de delicto ab eo commisso puniri potest per ipsum
             ordinarium. H. d., sed supple ad textum, idem esse de antea commissis, si nunc de illis
-            accusatur, ut cap. Ad haec 1. supr. eod. et cap. Proposuit. infra eod.</p>
+            accusatur, ut cap. Ad haec 1. supr. eod. et cap. Proposuit. infra eod.</head>
           <p xml:id="cice-l2t28-d1e434">Idem Vintoniensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e437">Praeterea de his, qui ad sedem apostolicam appellant, et postea gravia et enormia
             committentes, se, dum conveniuntur, appellatione tuentur, hoc duximus respondendum,
@@ -404,8 +404,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e442">
           <head xml:id="cice-l2t28-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l2t28-d1e447">Qui non detulit appellationi sui adversarii, de sua posteriori circa idem contra eum
-            excipere nequit.</p>
+          <head xml:id="cice-l2t28-d1e447" type="question-title">Qui non detulit appellationi sui adversarii, de sua posteriori circa idem contra eum
+            excipere nequit.</head>
           <p xml:id="cice-l2t28-d1e450">Idem Grandensi Patriarchae et S. Vitalis Presbytero cardinali.</p>
           <p xml:id="cice-l2t28-d1e453">Constitutis in praesentia nostra dilectis filiis nostris M. abbate sancti Felicis et
             presbytero R. atque [V.] canonici sancti Marci pro controversia, quae de electione
@@ -426,10 +426,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e457">
           <head xml:id="cice-l2t28-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l2t28-d1e462">Appellans ab ordinario in una causa, in aliis coram eo respondere tenetur, potest tamen
+          <head xml:id="cice-l2t28-d1e462" type="question-title">Appellans ab ordinario in una causa, in aliis coram eo respondere tenetur, potest tamen
             eum recusare ut suspectum, nisi conveniatur de crimine manifesto, et in quo non cadit
             excusatio nec suspicio, ut quia imponitur poena iuris surgens ipso facto. H. d. secundum
-            intellectum.</p>
+            intellectum.</head>
           <p xml:id="cice-l2t28-d1e465">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e468">Proposuit nobis M. clericus tuus, quod saepe contingit ut, quum aliquis super aliqua
             causa appellat, in aliis causis, in quibus non est appellatum, respondere penitus renuat
@@ -441,11 +441,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e472">
           <head xml:id="cice-l2t28-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l2t28-d1e477">Absolvitur excommunicatus cautione recepta, licet adversarius vel excommunicator, ne
+          <head xml:id="cice-l2t28-d1e477" type="question-title">Absolvitur excommunicatus cautione recepta, licet adversarius vel excommunicator, ne
             absolvatur, appellet. H. d. secundum unum intellectum, quem tamen oportet limitare,
             quando excommunicatio non fuit lata pro manifesta contumacia vel offensa, quia tunc non
             debet absolvi, nisi satisfactione praecedente, ut in cap. Ex parte 1. infra, de verb.
-            signif.</p>
+            signif.</head>
           <p xml:id="cice-l2t28-d1e480">Idem R. Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e483">Qua fronte nos super articulis iuris consulere valeas, non videmus, quum in iis, quae
             nota sunt et liquido manifesta, dicaris ordinem iuris pervertere, et evidenter libertati
@@ -473,11 +473,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e487">
           <head xml:id="cice-l2t28-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l2t28-d1e492">Praelatus subditum suspendere vel excommunicare non debet, nisi monitione praemissa,
+          <head xml:id="cice-l2t28-d1e492" type="question-title">Praelatus subditum suspendere vel excommunicare non debet, nisi monitione praemissa,
             nec subditus contra disciplinam ecclesiasticam appellare potest, maxime si est
             religiosus. Et iudex a quo praefigit terminum appellanti ad appellationem prosequendam,
             infra quem si non prosequitur, iudex a quo reassumit iurisdictionem. Appellans vero non
-            prosequens appellationem suam, condemnatur in expensis, appellato hoc prosequenti.</p>
+            prosequens appellationem suam, condemnatur in expensis, appellato hoc prosequenti.</head>
           <p xml:id="cice-l2t28-d1e495">Idem in concilio Lateranensi.</p>
           <p xml:id="cice-l2t28-d1e498">Reprehensibilis †valde consuetudo in quibusdam partibus inolevit, ut, quum fratres et
             coepiscopi nostri seu etiam archidiaconi appellaturos quosdam in suis causis existimant,
@@ -504,9 +504,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e502">
           <head xml:id="cice-l2t28-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l2t28-d1e507">Iudex a quo non obstante appellatione cognoscit de causa, si appellans non prosequitur.
+          <head xml:id="cice-l2t28-d1e507" type="question-title">Iudex a quo non obstante appellatione cognoscit de causa, si appellans non prosequitur.
             Hoc primo. Et iudex, ut suspectus recusatus, potest alteri causam committere. Hoc
-            secundum.</p>
+            secundum.</head>
           <p xml:id="cice-l2t28-d1e510">Idem.</p>
           <p xml:id="cice-l2t28-d1e513">Ad haec †praesentibus tibi literis duximus indulgendum, ut, quum a te super aliqua
             causa fuerit appellatum, fas tibi sit appellantes appellatione cessante compellere, ut
@@ -517,10 +517,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e517">
           <head xml:id="cice-l2t28-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l2t28-d1e522">Si canonicus ad residentiam monitus appellat, statuitur sibi terminus ad appellationem
+          <head xml:id="cice-l2t28-d1e522" type="question-title">Si canonicus ad residentiam monitus appellat, statuitur sibi terminus ad appellationem
             prosequendam, et interim deservitur beneficio per vicarium de fructibus beneficii
             sustentandum. Et si appellationem non prosequitur, vel residentiam non facit, privatur
-            praebenda.</p>
+            praebenda.</head>
           <p xml:id="cice-l2t28-d1e525">Idem Salabriensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e528">Pervenit ad nos, quod, quum Rogerium filium G. ecclesiae tuae canonicum, ut debitam in
             ea residentiam faceret, monuisses, ad audientiam nostram in appellationem prorupit et
@@ -537,7 +537,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e533">
           <head xml:id="cice-l2t28-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l2t28-d1e538">A iudice iurisdictionem exsequente non appellatur.</p>
+          <head xml:id="cice-l2t28-d1e538" type="question-title">A iudice iurisdictionem exsequente non appellatur.</head>
           <p xml:id="cice-l2t28-d1e541">Idem.</p>
           <p xml:id="cice-l2t28-d1e544">Consuluit nos tua fraternitas, utrum sit appellationibus deferendum a carissimo in
             Christo filio nostro L. [illustri] rege Francorum pro Iudaeis interpositis, ut mancipia
@@ -551,8 +551,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e548">
           <head xml:id="cice-l2t28-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l2t28-d1e553">Qui ante citationem vel notitiam literarum misit nuncium ad Papam, appellare potest, ne
-            delegatus procedat, secus si post.</p>
+          <head xml:id="cice-l2t28-d1e553" type="question-title">Qui ante citationem vel notitiam literarum misit nuncium ad Papam, appellare potest, ne
+            delegatus procedat, secus si post.</head>
           <p xml:id="cice-l2t28-d1e556">Idem Genuensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e559">Ad haec, sicut asseris, †quandoque super causa, quae iudici appellatione remota
             committitur, altera pars appellat, asserens, se pro eadem causa nuncium suum ad sedem
@@ -564,8 +564,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e563">
           <head xml:id="cice-l2t28-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l2t28-d1e568">Qui non detulit appellationi interpositae ad Papam, mittitur cum literis ordinarii ad
-            curiam puniendus.</p>
+          <head xml:id="cice-l2t28-d1e568" type="question-title">Qui non detulit appellationi interpositae ad Papam, mittitur cum literis ordinarii ad
+            curiam puniendus.</head>
           <p xml:id="cice-l2t28-d1e571">Idem.</p>
           <p xml:id="cice-l2t28-d1e574">De priore, †qui non deferens protectioni nostrae et appellationi ad sedem apostolicam
             factae quendam canonicum suum vestibus fecit omnibus usque ad camisiam spoliari, et eum
@@ -583,7 +583,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e578">
           <head xml:id="cice-l2t28-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l2t28-d1e583">Contra constitutiones regulares appellatio religiosum non defendit.</p>
+          <head xml:id="cice-l2t28-d1e583" type="question-title">Contra constitutiones regulares appellatio religiosum non defendit.</head>
           <p xml:id="cice-l2t28-d1e586">Idem.</p>
           <p xml:id="cice-l2t28-d1e589">Quia nos †elegit Dominus in hereditatem sibi, et a longe de alto prospexit, paci et
             tranquillitati vestrae, quantum divina gratia concedit, prospicere cupientes, apostolica
@@ -595,8 +595,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e593">
           <head xml:id="cice-l2t28-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l2t28-d1e598">Iudex a quo potest praefigere terminum appellanti ad prosequendam appellationem, quo
-            lapso reassumit iudex iurisdictionem.</p>
+          <head xml:id="cice-l2t28-d1e598" type="question-title">Iudex a quo potest praefigere terminum appellanti ad prosequendam appellationem, quo
+            lapso reassumit iudex iurisdictionem.</head>
           <p xml:id="cice-l2t28-d1e601">Idem.</p>
           <p xml:id="cice-l2t28-d1e604">Ad aures nostras †te significante pervenit, quod quum interdum, tibi vel aliis
             delegamus causas sublato appellationis remedio, altera partium, ut examen declinare
@@ -616,8 +616,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e608">
           <head xml:id="cice-l2t28-Hd1e610">CAP. XXXIV.</head>
-          <p xml:id="cice-l2t28-d1e613">Si praecedente gravamine quis submittit se protectioni superioris, habetur pro
-            appellante, dummodo servaverit ea, quae in appellatione sunt necessaria.</p>
+          <head xml:id="cice-l2t28-d1e613" type="question-title">Si praecedente gravamine quis submittit se protectioni superioris, habetur pro
+            appellante, dummodo servaverit ea, quae in appellatione sunt necessaria.</head>
           <p xml:id="cice-l2t28-d1e616">Idem Abulensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e619">Ad audientiam nostram noveris pervenisse, quod, quum Zamorensis episcopus G.
             presbyterum ecclesiae sancti Iacobi Zamorensis, quae est propria Compostellanae
@@ -639,8 +639,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e624">
           <head xml:id="cice-l2t28-Hd1e626">CAP.XXXV.</head>
-          <p xml:id="cice-l2t28-d1e629">Causa non est ad iudicem a quo remittenda appellatione adhuc non iustificata, nisi de
-            partium consensu.</p>
+          <head xml:id="cice-l2t28-d1e629" type="question-title">Causa non est ad iudicem a quo remittenda appellatione adhuc non iustificata, nisi de
+            partium consensu.</head>
           <p xml:id="cice-l2t28-d1e632">Idem Archiepiscopo Terraconensi.</p>
           <p xml:id="cice-l2t28-d1e635">Accepta conquestione canonicorum Pampilonensium, †quod dilectus filius noster dux
             Navarrorum eos bonis suis spoliasset, causam ipsam tuae fraternitati ad eorum petitionem
@@ -653,8 +653,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e639">
           <head xml:id="cice-l2t28-Hd1e641">CAP. XXXVI.</head>
-          <p xml:id="cice-l2t28-d1e644">Delegatus etiam datus cum clausula “appellatione remota” recusari potest, si est
-            consanguineus impetrantis, vel si fuit advocatus eius in illa causa.</p>
+          <head xml:id="cice-l2t28-d1e644" type="question-title">Delegatus etiam datus cum clausula “appellatione remota” recusari potest, si est
+            consanguineus impetrantis, vel si fuit advocatus eius in illa causa.</head>
           <p xml:id="cice-l2t28-d1e647">Lucius III. Galtero Linconiensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e650">Postremo fraternitati tuae literis praesentibus intimamus, quod, si causa aliqua alicui
             fuerit delegata, qui con­sanguineus sit illius, qui literas impetravit, aut in eodem
@@ -664,7 +664,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e654">
           <head xml:id="cice-l2t28-Hd1e656">CAP. XXXVII.</head>
-          <p xml:id="cice-l2t28-d1e659">Sententia interdicti non suspenditur per appellationem sequentem.</p>
+          <head xml:id="cice-l2t28-d1e659" type="question-title">Sententia interdicti non suspenditur per appellationem sequentem.</head>
           <p xml:id="cice-l2t28-d1e662">Idem Norvicensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e665">Ad haec, quoniam sub interdicto aliqui constituti appellant, et deinde illud servare
             contemnunt, quid in hoc casu servandum sit consulere voluisti. Noveris igitur, quod,
@@ -673,8 +673,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e669">
           <head xml:id="cice-l2t28-Hd1e671">CAP. XXXVIII.</head>
-          <p xml:id="cice-l2t28-d1e674">Iudex appellationis remittit appellantem et causam ad priorem iudicem, nisi sibi
-            constiterit a gravamine vel iniusta sententia fuisse appellatum.</p>
+          <head xml:id="cice-l2t28-d1e674" type="question-title">Iudex appellationis remittit appellantem et causam ad priorem iudicem, nisi sibi
+            constiterit a gravamine vel iniusta sententia fuisse appellatum.</head>
           <p xml:id="cice-l2t28-d1e677">Clemens III.</p>
           <p xml:id="cice-l2t28-d1e680">Quum in ecclesia †[Dei pro diversitate ordinum et honorum iurisdictio praesidentium
             nonnunquam in subditis varietur, et venerabiles fratres nostri episcopi concessam sibi
@@ -705,9 +705,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e684">
           <head xml:id="cice-l2t28-Hd1e686">CAP. XXXIX.</head>
-          <p xml:id="cice-l2t28-d1e689">Si appellans, qui non prosequitur, redit ad iudicem a quo, et iterum gravatur, non
+          <head xml:id="cice-l2t28-d1e689" type="question-title">Si appellans, qui non prosequitur, redit ad iudicem a quo, et iterum gravatur, non
             obstante prima desertione potest iterum appellare. H. d. et est casus notabilis.
-            Panormit.</p>
+            Panormit.</head>
           <p xml:id="cice-l2t28-d1e692">Idem.</p>
           <p xml:id="cice-l2t28-d1e695">Directae nobis tuae literae demonstrarunt, quod, quum in tua praesentia causa cuiusdam
             matrimonii tractaretur, in qua pars viri consanguinitatis vinculum opponebat, et pars
@@ -728,10 +728,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e699">
           <head xml:id="cice-l2t28-Hd1e701">CAP. XL.</head>
-          <p xml:id="cice-l2t28-d1e704">Sententia excommunicationis, suspensionis vel interdicti lata sub conditione
+          <head xml:id="cice-l2t28-d1e704" type="question-title">Sententia excommunicationis, suspensionis vel interdicti lata sub conditione
             suspenditur, si ante conditionis eventum fuerit appellatum. H. d. inhaerendo verbis
             literae, ut sic satisfaciat cuilibet lecturae. Et est decisio subtilis et multum
-            allegabilis.</p>
+            allegabilis.</head>
           <p xml:id="cice-l2t28-d1e707">Coelestinus III.</p>
           <p xml:id="cice-l2t28-d1e710">Praeterea requisiti fuimus, si quis iudex ita protulerit sententiam: “nisi Sempronio
             infra XX. dies satisfeceris, te excommunicatum vel suspensum aut interdictum esse
@@ -742,9 +742,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e715">
           <head xml:id="cice-l2t28-Hd1e717">CAP. XLI.</head>
-          <p xml:id="cice-l2t28-d1e720">Si per rescriptum committantur plures articuli connexi, et in uno removeatur
+          <head xml:id="cice-l2t28-d1e720" type="question-title">Si per rescriptum committantur plures articuli connexi, et in uno removeatur
             appellatio, intelligitur remota etiam in aliis. Hoc dicit. – §. 1. Causa suspicionis
-            proponenda est coram iudice, qui recusatur, et probanda coram arbitris, H. d.</p>
+            proponenda est coram iudice, qui recusatur, et probanda coram arbitris, H. d.</head>
           <p xml:id="cice-l2t28-d1e723">Idem.</p>
           <p xml:id="cice-l2t28-d1e726">Secundo requiris, quum, pluribus articulis in una commissione positis, in uno tantum
             contingit appellationem expresse vetari, utrum appellatio teneat, si super aliis fuerit
@@ -787,7 +787,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e730">
           <head xml:id="cice-l2t28-Hd1e732">CAP. XLII.</head>
-          <p xml:id="cice-l2t28-d1e735">Non tenetur iudex vel adversarius deferre appellationi, cui non detulit appellans.</p>
+          <head xml:id="cice-l2t28-d1e735" type="question-title">Non tenetur iudex vel adversarius deferre appellationi, cui non detulit appellans.</head>
           <p xml:id="cice-l2t28-d1e738">Idem.</p>
           <p xml:id="cice-l2t28-d1e741">An sit deferendum appellationi illius, quem adversarius de exspoliatione post
             appellationem legitime interpositam sibi facta paratus est in continenti convincere, nos
@@ -797,10 +797,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e745">
           <head xml:id="cice-l2t28-Hd1e747">CAP. XLIII.</head>
-          <p xml:id="cice-l2t28-d1e750">Habet duos intellectus; secundum primum hoc intendit: Merus exsecutor non recusatur,
+          <head xml:id="cice-l2t28-d1e750" type="question-title">Habet duos intellectus; secundum primum hoc intendit: Merus exsecutor non recusatur,
             nec ab eo appellatur, nisi modum excedat, maxime si est datus cum clausula:
             “appellatione remota.” Secundum alium intellectum h. d.: A iudice suspecto non receditur
-            per appellationem, nisi modum excedat.</p>
+            per appellationem, nisi modum excedat.</head>
           <p xml:id="cice-l2t28-d1e753">Innocentius III. illustri regi Francorum.</p>
           <p xml:id="cice-l2t28-d1e756">Novit ille, qui nihil ignorat: (Et infra: [cf. c. 7. de off. leg. I. 30.]) Praeterea
             dictam interdicti sententiam ipse cardinalis non edidit, sed potius publicavit, nec fuit
@@ -814,9 +814,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e760">
           <head xml:id="cice-l2t28-Hd1e762">CAP. XLIV.</head>
-          <p xml:id="cice-l2t28-d1e765">Si appellatio recipitur a iudice, vel approbatur a parte, terminus ad eam prosequendam
+          <head xml:id="cice-l2t28-d1e765" type="question-title">Si appellatio recipitur a iudice, vel approbatur a parte, terminus ad eam prosequendam
             praefixus obtinet vicem peremptorii, ut in absentem procedatur, ac si peremptorie
-            fuisset citatus; nec talis terminus praeveniri poterit ab aliqua partium.</p>
+            fuisset citatus; nec talis terminus praeveniri poterit ab aliqua partium.</head>
           <p xml:id="cice-l2t28-d1e768">Idem.</p>
           <p xml:id="cice-l2t28-d1e771">Saepe contingit, quod, quum ad nostram audientiam appellatur, propter defectum partis
             alterius neque per se, neque per responsalem idoneum appellationem interpositam
@@ -845,8 +845,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e775">
           <head xml:id="cice-l2t28-Hd1e777">CAP. XLV.</head>
-          <p xml:id="cice-l2t28-d1e780">Appellatione deserta per negligentiam appellantis, potest iudex ex officio procedere in
-            casibus, in quibus eius officium exuberat. Et est casus valde notabilis.</p>
+          <head xml:id="cice-l2t28-d1e780" type="question-title">Appellatione deserta per negligentiam appellantis, potest iudex ex officio procedere in
+            casibus, in quibus eius officium exuberat. Et est casus valde notabilis.</head>
           <p xml:id="cice-l2t28-d1e783">Idem Lemovicensi et Caturcensi Episcopis.</p>
           <p xml:id="cice-l2t28-d1e786">Constitutus in praesentia nostra dilectus filius G. archidiaconus Claremontensis
             ecclesiae nobis exposuit, quod olim Claremontensi decanatu vacante, abbas, cantor et
@@ -878,10 +878,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e790">
           <head xml:id="cice-l2t28-Hd1e792">CAP. LVI.</head>
-          <p xml:id="cice-l2t28-d1e795">Contra electum vel confirmatum, nullum aliud ius exspectantem, non admittitur
+          <head xml:id="cice-l2t28-d1e795" type="question-title">Contra electum vel confirmatum, nullum aliud ius exspectantem, non admittitur
             regulariter exceptio vel appellatio, maxime frustratoria ad impediendum electionis vel
             confirmationis effectum; sed possessione habita poterit accusari vel denunciari. H. d.
-            et secundum hoc est casus notabilis.</p>
+            et secundum hoc est casus notabilis.</head>
           <p xml:id="cice-l2t28-d1e798">Idem Cancellario Metensi.</p>
           <p xml:id="cice-l2t28-d1e801">Constitutis in praesentia nostra dilecto filio I. decano ecclesiae sancti Salvatoris,
             et dilecto filio E. cantore Metensi et D. scholastico eiusdem ecclesiae tuae
@@ -928,8 +928,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e806">
           <head xml:id="cice-l2t28-Hd1e808">CAP. XLVII.</head>
-          <p xml:id="cice-l2t28-d1e811">Appellari potest, si locus non tutus partibus assignatur, etiamsi sit scriptum
-            appellatione remota.</p>
+          <head xml:id="cice-l2t28-d1e811" type="question-title">Appellari potest, si locus non tutus partibus assignatur, etiamsi sit scriptum
+            appellatione remota.</head>
           <p xml:id="cice-l2t28-d1e814">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l2t28-d1e817">Ex parte tua †fuit propositum coram nobis, quod, quum inter Anglicos et Wallenses sint
             inimicitiae manifestae, et ad partes illas Anglicis periculosus sit transitus, pro
@@ -948,9 +948,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e821">
           <head xml:id="cice-l2t28-Hd1e823">CAP. XLVIII.</head>
-          <p xml:id="cice-l2t28-d1e826">Licite appellat reus, si non auditur excipiens, procuratorem actoris non habere
+          <head xml:id="cice-l2t28-d1e826" type="question-title">Licite appellat reus, si non auditur excipiens, procuratorem actoris non habere
             sufficiens mandatum, vel se prius conventum per alias literas, de quibus non fit mentio
-            in secundis. Hoc dicit quoad titulum.</p>
+            in secundis. Hoc dicit quoad titulum.</head>
           <p xml:id="cice-l2t28-d1e829">Idem Episcopo, Decano et Praecentori Herfordensibus.</p>
           <p xml:id="cice-l2t28-d1e832">Significavit nobis dilectus filius Ioannes magister hospitalis Eboracensis, †quod, quum
             P. quondam rector hospitalis ipsius diem clausisset extremum, venerabilis frater noster
@@ -981,7 +981,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e836">
           <head xml:id="cice-l2t28-Hd1e838">CAP. XLIX.</head>
-          <p xml:id="cice-l2t28-d1e841">Licite appellat reus, si non auditur petens declarari rem petitam in libello.</p>
+          <head xml:id="cice-l2t28-d1e841" type="question-title">Licite appellat reus, si non auditur petens declarari rem petitam in libello.</head>
           <p xml:id="cice-l2t28-d1e844">Idem Magistro G. Archidiacono et Wnormanno canonicis Suessionensibus.</p>
           <p xml:id="cice-l2t28-d1e847">Significantibus T. et R. fratribus nostro fuit apostolatui declaratum, quod, quum inter
             ipsos ex una parte, et V. ex altera super quadam terra coram iudicibus delegatis
@@ -992,8 +992,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e851">
           <head xml:id="cice-l2t28-Hd1e853">CAP. L.</head>
-          <p xml:id="cice-l2t28-d1e856">Iudex a quo non potest statuere terminum ad finiendam appellationem; quod si fecerit,
-            intelligitur statuisse ad se praesentandum.</p>
+          <head xml:id="cice-l2t28-d1e856" type="question-title">Iudex a quo non potest statuere terminum ad finiendam appellationem; quod si fecerit,
+            intelligitur statuisse ad se praesentandum.</head>
           <p xml:id="cice-l2t28-d1e859">Idem Eboracensi Episcopo, et de Luc. et de Monte Molli Abbatibus.</p>
           <p xml:id="cice-l2t28-d1e862">Ex insinuatione dilectorum filiorum prioris et canonicorum sanctae Barbarae nobis
             innotuit quod, quum inter ipsos ex una parte, et V. camerarium de Tangar. Rothomagensis
@@ -1015,10 +1015,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e866">
           <head xml:id="cice-l2t28-Hd1e868">CAP. LI.</head>
-          <p xml:id="cice-l2t28-d1e871">Qui extra iudicium appellat ex verisimilibus et probabilibus causis, ne in possessione
+          <head xml:id="cice-l2t28-d1e871" type="question-title">Qui extra iudicium appellat ex verisimilibus et probabilibus causis, ne in possessione
             molestetur, si postea spoliatur, restituitur ante omnia in statum, in quo erat tempore
             appellationis emissae. H. d. inhaerendo verbis literae, et ut mos geratur unicuique
-            lecturae. Panormitan.</p>
+            lecturae. Panormitan.</head>
           <p xml:id="cice-l2t28-d1e874">Idem Rofensi et Londoniensi Episcopis.</p>
           <p xml:id="cice-l2t28-d1e877">Bonae memoriae O. de Camera persona ecclesiae de Fan. viam universae carnis ingresso,
             dilectus filius abbas sancti Augustini Cantuariensis eiusdem ecclesiae, quam ad se
@@ -1136,8 +1136,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e881">
           <head xml:id="cice-l2t28-Hd1e883">CAP. LII.</head>
-          <p xml:id="cice-l2t28-d1e886">Itineris arreptio habet vim appellationis, si servantur ea, quae servari debent in
-            appellatione. H. d. secundum unum intellectum intrinsecum.</p>
+          <head xml:id="cice-l2t28-d1e886" type="question-title">Itineris arreptio habet vim appellationis, si servantur ea, quae servari debent in
+            appellatione. H. d. secundum unum intellectum intrinsecum.</head>
           <p xml:id="cice-l2t28-d1e889">Idem S. Augustini et S. Gregorii Prioribus.</p>
           <p xml:id="cice-l2t28-d1e892">Dilecti filii I. et H. [dilectorum filiorum] prioris et monachorum Cantuariensis
             ecclesiae nuncii nobis humiliter retulerunt, quod, quum pro causa, quae inter dictos
@@ -1152,10 +1152,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e897">
           <head xml:id="cice-l2t28-Hd1e899">CAP. LIII.</head>
-          <p xml:id="cice-l2t28-d1e902">Per clausulam: “appellatione remota” inhibetur omnis appellatio, quae a iure non
+          <head xml:id="cice-l2t28-d1e902" type="question-title">Per clausulam: “appellatione remota” inhibetur omnis appellatio, quae a iure non
             indulgetur expresse. Hoc dicit, usque ad §. Verum. – §. 1. Licet excommunicatus ab
             excommunicatione appellet, nihilominus denunciari potest, et beneficii reditibus
-            spoliari. Hoc dicit.</p>
+            spoliari. Hoc dicit.</head>
           <p xml:id="cice-l2t28-d1e905">Idem Episcopo Helinensi.</p>
           <p xml:id="cice-l2t28-d1e908">Pastoralis officii diligentia (Et infra: [cf. c. 28. de off. iud. del. I. 29.])
             Quaesivisti, etiam diligenter, utrum, quando inhibetur appellatio in rescripto,
@@ -1181,11 +1181,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e912">
           <head xml:id="cice-l2t28-Hd1e914">CAP. LIV.</head>
-          <p xml:id="cice-l2t28-d1e917">Si appellans ad superiorem comparet coram iudice inferiori super concernentibus ipsam
+          <head xml:id="cice-l2t28-d1e917" type="question-title">Si appellans ad superiorem comparet coram iudice inferiori super concernentibus ipsam
             appellationem, ipsi appellationi renunciare videtur. Si autem protestetur, quod propter
             hoc non intendit renunciare appellationi, tanquam contraria allegans non est audiendus,
             nisi notorium sit, actum illum esse iniustum, super cuius emendatione adivit inferiorem.
-            H. d. et est bonus casus.</p>
+            H. d. et est bonus casus.</head>
           <p xml:id="cice-l2t28-d1e920">Idem Episcopo Parisiensi.</p>
           <p xml:id="cice-l2t28-d1e923">Sollicitudinem pastoralis officii †prudenter exsequeris, quum super dubitationibus
             iuris responso sedis apostolicae postulas edoceri. Sane, quum, sicut ex tua insinuatione
@@ -1222,9 +1222,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e927">
           <head xml:id="cice-l2t28-Hd1e929">CAP. LV.</head>
-          <p xml:id="cice-l2t28-d1e932">Per appellationem legitime interpositam principale cum accessoriis ad iudicem
+          <head xml:id="cice-l2t28-d1e932" type="question-title">Per appellationem legitime interpositam principale cum accessoriis ad iudicem
             appellationis defertur, et sententiae excommunicationis et interdicti post appellationem
-            latae non tenent.</p>
+            latae non tenent.</head>
           <p xml:id="cice-l2t28-d1e935">Idem Episcopo et Cantori Trecensibus.</p>
           <p xml:id="cice-l2t28-d1e938">Dilectis filiis decano Altissiodorensi, ac magistro R. venerabilis fratris nostri
             Altissiodorensis episcopi procuratore in nostra praesentia constitutis, idem magister
@@ -1319,9 +1319,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e942">
           <head xml:id="cice-l2t28-Hd1e944">CAP. LVI.</head>
-          <p xml:id="cice-l2t28-d1e947">Postquam Papa aliquam causam ad se revocat, non valet processus postea per minorem
+          <head xml:id="cice-l2t28-d1e947" type="question-title">Postquam Papa aliquam causam ad se revocat, non valet processus postea per minorem
             iudicem factus; sicut non valeret, si fuisset ab eo legitime appellatum. Hoc dicit, ut
-            cuilibet lecturae satisfiat.</p>
+            cuilibet lecturae satisfiat.</head>
           <p xml:id="cice-l2t28-d1e950">Idem Mediolanensi Archiepiscopo.</p>
           <p xml:id="cice-l2t28-d1e953">Ut nostrum prodeat de vultu Dei iudicium (Et infra: [cf. c. un. Ut eccl. benef. III.
             12.]) Iudicibus dedimus in mandatis, ut, si etiam post secundum mandatum, per quod
@@ -1333,11 +1333,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e957">
           <head xml:id="cice-l2t28-Hd1e959">CAP. XLVII.</head>
-          <p xml:id="cice-l2t28-d1e962">Si terminum appellationis prosequendae statutum ab homine altera pars praevenit, hoc
+          <head xml:id="cice-l2t28-d1e962" type="question-title">Si terminum appellationis prosequendae statutum ab homine altera pars praevenit, hoc
             tacito literas impetrando, literae non valent: sed terminum iuris etiam appellatus
             praevenire potest, dummodo nimium non praecurrat. Et ubi ex dilatione imminet periculum,
             etiam neutra parte prosequente potest iudex ad quem supplere, partes compellendo ad
-            prosecutionem.</p>
+            prosecutionem.</head>
           <p xml:id="cice-l2t28-d1e965">Idem Abbati sancti Felicis et G. Canonico Bononiensibus.</p>
           <p xml:id="cice-l2t28-d1e968">Oblatae nobis vestrae literae continebant, quod, quum quidam iudices, quibus causa,
             quae inter Sambr. et Rinocor. plebes vertebatur, absque appellationis remedio fuerat ab
@@ -1392,8 +1392,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e972">
           <head xml:id="cice-l2t28-Hd1e974">CAP. LVIII.</head>
-          <p xml:id="cice-l2t28-d1e977">Altera parte contumaciter absente potest iudex appellationis etiam principale negotium
-            definire, si post litem contestatam fuerit appellatum.</p>
+          <head xml:id="cice-l2t28-d1e977" type="question-title">Altera parte contumaciter absente potest iudex appellationis etiam principale negotium
+            definire, si post litem contestatam fuerit appellatum.</head>
           <p xml:id="cice-l2t28-d1e980">Idem.</p>
           <p xml:id="cice-l2t28-d1e983">Per tuas nobis literas requisisti, utrum, si sub alicuius examine post latam
             sententiam, vel saltem post depositiones testium publicatas et lectas, fuerit ad sedem
@@ -1406,11 +1406,11 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e988">
           <head xml:id="cice-l2t28-Hd1e990">CAP. LIX.</head>
-          <p xml:id="cice-l2t28-d1e993">Notabile et famosum capitulum, habens multa nova dicta utrumque ius limitantia; et h.
+          <head xml:id="cice-l2t28-d1e993" type="question-title">Notabile et famosum capitulum, habens multa nova dicta utrumque ius limitantia; et h.
             d. in summa, inhaerendo simpliciter verbis literae: Appellans ante sententiam tenetur
             exprimere causam rationabilem coram ipso iudice a quo, nec admittitur exceptio, quod
             prius miserat nuncium ad sedem apostolicam, vel quod literas impetraverat, quae nondum
-            sunt iudici praesentatae.</p>
+            sunt iudici praesentatae.</head>
           <p xml:id="cice-l2t28-d1e996">Idem in concilio generali.</p>
           <p xml:id="cice-l2t28-d1e999">Ut debitus honor deferatur iudicibus, et litigatoribus consulatur super laboribus et
             expensis, statuimus, ut, si quis coram idoneo iudice convenerit adversarium, ille ante
@@ -1426,8 +1426,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1003">
           <head xml:id="cice-l2t28-Hd1e1005">CAP. LX.</head>
-          <p xml:id="cice-l2t28-d1e1008">Si iudex, a quo est appellatum a gravamine, illud revocat, potest in principali causa
-            procedere.</p>
+          <head xml:id="cice-l2t28-d1e1008" type="question-title">Si iudex, a quo est appellatum a gravamine, illud revocat, potest in principali causa
+            procedere.</head>
           <p xml:id="cice-l2t28-d1e1011">Idem in eodem.</p>
           <p xml:id="cice-l2t28-d1e1014">Quum cessante causa cesset effectus, statuimus, ut, sive iudex ordinarius sive
             delegatus aliquid comminando vel interloquendo protulerit, quo exsecutioni mandato alter
@@ -1438,13 +1438,13 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1018">
           <head xml:id="cice-l2t28-Hd1e1020">CAP. LXI.</head>
-          <p xml:id="cice-l2t28-d1e1023">Volens iudicem recusare, debet coram eodem suspicionis causam proponere, et eam coram
+          <head xml:id="cice-l2t28-d1e1023" type="question-title">Volens iudicem recusare, debet coram eodem suspicionis causam proponere, et eam coram
             arbitris communiter eligendis probare, qua non probata sua iurisdictione iudex utitur in
             principali; ea vero probata, remittit negotium ad superiorem, vel causam committit de
             recusatoris consensu. – (Porro etc.:) In notoriis non admittitur appellatio. In dubiis
             causa probabilis coram iudice est exprimenda, quae debeat legitima reputari, quam si non
             prosequitur, iudex a quo in causa procedat. Idem si prosequitur, et non probat. Haec
-            autem constitutio non extenditur ad regulares. H. d.</p>
+            autem constitutio non extenditur ad regulares. H. d.</head>
           <p xml:id="cice-l2t28-d1e1026">Idem in eodem.</p>
           <p xml:id="cice-l2t28-d1e1029">Quum speciali sit prohibitione provisum, ne quis in aliquem excommunicationis
             sententiam nisi competenti commonitione praemissa promulgare praesumat, volentes etiam
@@ -1477,8 +1477,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1033">
           <head xml:id="cice-l2t28-Hd1e1035">CAP. LXII.</head>
-          <p xml:id="cice-l2t28-d1e1038">Si iudex confessionem advocati eadem die revocatam pro litis contestatione velit
-            habere, vel processum a subdelegato subdelegati factum ratificat, licita appellatur.</p>
+          <head xml:id="cice-l2t28-d1e1038" type="question-title">Si iudex confessionem advocati eadem die revocatam pro litis contestatione velit
+            habere, vel processum a subdelegato subdelegati factum ratificat, licita appellatur.</head>
           <p xml:id="cice-l2t28-d1e1041">Honorius III. Decano, Cancellario et Cantori Linconiensibus.</p>
           <p xml:id="cice-l2t28-d1e1044">Quum causam, quae inter dilectos filios abbatem et fratres de Valle sancti Ioannis de
             Croston Praemonstratensis ordinis ex parte una, et priorem et canonicos de Novo loco
@@ -1521,9 +1521,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1048">
           <head xml:id="cice-l2t28-Hd1e1050">CAP. LXIII.</head>
-          <p xml:id="cice-l2t28-d1e1053">Non sufficit appellanti docere, quod exceptionem legitimam et veram opposuit et
+          <head xml:id="cice-l2t28-d1e1053" type="question-title">Non sufficit appellanti docere, quod exceptionem legitimam et veram opposuit et
             appellavit, nisi doceat propter exceptionem admissam appellasse. H. d. et est casus not.
-            et quotidianus.</p>
+            et quotidianus.</head>
           <p xml:id="cice-l2t28-d1e1056">Idem Decano et Thesaurario et P. S. Petri Canonico Zamorensibus.</p>
           <p xml:id="cice-l2t28-d1e1059">Dilecto filio G. capellano nostro, D. presbytero et I. episcopi et G. capituli
             Salamantini procuratori a nobis auditore concesso, procurator capituli pro se et
@@ -1550,10 +1550,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1063">
           <head xml:id="cice-l2t28-Hd1e1065">CAP. LXIV.</head>
-          <p xml:id="cice-l2t28-d1e1068">Appellans, qui terminum appellationi praefigit, si mittit procuratorem ad impetrandum
+          <head xml:id="cice-l2t28-d1e1068" type="question-title">Appellans, qui terminum appellationi praefigit, si mittit procuratorem ad impetrandum
             et contradicendum tantum, et appellatio fuit recepta a iudice, vel approbata a parte,
             adversario legitime prosequenti condemnatur in expensis. H. d. secundum communem
-            intellectum, licet glossa aliud senserit.</p>
+            intellectum, licet glossa aliud senserit.</head>
           <p xml:id="cice-l2t28-d1e1071">Idem sancti Andreae Archidiacono et Magistro Canonico de Melten.</p>
           <p xml:id="cice-l2t28-d1e1074">Nicolao militi ac fratri E. monacho monasterii sanctae Mariae de Drundaniam
             Cisterciensis ordinis dioecesis Candidae casae apud sedem apostolicam constitutis
@@ -1576,7 +1576,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1079">
           <head xml:id="cice-l2t28-Hd1e1081">CAP. LXV.</head>
-          <p xml:id="cice-l2t28-d1e1084">Ab eadem sententia ab eodem tertio appellare non licet.</p>
+          <head xml:id="cice-l2t28-d1e1084" type="question-title">Ab eadem sententia ab eodem tertio appellare non licet.</head>
           <p xml:id="cice-l2t28-d1e1087">Idem Episcopo Mantin. et P. Canonico Tuscanensi.</p>
           <p xml:id="cice-l2t28-d1e1090">Sua nobis R. tutor filiorum quondam B. civis Tuscanensis petitione monstravit, quod,
             quum inter ipsum ex una parte, et F. pro se, ac Petrum Campumallum tutorem B. quondam
@@ -1598,8 +1598,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1094">
           <head xml:id="cice-l2t28-Hd1e1096">CAP. LXVI.</head>
-          <p xml:id="cice-l2t28-d1e1099">Appellatio omisso medio iudice interposita causam non devolvit exceptione opposita. Hoc
-            dicit secundum communem intellectum.</p>
+          <head xml:id="cice-l2t28-d1e1099" type="question-title">Appellatio omisso medio iudice interposita causam non devolvit exceptione opposita. Hoc
+            dicit secundum communem intellectum.</head>
           <p xml:id="cice-l2t28-d1e1102">Idem Magistro G. Archidiacono et Officiali Lemon.</p>
           <p xml:id="cice-l2t28-d1e1105">Dilecti filii prior et conventus de Lacu Rubeo transmissa nobis petitione monstrarunt,
             †quod, quum inter ipsos ex parte una, et F. de Hambaro, militem Claromontensis dioecesis
@@ -1618,7 +1618,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1109">
           <head xml:id="cice-l2t28-Hd1e1111">CAP. LXVII.</head>
-          <p xml:id="cice-l2t28-d1e1114">Si is, qui desiit esse tutor, nomine pupilli convenitur invitus, poterit appellare.</p>
+          <head xml:id="cice-l2t28-d1e1114" type="question-title">Si is, qui desiit esse tutor, nomine pupilli convenitur invitus, poterit appellare.</head>
           <p xml:id="cice-l2t28-d1e1117">Gregorius IX. Magistro scholarium H. et G. de Rupe Canonicis S. Andoniani Morinensis
             dioecesis.</p>
           <p xml:id="cice-l2t28-d1e1120">Ex parte M. dominae de Colb. nobis fuit oblata querela, quod, quum nobis mulier domina
@@ -1634,8 +1634,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1124">
           <head xml:id="cice-l2t28-Hd1e1126">CAP. LXVIII.</head>
-          <p xml:id="cice-l2t28-d1e1129">Si iudex de iure dubitans vult consulere superiorem, debet consultationis copiam
-            partibus edere; alias eius verbis consultationis fides non adhibetur.</p>
+          <head xml:id="cice-l2t28-d1e1129" type="question-title">Si iudex de iure dubitans vult consulere superiorem, debet consultationis copiam
+            partibus edere; alias eius verbis consultationis fides non adhibetur.</head>
           <p xml:id="cice-l2t28-d1e1132">Idem Magistro et Fratribus domus Moriensis.</p>
           <p xml:id="cice-l2t28-d1e1135">Intimasti (Et infra:) Praeterea Hospitalariis ignorantibus, et non facta eis copia de
             inquisitionis processu ad nos relationem transmisisse noscuntur, quum iuxta legitimas
@@ -1644,10 +1644,10 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1139">
           <head xml:id="cice-l2t28-Hd1e1141">CAP. LXIX.</head>
-          <p xml:id="cice-l2t28-d1e1144">Si ante litem contestatam circa principale negotium iudex aliquid innovat, vel diem
+          <head xml:id="cice-l2t28-d1e1144" type="question-title">Si ante litem contestatam circa principale negotium iudex aliquid innovat, vel diem
             assignatam sine causa praevenit, licite appellatur. Et si procurator datus ad
             impetrandum super appellatione non servavit formam mandati, auditur appellans etiam post
-            annum.</p>
+            annum.</head>
           <p xml:id="cice-l2t28-d1e1147">Idem Archiepiscopo, Archidiacono et G. Canonico Turonensibus.</p>
           <p xml:id="cice-l2t28-d1e1150">Significante Aurelianensi episcopo nos noveritis accepisse, quod, quum decanus et
             capitulum Magdunense ipsum super eo, quod dicebant alibi, quam in stallis decani et
@@ -1671,7 +1671,7 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1154">
           <head xml:id="cice-l2t28-Hd1e1156">CAP. LXX.</head>
-          <p xml:id="cice-l2t28-d1e1159">Capitulum famosum et multum allegabile, et h. d.: Ad iustificandam appellationem ex
+          <head xml:id="cice-l2t28-d1e1159" type="question-title">Capitulum famosum et multum allegabile, et h. d.: Ad iustificandam appellationem ex
             causa interpositam probare oportet causae veritatem coram iudice ad quem, nisi fuerit
             coram iudice a quo oblata et reiecta. H. d. singulariter usque ad §. Eidem. – §. 1. Si
             appellatio non fuit recepta a iudice vel approbata a parte, sufficit appellanti mittere
@@ -1682,7 +1682,7 @@
             illa appellatione. H. d. usque ad §. Sane. Abbas Siculus. – §. 3. Articulus
             appellationis interpositae a gravamine discutitur per iudicem ad quem, parte absente per
             contumaciam, etiam lite non contestata in appellatione vel principali causa. Hoc dicit,
-            Abbas Siculus.</p>
+            Abbas Siculus.</head>
           <p xml:id="cice-l2t28-d1e1162">Idem.</p>
           <p xml:id="cice-l2t28-d1e1165">Interposita appellatione ex causa probabili non sufficit appellanti probare, quod ex
             causa huiusmodi provocavit, si eam non doceat esse veram, nisi hoc se offerens
@@ -1702,9 +1702,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1170">
           <head xml:id="cice-l2t28-Hd1e1172">CAP. LXXI.</head>
-          <p xml:id="cice-l2t28-d1e1175">Clausula: “appellatione remota” in medio literarum posita respicit praemissa, quibus
+          <head xml:id="cice-l2t28-d1e1175" type="question-title">Clausula: “appellatione remota” in medio literarum posita respicit praemissa, quibus
             annectitur, non sequentia, nisi repetatur in fine literarum. Et hoc si negotia sunt
-            separata.</p>
+            separata.</head>
           <p xml:id="cice-l2t28-d1e1178">Idem.</p>
           <p xml:id="cice-l2t28-d1e1181">Inquisitioni tuae taliter respondemus, quod, quotiens clausula, per quam tollitur
             appellationis remedium, in medio literarum ponitur, si sunt plura negotia se minime
@@ -1713,9 +1713,9 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1185">
           <head xml:id="cice-l2t28-Hd1e1187">CAP. LXXII.</head>
-          <p xml:id="cice-l2t28-d1e1190">Breve est, sed per alia verba sic summatur: Appellatio unius prodest alteri, si communi
+          <head xml:id="cice-l2t28-d1e1190" type="question-title">Breve est, sed per alia verba sic summatur: Appellatio unius prodest alteri, si communi
             iure iuventur, et idem sit negotium, et eadem defensionis causa, et sint eadem sententia
-            condemnati; alias secus.</p>
+            condemnati; alias secus.</head>
           <p xml:id="cice-l2t28-d1e1193">Idem.</p>
           <p xml:id="cice-l2t28-d1e1196">Una sententia pluribus condemnatis, si unus solus ad appellationis beneficium
             convolaverit, illius victoria iure communi ceteris suffragatur, si communi iure
@@ -1723,8 +1723,8 @@
         </div>
         <div xml:id="cice-l2t28-Dd1e1200">
           <head xml:id="cice-l2t28-Hd1e1202">CAP. LXXIII.</head>
-          <p xml:id="cice-l2t28-d1e1205">Iustus metus excusat adeo, quod non appellans habetur pro appellante, si fuerit
-            protestatus, et appellationis causas duxerit exprimendas.</p>
+          <head xml:id="cice-l2t28-d1e1205" type="question-title">Iustus metus excusat adeo, quod non appellans habetur pro appellante, si fuerit
+            protestatus, et appellationis causas duxerit exprimendas.</head>
           <p xml:id="cice-l2t28-d1e1208">Idem.</p>
           <p xml:id="cice-l2t28-d1e1211">Si iustus metus, quo minus appellaveris, te excusat, ad appellationis reputaris
             beneficium convolasse, dummodo infra tempus, quo licite provocatur, coram iudice, a quo

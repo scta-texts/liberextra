@@ -57,8 +57,8 @@
         <div xml:id="cice-l3t2-Dd1e108">
           <head xml:id="cice-l3t2-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t2-d1e113">Clericus non debet retinere in domo mulierem suspectam de incontinentia, etiamsi sit
-            mater vel alia consanguinea.</p>
+          <head xml:id="cice-l3t2-d1e113" type="question-title">Clericus non debet retinere in domo mulierem suspectam de incontinentia, etiamsi sit
+            mater vel alia consanguinea.</head>
           <p xml:id="cice-l3t2-d1e116">Ex concilio Maguntino.</p>
           <p xml:id="cice-l3t2-d1e119">Inhibendum est et modis omnibus interminandum, ut nullus sacerdos feminas, sicut [et]
             in canone insertum continetur, de quibus suspicio potest esse, in domo sua retineat. Sed
@@ -72,8 +72,8 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e123">
           <head xml:id="cice-l3t2-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t2-d1e128">Excommunicatur clericus in sacris, qui a suspectarum mulierum colloquio vel earum
-            consortio monitus non desistit.</p>
+          <head xml:id="cice-l3t2-d1e128" type="question-title">Excommunicatur clericus in sacris, qui a suspectarum mulierum colloquio vel earum
+            consortio monitus non desistit.</head>
           <p xml:id="cice-l3t2-d1e131">Ex decreto Eugenii Papae.</p>
           <p xml:id="cice-l3t2-d1e134">Si quisquam sacerdotum, id est presbyter, diaconus vel subdiaconus, de quacunque femina
             crimine fornicationis suspectus, post primam et secundam et tertiam admonitionem
@@ -82,8 +82,8 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e138">
           <head xml:id="cice-l3t2-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t2-d1e143">Non debet praelatus clericum cogere ad concubinam abiurandam; sed eam nolentem
-            dimittere potest excommunicare.</p>
+          <head xml:id="cice-l3t2-d1e143" type="question-title">Non debet praelatus clericum cogere ad concubinam abiurandam; sed eam nolentem
+            dimittere potest excommunicare.</head>
           <p xml:id="cice-l3t2-d1e146">Alexander III. Salernitano Archiepiscopo.</p>
           <p xml:id="cice-l3t2-d1e149">Clericos autem in sacris ordinibus constitutos, qui in domibus propriis publice tenent
             concubinas, ad eas abiurandas nolumus a tua fraternitate compelli, ne, in eandem
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e153">
           <head xml:id="cice-l3t2-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t2-d1e158">Si clerici moniti concubinas non dimittunt, suspenduntur a beneficiis, et, si se non
-            corrigunt, deponuntur.</p>
+          <head xml:id="cice-l3t2-d1e158" type="question-title">Si clerici moniti concubinas non dimittunt, suspenduntur a beneficiis, et, si se non
+            corrigunt, deponuntur.</head>
           <p xml:id="cice-l3t2-d1e161">Idem Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l3t2-d1e164">Sicut ad exstirpanda †vitia, quae periculum pariunt animarum, summopere nos decet
             intendere ita etiam nos convenit germina propagare virtutum, ex quibus [Dei] fidelibus
@@ -116,8 +116,8 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e169">
           <head xml:id="cice-l3t2-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t2-d1e174">Literae a clerico concubinario suspenso super absolutione tacita facti serie obtentae
-            non valent.</p>
+          <head xml:id="cice-l3t2-d1e174" type="question-title">Literae a clerico concubinario suspenso super absolutione tacita facti serie obtentae
+            non valent.</head>
           <p xml:id="cice-l3t2-d1e177">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l3t2-d1e180">Super eo vero quod asseris A. presbyterum fornicariam detinentem, propter hoc ab
             officio suo suspensum, †prudentiae tuae taliter respondemus, quod, si super hoc
@@ -130,8 +130,8 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e184">
           <head xml:id="cice-l3t2-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t2-d1e189">Si clerici moniti non dimittunt concubinas, suspenduntur a beneficiis, et, si se non
-            corrigunt, deponuntur.</p>
+          <head xml:id="cice-l3t2-d1e189" type="question-title">Si clerici moniti non dimittunt concubinas, suspenduntur a beneficiis, et, si se non
+            corrigunt, deponuntur.</head>
           <p xml:id="cice-l3t2-d1e192">Idem Londonensi Archiepiscopo.</p>
           <p xml:id="cice-l3t2-d1e195">Si autem clerici tuae iurisdictionis, sive in sacris ordinibus sive in inferioribus
             constituti, fornicarias detinent, nisi eas ad secundam vel tertiam commonitionem a se
@@ -141,10 +141,10 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e199">
           <head xml:id="cice-l3t2-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t2-d1e204">A clerico fornicario, quamdiu toleratur, nec habet operis evidentiam, licite audiuntur
+          <head xml:id="cice-l3t2-d1e204" type="question-title">A clerico fornicario, quamdiu toleratur, nec habet operis evidentiam, licite audiuntur
             divina, et percipiuntur ecclesiastica sacramenta; a notorio vero abstinendum est, non
             quia in sacramento sit defectus, sed ad ipsorum fornicatorum emendationem. H. d.
-            inhaerendo verbis literae.</p>
+            inhaerendo verbis literae.</head>
           <p xml:id="cice-l3t2-d1e207">Lucius III.</p>
           <p xml:id="cice-l3t2-d1e210">Vestra duxit devotio inquirendum, †utrum vobis ecclesias parochiales adeuntibus [utile
             sit missas eorum audire], qui concubinas habere creduntur. De hoc [enim] videntur
@@ -166,10 +166,10 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e214">
           <head xml:id="cice-l3t2-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t2-d1e219">Si fornicatio clerici est ita publica, quod transit in notorium, nec accusator, nec
+          <head xml:id="cice-l3t2-d1e219" type="question-title">Si fornicatio clerici est ita publica, quod transit in notorium, nec accusator, nec
             testis necessarius est. Sed si est publica per solam famam, non sufficiunt ad
             condemnationem sola testimonia, id est testium dicta non iuratorum. Sed si ex hoc
-            oriretur scandalum inducitur purgatio, in qua deficiens canonice punitur.</p>
+            oriretur scandalum inducitur purgatio, in qua deficiens canonice punitur.</head>
           <p xml:id="cice-l3t2-d1e222">Innocentius III. Exonensi Episcopo.</p>
           <p xml:id="cice-l3t2-d1e225">Tua nos duxit fraternitas consulendos, si de clericis publice concubinas habentibus,
             qui, quando a te conveniuntur, se esse concubinarios diffitentur, nec apparet contra eos
@@ -186,7 +186,7 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e229">
           <head xml:id="cice-l3t2-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t2-d1e234">Breve est, unde non summatur.</p>
+          <head xml:id="cice-l3t2-d1e234" type="question-title">Breve est, unde non summatur.</head>
           <p xml:id="cice-l3t2-d1e237">Idem Pistoriensi Episcopo.</p>
           <p xml:id="cice-l3t2-d1e240">A nobis tua fraternitas requisivit (Et infra: [cf. c. 24. de dec. III. 30.]) Cum
             clericis quoque non permittas mulierculas habitare, nisi forte de illis personis
@@ -195,7 +195,7 @@
         </div>
         <div xml:id="cice-l3t2-Dd1e244">
           <head xml:id="cice-l3t2-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t2-d1e249">Clericus concubinarius in officiis vitandus non est, nisi sit notorius.</p>
+          <head xml:id="cice-l3t2-d1e249" type="question-title">Clericus concubinarius in officiis vitandus non est, nisi sit notorius.</head>
           <p xml:id="cice-l3t2-d1e252">Gregorius IX.</p>
           <p xml:id="cice-l3t2-d1e255">Quaesitum est de clericis in fornicationem prolapsis, si eorum sit officium, priusquam
             poenituerint, audiendum. Verum etsi quemlibet pro mortali peccato quoad se ipsum constet

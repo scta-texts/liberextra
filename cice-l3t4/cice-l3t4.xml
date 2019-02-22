@@ -57,8 +57,8 @@
         <div xml:id="cice-l3t4-Dd1e108">
           <head xml:id="cice-l3t4-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t4-d1e113">Episcopo non licet sine licentia Papae transire ad alium episcopatum, ipsum acceptando;
-            alias privatur habito et ambito. Hoc intendit cum glossa.</p>
+          <head xml:id="cice-l3t4-d1e113" type="question-title">Episcopo non licet sine licentia Papae transire ad alium episcopatum, ipsum acceptando;
+            alias privatur habito et ambito. Hoc intendit cum glossa.</head>
           <p xml:id="cice-l3t4-d1e116">Ex concilio Sardicensi.</p>
           <p xml:id="cice-l3t4-d1e119">Non liceat episcopo de civitate sua transire ad aliam [civitatem]. Manifesta est enim
             causa, pro qua facere hoc attentat, quum nullus in hac re sit inventus episcopus, qui ad
@@ -66,8 +66,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e123">
           <head xml:id="cice-l3t4-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t4-d1e128">Deponitur cardinalis, qui in suo titulo non residet. H. d. et est iste textus multum
-            notabilis.</p>
+          <head xml:id="cice-l3t4-d1e128" type="question-title">Deponitur cardinalis, qui in suo titulo non residet. H. d. et est iste textus multum
+            notabilis.</head>
           <p xml:id="cice-l3t4-d1e131">Leo III.</p>
           <p xml:id="cice-l3t4-d1e134">Ex gestis (Et infra:) In synodo Anastasius presbyter cardinalis tituli beati Marcelli
             ab omnibus canonice est depositus eo, quod parochiam suam per annos quinque contra
@@ -75,9 +75,9 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e138">
           <head xml:id="cice-l3t4-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t4-d1e143">Uni plures dignitates vel ecclesiae conferri non debent, et ecclesia est conferenda
+          <head xml:id="cice-l3t4-d1e143" type="question-title">Uni plures dignitates vel ecclesiae conferri non debent, et ecclesia est conferenda
             illi, qui residere et regnare valeat per se ipsum; alias perdit ecclesiam, et donans
-            conferendi potestate privatur.</p>
+            conferendi potestate privatur.</head>
           <p xml:id="cice-l3t4-d1e146">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t4-d1e149">Quia nonnulli, modum avaritiae non ponentes, dignitates diversas ecclesiasticas et
             plures ecclesias parochiales contra sacrorum canonum instituta nituntur accipere [ita],
@@ -90,9 +90,9 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e153">
           <head xml:id="cice-l3t4-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t4-d1e158">Praesentatus ad ecclesiam non confirmatus, si apparet, quod nolit residere, non debet
+          <head xml:id="cice-l3t4-d1e158" type="question-title">Praesentatus ad ecclesiam non confirmatus, si apparet, quod nolit residere, non debet
             institui per superiorem; confirmatus autem et ex non iusta causa non residens privatur
-            appellatione remota.</p>
+            appellatione remota.</head>
           <p xml:id="cice-l3t4-d1e161">Alexander III. Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l3t4-d1e164">Relatum est nobis ex parte tua, quod, quum in Lateranensi concilio statutum sit, ut
             personae tali ecclesia vel beneficium ecclesiasticum conferatur, quae residere in loco
@@ -108,7 +108,7 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e169">
           <head xml:id="cice-l3t4-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t4-d1e174">Idem Eboracensi Archiepiscopo.</p>
+          <head xml:id="cice-l3t4-d1e174" type="question-title">Idem Eboracensi Archiepiscopo.</head>
           <p xml:id="cice-l3t4-d1e177">Fraternitati tuae †duximus indulgendum, ut, si clerici, qui in ecclesiis tuae
             iurisdictionis beneficium sunt adepti, ad aliam dioecesin absque licentia et assensu tuo
             morandi causa transierint, liceat eos tibi beneficiis, quae a te habent, spoliare, nisi
@@ -119,7 +119,7 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e181">
           <head xml:id="cice-l3t4-Hd1e183">CAP. VI.</head>
-          <p xml:id="cice-l3t4-d1e186">Qui non residet in beneficio etiam modicae aestimationis, illo privatur.</p>
+          <head xml:id="cice-l3t4-d1e186" type="question-title">Qui non residet in beneficio etiam modicae aestimationis, illo privatur.</head>
           <p xml:id="cice-l3t4-d1e189">Idem.</p>
           <p xml:id="cice-l3t4-d1e192">Conquerente nobis R. presbytero accepimus, quod G. clericus ab eo pro ecclesia sua, de
             qua, sicut dicitur, vitae necessaria vix potest percipere, annuatim viginti solidos
@@ -135,8 +135,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e196">
           <head xml:id="cice-l3t4-Hd1e198">CAP. VII.</head>
-          <p xml:id="cice-l3t4-d1e201">Qui est in servitio episcopi, percipit fructus beneficii tanquam residens, praeter
-            distributiones quotidianas. Abbas.</p>
+          <head xml:id="cice-l3t4-d1e201" type="question-title">Qui est in servitio episcopi, percipit fructus beneficii tanquam residens, praeter
+            distributiones quotidianas. Abbas.</head>
           <p xml:id="cice-l3t4-d1e204">Idem.</p>
           <p xml:id="cice-l3t4-d1e207">De cetero, †quia dignum est et conveniens, ut ecclesiae tuae canonici, donec circa te
             in tuo servitio morantur, communitatis portionem recipiant, praesenti scripto Statuimus,
@@ -146,8 +146,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e211">
           <head xml:id="cice-l3t4-Hd1e213">CAP. VIII.</head>
-          <p xml:id="cice-l3t4-d1e216">Privandus est prelatus vel clericus non residens, qui citatus non revertitur in termino
-            sibi praefixo, nisi habeat iustum impedimentum. H. d. cum duobus sequentibus.</p>
+          <head xml:id="cice-l3t4-d1e216" type="question-title">Privandus est prelatus vel clericus non residens, qui citatus non revertitur in termino
+            sibi praefixo, nisi habeat iustum impedimentum. H. d. cum duobus sequentibus.</head>
           <p xml:id="cice-l3t4-d1e219">Coelestinus III.</p>
           <p xml:id="cice-l3t4-d1e222">Ex parte vestra nostro fuit apostolatui reseratum, quod ecclesiae vestrae decanus, qui
             in partibus Gallicanis sibi potius habitationem elegit, iam per decem annorum spatium
@@ -160,7 +160,7 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e226">
           <head xml:id="cice-l3t4-Hd1e228">CAP. IX.</head>
-          <p xml:id="cice-l3t4-d1e231">Summatum est in capitulo praecedenti.</p>
+          <head xml:id="cice-l3t4-d1e231" type="question-title">Summatum est in capitulo praecedenti.</head>
           <p xml:id="cice-l3t4-d1e234">Innocentius III. Capitulo Ragusino.</p>
           <p xml:id="cice-l3t4-d1e237">Qualiter archiepiscopus vester temeritate propria recessit ab ecclesia Ragusinensi, nec
             iam ultra quadriennium exspectatus redierit, et per literas etiam vestras revocatus,
@@ -175,7 +175,7 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e241">
           <head xml:id="cice-l3t4-Hd1e243">CAP. X.</head>
-          <p xml:id="cice-l3t4-d1e246">Summa ut in capitulo Ex parte supr. eodem.</p>
+          <head xml:id="cice-l3t4-d1e246" type="question-title">Summa ut in capitulo Ex parte supr. eodem.</head>
           <p xml:id="cice-l3t4-d1e249">Idem Constantinopolitano Patriarchae.</p>
           <p xml:id="cice-l3t4-d1e252">Inter quatuor animalia (Et infra: [cf. c. 8. de mai. et ob. I. 33.]) De clericis autem,
             qui ecclesias vel praebendas sibi concessas sine iusta et necessaria causa in hac
@@ -186,10 +186,10 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e257">
           <head xml:id="cice-l3t4-Hd1e259">CAP. XI.</head>
-          <p xml:id="cice-l3t4-d1e262">Si nescitur, ubi sit clericus, tribus publicis edictis citabitur in ecclesia sua, et,
+          <head xml:id="cice-l3t4-d1e262" type="question-title">Si nescitur, ubi sit clericus, tribus publicis edictis citabitur in ecclesia sua, et,
             si infra sex menses non revertatur, privabitur ecclesia sua. H. d. usque ad vers. Contra
             eos. – (Contra eos etc.) Iste versiculus non summatur propter varietatem lecturarum, et
-            quia secundum unum intellectum non facit ad rubricam.</p>
+            quia secundum unum intellectum non facit ad rubricam.</head>
           <p xml:id="cice-l3t4-d1e265">Idem Archiepiscopo Panormitano.</p>
           <p xml:id="cice-l3t4-d1e268">Ex tuae devotionis †insinuatione recepimus, [quod, quum Latini regionem Achaiae
             occupassent, quidam episcopi Graeci suffraganei tui timore perterriti de locis propriis
@@ -217,8 +217,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e272">
           <head xml:id="cice-l3t4-Hd1e274">CAP. XII.</head>
-          <p xml:id="cice-l3t4-d1e277">Privilegiatus ut absens in studio fructus praebendae recipiat. Exsistens in villa vel
-            castello, ubi nullum est vel minus competens studium, privilegio non utitur.</p>
+          <head xml:id="cice-l3t4-d1e277" type="question-title">Privilegiatus ut absens in studio fructus praebendae recipiat. Exsistens in villa vel
+            castello, ubi nullum est vel minus competens studium, privilegio non utitur.</head>
           <p xml:id="cice-l3t4-d1e280">Idem Altissiodorensi Episcopo.</p>
           <p xml:id="cice-l3t4-d1e283">Tuae fraternitatis discretio postulavit (Et infra:) Quaesivisti praeterea, ut, quum
             interdum canonici, quibus studiorum gratia est indultum, ut in absentia sua fructus
@@ -231,7 +231,7 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e287">
           <head xml:id="cice-l3t4-Hd1e289">CAP. XIII.</head>
-          <p xml:id="cice-l3t4-d1e292">Qui iuravit in ecclesia residere, pro servitiis ecclesiae licite se absentat.</p>
+          <head xml:id="cice-l3t4-d1e292" type="question-title">Qui iuravit in ecclesia residere, pro servitiis ecclesiae licite se absentat.</head>
           <p xml:id="cice-l3t4-d1e295">Honorius III. Praeposito de Valeriis.</p>
           <p xml:id="cice-l3t4-d1e298">Ex parte tua fuit propositum coram nobis, quod tempore, quo recepisti praeposituram de
             Valeriis, praestitisti de facienda residentia iuramentum, †quae ligia nuncupatur, in
@@ -245,8 +245,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e302">
           <head xml:id="cice-l3t4-Hd1e304">CAP. XIV.</head>
-          <p xml:id="cice-l3t4-d1e307">Familiaris Papae, non obstante constitutione contraria, praebendae suae fructus
-            percipit in absentia.</p>
+          <head xml:id="cice-l3t4-d1e307" type="question-title">Familiaris Papae, non obstante constitutione contraria, praebendae suae fructus
+            percipit in absentia.</head>
           <p xml:id="cice-l3t4-d1e310">Idem Capitulo Metensi.</p>
           <p xml:id="cice-l3t4-d1e313">Quum dilectus filius magister Otto, †scriptor noster, canonicus ecclesiae vestrae,
             grata nobis iugiter impendat obsequia, et non minus, si sit absens, quam praesens, eidem
@@ -260,8 +260,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e317">
           <head xml:id="cice-l3t4-Hd1e319">CAP. XV.</head>
-          <p xml:id="cice-l3t4-d1e322">Duo canonici absentes cum episcopo, seu in eius servitio, fructus praebendarum suarum
-            percipiunt in absentia, constitutione ecclesiae contraria non obstante.</p>
+          <head xml:id="cice-l3t4-d1e322" type="question-title">Duo canonici absentes cum episcopo, seu in eius servitio, fructus praebendarum suarum
+            percipiunt in absentia, constitutione ecclesiae contraria non obstante.</head>
           <p xml:id="cice-l3t4-d1e325">Idem Meldensi Episcopo.</p>
           <p xml:id="cice-l3t4-d1e328">Ad audientiam nostram te significante pervenit, quod, quum in Meldensi ecclesia quaedam
             sit constitutio inita, vallata iuramento et auctoritate sedis apostolicae confirmata, ut
@@ -281,8 +281,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e332">
           <head xml:id="cice-l3t4-Hd1e334">CAP. XVI.</head>
-          <p xml:id="cice-l3t4-d1e337">Si ecclesia patitur ministrorum defectum, privilegiati super absentia per subtractionem
-            proventuum redire coguntur. H. d. et est bonus textus, et potest multum practicari.</p>
+          <head xml:id="cice-l3t4-d1e337" type="question-title">Si ecclesia patitur ministrorum defectum, privilegiati super absentia per subtractionem
+            proventuum redire coguntur. H. d. et est bonus textus, et potest multum practicari.</head>
           <p xml:id="cice-l3t4-d1e340">Gregorius IX. Patriarchae Antiochiae apostolicae sedis Legato.</p>
           <p xml:id="cice-l3t4-d1e343">Quum ad hoc sint ecclesiastica beneficia deputata (Et infra:) Sane nobis innotuit, quod
             ecclesia Antiochena multis ex servitoribus eius absentibus est fere destituta ministris.
@@ -294,8 +294,8 @@
         </div>
         <div xml:id="cice-l3t4-Dd1e348">
           <head xml:id="cice-l3t4-Hd1e350">CAP. XVII.</head>
-          <p xml:id="cice-l3t4-d1e353">Privatur beneficio clericus non residens, si monitus non redeat, nec iustam
-            excusationem alleget. H. d. et est casus notabilis.</p>
+          <head xml:id="cice-l3t4-d1e353" type="question-title">Privatur beneficio clericus non residens, si monitus non redeat, nec iustam
+            excusationem alleget. H. d. et est casus notabilis.</head>
           <p xml:id="cice-l3t4-d1e356">Idem.</p>
           <p xml:id="cice-l3t4-d1e359">Clericos in ecclesiis tuae iurisdictionis beneficia, quae residentiam exigunt,
             assecutos, si ad alterius dioecesim absque licentia tua morandi causa transierint,

@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t35-Dd1e108">
           <head xml:id="cice-l5t35-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t35-d1e113">Duella et aliae purgationes vulgares prohibitae sunt, quia per eos multoties
-            condemnatur absolvendus, et Deus tentari videtur. H. d. totus titulus.</p>
+          <head xml:id="cice-l5t35-d1e113" type="question-title">Duella et aliae purgationes vulgares prohibitae sunt, quia per eos multoties
+            condemnatur absolvendus, et Deus tentari videtur. H. d. totus titulus.</head>
           <p xml:id="cice-l5t35-d1e116">Coelestinus III.</p>
           <p xml:id="cice-l5t35-d1e119">Cura suscepti regiminis †nos inducit, ut fratrum nostrorum debeamus consultationibus
             respondere, et ab eis, quantum humana permittit fragilitas, dubitationis scrupulum
@@ -69,7 +69,7 @@
         </div>
         <div xml:id="cice-l5t35-Dd1e123">
           <head xml:id="cice-l5t35-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t35-d1e128">Summatum est supr. cap. proximo.</p>
+          <head xml:id="cice-l5t35-d1e128" type="question-title">Summatum est supr. cap. proximo.</head>
           <p xml:id="cice-l5t35-d1e131">Innocentius III. Priori S. Sergii Spoletani.</p>
           <p xml:id="cice-l5t35-d1e134">Significantibus V. laico et fratribus eius ad nostram noveris audientiam pervenisse,
             quod, quum quidam eos super furti crimine accusaret, cum eo praeter terrae consuetudinem
@@ -85,7 +85,7 @@
         </div>
         <div xml:id="cice-l5t35-Dd1e138">
           <head xml:id="cice-l5t35-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t35-d1e143">Summatum est supra cap. I.</p>
+          <head xml:id="cice-l5t35-d1e143" type="question-title">Summatum est supra cap. I.</head>
           <p xml:id="cice-l5t35-d1e146">Honorius III.</p>
           <p xml:id="cice-l5t35-d1e149">Dilecti filii noviter in Livonia baptizati gravem ad nos querimoniam destinarunt, quod
             fratres Templariorum ordinem in Livonia profitentes, et alii quidam advocati et iudices,

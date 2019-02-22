@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t21-Dd1e108">
           <head xml:id="cice-l2t21-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t21-d1e113">In causa civili monendi et inducendi testes sunt ad testificandum, et, si se subtrahant
-            odio, gratia etc., compelluntar.</p>
+          <head xml:id="cice-l2t21-d1e113" type="question-title">In causa civili monendi et inducendi testes sunt ad testificandum, et, si se subtrahant
+            odio, gratia etc., compelluntar.</head>
           <p xml:id="cice-l2t21-d1e116">Alexander III. Papiensi Electo.</p>
           <p xml:id="cice-l2t21-d1e119">Causam matrimonii, quae inter M. mulierem et filium R. Canis vertitur, ab examine tuo
             ad audientiam nostram appellatione perlatam commisimus iudicibus terminandam. Ideoque
@@ -71,8 +71,8 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e123">
           <head xml:id="cice-l2t21-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t21-d1e128">Ubi testimonium est necessarium, compellendi sunt testes ad illud ferendum, etiam per
-            suspensionis, excommunicationis et depositionis sententiam.</p>
+          <head xml:id="cice-l2t21-d1e128" type="question-title">Ubi testimonium est necessarium, compellendi sunt testes ad illud ferendum, etiam per
+            suspensionis, excommunicationis et depositionis sententiam.</head>
           <p xml:id="cice-l2t21-d1e131">Idem Presbyteris Pontiae.</p>
           <p xml:id="cice-l2t21-d1e134">Quum super causa, quae vertitur inter venerabilem fratrem nostrum Praenestinensem
             episcopum et dilectum filium Sublacensem abbatem, sit testimonium vestrum necessarium,
@@ -85,9 +85,9 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e138">
           <head xml:id="cice-l2t21-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t21-d1e143">Testis, qui timore adversae partis se subtrahit, testificari compellitur, adde: etiam
+          <head xml:id="cice-l2t21-d1e143" type="question-title">Testis, qui timore adversae partis se subtrahit, testificari compellitur, adde: etiam
             in criminali, secundum communem intellectum, et sic aliquid additur ad c. 1. supr. eod.
-            et c. Dilectorum. infr. eod.</p>
+            et c. Dilectorum. infr. eod.</head>
           <p xml:id="cice-l2t21-d1e146">Idem Genuensi Archiepiscopo.</p>
           <p xml:id="cice-l2t21-d1e149">Super eo †vero, quod certificari desideras, an, quum aliquis de aliquo facto manifesto
             ante iudicem convenitur, hi, qui facto interfuerunt, cogendi sint ad ferendum
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e153">
           <head xml:id="cice-l2t21-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t21-d1e158">Compelluntur testes etiam in criminali, quos accusatus malitiose accusatori subtraxit.
-            Hoc dicit secundum verum et communem intellectum. Abbas.</p>
+          <head xml:id="cice-l2t21-d1e158" type="question-title">Compelluntur testes etiam in criminali, quos accusatus malitiose accusatori subtraxit.
+            Hoc dicit secundum verum et communem intellectum. Abbas.</head>
           <p xml:id="cice-l2t21-d1e161">Idem.</p>
           <p xml:id="cice-l2t21-d1e164">Pervenit ad audientiam nostram, quod, quum I. Prior sancti Laurentii coram te fuisset
             de simoniae et adulterii crimine accusatus, quendam, qui contra eum ducendus erat in
@@ -118,8 +118,8 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e169">
           <head xml:id="cice-l2t21-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t21-d1e174">Si res aliter probari non potest, etiam in causa criminali compellendi sunt testes. H.
-            d. secundum lecturam notabiliorem.</p>
+          <head xml:id="cice-l2t21-d1e174" type="question-title">Si res aliter probari non potest, etiam in causa criminali compellendi sunt testes. H.
+            d. secundum lecturam notabiliorem.</head>
           <p xml:id="cice-l2t21-d1e177">Clemens III. Segobiensi Episcopo.</p>
           <p xml:id="cice-l2t21-d1e180">Pervenit ad nos, quod, quum in episcopatu tuo saepe contingat, quod a laicis enormis et
             intolerabilis iniuria clerico multis adstantibus et videntibus inferatur, [vel praesente
@@ -140,8 +140,8 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e184">
           <head xml:id="cice-l2t21-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t21-d1e189">Super consanguinitate probanda cogendi sunt testes. Ita communiter summatur. Sed
-            Panorm. non placet hoc summarium, et ideo summat, sicut c. 1. supra eod.</p>
+          <head xml:id="cice-l2t21-d1e189" type="question-title">Super consanguinitate probanda cogendi sunt testes. Ita communiter summatur. Sed
+            Panorm. non placet hoc summarium, et ideo summat, sicut c. 1. supra eod.</head>
           <p xml:id="cice-l2t21-d1e192">Idem.</p>
           <p xml:id="cice-l2t21-d1e195">Ceterum, quod super consanguinitate cogendus sit testis perhibere testimonium veritati,
             non dubitatur a nobis, quum id tam ius scriptum approbet, quam consuetudo actibus
@@ -150,10 +150,10 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e199">
           <head xml:id="cice-l2t21-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t21-d1e204">Testis synodalis, qui coram ordinario super matrimonio deposuit, non compellitur iurare
+          <head xml:id="cice-l2t21-d1e204" type="question-title">Testis synodalis, qui coram ordinario super matrimonio deposuit, non compellitur iurare
             super eo coram delegato; hoc primo. Propter supervenientem infamiam a testimonio
             repellitur; hoc secundo. Potest tamen, si erraverit, in continenti, non ex intervallo,
-            dictum suum corrigere. Hoc tertio.</p>
+            dictum suum corrigere. Hoc tertio.</head>
           <p xml:id="cice-l2t21-d1e207">Coelestinus III.</p>
           <p xml:id="cice-l2t21-d1e210">Praeterea si testes publici, quos tua civitas nuncupat synodales, super causa
             matrimonii coram te vel tuo capitulo semel testimonium reddiderint, non debent compelli,
@@ -167,8 +167,8 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e214">
           <head xml:id="cice-l2t21-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t21-d1e219">Quum de fama vel vitio falsitatis inquiritur, cogendi sunt testes. Hoc dicit secundum
-            Ioan. Andr., sed secundum Panorm. nimis restringit textum.</p>
+          <head xml:id="cice-l2t21-d1e219" type="question-title">Quum de fama vel vitio falsitatis inquiritur, cogendi sunt testes. Hoc dicit secundum
+            Ioan. Andr., sed secundum Panorm. nimis restringit textum.</head>
           <p xml:id="cice-l2t21-d1e222">Innocentius III. Priori sancti Fridiani et Magistro P. Canonico Pisano.</p>
           <p xml:id="cice-l2t21-d1e225">Super his (Et infra: [cf. c. 16. de accus. V. 1.]) Ceterum volumus et praesentium vobis
             auctoritate mandamus, ut super inquisitionis articulis, tam de fama electi, quam literis
@@ -178,7 +178,7 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e229">
           <head xml:id="cice-l2t21-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l2t21-d1e234">Testes, qui se subtrahunt, etiam in criminali cogendi sunt.</p>
+          <head xml:id="cice-l2t21-d1e234" type="question-title">Testes, qui se subtrahunt, etiam in criminali cogendi sunt.</head>
           <p xml:id="cice-l2t21-d1e237">Idem Archidiacono Mediolanensi.</p>
           <p xml:id="cice-l2t21-d1e240">Quum contra magistrum R. de Arca Mariana Novariensi dioecesis super eo, quod dicitur a
             sede apostolica falsas literas reportasse, ac eis per se vel per procuratorem usum
@@ -190,7 +190,7 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e244">
           <head xml:id="cice-l2t21-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l2t21-d1e249">Non summatur propter varietatem lecturarum, nec etiam dividitur.</p>
+          <head xml:id="cice-l2t21-d1e249" type="question-title">Non summatur propter varietatem lecturarum, nec etiam dividitur.</head>
           <p xml:id="cice-l2t21-d1e252">Honorius III. Abbati S. Eugenii, et Magistro G. canonico Senensi.</p>
           <p xml:id="cice-l2t21-d1e255">Dilectorum filiorum Vulterani capituli ex parte una, et venerabilis fratris nostri
             episcopi Vulterani ex altera procuratoribus in nostra praesentia constitutis, dilectum
@@ -203,7 +203,7 @@
         </div>
         <div xml:id="cice-l2t21-Dd1e260">
           <head xml:id="cice-l2t21-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l2t21-d1e265">Ad detegendam veritatem coniurationis coguntur socii, etiam iurati.</p>
+          <head xml:id="cice-l2t21-d1e265" type="question-title">Ad detegendam veritatem coniurationis coguntur socii, etiam iurati.</head>
           <p xml:id="cice-l2t21-d1e268">Idem Episcopo Bononiensi et Magistro B.</p>
           <p xml:id="cice-l2t21-d1e271">Venerabilis frater noster archiepiscopus Ravennatensis proposuit coram nobis, quod
             cives Cervicenses cum M. et I. quondam clericis ecclesiae Ravennatensis quandam

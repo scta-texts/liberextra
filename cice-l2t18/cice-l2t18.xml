@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t18-Dd1e108">
           <head xml:id="cice-l2t18-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t18-d1e113">Ad solum dictum confitentis crimen proprium non est alteri infligenda poena aliqua;
-            infamato tamen est indicenda purgatio.</p>
+          <head xml:id="cice-l2t18-d1e113" type="question-title">Ad solum dictum confitentis crimen proprium non est alteri infligenda poena aliqua;
+            infamato tamen est indicenda purgatio.</head>
           <p xml:id="cice-l2t18-d1e116">Clemens III.</p>
           <p xml:id="cice-l2t18-d1e119">Quum monasterium (Et infra: [cf. c. 13. de elect. I. 6.]) Super eo vero, quod tuis
             literis adnectere studuisti, quid tibi faciendum sit de quodam eiusdem monasterii
@@ -77,12 +77,12 @@
         </div>
         <div xml:id="cice-l2t18-Dd1e123">
           <head xml:id="cice-l2t18-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t18-d1e128">Si de crimine contingente causam principalem constat contra aliquem per eius
+          <head xml:id="cice-l2t18-d1e128" type="question-title">Si de crimine contingente causam principalem constat contra aliquem per eius
             confessionem, punitur poena ordinaria, etiamsi directe contra eum non agatur. H. d.
             secundum glossam. Et est casus notabilis et verus in se. Vel summa sic secundum alium
             intellectum non minus notabilem, quem etiam sentit glossa, licet non perfecte explicet:
             Si quis confitetur crimen in iudicio incidenter, potest iudex ordinarius novum inchoando
-            processum illum punire poena ordinaria. H. d. singulariter. Abbas.</p>
+            processum illum punire poena ordinaria. H. d. singulariter. Abbas.</head>
           <p xml:id="cice-l2t18-d1e131">Innocentius III. Canonicis de Bethlehem.</p>
           <p xml:id="cice-l2t18-d1e134">Quum super electione Bethlehemitanae ecclesiae inter R. subdiaconum vestrum et P.
             canonicum sepulcri dominici nuper in nostra praesentia quaestio verteretur (Et infra:
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l2t18-Dd1e138">
           <head xml:id="cice-l2t18-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t18-d1e143">Confessio facta in iure per oeconomum ecclesiae nocet ipsi ecclesiae; potest tamen
-            revocari, si ante finitum negotium doceatur per errorem facti emanasse. H. d.</p>
+          <head xml:id="cice-l2t18-d1e143" type="question-title">Confessio facta in iure per oeconomum ecclesiae nocet ipsi ecclesiae; potest tamen
+            revocari, si ante finitum negotium doceatur per errorem facti emanasse. H. d.</head>
           <p xml:id="cice-l2t18-d1e146">Gregorius IX. B. Iudici Viterbiensi.</p>
           <p xml:id="cice-l2t18-d1e149">Ex parte [dilectorum filiorum] abbatis et conventus monasterii sancti M. [in monte
             Viterbien. Cistercien. ordinis] fuit propositum [coram nobis], quod, quum inter ipsos ex

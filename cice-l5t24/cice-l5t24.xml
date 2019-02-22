@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t24-Dd1e108">
           <head xml:id="cice-l5t24-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t24-d1e113">Clerico prohibetur venatio, et contra facienti poena imponitur. Hoc dicit cum
-            sequenti.</p>
+          <head xml:id="cice-l5t24-d1e113" type="question-title">Clerico prohibetur venatio, et contra facienti poena imponitur. Hoc dicit cum
+            sequenti.</head>
           <p xml:id="cice-l5t24-d1e116">Ex concilio Aurelianensi.</p>
           <p xml:id="cice-l5t24-d1e119">Episcopum, presbyterum aut diaconum canes aut accipitres aut huiusmodi res ad venandum
             habere non licet. Quodsi quis talium personarum in hac voluptate saepius detentus
@@ -67,7 +67,7 @@
         </div>
         <div xml:id="cice-l5t24-Dd1e123">
           <head xml:id="cice-l5t24-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t24-d1e128">Summatum est supra capitulo proximo.</p>
+          <head xml:id="cice-l5t24-d1e128" type="question-title">Summatum est supra capitulo proximo.</head>
           <p xml:id="cice-l5t24-d1e131">Ex eodem.</p>
           <p xml:id="cice-l5t24-d1e134">Omnibus servis Dei venationes et silvaticas vagationes cum canibus, et accipitres aut
             falcones interdidmus.</p>

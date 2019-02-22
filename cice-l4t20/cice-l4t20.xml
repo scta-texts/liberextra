@@ -60,7 +60,7 @@
 
         <div xml:id="cice-l4t20-Dd1e108">
           <head xml:id="cice-l4t20-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l4t20-d1e113">Separato licite matrimonio dos restituenda est.</p>
+          <head xml:id="cice-l4t20-d1e113" type="question-title">Separato licite matrimonio dos restituenda est.</head>
           <p xml:id="cice-l4t20-d1e116">Ex concilio habito apud Wormaciam.</p>
           <p xml:id="cice-l4t20-d1e119">Mulieres vero, quum pro aliqua licita causa a propriis viris fuerint separatae, totam
             dotem praecipimus sibi reddi, quam in die nuptiali receperunt et post expletum annum
@@ -68,8 +68,8 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e123">
           <head xml:id="cice-l4t20-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l4t20-d1e128">Soluto matrimonio cogitur vir dotem restituere, et bona dividere, quae communiter eis
-            obvenerunt.</p>
+          <head xml:id="cice-l4t20-d1e128" type="question-title">Soluto matrimonio cogitur vir dotem restituere, et bona dividere, quae communiter eis
+            obvenerunt.</head>
           <p xml:id="cice-l4t20-d1e131">Urbanus III. Decano, Cantori et Capitulo Lexonensibus.</p>
           <p xml:id="cice-l4t20-d1e134">Significavit nobis P. mulier, quod H. quem loco viri tenebat, divortio inter eos
             solenniter celebrato, dotem suam illicite detinet et reddere contradicit, possessiones
@@ -81,8 +81,8 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e138">
           <head xml:id="cice-l4t20-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l4t20-d1e143">Delegatus ad causam matrimonii, si ferat sententiam divortii, pronunciare debet dotem
-            restitui. Et est casus multum allegabilis.</p>
+          <head xml:id="cice-l4t20-d1e143" type="question-title">Delegatus ad causam matrimonii, si ferat sententiam divortii, pronunciare debet dotem
+            restitui. Et est casus multum allegabilis.</head>
           <p xml:id="cice-l4t20-d1e146">Clemens III.</p>
           <p xml:id="cice-l4t20-d1e149">De prudentia vestra valde miramur, quod, quum vobis causam matrimonii, quae vertebatur
             inter H. Pisanum civem et M. mulierem commisissemus canonice terminandum, et vos,
@@ -96,7 +96,7 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e153">
           <head xml:id="cice-l4t20-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l4t20-d1e158">Mulier, propter adulterium a viro separata, perdit dotem.</p>
+          <head xml:id="cice-l4t20-d1e158" type="question-title">Mulier, propter adulterium a viro separata, perdit dotem.</head>
           <p xml:id="cice-l4t20-d1e161">Clemens III.</p>
           <p xml:id="cice-l4t20-d1e164">Plerumque accidit, ut proponis, quod in parochia tua mulieres a viris suis causa
             fornicationis recedunt, et sic usque ad mortem ipsorum permanere noscuntur; ipsis vero
@@ -112,9 +112,9 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e169">
           <head xml:id="cice-l4t20-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l4t20-d1e174">Cogitur mulier ex officio iudicis, donata sibi a viro propter nuptias pro conservatione
+          <head xml:id="cice-l4t20-d1e174" type="question-title">Cogitur mulier ex officio iudicis, donata sibi a viro propter nuptias pro conservatione
             illiciti matrimonii relaxare, si talis donatio praestet impedimeutum dissolutioni talis
-            matrimonii. H. d. secundum intellectum, qui plus placet Panormitano.</p>
+            matrimonii. H. d. secundum intellectum, qui plus placet Panormitano.</head>
           <p xml:id="cice-l4t20-d1e177">Innocentius III. Compostellano Archiepiscopo et universis Episcopis in regno Legionensi
             constitutis.</p>
           <p xml:id="cice-l4t20-d1e180">Etsi necesse sit [ut scandala veniant, vae tamen est homini illi, per quem scandalum
@@ -256,9 +256,9 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e184">
           <head xml:id="cice-l4t20-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l4t20-d1e189">Usufructuarius, donans sine consensu domini rem ipsam uxori propter nuptias, non
+          <head xml:id="cice-l4t20-d1e189" type="question-title">Usufructuarius, donans sine consensu domini rem ipsam uxori propter nuptias, non
             transfert in eam plus iuris quam ipse habebat; idem de eo, qui sub conditione adimente
-            habet rem in hereditatem vel in feudum.</p>
+            habet rem in hereditatem vel in feudum.</head>
           <p xml:id="cice-l4t20-d1e192">Idem Archidiacono S. Andrea de Scotia.</p>
           <p xml:id="cice-l4t20-d1e195">Nuper a nobis tua discretio requisivit, si aliqua terra data fuerit alicui non in
             hereditatem vel feudum, sed tantum sibi, quoad vixerit, possidenda, et ipse postmodum
@@ -282,12 +282,12 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e199">
           <head xml:id="cice-l4t20-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l4t20-d1e204">Vir, agens pro dote, non omnino excluditur ex eo, quod vergat ad inopiam, nec praecise
+          <head xml:id="cice-l4t20-d1e204" type="question-title">Vir, agens pro dote, non omnino excluditur ex eo, quod vergat ad inopiam, nec praecise
             cogitur satisdare ultra facultatem propriam; sed dos sibi assignatur sub cautione, quam
             praestare potest. Et si per illam cautionem non esset sufficienter provisum consumptioni
             dotis, deponetur dos apud mercatorem, ut de honesto lucro vir sustineat onera
             matrimonii. H. d. secundum intellectum, quem tenet Panorm. inhaerendo verbis literae, et
-            est casus notabilis et quotidianus.</p>
+            est casus notabilis et quotidianus.</head>
           <p xml:id="cice-l4t20-d1e207">Idem Archiepiscopo et Archidiacono Genuensibus.</p>
           <p xml:id="cice-l4t20-d1e210">Per vestras nobis literas intimastis, quod, quum magistrum R. super quadam summa
             pecuniae Ianuensis monetae pro H. paupere, latore praesentium, auctoritate nostra
@@ -310,7 +310,7 @@
         </div>
         <div xml:id="cice-l4t20-Dd1e214">
           <head xml:id="cice-l4t20-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l4t20-d1e219">Haec decretalis satis se ipsam summat.</p>
+          <head xml:id="cice-l4t20-d1e219" type="question-title">Haec decretalis satis se ipsam summat.</head>
           <p xml:id="cice-l4t20-d1e222">Gregorius IX.</p>
           <p xml:id="cice-l4t20-d1e225">Donatio, quae constante matrimonio inter coniuges dicitur esse facta, ex qua alter
             locupletior, et pauperior alter efficitur, firmitatem non habet, nisi donatoris obitu

@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l2t16-Dd1e108">
           <head xml:id="cice-l2t16-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t16-d1e113">Privilegium etiam a principe impetratum, per quod privatur quis sine causae cognitione,
+          <head xml:id="cice-l2t16-d1e113" type="question-title">Privilegium etiam a principe impetratum, per quod privatur quis sine causae cognitione,
             lite pendente, usu possessionis, tanquam surreptitium non valet, seu tanquam rationi
-            obvium est revocandum.</p>
+            obvium est revocandum.</head>
           <p xml:id="cice-l2t16-d1e116">Alexander III. Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l2t16-d1e119">A memoria, nostra non excidit, †qualiter in primo anno nostrae promotionis
             transscriptum literarum felicis memoriae praedecessoris nostri Honorii Papae nobis
@@ -87,8 +87,8 @@
         </div>
         <div xml:id="cice-l2t16-Dd1e123">
           <head xml:id="cice-l2t16-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t16-d1e128">Accusatus de adulterio ad separationem tori non debet lite pendente privari possessione
-            coniugali.</p>
+          <head xml:id="cice-l2t16-d1e128" type="question-title">Accusatus de adulterio ad separationem tori non debet lite pendente privari possessione
+            coniugali.</head>
           <p xml:id="cice-l2t16-d1e131">Clemens III.</p>
           <p xml:id="cice-l2t16-d1e134">Laudabilem (Et infra: [cf. Comp. II. c. 3. de cogn. spir. IV. 6.]) Quaeris iterum,
             quando matrimonium accusare contingit, an statim sit carnale commercium suspendendum,
@@ -102,8 +102,8 @@
         </div>
         <div xml:id="cice-l2t16-Dd1e138">
           <head xml:id="cice-l2t16-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t16-d1e143">Qui rem litigiosam alienavit ita, quod rehaberi non potest, debet aequivalentem
-            substituere in locum illius, quam alienare non poterit. H. d. cum sequ.</p>
+          <head xml:id="cice-l2t16-d1e143" type="question-title">Qui rem litigiosam alienavit ita, quod rehaberi non potest, debet aequivalentem
+            substituere in locum illius, quam alienare non poterit. H. d. cum sequ.</head>
           <p xml:id="cice-l2t16-d1e146">Innocentius III. Abbati et Conventui sancti Silvestri.</p>
           <p xml:id="cice-l2t16-d1e149">Ecclesia sanctae Mariae in Via lata contra Ioannem de Ateia, qui quasdam possessiones
             ipsius dicebatur contra iustitiam detinere, movit tempore B. Carosomi dicti senatoris
@@ -117,7 +117,7 @@
         </div>
         <div xml:id="cice-l2t16-Dd1e153">
           <head xml:id="cice-l2t16-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t16-d1e158">Idem dicit, quod in praecedenti.</p>
+          <head xml:id="cice-l2t16-d1e158" type="question-title">Idem dicit, quod in praecedenti.</head>
           <p xml:id="cice-l2t16-d1e161">Idem.</p>
           <p xml:id="cice-l2t16-d1e164">Ecclesia sanctae Mariae (Et infra: [cf. c. 10. de constit. I. 2.]) Possessionem, qua
             fuerat praetermisso iuris ordine praedicta ecclesia spoliata, sibi restitui postulabat
@@ -132,8 +132,8 @@
         </div>
         <div xml:id="cice-l2t16-Dd1e169">
           <head xml:id="cice-l2t16-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t16-d1e174">Lis decidenda est secundum iura exsistentia tempore controversiae, non autem secundum
-            privilegium impetratum lite pendente; nisi de litis pendentia mentionem faciat.</p>
+          <head xml:id="cice-l2t16-d1e174" type="question-title">Lis decidenda est secundum iura exsistentia tempore controversiae, non autem secundum
+            privilegium impetratum lite pendente; nisi de litis pendentia mentionem faciat.</head>
           <p xml:id="cice-l2t16-d1e177">Honorius III. Cancellario, Cantori et A. Canonico Parisiensibus.</p>
           <p xml:id="cice-l2t16-d1e180">Dilectus filius magister A. persona ecclesiae de Bassevilla exposuit coram nobis, quod,
             quum inter praedecessorem suum ex parte una, et priorem ac monachos de Bassevilla

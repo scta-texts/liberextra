@@ -57,9 +57,9 @@
         <div xml:id="cice-l2t3-Dd1e108">
           <head xml:id="cice-l2t3-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l2t3-d1e113">Actor tenetur in scriptis libellum porrigere. Vel sic: Iudex non debet admittere
+          <head xml:id="cice-l2t3-d1e113" type="question-title">Actor tenetur in scriptis libellum porrigere. Vel sic: Iudex non debet admittere
             actorem ad litigandum, nisi prius libellum in scriptis offerat. H. d. per alia
-            verba.</p>
+            verba.</head>
           <p xml:id="cice-l2t3-d1e116">Ex concilio apud sanctum Medardum.</p>
           <p xml:id="cice-l2t3-d1e119">Ignarus episcopus dixit: Habetis libellum reclamationis vel postulationis, sicut
             ecclesiastica se habet traditio? Illi [autem] responderunt, se prae manibus nullum
@@ -80,8 +80,8 @@
         </div>
         <div xml:id="cice-l2t3-Dd1e123">
           <head xml:id="cice-l2t3-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t3-d1e128">Quum agitur reali, non sufficit rem generaliter peti, sed debet ita specificari, ut
-            evitetur obscuritas et aequivocatio.</p>
+          <head xml:id="cice-l2t3-d1e128" type="question-title">Quum agitur reali, non sufficit rem generaliter peti, sed debet ita specificari, ut
+            evitetur obscuritas et aequivocatio.</head>
           <p xml:id="cice-l2t3-d1e131">Innocentius III.</p>
           <p xml:id="cice-l2t3-d1e134">Significantibus T. et R. fratribus nostro fuit apostolatui declaratum, quod, quum inter
             ipsos ex una parte, et V. Turpem de Athechi et sorores eius dioecesis Suessionensis ex
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l2t3-Dd1e138">
           <head xml:id="cice-l2t3-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t3-d1e143">Non tenetur reus respondere libello in actione personali, si non exprimitur causa
-            petendi.</p>
+          <head xml:id="cice-l2t3-d1e143" type="question-title">Non tenetur reus respondere libello in actione personali, si non exprimitur causa
+            petendi.</head>
           <p xml:id="cice-l2t3-d1e146">Gregorius IX. Archipresbytero Civitatis novae et M. Canonico Culmensi.</p>
           <p xml:id="cice-l2t3-d1e149">Dilecti filii fratres ecclesiae sanctae Mariae de Hispida sua nobis petitione
             monstrarunt, quod, quum prior et conventus sanctae Mariae ad Carceres ipsos super quadam

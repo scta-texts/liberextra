@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t9-Dd1e108">
           <head xml:id="cice-l3t9-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t9-d1e113">Vacante sede status eius mutari non debet.</p>
+          <head xml:id="cice-l3t9-d1e113" type="question-title">Vacante sede status eius mutari non debet.</head>
           <p xml:id="cice-l3t9-d1e116">Innocentius III. Priori et Conventui Glastonensi.</p>
           <p xml:id="cice-l3t9-d1e119">Novit ille, qui scrutator est cordium et cognitor secretorum, quod, licet bonae
             memoriae C. Papa praedecessor noster ecclesiam vestram [in sedem] erexerit cathedralem,
@@ -96,8 +96,8 @@
         </div>
         <div xml:id="cice-l3t9-Dd1e123">
           <head xml:id="cice-l3t9-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t9-d1e128">Beneficia spectantia ad collationem praelati non possunt conferri per capitulum sede
-            vacante.</p>
+          <head xml:id="cice-l3t9-d1e128" type="question-title">Beneficia spectantia ad collationem praelati non possunt conferri per capitulum sede
+            vacante.</head>
           <p xml:id="cice-l3t9-d1e131">Honorius III. Episcopo Calmensi et Magistris V. et S. Canonicis Suessanensibus.</p>
           <p xml:id="cice-l3t9-d1e134">Illa devotionis sinceritas †et sincera devotio, quam dilectus filius magister R.
             decanus Teanensis ad personam nostram et sedem apostolicam hactenus habuisse
@@ -117,7 +117,7 @@
         </div>
         <div xml:id="cice-l3t9-Dd1e138">
           <head xml:id="cice-l3t9-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t9-d1e143">Sede vacante iudicium habitum contra ecclesiam non tenet.</p>
+          <head xml:id="cice-l3t9-d1e143" type="question-title">Sede vacante iudicium habitum contra ecclesiam non tenet.</head>
           <p xml:id="cice-l3t9-d1e146">Idem Episcopo Burginensi.</p>
           <p xml:id="cice-l3t9-d1e149">Constitutis olim coram bonae memoriae I. Papa praedecessore nostro procuratore
             ecclesiae sanctae Mariae de Castro forti et bonae memoriae G. Burginensi episcopo

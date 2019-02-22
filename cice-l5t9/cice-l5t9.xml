@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l5t9-Dd1e108">
           <head xml:id="cice-l5t9-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t9-d1e113">Clericus, qui dimisso habitu et tonsura immiscet se enormitatibus, perdit privilegium
+          <head xml:id="cice-l5t9-d1e113" type="question-title">Clericus, qui dimisso habitu et tonsura immiscet se enormitatibus, perdit privilegium
             canonis: Si quis suadente, unde eum deprehendentes non incidunt in canonem. scil.
-            excommunicationem.</p>
+            excommunicationem.</head>
           <p xml:id="cice-l5t9-d1e116">Alexander III.</p>
           <p xml:id="cice-l5t9-d1e119">Praeterea clerici, qui, relicto ordine clericali et habitu suo, in apostasia tanquam
             laici conversantur, si in criminibus comprehensi teneantur, per censuram ecclesiasticam
@@ -68,8 +68,8 @@
         </div>
         <div xml:id="cice-l5t9-Dd1e123">
           <head xml:id="cice-l5t9-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t9-d1e128">Si crimen acolythi, qui rebaptizanti praebuit ministerium, est occultum, promoveri
-            potest; si publicum, non, nisi cum eo religionem intrante dispensetur.</p>
+          <head xml:id="cice-l5t9-d1e128" type="question-title">Si crimen acolythi, qui rebaptizanti praebuit ministerium, est occultum, promoveri
+            potest; si publicum, non, nisi cum eo religionem intrante dispensetur.</head>
           <p xml:id="cice-l5t9-d1e131">Idem Abbati S. Genovefae.</p>
           <p xml:id="cice-l5t9-d1e134">Ex literarum tuarum tenore perpendimus, quod quidam, aegritudine longa confectus,
             insano sortilegarum mulierum credens consilio, ut sanaretur, per iterationem fecit
@@ -87,7 +87,7 @@
         </div>
         <div xml:id="cice-l5t9-Dd1e138">
           <head xml:id="cice-l5t9-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t9-d1e143">Infamatus de apostasia compellitur se purgare.</p>
+          <head xml:id="cice-l5t9-d1e143" type="question-title">Infamatus de apostasia compellitur se purgare.</head>
           <p xml:id="cice-l5t9-d1e146">Innocentius III.</p>
           <p xml:id="cice-l5t9-d1e149">Tuae fraternitati (Et infra: [(cf. c. 3. de cler. per. I. 22.) Alii quoque, quos fama
             publica monachos asserit vel canonicos regularis, in saeculari habitu incedentes se
@@ -105,7 +105,7 @@
         </div>
         <div xml:id="cice-l5t9-Dd1e153">
           <head xml:id="cice-l5t9-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t9-d1e158">Baptizati alterius sectae vel fidei ritus dimittere compelluntur.</p>
+          <head xml:id="cice-l5t9-d1e158" type="question-title">Baptizati alterius sectae vel fidei ritus dimittere compelluntur.</head>
           <p xml:id="cice-l5t9-d1e161">Idem in concilio generali.</p>
           <p xml:id="cice-l5t9-d1e164">Quidam, sicut accepimus, qui ad sacri undam baptismatis voluntarii accesserunt, veterem
             hominem omnino non exuunt, ut novo perfectius induantur, quum, prioris ritus reliquias
@@ -118,7 +118,7 @@
         </div>
         <div xml:id="cice-l5t9-Dd1e169">
           <head xml:id="cice-l5t9-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t9-d1e174">Apostatae incarcerari et affligi possunt, ut habitum reassumant.</p>
+          <head xml:id="cice-l5t9-d1e174" type="question-title">Apostatae incarcerari et affligi possunt, ut habitum reassumant.</head>
           <p xml:id="cice-l5t9-d1e177">Honorius III. Archiepiscopo Turonensi.</p>
           <p xml:id="cice-l5t9-d1e180">A nobis expetiit tua fraternitas edoceri, quid de apostatis sit agendum, quum in
             custodia detinentur, qui minis vel blanditiis nullatenus possunt induci, ut abiectum
@@ -129,8 +129,8 @@
         </div>
         <div xml:id="cice-l5t9-Dd1e184">
           <head xml:id="cice-l5t9-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t9-d1e189">Monachus, in apostasia ordinatus, non potest sine dispensatione Papae in suscepto
-            ordine ministrare.</p>
+          <head xml:id="cice-l5t9-d1e189" type="question-title">Monachus, in apostasia ordinatus, non potest sine dispensatione Papae in suscepto
+            ordine ministrare.</head>
           <p xml:id="cice-l5t9-d1e192">Idem Archiepiscopo Lugdunensi.</p>
           <p xml:id="cice-l5t9-d1e195">Consultationi tuae breviter respondemus, quod monachus, aliquem sacrum ordinem in
             apostasia recipiens, quantumlibet suo fuerit reconciliatus abbati, et receperit

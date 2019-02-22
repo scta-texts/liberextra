@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l5t4-Dd1e108">
           <head xml:id="cice-l5t4-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t4-d1e113">Qui dat pecuniam, ut episcopalem vel spiritualem iurisdictionem exerceat, officio suo
+          <head xml:id="cice-l5t4-d1e113" type="question-title">Qui dat pecuniam, ut episcopalem vel spiritualem iurisdictionem exerceat, officio suo
             privatur, et sic conferens illud amplius conferre non poterit, et canonice punietur. Hoc
-            dicit cum sequentibus.</p>
+            dicit cum sequentibus.</head>
           <p xml:id="cice-l5t4-d1e116">Alexander III. in concilio Lateranensi.</p>
           <p xml:id="cice-l5t4-d1e119">Praeterea, quoniam quidam in quibusdam partibus sub pretio statuuntur, qui decani
             vocantur, et pro certa pecuniae quantitate episcopalem iurisdictionem exercent,
@@ -68,7 +68,7 @@
         </div>
         <div xml:id="cice-l5t4-Dd1e123">
           <head xml:id="cice-l5t4-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t4-d1e128">Summatum est supra cap. proximo.</p>
+          <head xml:id="cice-l5t4-d1e128" type="question-title">Summatum est supra cap. proximo.</head>
           <p xml:id="cice-l5t4-d1e131">Idem in concilio Turonensi.</p>
           <p xml:id="cice-l5t4-d1e134">Quoniam in quibusdam partibus decani quidam vel archipresbyteri ad agendas vices
             episcoporum seu archidiaconorum, et terminandas causas ecclesiasticas sub annuo pretio
@@ -80,7 +80,7 @@
         </div>
         <div xml:id="cice-l5t4-Dd1e138">
           <head xml:id="cice-l5t4-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t4-d1e143">Regimen ecclesiae sub annuo censu committi non debet.</p>
+          <head xml:id="cice-l5t4-d1e143" type="question-title">Regimen ecclesiae sub annuo censu committi non debet.</head>
           <p xml:id="cice-l5t4-d1e146">Idem in eodem.</p>
           <p xml:id="cice-l5t4-d1e149">Quoniam enormis quaedam consuetudo in quibusdam locis contra sanctorum Patrum
             institutiones invaluit, ut sub annuo pretio sacerdotes ad ecclesiarum regimen
@@ -90,7 +90,7 @@
         </div>
         <div xml:id="cice-l5t4-Dd1e153">
           <head xml:id="cice-l5t4-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t4-d1e158">Fructus ecclesiarum sub annuo censu concedi possunt.</p>
+          <head xml:id="cice-l5t4-d1e158" type="question-title">Fructus ecclesiarum sub annuo censu concedi possunt.</head>
           <p xml:id="cice-l5t4-d1e161">Idem Exoniensi Episcopo.</p>
           <p xml:id="cice-l5t4-d1e164">Querelam magistri G. recepimus, quod, quum ecclesiam de Chephalai a G. persona eiusdem
             ecclesiae ad annuum censum tenendam per septennium suscepisset, ipse sibi, antequam eam

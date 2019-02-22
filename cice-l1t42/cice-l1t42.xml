@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t42-Dd1e108">
           <head xml:id="cice-l1t42-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t42-d1e113">Is, in quem facta est alienatio rei causa mutandi iudicii, convenitur per rescriptum
-            impetratum contra alienantem.</p>
+          <head xml:id="cice-l1t42-d1e113" type="question-title">Is, in quem facta est alienatio rei causa mutandi iudicii, convenitur per rescriptum
+            impetratum contra alienantem.</head>
           <p xml:id="cice-l1t42-d1e116">Alexander III.</p>
           <p xml:id="cice-l1t42-d1e119">Ex quorundam certa relatione audivimus, quod, quum aliqui viri ecclesiastici de
             provincia vestra pro prosequenda sua iustitia literas commissionis a nobis impetrant,
@@ -76,7 +76,7 @@
         </div>
         <div xml:id="cice-l1t42-Dd1e123">
           <head xml:id="cice-l1t42-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t42-d1e128">Clericus causa mutandi iudicium, non debet recipere cessionem a laico.</p>
+          <head xml:id="cice-l1t42-d1e128" type="question-title">Clericus causa mutandi iudicium, non debet recipere cessionem a laico.</head>
           <p xml:id="cice-l1t42-d1e131">Gregorius IX. Abbati S. Nicolai et decano Furnensi Morinensis dioecesis.</p>
           <p xml:id="cice-l1t42-d1e134">Ex parte scabinorum Hipretis fuit propositum, quod inter laicos eiusdem loci
             quaestionibus emergentibus, dirimendis per iudicium saeculare, quidam clerici sibi dono

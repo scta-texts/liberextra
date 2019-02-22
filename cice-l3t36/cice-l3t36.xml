@@ -57,8 +57,8 @@
         <div xml:id="cice-l3t36-Dd1e108">
           <head xml:id="cice-l3t36-Hd1e110"> CAP. I.</head>
 
-          <p xml:id="cice-l3t36-d1e113">Si dubitatur, in cuius dioecesi sit basilica consecranda, ille episcopus consecrabit,
-            qui prius in illo loco episcopalia exercebat.</p>
+          <head xml:id="cice-l3t36-d1e113" type="question-title">Si dubitatur, in cuius dioecesi sit basilica consecranda, ille episcopus consecrabit,
+            qui prius in illo loco episcopalia exercebat.</head>
           <p xml:id="cice-l3t36-d1e116">Gregorius Victori Archiepiscopo Neapolis.</p>
           <p xml:id="cice-l3t36-d1e119">Nunc autem ad hanc basilicam, quae dedicanda est, illud debet disquiri, quis, id est
             cuius civitatis episcopus, antequam basilica, quae nuper fabricata est, fundaretur,
@@ -71,8 +71,8 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e123">
           <head xml:id="cice-l3t36-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t36-d1e128">Nihil iuris deperit episcopo, in cuius dioecesi sita est ecclesia, quam Papa unit
-            ecclesiae alterius diocesis. Et est casus quotidianus.</p>
+          <head xml:id="cice-l3t36-d1e128" type="question-title">Nihil iuris deperit episcopo, in cuius dioecesi sita est ecclesia, quam Papa unit
+            ecclesiae alterius diocesis. Et est casus quotidianus.</head>
           <p xml:id="cice-l3t36-d1e131">Idem Agapito Abbati.</p>
           <p xml:id="cice-l3t36-d1e134">Quia monasterium quod in fundo Marciano provinciae Campaniae situm est, [ita]
             hostilitate faciente [a congregatione] funditus dicitur desolatum, [ut ne unus exinde
@@ -90,16 +90,16 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e138">
           <head xml:id="cice-l3t36-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t36-d1e143">Episcopo subsunt omnia loca pia, et ad eius sollicitudinem debent ordinari ad usum
-            destinatum.</p>
+          <head xml:id="cice-l3t36-d1e143" type="question-title">Episcopo subsunt omnia loca pia, et ad eius sollicitudinem debent ordinari ad usum
+            destinatum.</head>
           <p xml:id="cice-l3t36-d1e146">Ex decretis Eugenii Papae.</p>
           <p xml:id="cice-l3t36-d1e149">De xenodochiis et aliis similibus locis per sollicitudinem episcoporum, in quorum
             dioecesi exsistunt, ad easdem utilitates, quibus constituta sunt, ordinentur.</p>
         </div>
         <div xml:id="cice-l3t36-Dd1e153">
           <head xml:id="cice-l3t36-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t36-d1e158">Locus, auctoritate episcopi ad usum hospitalitatis deputatus, est religiosus, et ad
-            mundanos usus redire non debet.</p>
+          <head xml:id="cice-l3t36-d1e158" type="question-title">Locus, auctoritate episcopi ad usum hospitalitatis deputatus, est religiosus, et ad
+            mundanos usus redire non debet.</head>
           <p xml:id="cice-l3t36-d1e161">Urbanus III. Ariminensi Episcopo.</p>
           <p xml:id="cice-l3t36-d1e164">Ad haec †super eo, quod quaesitum est a nobis, utrum hospitalis domus possit in
             saecularem habitum commutari, inquisitioni tuae taliter respondemus, quod, si locus ille
@@ -111,8 +111,8 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e169">
           <head xml:id="cice-l3t36-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t36-d1e174">Locus religious debet reformari de religiosis duntaxat, non de saecularibus, nisi in
-            defectum religiosorum.</p>
+          <head xml:id="cice-l3t36-d1e174" type="question-title">Locus religious debet reformari de religiosis duntaxat, non de saecularibus, nisi in
+            defectum religiosorum.</head>
           <p xml:id="cice-l3t36-d1e177">Innocentius III. Constantinopolitano Patriarchae.</p>
           <p xml:id="cice-l3t36-d1e180">Inter quatuor (Et infra: [cf. c. 8. de mai. et ob. I. 33.]) De monasteriis quoque
             Graecorum, in saeculares canonicos convertendis, fraternitati tuae taliter respondemus,
@@ -123,9 +123,9 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e184">
           <head xml:id="cice-l3t36-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t36-d1e189">Ecclesia, sita in diocesi episcopi, tenetur sibi in epscopalibus respondere, nisi
+          <head xml:id="cice-l3t36-d1e189" type="question-title">Ecclesia, sita in diocesi episcopi, tenetur sibi in epscopalibus respondere, nisi
             appareant remissa legitime; et potest episcopus remittendo episcopalia censum sibi
-            retinere.</p>
+            retinere.</head>
           <p xml:id="cice-l3t36-d1e192">Idem Abbati et Fratibus Cryptae ferratae.</p>
           <p xml:id="cice-l3t36-d1e195">Constitutus in praesentia nostra venerabilis frater noster episcopus Albanensis in
             ecclesia Castri, quod Pauli dicitur, in qua ius patronatus monasterio vestro
@@ -182,9 +182,9 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e199">
           <head xml:id="cice-l3t36-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t36-d1e204">Episcopus, petens ecclesiam quoad temporalia et spiritualia, obtinet in spiritualibus
+          <head xml:id="cice-l3t36-d1e204" type="question-title">Episcopus, petens ecclesiam quoad temporalia et spiritualia, obtinet in spiritualibus
             eo ipso, quod probat esse in sua dioecesi, si non appareat exempta; sed in temporalibus
-            succumbit, nisi alter doceat de iure suo. Et in hoc ultimo est causus notabilis.</p>
+            succumbit, nisi alter doceat de iure suo. Et in hoc ultimo est causus notabilis.</head>
           <p xml:id="cice-l3t36-d1e207">Idem Abbati et Conventui Farbensibus.</p>
           <p xml:id="cice-l3t36-d1e210">Quum venerabilis frater noster I. Sabinensis episcopus coram dilectis filiis nostris
             Rogerio tit. sanctae Anastasiae presbytero et Pelagio sanctae Luciae ad septa solis
@@ -247,8 +247,8 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e214">
           <head xml:id="cice-l3t36-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t36-d1e219">Monasterium subiectum est episcopo, in cuius dioecesi situm est, nisi probetur
-            exceptum. H. d. quoad titulum.</p>
+          <head xml:id="cice-l3t36-d1e219" type="question-title">Monasterium subiectum est episcopo, in cuius dioecesi situm est, nisi probetur
+            exceptum. H. d. quoad titulum.</head>
           <p xml:id="cice-l3t36-d1e222">Idem.</p>
           <p xml:id="cice-l3t36-d1e225">Quum dilectus filius †[F. Auriensis decanus nuncius venerabilis fratris nostri
             Auriensis episcopi, et magister Robertus monachus Cellae novae et abbatis sui nuncius,
@@ -295,9 +295,9 @@
         </div>
         <div xml:id="cice-l3t36-Dd1e229">
           <head xml:id="cice-l3t36-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t36-d1e234">Novam religionem non licet constituere sine auctoritate Romani Pontificis nec in
+          <head xml:id="cice-l3t36-d1e234" type="question-title">Novam religionem non licet constituere sine auctoritate Romani Pontificis nec in
             diversis monasteriis potest quis esse abbas vel monachus. Sic principaliter summatur,
-            licet plura dicta habeat.</p>
+            licet plura dicta habeat.</head>
           <p xml:id="cice-l3t36-d1e237">Idem in concilo generali.</p>
           <p xml:id="cice-l3t36-d1e240">Ne nimia religionum diversitas gravem in ecclesiam Dei confusionem inducat, firmiter
             prohibemus, ne quis de cetero novam religionem inveniat, sed quicunque ad religionem

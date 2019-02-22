@@ -57,8 +57,8 @@
         <div xml:id="cice-l1t17-Dd1e108">
           <head xml:id="cice-l1t17-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l1t17-d1e113">Illegitimus non ordinatur, nisi ut religiosus fiat, nec tunc praeficitur, id est ad
-            praelaturam non habilitatur.</p>
+          <head xml:id="cice-l1t17-d1e113" type="question-title">Illegitimus non ordinatur, nisi ut religiosus fiat, nec tunc praeficitur, id est ad
+            praelaturam non habilitatur.</head>
           <p xml:id="cice-l1t17-d1e116">Ex concilio Pictaviensi.</p>
           <p xml:id="cice-l1t17-d1e119">Ut filii presbyterorum et ceteri ex fornicatione nati ad sacros ordines non
             promoveantur, nisi aut monachi fiant, vel in congregatione canonica regulariter
@@ -67,8 +67,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e123">
           <head xml:id="cice-l1t17-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t17-d1e128">Illegitimus filius sacerdotis, qui, hoc tacito, per rescriptum apostolicum paternam
-            ecclesiam impetravit, removetur ab illa.</p>
+          <head xml:id="cice-l1t17-d1e128" type="question-title">Illegitimus filius sacerdotis, qui, hoc tacito, per rescriptum apostolicum paternam
+            ecclesiam impetravit, removetur ab illa.</head>
           <p xml:id="cice-l1t17-d1e131">Alexander III. Linconensi Electo.</p>
           <p xml:id="cice-l1t17-d1e134">Ad praesentiam nostram accedens R. presbyter, tacito, quod esset filius sacerdotis, per
             fraudem [literas] impetravit a nobis, ut in ecclesia de Bilesbi, in qua pater eius
@@ -81,7 +81,7 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e138">
           <head xml:id="cice-l1t17-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t17-d1e143">Non potest filius sacerdotis ecclesiae paternae praeesse. H. d. cum sequ.</p>
+          <head xml:id="cice-l1t17-d1e143" type="question-title">Non potest filius sacerdotis ecclesiae paternae praeesse. H. d. cum sequ.</head>
           <p xml:id="cice-l1t17-d1e146">Idem.</p>
           <p xml:id="cice-l1t17-d1e149">Praesentium etiam auctoritate tibi iubemus, ut filios sacerdotum in ecclesiis paternis
             ministrare, vel eas qualibet occasione obtinere nullatenus patiaris, sed ipsos ab
@@ -90,7 +90,7 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e153">
           <head xml:id="cice-l1t17-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t17-d1e158">Idem dicit.</p>
+          <head xml:id="cice-l1t17-d1e158" type="question-title">Idem dicit.</head>
           <p xml:id="cice-l1t17-d1e161">Idem Vigorensi Episcopo.</p>
           <p xml:id="cice-l1t17-d1e164">Conquerente nobis M. clerico †auribus nostris innotuit, quod, quum R. presbyter
             ecclesiam B. Mariae de Vicum tanquam persona diutius habuisset, [et] post mortem eius
@@ -110,8 +110,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e169">
           <head xml:id="cice-l1t17-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t17-d1e174">Episcopus, qui scienter contulit filio sacerdotis paternam ecclesiam, exinde eum
-            removere non potest.</p>
+          <head xml:id="cice-l1t17-d1e174" type="question-title">Episcopus, qui scienter contulit filio sacerdotis paternam ecclesiam, exinde eum
+            removere non potest.</head>
           <p xml:id="cice-l1t17-d1e177">Idem Londonensi Episcopo.</p>
           <p xml:id="cice-l1t17-d1e180">Veniens ad praesentiam nostram N. clericus lator praesentium supplici nobis
             insinuatione proposuit, quod, quum illum ad capellam ecclesiae sancti I. de Novoburgo,
@@ -127,8 +127,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e184">
           <head xml:id="cice-l1t17-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t17-d1e189">Gratiam continet et hoc dicit: Ex quo filius sacerdotis est ordinatus, non debet carere
-            beneficio. Ioan. Andr.</p>
+          <head xml:id="cice-l1t17-d1e189" type="question-title">Gratiam continet et hoc dicit: Ex quo filius sacerdotis est ordinatus, non debet carere
+            beneficio. Ioan. Andr.</head>
           <p xml:id="cice-l1t17-d1e192">Idem Oxonensi Episcopo.</p>
           <p xml:id="cice-l1t17-d1e195">Proposuit nobis R. lator praesentium, quod quum ipse ad ecclesiam de Saleb. a domino
             fundi fuerit praesentatus, tu curam animarum noluisti sibi committere, vel huic rei
@@ -148,7 +148,7 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e199">
           <head xml:id="cice-l1t17-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t17-d1e204">Filius praeesse potest ecclesiae, cui pater praefuit mediate.</p>
+          <head xml:id="cice-l1t17-d1e204" type="question-title">Filius praeesse potest ecclesiae, cui pater praefuit mediate.</head>
           <p xml:id="cice-l1t17-d1e207">Idem Archiepiscopo Cantuariensi.</p>
           <p xml:id="cice-l1t17-d1e210">Ex transmissa nobis conquestione G. clerici percepimus, quod ad dilecti filii nostri
             abbatis de Castris praesentationem in quodam beneficio ecclesiae de N. eum in praesenti
@@ -163,7 +163,7 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e214">
           <head xml:id="cice-l1t17-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t17-d1e219">Filius praeesse potest ecclesiae, in qua pater sine titulo ministravit.</p>
+          <head xml:id="cice-l1t17-d1e219" type="question-title">Filius praeesse potest ecclesiae, in qua pater sine titulo ministravit.</head>
           <p xml:id="cice-l1t17-d1e222">Idem Vigorensi Episcopo.</p>
           <p xml:id="cice-l1t17-d1e225">Constitutus in praesentia nostra G. clericus lator praesentium supplici nobis
             insinuatione monstravit, quod, quum capellam de Storton. canonice fuisset adeptus, et
@@ -184,9 +184,9 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e229">
           <head xml:id="cice-l1t17-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t17-d1e234">Si is, cui concessum est a Papa, ut possit dispensare cum filiis sacerdotum circa
+          <head xml:id="cice-l1t17-d1e234" type="question-title">Si is, cui concessum est a Papa, ut possit dispensare cum filiis sacerdotum circa
             ecclesias paternas immediate tenendas cum aliquo dispensat, ille per literas iustitiae
-            postea contra eum impetratas removeri non poterit.</p>
+            postea contra eum impetratas removeri non poterit.</head>
           <p xml:id="cice-l1t17-d1e237">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l1t17-d1e240">Ex tua nobis parte est propositum, quod, quum olim ad tuam consultationem super filiis
             sacerdotum tales a nobis literas recepisses, ut eos posses in ecclesiis, quas patres
@@ -204,8 +204,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e244">
           <head xml:id="cice-l1t17-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t17-d1e249">Si manifestum est, quod filius in ecclesia immediate successit patri, sine aliqua
-            testium receptione ab illa removebitur.</p>
+          <head xml:id="cice-l1t17-d1e249" type="question-title">Si manifestum est, quod filius in ecclesia immediate successit patri, sine aliqua
+            testium receptione ab illa removebitur.</head>
           <p xml:id="cice-l1t17-d1e252">Idem Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l1t17-d1e255">Quoniam est sacris canonibus prohibitum, †ne qui hereditario iure ecclesiastica
             beneficia possidere praesumant, nec hi, qui in sacerdotio sunt geniti, nisi probate
@@ -218,8 +218,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e260">
           <head xml:id="cice-l1t17-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t17-d1e265">Filius etiam legitimus removetur ab ecclesia, in qua immediate successit patri vicario
-            vel rectori.</p>
+          <head xml:id="cice-l1t17-d1e265" type="question-title">Filius etiam legitimus removetur ab ecclesia, in qua immediate successit patri vicario
+            vel rectori.</head>
           <p xml:id="cice-l1t17-d1e268">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l1t17-d1e271">Ad exstirpandas successiones †a sanctis ecclesiis studio totius sollicitudinis debemus
             intendere; te etiam ad hoc decet vigilem curam exhibere, ne circa ministerium suscepti
@@ -237,8 +237,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e275">
           <head xml:id="cice-l1t17-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t17-d1e280">Filius episcopi legitime natus, promoveri potest ad ordines, et in paterna ecclesia
-            beneficiari.</p>
+          <head xml:id="cice-l1t17-d1e280" type="question-title">Filius episcopi legitime natus, promoveri potest ad ordines, et in paterna ecclesia
+            beneficiari.</head>
           <p xml:id="cice-l1t17-d1e283">Clemens III. Cassel. Archiepiscopo.</p>
           <p xml:id="cice-l1t17-d1e286">Ad haec ex parte tua nostris auribus est relatum (Et infra:) Quod a nobis fraternitas
             tua requisivit, an a pontificibus generati valeant ad sacros ordines promoveri, si
@@ -249,8 +249,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e290">
           <head xml:id="cice-l1t17-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t17-d1e295">Non potest filius esse vicarius illius ecclesiae, in qua pater proximus fuit
-            rector.</p>
+          <head xml:id="cice-l1t17-d1e295" type="question-title">Non potest filius esse vicarius illius ecclesiae, in qua pater proximus fuit
+            rector.</head>
           <p xml:id="cice-l1t17-d1e298">Idem.</p>
           <p xml:id="cice-l1t17-d1e301">Michael presbyter de sancto Germano transmissa nobis conquestione monstravit, quod,
             quum ecclesiam sancti I. de Corona tuae dioecesis canonice sit adeptus, M. filius
@@ -264,8 +264,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e305">
           <head xml:id="cice-l1t17-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t17-d1e310">Illegitime genitus, etiam de uxore, sine dispensatione ad ordines vel beneficia
-            promoveri non potest.</p>
+          <head xml:id="cice-l1t17-d1e310" type="question-title">Illegitime genitus, etiam de uxore, sine dispensatione ad ordines vel beneficia
+            promoveri non potest.</head>
           <p xml:id="cice-l1t17-d1e313">Idem.</p>
           <p xml:id="cice-l1t17-d1e316">Literas †dilectionis vestrae accepimus, votum latoris praesentium et eius originem
             continentes. Intelleximus siquidem, quod H. in sacerdotio genitus, de uxore legitima
@@ -281,7 +281,7 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e320">
           <head xml:id="cice-l1t17-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t17-d1e325">Illegitimus in ecclesia paterna praebendari non debet.</p>
+          <head xml:id="cice-l1t17-d1e325" type="question-title">Illegitimus in ecclesia paterna praebendari non debet.</head>
           <p xml:id="cice-l1t17-d1e328">Innocentius III.</p>
           <p xml:id="cice-l1t17-d1e331">Quum decorem domus Dei †[et locum tabernaculi gloriae suae diligere vos oporteat,
             accurata vobis est sollicitudine praecavendum, ne in commissis vobis ecclesiis illa
@@ -309,8 +309,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e335">
           <head xml:id="cice-l1t17-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l1t17-d1e340">Si illegitimus, maxime filius spurius, instituitur in ecclesia, in qua institutus est
-            pater, institutio non valet, et instituens a suis beneficiis suspendatur.</p>
+          <head xml:id="cice-l1t17-d1e340" type="question-title">Si illegitimus, maxime filius spurius, instituitur in ecclesia, in qua institutus est
+            pater, institutio non valet, et instituens a suis beneficiis suspendatur.</head>
           <p xml:id="cice-l1t17-d1e343">Idem in concilio generali.</p>
           <p xml:id="cice-l1t17-d1e346">Ad abolendam pessimam, quae in pluribus inolevit ecclesiis, curruptelam, firmiter
             inhibemus, ne canonicorum filii, maxime spurii, canonici fiant in saecularibus
@@ -320,7 +320,7 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e351">
           <head xml:id="cice-l1t17-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l1t17-d1e356">Alius quam Papa non dispensat, ut filius in ecclesia paterna immediate succedat.</p>
+          <head xml:id="cice-l1t17-d1e356" type="question-title">Alius quam Papa non dispensat, ut filius in ecclesia paterna immediate succedat.</head>
           <p xml:id="cice-l1t17-d1e359">Honorius III.</p>
           <p xml:id="cice-l1t17-d1e362">Dilectus filius G. praepositus ecclesiae sanctae Mariae in Brugis transmissa nobis
             petitione monstravit, quod, quum Virgilius presbyter Tornacensis dioecesis quandam
@@ -336,8 +336,8 @@
         </div>
         <div xml:id="cice-l1t17-Dd1e366">
           <head xml:id="cice-l1t17-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l1t17-d1e371">Illegitimus absque dispensatione Papae ad dignitatem, vel personatum, vel beneficium
-            curatum promoveri non potest.</p>
+          <head xml:id="cice-l1t17-d1e371" type="question-title">Illegitimus absque dispensatione Papae ad dignitatem, vel personatum, vel beneficium
+            curatum promoveri non potest.</head>
           <p xml:id="cice-l1t17-d1e374">Gregorius IX. Turonensi Archiepiscopo.</p>
           <p xml:id="cice-l1t17-d1e377">Nimis in tua provincia ecclesiae deformatur honestas ex eo, quod filii sacerdotum et
             alii non legitime nati ad dignitates et personatus, et alia beneficia curam animarum

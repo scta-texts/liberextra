@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t36-Dd1e108">
           <head xml:id="cice-l1t36-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t36-d1e113">Instrumenta et alia iura partium contraria transactione tolluntur.</p>
+          <head xml:id="cice-l1t36-d1e113" type="question-title">Instrumenta et alia iura partium contraria transactione tolluntur.</head>
           <p xml:id="cice-l1t36-d1e116">Gregorius I. A. Subdiacono et Dom. Abbati.</p>
           <p xml:id="cice-l1t36-d1e119">Sicut grave †[et plenum vituperationis est, inter personas omnipotenti Deo militantes
             de saecularibus negotiis ortam diu controversiam permanere, ita laudabile et studio est
@@ -82,7 +82,7 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e123">
           <head xml:id="cice-l1t36-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t36-d1e128">Tenet compositio super decimis facta cum assensu superioris.</p>
+          <head xml:id="cice-l1t36-d1e128" type="question-title">Tenet compositio super decimis facta cum assensu superioris.</head>
           <p xml:id="cice-l1t36-d1e131">Alexander III.</p>
           <p xml:id="cice-l1t36-d1e134">Statuimus, ut, si super decimis inter vos et aliquam personam ecclesiasticam de assensu
             episcopi vel archiepiscopi sui compositio facta fuerit, rata perpetuis temporibus et
@@ -90,8 +90,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e138">
           <head xml:id="cice-l1t36-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t36-d1e143">Si capitulum consensit transactioni, quam fecit praelatus nomine ecclesiae, ulterius
-            dissentire non potest.</p>
+          <head xml:id="cice-l1t36-d1e143" type="question-title">Si capitulum consensit transactioni, quam fecit praelatus nomine ecclesiae, ulterius
+            dissentire non potest.</head>
           <p xml:id="cice-l1t36-d1e146">Idem Dulmensi Episcopo.</p>
           <p xml:id="cice-l1t36-d1e149">Contingit interdum, quod, licet abbas vel prior alicuius conventualis ecclesiae cum
             ecclesiastica vel saeculari persona super his, de quibus inter eos controversia vertitur
@@ -103,8 +103,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e153">
           <head xml:id="cice-l1t36-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t36-d1e158">Super ecclesiastico beneficio transigi non potest etiam cum iuramenti
-            interpositione.</p>
+          <head xml:id="cice-l1t36-d1e158" type="question-title">Super ecclesiastico beneficio transigi non potest etiam cum iuramenti
+            interpositione.</head>
           <p xml:id="cice-l1t36-d1e161">Idem Abbati de Strat. et Priori sancti Eusebii.</p>
           <p xml:id="cice-l1t36-d1e164">Constitutus in nostra praesentia G. clericus sua nobis assertione monstravit, quod,
             quum inter ipsum, et A. clericum super capella de Stratis controversia emersisset,
@@ -118,8 +118,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e169">
           <head xml:id="cice-l1t36-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t36-d1e174">Per transactionem factam sine auctoritate episcopi potest praelatus, sed non ecclesia
-            constitui censualis.</p>
+          <head xml:id="cice-l1t36-d1e174" type="question-title">Per transactionem factam sine auctoritate episcopi potest praelatus, sed non ecclesia
+            constitui censualis.</head>
           <p xml:id="cice-l1t36-d1e177">Idem Carnotensi Episcopo.</p>
           <p xml:id="cice-l1t36-d1e180">De cetero noveris, quod, quum aliquis ad extraordinarium iudicem literis impetratis cum
             adversario suo componit, postmodum in ecclesia, de qua agitur, ius aliquod habiturus, si
@@ -129,8 +129,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e184">
           <head xml:id="cice-l1t36-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t36-d1e189">Si beneficium, quod per transactionem habetur, impetratur ut vacans, ab eo, qui fuit
-            transactionis mediator, non valet impetratio. H. d. quoad titulum.</p>
+          <head xml:id="cice-l1t36-d1e189" type="question-title">Si beneficium, quod per transactionem habetur, impetratur ut vacans, ab eo, qui fuit
+            transactionis mediator, non valet impetratio. H. d. quoad titulum.</head>
           <p xml:id="cice-l1t36-d1e192">Idem Eboracensi Archiepiscopo et Wigorensi Episcopo.</p>
           <p xml:id="cice-l1t36-d1e195">Ex literis vestris accepimus, quod, quum olim inter R. et A. clericos super ecclesia de
             Vult. et capella de Torhec ad eandem ecclesiam pertinente coram te, frater episcope, qui
@@ -147,8 +147,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e199">
           <head xml:id="cice-l1t36-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t36-d1e204">Super ecclesiastico beneficio non potest transigi, sed amicabiliter componi. H. d. et
-            quotidie allegatur.</p>
+          <head xml:id="cice-l1t36-d1e204" type="question-title">Super ecclesiastico beneficio non potest transigi, sed amicabiliter componi. H. d. et
+            quotidie allegatur.</head>
           <p xml:id="cice-l1t36-d1e207">Idem.</p>
           <p xml:id="cice-l1t36-d1e210">Super eo, quod quaesivisti, utrum de ecclesiastico beneficio in litigium deducto possit
             fieri transactio, tale damus, sicut iam pridem, si bene meminimus, alii non absimile
@@ -160,8 +160,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e214">
           <head xml:id="cice-l1t36-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t36-d1e219">Transactio facta de rebus ecclesiae per praelatum sine superioris consensu non obligat
-            successorem.</p>
+          <head xml:id="cice-l1t36-d1e219" type="question-title">Transactio facta de rebus ecclesiae per praelatum sine superioris consensu non obligat
+            successorem.</head>
           <p xml:id="cice-l1t36-d1e222">Idem Abbati de Straphor, et Priori de Phe.</p>
           <p xml:id="cice-l1t36-d1e225">Veniens ad apostolicae sedis clementiam dilectus filius magister G. de Favill. sua
             nobis insinuatione monstravit, quod monachi maioris monasterii terras in parochia
@@ -198,8 +198,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e229">
           <head xml:id="cice-l1t36-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t36-d1e234">Sicut super iure praesentandi, ita super annexo non potest transigi, ut recedatur a
-            lite interveniente aliqua temporalitate.</p>
+          <head xml:id="cice-l1t36-d1e234" type="question-title">Sicut super iure praesentandi, ita super annexo non potest transigi, ut recedatur a
+            lite interveniente aliqua temporalitate.</head>
           <p xml:id="cice-l1t36-d1e237">Lucius III. Ormensi Episcopo.</p>
           <p xml:id="cice-l1t36-d1e240">Praeterea, quando inter laicos et viros religiosos de praesentatione alicuius ecclesiae
             quaestione suborta transigitur inter eos ita, quod praesentationem laicus obtineat,
@@ -210,7 +210,7 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e244">
           <head xml:id="cice-l1t36-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t36-d1e249">Super spirituali subiectione non licet transigi.</p>
+          <head xml:id="cice-l1t36-d1e249" type="question-title">Super spirituali subiectione non licet transigi.</head>
           <p xml:id="cice-l1t36-d1e252">Coelestinus III.</p>
           <p xml:id="cice-l1t36-d1e255">Praeterea quarto loco quaestio talis accessit, quod quaedam cella eximi voluit a
             subiectione, qua matrici domui tenebatur. Quumque causa debito Marte percurreret,
@@ -231,8 +231,8 @@
         </div>
         <div xml:id="cice-l1t36-Dd1e260">
           <head xml:id="cice-l1t36-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t36-d1e265">Iudex potest et debet se interponere pro transactione inter partes facienda,
-            praeterquam in casibus, in quibus iura hoc non admittunt, ut super matrimonio. H. d.</p>
+          <head xml:id="cice-l1t36-d1e265" type="question-title">Iudex potest et debet se interponere pro transactione inter partes facienda,
+            praeterquam in casibus, in quibus iura hoc non admittunt, ut super matrimonio. H. d.</head>
           <p xml:id="cice-l1t36-d1e268">Honorius III. I. tituli sanctae Praxedis Presbytero cardinali.</p>
           <p xml:id="cice-l1t36-d1e271">Ex parte tua †fuit propositum coram nobis, quod nonnulli Graeci furtive sacros ordines
             a non suis episcopis receperunt, quidam etiam excommunicati celebrant in ecclesiis

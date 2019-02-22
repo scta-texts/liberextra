@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l5t22-Dd1e108">
           <head xml:id="cice-l5t22-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t22-d1e113">Accusatore desistente ab accusatione, poteet iudex ex officio suo inquirere super
-            crimine illato.</p>
+          <head xml:id="cice-l5t22-d1e113" type="question-title">Accusatore desistente ab accusatione, poteet iudex ex officio suo inquirere super
+            crimine illato.</head>
           <p xml:id="cice-l5t22-d1e116">Gregorius universis Episcopis de Corintho.</p>
           <p xml:id="cice-l5t22-d1e119">Scripta fraternitatis vestrae relegentes agnovimus, quod hi, qui contra Hadrianum
             episcopum aliqua dixerant, modo cum eodem episcopo in amicitiam convenissent, †et magna
@@ -71,14 +71,14 @@
         </div>
         <div xml:id="cice-l5t22-Dd1e123">
           <head xml:id="cice-l5t22-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t22-d1e128">Desistente accusatore et accusato iudex prosequitur.</p>
+          <head xml:id="cice-l5t22-d1e128" type="question-title">Desistente accusatore et accusato iudex prosequitur.</head>
           <p xml:id="cice-l5t22-d1e131">Idem.</p>
           <p xml:id="cice-l5t22-d1e134">Crimina semel audita Gregorius indiscussa nullo modo praeteribat, etiamsi accusatus cum
             accusatore in gratiam rediisset.</p>
         </div>
         <div xml:id="cice-l5t22-Dd1e138">
           <head xml:id="cice-l5t22-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t22-d1e143">Colludens in causa beneficiali privari debet beneficio.</p>
+          <head xml:id="cice-l5t22-d1e143" type="question-title">Colludens in causa beneficiali privari debet beneficio.</head>
           <p xml:id="cice-l5t22-d1e146">Alexander III. Norvicensi Episcopo.</p>
           <p xml:id="cice-l5t22-d1e149">Audivimus, in episcopatu tuo et in aliis episcopatibus Angliae usque adeo clericorum
             malitiam excrevisse, ut interdum, inter se collusione facta super beneficiis, quae
@@ -95,8 +95,8 @@
         </div>
         <div xml:id="cice-l5t22-Dd1e153">
           <head xml:id="cice-l5t22-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t22-d1e158">Absolutio de criminibus illatis, per collusionem facta, non impedit facultatem iterum
-            accusandi et inquirendi de illis criminibus.</p>
+          <head xml:id="cice-l5t22-d1e158" type="question-title">Absolutio de criminibus illatis, per collusionem facta, non impedit facultatem iterum
+            accusandi et inquirendi de illis criminibus.</head>
           <p xml:id="cice-l5t22-d1e161">Gregorius IX. Barensi Archiepiscopo et Fratri Ioseph Monacho Florentino.</p>
           <p xml:id="cice-l5t22-d1e164">In tantam clamor, qui adscendit contra Acherontinum archiepiscopum, invalescit, quod
             dissimulare ipsum ulterius sine scandalo non valemus, nec sine periculo tolerare. (Et

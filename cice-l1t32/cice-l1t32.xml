@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t32-Dd1e108">
           <head xml:id="cice-l1t32-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t32-d1e113">Ad officium iudicis etiam delegati spectat providere advocatum parti, quae non potest
-            habere; et poterit dare domesticum.</p>
+          <head xml:id="cice-l1t32-d1e113" type="question-title">Ad officium iudicis etiam delegati spectat providere advocatum parti, quae non potest
+            habere; et poterit dare domesticum.</head>
           <p xml:id="cice-l1t32-d1e116">Honorius III. Archiepiscopo sancti Leonardi et Abbati Salernitano.</p>
           <p xml:id="cice-l1t32-d1e119">Ex literis vestris accepimus, quod, quum causam, quae inter dilectos filios abbatem et
             conventum Fossae novae ex parte una, et abbatem et conventum monasterii Cavensis
@@ -84,7 +84,7 @@
         </div>
         <div xml:id="cice-l1t32-Dd1e123">
           <head xml:id="cice-l1t32-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t32-d1e128">Quum imploratur officium nobile, fit litis contestatio; secus in mercenario.</p>
+          <head xml:id="cice-l1t32-d1e128" type="question-title">Quum imploratur officium nobile, fit litis contestatio; secus in mercenario.</head>
           <p xml:id="cice-l1t32-d1e131">Gregorius IX.</p>
           <p xml:id="cice-l1t32-d1e134">Iudicis officium, ubicunque pro actione proponitur, veluti quum restitutio in integrum
             principaliter postulatur, litis contestationem exposcit; alias ante et post ingressum

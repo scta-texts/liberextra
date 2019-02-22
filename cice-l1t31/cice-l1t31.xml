@@ -57,8 +57,8 @@
         <div xml:id="cice-l1t31-Dd1e108">
           <head xml:id="cice-l1t31-Hd1e110">CAP. I.</head>
 
-          <p xml:id="cice-l1t31-d1e113">Episcopi in suis dioecesibus possunt crimina inquirere et punire, et, quum opus fuerit,
-            invocare brachium saeculare.</p>
+          <head xml:id="cice-l1t31-d1e113" type="question-title">Episcopi in suis dioecesibus possunt crimina inquirere et punire, et, quum opus fuerit,
+            invocare brachium saeculare.</head>
           <p xml:id="cice-l1t31-d1e116">Ex synodo Ioannis Papae.</p>
           <p xml:id="cice-l1t31-d1e119">Perniciosa †[inolevit consuetudo, ut iudex publicus vel minister peccata populi, quae
             ab episcopis sunt inquirenda, quibus animarum sollicitudo commissa est, quasi inquirenda
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e123">
           <head xml:id="cice-l1t31-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t31-d1e128">Ordinarius, qui scit, non ut iudex vel homo, sed ut Deus, subditum esse criminis reum,
-            indeterminate poterit, sed non nominatim, eum arguere vel punire.</p>
+          <head xml:id="cice-l1t31-d1e128" type="question-title">Ordinarius, qui scit, non ut iudex vel homo, sed ut Deus, subditum esse criminis reum,
+            indeterminate poterit, sed non nominatim, eum arguere vel punire.</head>
           <p xml:id="cice-l1t31-d1e131">Eugenius Papa.</p>
           <p xml:id="cice-l1t31-d1e134">Si sacerdos sciat pro certo, aliquem, esse reum alicuius criminis, vel si confessus
             fuerit, et emendare noluerit, nisi iudiciario ordine quis probare possit, non debet eum
@@ -89,9 +89,9 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e138">
           <head xml:id="cice-l1t31-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t31-d1e143">Si ordinarius subiectus episcopo profert in sibi subiectum iustam censuram
+          <head xml:id="cice-l1t31-d1e143" type="question-title">Si ordinarius subiectus episcopo profert in sibi subiectum iustam censuram
             ecclesiasticam, episcopus illam servare debet, et illam sine satisfactione et
-            conscientia proferentis relaxare non debet.</p>
+            conscientia proferentis relaxare non debet.</head>
           <p xml:id="cice-l1t31-d1e146">Alexander III. Florentino Episcopo.</p>
           <p xml:id="cice-l1t31-d1e149">Quum ab ecclesiarum praelatis ecclesiastica sententia in malefactores aliquos
             promulgatur, rata debet et firma consistere, et usque ad condignam satisfactionem
@@ -104,8 +104,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e153">
           <head xml:id="cice-l1t31-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t31-d1e158">Si ordinatio vacantis ecclesiae etiam patronatae ex iuxta causa differtur, est ibi per
-            episcopum oeconomus ponendus.</p>
+          <head xml:id="cice-l1t31-d1e158" type="question-title">Si ordinatio vacantis ecclesiae etiam patronatae ex iuxta causa differtur, est ibi per
+            episcopum oeconomus ponendus.</head>
           <p xml:id="cice-l1t31-d1e161">Idem Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l1t31-d1e164">Quum vos plerumque oporteat ordinationem ecclesiarum differre pro eo, quod quandoque
             personae vobis minus idoneae praesentantur, aut interdum inter vos et praesentatores
@@ -121,9 +121,9 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e169">
           <head xml:id="cice-l1t31-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t31-d1e174">Si constat ordinario, quod absolutus a Papa suppressit veram causam, quare fuerat
+          <head xml:id="cice-l1t31-d1e174" type="question-title">Si constat ordinario, quod absolutus a Papa suppressit veram causam, quare fuerat
             excommunicatus, debet illum remittere ad Papam. Si vero sibi non constat, est tamen sibi
-            urgens suspicio contra eum, debet cogere eum se purgare.</p>
+            urgens suspicio contra eum, debet cogere eum se purgare.</head>
           <p xml:id="cice-l1t31-d1e177">Idem Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l1t31-d1e180">Ex parte tua †nobis est constanti assertione propositum, quod interdum quidam pro
             certis causis excommunicati sedem apostolicam visitant, et reticentes causas, pro quibus
@@ -140,9 +140,9 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e184">
           <head xml:id="cice-l1t31-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t31-d1e189">Si ex desidia vel malitia delegati Papae quis perseverat in peccato, ordinarius loci
+          <head xml:id="cice-l1t31-d1e189" type="question-title">Si ex desidia vel malitia delegati Papae quis perseverat in peccato, ordinarius loci
             potest supplere, non obstante, quod causa fuerit delegato commissa. Hoc dicit et est
-            casus notabilis et singularis.</p>
+            casus notabilis et singularis.</head>
           <p xml:id="cice-l1t31-d1e192">Coelestinus III.</p>
           <p xml:id="cice-l1t31-d1e195">Significavit nobis tua fraternitas, quod quidam de parochianis tuis, quum pro illicita
             consanguinitatis et affinitatis copula excommunicatione notantur, ad iudices remotiores
@@ -162,7 +162,7 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e199">
           <head xml:id="cice-l1t31-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t31-d1e204">Ordinarius supplet negligentiam abbatis, non revocantis monachum vagabundum.</p>
+          <head xml:id="cice-l1t31-d1e204" type="question-title">Ordinarius supplet negligentiam abbatis, non revocantis monachum vagabundum.</head>
           <p xml:id="cice-l1t31-d1e207">Innocentius III. Ausitano Archiepiscopo.</p>
           <p xml:id="cice-l1t31-d1e210">Quanto devotio religiosorum †virorum studiosius mandatis divinis inhaeret, et creatori
             suo placere per opera sanctae conversationis intendit, tanto humani generis inimicus ad
@@ -186,8 +186,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e214">
           <head xml:id="cice-l1t31-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t31-d1e219">Ab uno episcopo excommunicatus ab aliis est vitandus. Et archiepiscopus per querelam
-            aditus, non absolvet, nisi primo remittat.</p>
+          <head xml:id="cice-l1t31-d1e219" type="question-title">Ab uno episcopo excommunicatus ab aliis est vitandus. Et archiepiscopus per querelam
+            aditus, non absolvet, nisi primo remittat.</head>
           <p xml:id="cice-l1t31-d1e222">Idem Rothomagensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l1t31-d1e225">Ad reprimendam malitiam perversorum poenae certae sunt in canonibus constitutae, quas,
             sicut latas a vobis interdum in subditos vultis inviolabiliter observari, ita latas ab
@@ -207,8 +207,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e229">
           <head xml:id="cice-l1t31-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t31-d1e234">De causis subditorum archiepiscoporum et episcoporum suorum patriarcha non cognoscit,
-            nisi per appellationem legitimam, aut vigore consuetudinis seu privilegii.</p>
+          <head xml:id="cice-l1t31-d1e234" type="question-title">De causis subditorum archiepiscoporum et episcoporum suorum patriarcha non cognoscit,
+            nisi per appellationem legitimam, aut vigore consuetudinis seu privilegii.</head>
           <p xml:id="cice-l1t31-d1e237">Idem Turonensi Archiepiscopo.</p>
           <p xml:id="cice-l1t31-d1e240">Duo simul †consultationem scilicet et querimoniam, unica tuae fraternitatis petitio
             continebat, per quam a venerabili fratre nostro Hierosolymitano patriarcha
@@ -229,8 +229,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e244">
           <head xml:id="cice-l1t31-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t31-d1e249">Archiepiscopus impeditus potest consecrationem sui suffraganei alteri committere, et
-            consecrandus tenetur ab illo commissario munus consecrationis recipere.</p>
+          <head xml:id="cice-l1t31-d1e249" type="question-title">Archiepiscopus impeditus potest consecrationem sui suffraganei alteri committere, et
+            consecrandus tenetur ab illo commissario munus consecrationis recipere.</head>
           <p xml:id="cice-l1t31-d1e252">Idem Turonensi Archiepiscopo.</p>
           <p xml:id="cice-l1t31-d1e255">Quod sedem apostolicam †consulis super his, quae tibi dubia exsistunt, gratum gerimus
             et acceptum, et tua exinde fraternitas merito videtur commendanda, quum lex divinae
@@ -247,13 +247,13 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e260">
           <head xml:id="cice-l1t31-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t31-d1e265">Archiepiscopus causam ad se per appellationem delatam subditis suffraganei committere
+          <head xml:id="cice-l1t31-d1e265" type="question-title">Archiepiscopus causam ad se per appellationem delatam subditis suffraganei committere
             potest, non tamen ad ipsam suscipiendam compellere potest. H. d. usque ad §. Praeterea.
             – §. 1. Mortuo delegato Papae, qui excommunicavit reum, vel actorem in possessionem
             induxit, si eius successor in delegatione succedit, absolvere et restituere possessionem
             poterit, alias solus Papa restituet et absolvet, praeterquam in mortis articulo; ne
             tamen currat annalis praescriptio, reus coram ordinario, vel publicis personis de stando
-            iuri cautionem praestabit. Hoc dicit.</p>
+            iuri cautionem praestabit. Hoc dicit.</head>
           <p xml:id="cice-l1t31-d1e268">Idem Episcopo Heliensi.</p>
           <p xml:id="cice-l1t31-d1e271">Pastoralis officii (Et infra: cf. c. 28. de off. iud. del. I. 29.) Ex parte tua fuit
             insuper quaesitum, utrum, si aliqua causa fuerit ad archiepiscopum per appellationem
@@ -280,9 +280,9 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e275">
           <head xml:id="cice-l1t31-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t31-d1e280">Papa per rescriptum, quo mandat ordinario, ut subditos suos corrigat, non facit ex hoc
+          <head xml:id="cice-l1t31-d1e280" type="question-title">Papa per rescriptum, quo mandat ordinario, ut subditos suos corrigat, non facit ex hoc
             ipsum delegatum, ideo ab eo poterit appellari ad proximum superiorem, sicut, si Papa
-            nullum mandatum fecisset. Hoc dicit.</p>
+            nullum mandatum fecisset. Hoc dicit.</head>
           <p xml:id="cice-l1t31-d1e283">Idem Archiepiscopo Senonensi.</p>
           <p xml:id="cice-l1t31-d1e286">Licet in corrigendis excessibus iuxta canonicas sanctiones appellationis sit diffugium
             interclusum, et ideo venerabilis frater noster Parisiensis episcopus a nobis receperit
@@ -304,13 +304,13 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e290">
           <head xml:id="cice-l1t31-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t31-d1e295">Praelati subditos corrigunt et reformant, appellatione remota, vel consuetudine non
+          <head xml:id="cice-l1t31-d1e295" type="question-title">Praelati subditos corrigunt et reformant, appellatione remota, vel consuetudine non
             obstante. Si tamen capitulum consuevit corrigere excessus canonicorum, si infra terminum
             ab episcopo praefigendum non facit, ipse episcopus hoc faciet. Hoc dicit usque ad §.
             Ceterum. – §. 1. Si canonici sine manifesta et rationabili causa, maxime in contemptum
             episcopi, cessant a divinis, episcopus cessationem non servabit, et metropolitanus vice
             Papae cognoscet. Hoc dicit. – §. 2. Praelatus in impositione poenae cavere debet a
-            quaestu pecuniae, et ab omni alio gravamine. H. d. usque ad finem.</p>
+            quaestu pecuniae, et ab omni alio gravamine. H. d. usque ad finem.</head>
           <p xml:id="cice-l1t31-d1e298">Idem in concilio generali.</p>
           <p xml:id="cice-l1t31-d1e301">Irrefragabili constitutione sancimus, ut ecclesiarum praelati ad corrigendum subditorum
             excessus, maxime clericorum, et reformandos mores prudenter ac diligenter intendant, ne
@@ -335,11 +335,11 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e305">
           <head xml:id="cice-l1t31-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t31-d1e310">Quum in civitate vel dioecesi sunt populi diversarum linguarum; episcopus debet
+          <head xml:id="cice-l1t31-d1e310" type="question-title">Quum in civitate vel dioecesi sunt populi diversarum linguarum; episcopus debet
             providere eis per viros idoneos, qui secundum varietatem linguarum officia eis
             celebrent, et sacramenta ministrent. Et si urgens est necessitas, constituet sibi
             vicarium pontificem illius linguae; non tamen propter hoc eadem dioecesis debet habere
-            duos episcopus.</p>
+            duos episcopus.</head>
           <p xml:id="cice-l1t31-d1e313">Idem in eodem.</p>
           <p xml:id="cice-l1t31-d1e316">Quoniam in plerisque partibus infra eandem civitatem atque dioecesim permixti sunt
             populi diversarum linguarum, habentes sub una fide varios ritus et mores, districte
@@ -357,9 +357,9 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e320">
           <head xml:id="cice-l1t31-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t31-d1e325">Episcopi, qui per se non possunt, tenentur assumere idoneos, qui suppleant suo loco
+          <head xml:id="cice-l1t31-d1e325" type="question-title">Episcopi, qui per se non possunt, tenentur assumere idoneos, qui suppleant suo loco
             quoad praedicationes, visitationes et confessionum auditiones; et ut possint episcopi
-            reperire tales, praecipit in ecclesiis cathedralibus et collegiatis tales institui.</p>
+            reperire tales, praecipit in ecclesiis cathedralibus et collegiatis tales institui.</head>
           <p xml:id="cice-l1t31-d1e328">Idem in eodem.</p>
           <p xml:id="cice-l1t31-d1e331">Inter cetera, quae ad salutem spectant populi Christiani, pabulum verbi Dei permaxime
             sibi noscitur esse necessarium, quia, sicut corpus materiali, sic anima spirituali cibo
@@ -381,8 +381,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e335">
           <head xml:id="cice-l1t31-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l1t31-d1e340">Episcopus in ecclesiis dioecesis suae debet esse contentus iuribus episcopalibus, et
-            quae sint iura episcopalia declarat.</p>
+          <head xml:id="cice-l1t31-d1e340" type="question-title">Episcopus in ecclesiis dioecesis suae debet esse contentus iuribus episcopalibus, et
+            quae sint iura episcopalia declarat.</head>
           <p xml:id="cice-l1t31-d1e343">Honorius III. Episcopo Assisinatino.</p>
           <p xml:id="cice-l1t31-d1e346">Conquerente oeconomo monasterii sancti Benedicti montis Subasii nobis innotuit, quod tu
             iuribus episcopalibus non contentus, quae in ecclesiis seu capellis eiusdem monasterii
@@ -410,8 +410,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e351">
           <head xml:id="cice-l1t31-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l1t31-d1e356">Episcopus visitans monasterium non introducat saeculares, sed duos aut tres canonicos
-            suos cum aliquibus religiosis.</p>
+          <head xml:id="cice-l1t31-d1e356" type="question-title">Episcopus visitans monasterium non introducat saeculares, sed duos aut tres canonicos
+            suos cum aliquibus religiosis.</head>
           <p xml:id="cice-l1t31-d1e359">Idem Abbati et Conventui sancti Remigii.</p>
           <p xml:id="cice-l1t31-d1e362">Ut iuxta †illius supremi post Christum pastoris edictum pastor forma factus gregis ex
             animo dignoscitur, non dominandi libidine, sed amore recte regendi debet illum
@@ -428,8 +428,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e366">
           <head xml:id="cice-l1t31-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l1t31-d1e371">Lex dioecesana et lex iurisdictionis sunt diversae, unde res iudicata in una non obstat
-            agenti in alia.</p>
+          <head xml:id="cice-l1t31-d1e371" type="question-title">Lex dioecesana et lex iurisdictionis sunt diversae, unde res iudicata in una non obstat
+            agenti in alia.</head>
           <p xml:id="cice-l1t31-d1e374">Idem Episcopo Baiocensi et Archidiacono Rothomagensi.</p>
           <p xml:id="cice-l1t31-d1e377">Dilectus filius abbas monasterii Rothomagensis Venetensis dioecesis coram nobis
             exposuit, quod tertia pars emendarum, quas homines quinque parochiarum, quae sui
@@ -451,8 +451,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e381">
           <head xml:id="cice-l1t31-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l1t31-d1e386">Per rescriptum, quo Papa mandat ordinario, ut corrigat clericos suae dioecesis, non
-            datur ei iurisdictio super exemptos.</p>
+          <head xml:id="cice-l1t31-d1e386" type="question-title">Per rescriptum, quo Papa mandat ordinario, ut corrigat clericos suae dioecesis, non
+            datur ei iurisdictio super exemptos.</head>
           <p xml:id="cice-l1t31-d1e389">Gregorius IX. Episcopo Suanensi.</p>
           <p xml:id="cice-l1t31-d1e392">Grave gerimus [et indignum], quod quum in ecclesiam sanctae Mariae de Orbitello, et
             quasdam alias ecclesias in tua dioecesi exsistentes, ad monasterium sancti Anastasii de
@@ -471,8 +471,8 @@
         </div>
         <div xml:id="cice-l1t31-Dd1e396">
           <head xml:id="cice-l1t31-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l1t31-d1e401">Ordinarius, cui competit absolvere ab excommunicatione, potest aliis absolutionem
-            demandare.</p>
+          <head xml:id="cice-l1t31-d1e401" type="question-title">Ordinarius, cui competit absolvere ab excommunicatione, potest aliis absolutionem
+            demandare.</head>
           <p xml:id="cice-l1t31-d1e404">Idem.</p>
           <p xml:id="cice-l1t31-d1e407">His, quibus ex officio in certis casibus competit illos absolvere qui pro violenta
             manuum iniectione incidunt in canonem sententiae promulgatae, licet aliis huiusmodi

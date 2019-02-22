@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l2t12-Dd1e108">
           <head xml:id="cice-l2t12-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l2t12-d1e113">Causa possessionis et proprietatis sub eodem iudice terminari debet, nec contra
-            absentem est pronunciandum.</p>
+          <head xml:id="cice-l2t12-d1e113" type="question-title">Causa possessionis et proprietatis sub eodem iudice terminari debet, nec contra
+            absentem est pronunciandum.</head>
           <p xml:id="cice-l2t12-d1e116">Gregorius I. Duci Siciliae.</p>
           <p xml:id="cice-l2t12-d1e119">Susceptis †[magnitudinis vestrae epistolis contristati sumus, quod ab actoribus
             ecclesiae Syracusanae quasdam possessiones, quas vos tenuisse dicitis, occupatas
@@ -71,8 +71,8 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e123">
           <head xml:id="cice-l2t12-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l2t12-d1e128">Si actum est possessorio et petitorio, potest iudex receptis probationibus super
-            utroque prius discutere probationes super possessorio, et illud terminare. H. d.</p>
+          <head xml:id="cice-l2t12-d1e128" type="question-title">Si actum est possessorio et petitorio, potest iudex receptis probationibus super
+            utroque prius discutere probationes super possessorio, et illud terminare. H. d.</head>
           <p xml:id="cice-l2t12-d1e131">Coelestinus III.</p>
           <p xml:id="cice-l2t12-d1e134">Ad ultimum interrogati fuimus, si iudices deputati, ut de possessione et proprietate
             cognoscant, gravibus partium sumptibus parcere cupientes, de utraque commixtim audiant
@@ -82,9 +82,9 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e138">
           <head xml:id="cice-l2t12-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l2t12-d1e143">Si spoliatus possessorio et petitorio simul agens possessionem et spoliationem probat,
+          <head xml:id="cice-l2t12-d1e143" type="question-title">Si spoliatus possessorio et petitorio simul agens possessionem et spoliationem probat,
             sed non dominium seu proprietatem, obtinet in possessorio, sed succumbet in
-            petitorio.</p>
+            petitorio.</head>
           <p xml:id="cice-l2t12-d1e146">Innocentius III. Archiepiscopo et Canonicis Sutrinis.</p>
           <p xml:id="cice-l2t12-d1e149">Quum ecclesia Sutrina pastore vacaret, vos convenientes in unum, et, sicut moris est,
             Spiritus sancti gratia invocata, pastorem unanimiter elegistis, petentes ipsius
@@ -128,7 +128,7 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e153">
           <head xml:id="cice-l2t12-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l2t12-d1e158">Idem dicit quoad intellectum, quod decretalis supra proxima.</p>
+          <head xml:id="cice-l2t12-d1e158" type="question-title">Idem dicit quoad intellectum, quod decretalis supra proxima.</head>
           <p xml:id="cice-l2t12-d1e161">Idem Canonicis de Bethlehem.</p>
           <p xml:id="cice-l2t12-d1e164">Quum super electione Bethlehemitanae ecclesiae inter R. subdiaconum nostrum, et P.
             canonicum sepulcri Dominici nuper in nostra praesentia quaestio verteretur, utroque se
@@ -149,9 +149,9 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e169">
           <head xml:id="cice-l2t12-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l2t12-d1e174">Qui agit de proprietate, ante conclusionem causae possessorio adipiscendae vel
+          <head xml:id="cice-l2t12-d1e174" type="question-title">Qui agit de proprietate, ante conclusionem causae possessorio adipiscendae vel
             recuperandae agere potest, post conclusionem vero et ante sententiam hoc non potest,
-            nisi iusta causa subsit.</p>
+            nisi iusta causa subsit.</head>
           <p xml:id="cice-l2t12-d1e177">Idem Episcopo Novioniensi.</p>
           <p xml:id="cice-l2t12-d1e180">Pastoralis officii †debitum sollicita mente prosequeris, quum iustitiae zelo succensus
             super dubiis iuris articulis per apostolicae sedis oraculum, a qua tuae pendet
@@ -184,8 +184,8 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e184">
           <head xml:id="cice-l2t12-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l2t12-d1e189">Si petitorio et possessorio simul est actum, una sententia terminatur, et praemittitur
-            possessorium in terminando; sed in exsequendo praevalet petitorium.</p>
+          <head xml:id="cice-l2t12-d1e189" type="question-title">Si petitorio et possessorio simul est actum, una sententia terminatur, et praemittitur
+            possessorium in terminando; sed in exsequendo praevalet petitorium.</head>
           <p xml:id="cice-l2t12-d1e192">Idem Episcopo et Officiali sancti Andreae.</p>
           <p xml:id="cice-l2t12-d1e195">Quum dilectus (Et infra: [cf. c. 6. de arb. I. 43.]) Ad quartum autem breviter
             respondemus, quod, quum super possessorio et petitorio simul est actum, utrumque una
@@ -195,9 +195,9 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e199">
           <head xml:id="cice-l2t12-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l2t12-d1e204">Adiudicatur illi beneficium, qui probavit collatorem suum fuisse in possessione
+          <head xml:id="cice-l2t12-d1e204" type="question-title">Adiudicatur illi beneficium, qui probavit collatorem suum fuisse in possessione
             conferendi collationis tempore; per hoc tamen non prohibetur succumbens agere de
-            proprietate iuris conferendi cum ipso collatore. Hoc vult tota littera.</p>
+            proprietate iuris conferendi cum ipso collatore. Hoc vult tota littera.</head>
           <p xml:id="cice-l2t12-d1e207">Idem Veronensi Episcopo.</p>
           <p xml:id="cice-l2t12-d1e210">Quum olim quaestio, quae inter dilectum filium archidiaconum ex una parte, et
             archipresbyterum et canonicos Vincentinae ecclesiae ex altera (Et infra:) Quum igitur
@@ -219,9 +219,9 @@
         </div>
         <div xml:id="cice-l2t12-Dd1e214">
           <head xml:id="cice-l2t12-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l2t12-d1e219">Si petens rem ex una causa succumbit, ex alia causa petere poterit. Hoc dicit quoad
+          <head xml:id="cice-l2t12-d1e219" type="question-title">Si petens rem ex una causa succumbit, ex alia causa petere poterit. Hoc dicit quoad
             literam. Vel sic: Petenti rem iure dominii possessionem probare non sufficit. Hoc dicit
-            quoad titulum.</p>
+            quoad titulum.</head>
           <p xml:id="cice-l2t12-d1e222">Honorius III. Abbati S. Cypriani Torcellanae dioecesis et S. Mariae novae de
             Venetiis.</p>
           <p xml:id="cice-l2t12-d1e225">In causa, quae inter venerabiles fratres nostros patriarcham Grandensem et episcopum

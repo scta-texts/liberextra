@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l1t13-Dd1e108">
           <head xml:id="cice-l1t13-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t13-d1e113">Episcopus, qui renunciavit loco tantum, invitatus conferre potest ordines, sicut prius.
+          <head xml:id="cice-l1t13-d1e113" type="question-title">Episcopus, qui renunciavit loco tantum, invitatus conferre potest ordines, sicut prius.
             Si vero et dignitati, cum ordinato per eum ad minores vel ignoranter ad sacros dispensat
-            episcopus suus; cum ordinato vero scienter ad sacros, non dispensat.</p>
+            episcopus suus; cum ordinato vero scienter ad sacros, non dispensat.</head>
           <p xml:id="cice-l1t13-d1e116">Alexander III. Toletano Archiepiscopo.</p>
           <p xml:id="cice-l1t13-d1e119">Requisivit a nobis tua fraternitas, utrum clerici, qui post renunciationem factam a
             praedecessore tuo ordines receperunt, in ipsis debeant remanere, aut ad maiores de iure
@@ -77,7 +77,7 @@
         </div>
         <div xml:id="cice-l1t13-Dd1e123">
           <head xml:id="cice-l1t13-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t13-d1e128">Breve est.</p>
+          <head xml:id="cice-l1t13-d1e128" type="question-title">Breve est.</head>
           <p xml:id="cice-l1t13-d1e131">Gregorius IX.</p>
           <p xml:id="cice-l1t13-d1e134">Cum clericis, qui ab excommunicato episcopo ignoranter ordines receperunt, per suos
             poterit episcopos dispensari.</p>

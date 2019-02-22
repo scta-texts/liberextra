@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l1t35-Dd1e108">
           <head xml:id="cice-l1t35-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t35-d1e113">Pacta quantumcunque nuda servanda sunt.</p>
+          <head xml:id="cice-l1t35-d1e113" type="question-title">Pacta quantumcunque nuda servanda sunt.</head>
           <p xml:id="cice-l1t35-d1e116">Ex concilio Africano.</p>
           <p xml:id="cice-l1t35-d1e119">Antigonus episcopus Madaurensis dixit: Gravem iniuriam patior, et credo, dolere
             sanctitatem vestram contumeliam meam et computare communem iniuriam. Optantius quum se
@@ -72,14 +72,14 @@
         </div>
         <div xml:id="cice-l1t35-Dd1e123">
           <head xml:id="cice-l1t35-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t35-d1e128">Conventio invalida per consensum superioris validatur.</p>
+          <head xml:id="cice-l1t35-d1e128" type="question-title">Conventio invalida per consensum superioris validatur.</head>
           <p xml:id="cice-l1t35-d1e131">Gregorius.</p>
           <p xml:id="cice-l1t35-d1e134">Quoties in conventionibus quibusdam noster exspectatur assensus, ne in dubium veniant
             quae geruntur, ratihabitio eas debet pro securitate partium solidare. [Proinde etc.]</p>
         </div>
         <div xml:id="cice-l1t35-Dd1e138">
           <head xml:id="cice-l1t35-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t35-d1e143">Iudex debet studiose agere, ut promissa adimpleantur.</p>
+          <head xml:id="cice-l1t35-d1e143" type="question-title">Iudex debet studiose agere, ut promissa adimpleantur.</head>
           <p xml:id="cice-l1t35-d1e146">Idem.</p>
           <p xml:id="cice-l1t35-d1e149">Qualiter in Sardinia †[minores vel pauperes ab eis, qiu illic maiores sunt,
             opprimantur, reverendissimi fratris nostri Dominici Carthaginensis episcopi atque
@@ -90,7 +90,7 @@
         </div>
         <div xml:id="cice-l1t35-Dd1e153">
           <head xml:id="cice-l1t35-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t35-d1e158">Non valet pactum, per quod beneficium ecclesiasticum debet pecunia resignari.</p>
+          <head xml:id="cice-l1t35-d1e158" type="question-title">Non valet pactum, per quod beneficium ecclesiasticum debet pecunia resignari.</head>
           <p xml:id="cice-l1t35-d1e161">Alexander III. Exonensi et Wigornensi episcopis.</p>
           <p xml:id="cice-l1t35-d1e164">Quum pridem S. clericus procurator prioris et monachorum de Acra, et P. clericus pro
             causa, quae inter eos monachos et praedictum P. ac fratrem eius, pro cuius parte vicem
@@ -120,7 +120,7 @@
         </div>
         <div xml:id="cice-l1t35-Dd1e169">
           <head xml:id="cice-l1t35-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t35-d1e174">Idem Archiepiscopo Eboracensi.</p>
+          <head xml:id="cice-l1t35-d1e174" type="question-title">Idem Archiepiscopo Eboracensi.</head>
           <p xml:id="cice-l1t35-d1e177">Accepimus, quod quaedam ecclesiae clericis sint tali tenore concessae, quod post eorum
             obitum alii nominatim succedant. Verum quoniam hoc iniquum est et sacris canonibus
             inimicum, et ideo non debet aliquatenus tolerari, fraternitati tuae per apostolica
@@ -130,8 +130,8 @@
         </div>
         <div xml:id="cice-l1t35-Dd1e181">
           <head xml:id="cice-l1t35-Hd1e183">CAP. VI.</head>
-          <p xml:id="cice-l1t35-d1e186">Qui per pactum augendae pensionis consecutus est ecclesiam, debet ea privari, et alias
-            canonice puniri.</p>
+          <head xml:id="cice-l1t35-d1e186" type="question-title">Qui per pactum augendae pensionis consecutus est ecclesiam, debet ea privari, et alias
+            canonice puniri.</head>
           <p xml:id="cice-l1t35-d1e189">Idem Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l1t35-d1e192">Quum clerici vestrae iurisdictionis, sicut accepimus, decedentibus ecclesiarum personis
             paciscantur ex ipsis ecclesiis maiores solito solvere pensiones, ut facilius possint
@@ -145,9 +145,9 @@
         </div>
         <div xml:id="cice-l1t35-Dd1e196">
           <head xml:id="cice-l1t35-Hd1e198">CAP. VII.</head>
-          <p xml:id="cice-l1t35-d1e201">Si eeclesia rem suam locando vel in feudum concedendo apponit pactum in praeiudicium
+          <head xml:id="cice-l1t35-d1e201" type="question-title">Si eeclesia rem suam locando vel in feudum concedendo apponit pactum in praeiudicium
             iuris parochialis alterius ecclesiae, non tenet, et quicquid hac occasione perceperit
-            reddere cogitur illi ecclesiae.</p>
+            reddere cogitur illi ecclesiae.</head>
           <p xml:id="cice-l1t35-d1e204">Innocentius III. in concilio generali.</p>
           <p xml:id="cice-l1t35-d1e207">Plerique, sicut accepimus, regulares clerici et saeculares interdum, quum vel domos
             locant, vel feuda concedunt, in praeiudicium parochialium ecclesiarum pactum adiiciunt,
@@ -158,8 +158,8 @@
         </div>
         <div xml:id="cice-l1t35-Dd1e211">
           <head xml:id="cice-l1t35-Hd1e213">CAP. VIII.</head>
-          <p xml:id="cice-l1t35-d1e216">Non valet pactio in spiritualibus, vel quae peccatum inducit, vel turpis, seu de re
-            turpi, vel impossibilis de iure vel de facto.</p>
+          <head xml:id="cice-l1t35-d1e216" type="question-title">Non valet pactio in spiritualibus, vel quae peccatum inducit, vel turpis, seu de re
+            turpi, vel impossibilis de iure vel de facto.</head>
           <p xml:id="cice-l1t35-d1e219">Gregorius IX.</p>
           <p xml:id="cice-l1t35-d1e222">Pactiones factae a vobis, ut audivimus, pro quibusdam spiritualibus obtinendis, quum in
             huiusmodi omnis pactio omnisque conventio debeat omnino cessare, nullius penitus sunt

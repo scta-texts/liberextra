@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l1t16-Dd1e108">
           <head xml:id="cice-l1t16-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t16-d1e113">In ordinato in subdiaconum sine manuum impositione, et confirmato non chrismatis, sed
-            olei unctione, non fiet iteratio, sed supplebitur praetermissum.</p>
+          <head xml:id="cice-l1t16-d1e113" type="question-title">In ordinato in subdiaconum sine manuum impositione, et confirmato non chrismatis, sed
+            olei unctione, non fiet iteratio, sed supplebitur praetermissum.</head>
           <p xml:id="cice-l1t16-d1e116">Innocentius III.</p>
           <p xml:id="cice-l1t16-d1e119">Pastoralis (Et infra: [cf. c. 28. de off. iud. del. I. 29.]) Praeterea nos consulere
             voluisti, an permitti debeat ministrare qui sine impositione manuum fuerit ad ordinem
@@ -69,8 +69,8 @@
         </div>
         <div xml:id="cice-l1t16-Dd1e123">
           <head xml:id="cice-l1t16-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t16-d1e128">Prohibet sepultos a schismaticis exhumari, vestimenta, cum quibus celebrarunt, iterum
-            benedici, et altaria, in quibus celebrarunt, iterum consecrari.</p>
+          <head xml:id="cice-l1t16-d1e128" type="question-title">Prohibet sepultos a schismaticis exhumari, vestimenta, cum quibus celebrarunt, iterum
+            benedici, et altaria, in quibus celebrarunt, iterum consecrari.</head>
           <p xml:id="cice-l1t16-d1e131">Honorius III. Archiepisco Londonensi et eius Suffraganeis.</p>
           <p xml:id="cice-l1t16-d1e134">A nobis humiliter quaesivistis, quid fieri debeat de mortuorum corporibus, qui tempore
             schismatici et reprobi Waldemarii a schismaticis sunt sepulti, et de indumentis
@@ -81,8 +81,8 @@
         </div>
         <div xml:id="cice-l1t16-Dd1e138">
           <head xml:id="cice-l1t16-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t16-d1e143">Si in ordinatione presbyteri vel diaconi manus impositio fuerit praetermissa, statutis
-            temporibus supplebitur.</p>
+          <head xml:id="cice-l1t16-d1e143" type="question-title">Si in ordinatione presbyteri vel diaconi manus impositio fuerit praetermissa, statutis
+            temporibus supplebitur.</head>
           <p xml:id="cice-l1t16-d1e146">Gregorius IX. Archiepiscopo Londonensi.</p>
           <p xml:id="cice-l1t16-d1e149">Presbyter et diaconus quum ordinatur, manus impositionem tactu corporali ritu ab
             Apostolis introducto recipiunt. Quod si omissum fuerit, non est aliquatenus iterandum,

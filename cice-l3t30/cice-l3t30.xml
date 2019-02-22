@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l3t30-Dd1e108">
           <head xml:id="cice-l3t30-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t30-d1e113">Exprimit quatuor genera decimarum, quae ex veteri lege debebantur.</p>
+          <head xml:id="cice-l3t30-d1e113" type="question-title">Exprimit quatuor genera decimarum, quae ex veteri lege debebantur.</head>
           <p xml:id="cice-l3t30-d1e116">Hieronymus super Ezechielem.</p>
           <p xml:id="cice-l3t30-d1e119">Decimam partem omnium frugum Leviticae tribui populus ex lege debebat. Rursus ex ipsis
             decimis Levitae, hoc est inferiorum ministrorum gradus, decimas dabant sacerdotibus.
@@ -81,7 +81,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e123">
           <head xml:id="cice-l3t30-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t30-d1e128">Non potest congrue summari propter varietatem lecturarum.</p>
+          <head xml:id="cice-l3t30-d1e128" type="question-title">Non potest congrue summari propter varietatem lecturarum.</head>
           <p xml:id="cice-l3t30-d1e131">Paschalis II.</p>
           <p xml:id="cice-l3t30-d1e134">Novum genus exactionis est, ut clerici a clericis frugum decimas vel animalium exigant,
             quum nusquam in lege Domini hoc legamus. Non enim Levitae a Levitis decimas accepisse
@@ -90,8 +90,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e138">
           <head xml:id="cice-l3t30-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t30-d1e143">Compositio super decimis non tollitur per privilegium sequens, si de illa mentionem non
-            facit.</p>
+          <head xml:id="cice-l3t30-d1e143" type="question-title">Compositio super decimis non tollitur per privilegium sequens, si de illa mentionem non
+            facit.</head>
           <p xml:id="cice-l3t30-d1e146">Hadrianus IV. Vigorensi et Herfordensi Episcopis.</p>
           <p xml:id="cice-l3t30-d1e149">Ex multiplici conquestione V. presbyteri de Cretona accepimus, quod, quum ecclesiam de
             Cretona triginta annis et eo amplius pacifice possedisset, monachi de Brueria decimas
@@ -123,8 +123,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e153">
           <head xml:id="cice-l3t30-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t30-d1e158">Monachi tenentur solvere decimas praediales de praediis noviter cultis, de quibus
-            decimae prius solvebantur.</p>
+          <head xml:id="cice-l3t30-d1e158" type="question-title">Monachi tenentur solvere decimas praediales de praediis noviter cultis, de quibus
+            decimae prius solvebantur.</head>
           <p xml:id="cice-l3t30-d1e161">Idem Thomae Cantuariensi Archiepiscopo.</p>
           <p xml:id="cice-l3t30-d1e164">Commissum nobis †a Deo dispensationis officium admonet et hortatur multipliciter, ut
             universis Christi ecclesiis debeamus utiliter providere, atque integra iura sua nos
@@ -140,8 +140,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e169">
           <head xml:id="cice-l3t30-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l3t30-d1e174">Per excommunicationem compellitur quis ad solvendas decimas de molendinis et aliis hic
-            contentis et cap. sequ. Hoc dicit cum sequ.</p>
+          <head xml:id="cice-l3t30-d1e174" type="question-title">Per excommunicationem compellitur quis ad solvendas decimas de molendinis et aliis hic
+            contentis et cap. sequ. Hoc dicit cum sequ.</head>
           <p xml:id="cice-l3t30-d1e177">Alexander III. Cantuariensi Archiepiscopo et eius Suffraganeis.</p>
           <p xml:id="cice-l3t30-d1e180">Pervenit ad nos, †quod, quum parochiani vestri decimas bonorum suorum consueverint,
             ecclesiis, quibus debentur, cum integritate persolvere, nunc tamen laudabili
@@ -156,7 +156,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e184">
           <head xml:id="cice-l3t30-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l3t30-d1e189">Summatum est cum praecedenti, et declara ut in praecedenti dictum est.</p>
+          <head xml:id="cice-l3t30-d1e189" type="question-title">Summatum est cum praecedenti, et declara ut in praecedenti dictum est.</head>
           <p xml:id="cice-l3t30-d1e192">Idem Vintoniensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e195">Nuncios †et literas tuae fraternitatis ea, qua decuit, benignitate recepimus, et
             petitiones tuas, quoad licuit, curavimus exaudire, sicut illius personae, quam pura in
@@ -170,7 +170,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e199">
           <head xml:id="cice-l3t30-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l3t30-d1e204">Decima fructuum statim, quum collecti sunt, solvi debet non deductis expensis.</p>
+          <head xml:id="cice-l3t30-d1e204" type="question-title">Decima fructuum statim, quum collecti sunt, solvi debet non deductis expensis.</head>
           <p xml:id="cice-l3t30-d1e207">Alexander III. Exoniensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e210">Quum homines de Hortona secundum generalem Anglicanae ecclesiae consuetudinem de
             frugibus suis in auctumno, IX. partibus sibi retentis, decimam ecclesiae sancti
@@ -185,8 +185,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e214">
           <head xml:id="cice-l3t30-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l3t30-d1e219">Privilegiati super decimis non solvendis, de iis praediis, quae ab aliis conducunt,
-            decimam solvere tenentur.</p>
+          <head xml:id="cice-l3t30-d1e219" type="question-title">Privilegiati super decimis non solvendis, de iis praediis, quae ab aliis conducunt,
+            decimam solvere tenentur.</head>
           <p xml:id="cice-l3t30-d1e222">Idem Monachis de Neuclen.</p>
           <p xml:id="cice-l3t30-d1e225">Dilecti filii abbas et fratres sanctae Crucis sua nobis conquestione monstrarunt, quod
             praedia, unde decimas et in magna parte sustentationem consueverunt habere, a plerisque
@@ -200,7 +200,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e229">
           <head xml:id="cice-l3t30-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l3t30-d1e234">Revocatur privilegium, si ex post facto incipit enormiter nocivum esse.</p>
+          <head xml:id="cice-l3t30-d1e234" type="question-title">Revocatur privilegium, si ex post facto incipit enormiter nocivum esse.</head>
           <p xml:id="cice-l3t30-d1e237">Idem Abbati et Fratibus Dolon.</p>
           <p xml:id="cice-l3t30-d1e240">Suggestum est nobis ex parte vestra, quod abbas et fratres monasterii de Ursin. decimas
             a vobis auferre conantur, †et alia damna et gravamina vobis irrogare non cessant. Quia
@@ -216,10 +216,10 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e244">
           <head xml:id="cice-l3t30-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l3t30-d1e249">Cistercienses, templarii et hospitalarii decimam praediorum suorum, quae propriis
+          <head xml:id="cice-l3t30-d1e249" type="question-title">Cistercienses, templarii et hospitalarii decimam praediorum suorum, quae propriis
             manibus aut sumptibus excolunt, solvere non tenentur; alii vero religiosi non solvunt
             decimas de hortis et nutrimentis animalium, nec de novalibus, quae propriis manibus ac
-            sumptibus excolunt.</p>
+            sumptibus excolunt.</head>
           <p xml:id="cice-l3t30-d1e252">Idem Terraconensi Archiepiscopo.</p>
           <p xml:id="cice-l3t30-d1e255">Ex parte tua ad nos noveris pervenisse, quod albi monachi et nigri, et quidam alii
             religiosi viri ecclesias tuae iurisdictionis reditibus decimarum, occasione
@@ -235,8 +235,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e260">
           <head xml:id="cice-l3t30-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l3t30-d1e265">Privilegium super decimis laborum non extenditur ad terras, quae aliis traduntur
-            excolendae.</p>
+          <head xml:id="cice-l3t30-d1e265" type="question-title">Privilegium super decimis laborum non extenditur ad terras, quae aliis traduntur
+            excolendae.</head>
           <p xml:id="cice-l3t30-d1e268">Idem.</p>
           <p xml:id="cice-l3t30-d1e271">Licet de benignitate sedis apostolicae sit vobis indultum, ut de laboribus vestris,
             quos propriis manibus vel sumptibus colitis, nemini decimas solvere teneamini; propter
@@ -258,7 +258,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e275">
           <head xml:id="cice-l3t30-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l3t30-d1e280">Privilegium super decimis laborum etiam ea, quae non sunt novalia, comprehendit.</p>
+          <head xml:id="cice-l3t30-d1e280" type="question-title">Privilegium super decimis laborum etiam ea, quae non sunt novalia, comprehendit.</head>
           <p xml:id="cice-l3t30-d1e283">Idem.</p>
           <p xml:id="cice-l3t30-d1e286">Ad audientiam nostram †noveritis pervenisse, quod quidam vestrum a dilectis filiis
             nostris abbate et fratribus [de Pipennella, qui sunt] Cisterciensis ordinis, de
@@ -275,9 +275,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e290">
           <head xml:id="cice-l3t30-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l3t30-d1e295">Decimae novalium debentur ecclesiae, in cuius parochia surgunt; si vero non sunt in
+          <head xml:id="cice-l3t30-d1e295" type="question-title">Decimae novalium debentur ecclesiae, in cuius parochia surgunt; si vero non sunt in
             certa parochia, debentur dioecesano; qui potest sibi retinere, rei alteri ecclesiae
-            concedere.</p>
+            concedere.</head>
           <p xml:id="cice-l3t30-d1e298">Idem Brixiensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e301">Quoniam a nobis sollicitudo tua requisivit, quid de decimis novalium tuae dioecesis
             tibi sit statuendum, tuae fraternitati significatione praesentium respondemus, ut, si
@@ -296,7 +296,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e305">
           <head xml:id="cice-l3t30-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l3t30-d1e310">Decimae possunt exigi.</p>
+          <head xml:id="cice-l3t30-d1e310" type="question-title">Decimae possunt exigi.</head>
           <p xml:id="cice-l3t30-d1e313">Idem Remensi Archiepiscopo.</p>
           <p xml:id="cice-l3t30-d1e316">Parochianos †vero tuos ad solvendas decimas ecclesiis, quibus eas debent, ecclesiastica
             debes severitate compellere; quia, Quum decimae non ab homine, sed ab ipso Domino sint
@@ -304,7 +304,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e320">
           <head xml:id="cice-l3t30-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l3t30-d1e325">Decima laico iure hereditario concedi non potest.</p>
+          <head xml:id="cice-l3t30-d1e325" type="question-title">Decima laico iure hereditario concedi non potest.</head>
           <p xml:id="cice-l3t30-d1e328">Idem Ambianensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e331">Ad haec donationem decimae, quam abbas sancti S. de Monstrali cuidam laico concessit
             per successionem tenendam, quoniam sanctuarium Dei iure hereditario possideri non debet,
@@ -314,7 +314,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e335">
           <head xml:id="cice-l3t30-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l3t30-d1e340">Iudaei coguntur praediales decimas solvere, aut praedia dimittere.</p>
+          <head xml:id="cice-l3t30-d1e340" type="question-title">Iudaei coguntur praediales decimas solvere, aut praedia dimittere.</head>
           <p xml:id="cice-l3t30-d1e343">Idem Marsiliensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e346">De terris vero, quas Iudaei colunt, tuae prudentiae respondemus, ut eos ad decimas
             persolvendas, vel ad possessiones penitus renunciandas cum omni districtione compellas,
@@ -322,8 +322,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e351">
           <head xml:id="cice-l3t30-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l3t30-d1e356">Decimae vel oblationes ecclesiae laicis concedi non possunt, et praelatus contra
-            faciens est puniendus.</p>
+          <head xml:id="cice-l3t30-d1e356" type="question-title">Decimae vel oblationes ecclesiae laicis concedi non possunt, et praelatus contra
+            faciens est puniendus.</head>
           <p xml:id="cice-l3t30-d1e359">Idem.</p>
           <p xml:id="cice-l3t30-d1e362">Quamvis sit grave nimis et divini dignum animadversione iudicii habeatur, quod laici
             quidam quod sacerdotum est in ecclesiasticis rebus usurpant: maiorem tamen incurrunt
@@ -338,8 +338,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e366">
           <head xml:id="cice-l3t30-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l3t30-d1e371">Statur consuetudini, an colonus solvat decimam ecclesiae, in cuius parochia sita sunt
-            praedia, an ecclesiae ubi audit divina et percipit ecclesiastica sacramenta.</p>
+          <head xml:id="cice-l3t30-d1e371" type="question-title">Statur consuetudini, an colonus solvat decimam ecclesiae, in cuius parochia sita sunt
+            praedia, an ecclesiae ubi audit divina et percipit ecclesiastica sacramenta.</head>
           <p xml:id="cice-l3t30-d1e374">Idem.</p>
           <p xml:id="cice-l3t30-d1e377">Quum sint homines in parochia unius ecclesiae, sicut asseris, qui terras in alia
             parochia excolunt: tua discretio nos consuluit, cui ecclesiae de terris illis decimas
@@ -356,8 +356,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e381">
           <head xml:id="cice-l3t30-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l3t30-d1e386">Non potest laicus transferre decimam in alium laicum, etiamsi cum titulo illam
-            possideat. H. d. cum gloss.</p>
+          <head xml:id="cice-l3t30-d1e386" type="question-title">Non potest laicus transferre decimam in alium laicum, etiamsi cum titulo illam
+            possideat. H. d. cum gloss.</head>
           <p xml:id="cice-l3t30-d1e389">Ex concilio Lateranensi.</p>
           <p xml:id="cice-l3t30-d1e392">Prohibemus insuper, ne laici, decimas cum animarum suarum periculo detinentes, in alios
             laicos possint aliquo modo transferre. Si quis vero receperit, et ecclesiae non
@@ -365,9 +365,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e396">
           <head xml:id="cice-l3t30-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l3t30-d1e401">Decima personalis debetur ecclesiae, ubi quis percipit sacramenta, licet alibi lucrum
+          <head xml:id="cice-l3t30-d1e401" type="question-title">Decima personalis debetur ecclesiae, ubi quis percipit sacramenta, licet alibi lucrum
             contigerit; in praediali vero statur consuetudini, si in aliena parochia colonus
-            praedium coluit.</p>
+            praedium coluit.</head>
           <p xml:id="cice-l3t30-d1e404">Lucius III. Strigoniensi Archiepiscopo.</p>
           <p xml:id="cice-l3t30-d1e407">Ad apostolicae sedis regimen, †licet immeriti, dignatione divina vocati, omnibus sumus
             ecclesiae filiis debitores, et pro scientiae nostrae modo respondere cogimur
@@ -388,7 +388,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e411">
           <head xml:id="cice-l3t30-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l3t30-d1e416">De omni fructu praedii solvendae sunt decimae.</p>
+          <head xml:id="cice-l3t30-d1e416" type="question-title">De omni fructu praedii solvendae sunt decimae.</head>
           <p xml:id="cice-l3t30-d1e419">Clemens III.</p>
           <p xml:id="cice-l3t30-d1e422">Ex parte dilectorum filiorum nostrorum canonicorum ecclesiae tuae nobis est querela
             proposita, quod quidam agricultores, quum simul vel [in] diversis temporibus anni in
@@ -406,7 +406,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e426">
           <head xml:id="cice-l3t30-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l3t30-d1e431">Decimae praediales solvendae sunt expensis non deductis.</p>
+          <head xml:id="cice-l3t30-d1e431" type="question-title">Decimae praediales solvendae sunt expensis non deductis.</head>
           <p xml:id="cice-l3t30-d1e434">Coelestinus III.</p>
           <p xml:id="cice-l3t30-d1e437">Non est in potestate hominum, quum plantant arbores vel aliqua semina terrae mandant,
             †quid eis satio vel plantatio sit redditura, quum iuxta verbum Apostoli, ad literam
@@ -425,7 +425,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e442">
           <head xml:id="cice-l3t30-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l3t30-d1e447">De reditibus molendini ad ventum solvendae sunt decimae.</p>
+          <head xml:id="cice-l3t30-d1e447" type="question-title">De reditibus molendini ad ventum solvendae sunt decimae.</head>
           <p xml:id="cice-l3t30-d1e450">Coelestinus III.</p>
           <p xml:id="cice-l3t30-d1e453">Ex transmissa querela Bertrandi Dolensis archidiaconi rectoris ecclesiae de N.
             intelleximus, †quod, quum M. miles molendinum quoddam ad ventum in terra quadam infra
@@ -439,7 +439,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e457">
           <head xml:id="cice-l3t30-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l3t30-d1e462">Locator vel conductor possessionum tenentur ad decimas, nisi se immunes ostendant.</p>
+          <head xml:id="cice-l3t30-d1e462" type="question-title">Locator vel conductor possessionum tenentur ad decimas, nisi se immunes ostendant.</head>
           <p xml:id="cice-l3t30-d1e465">Innocentius III. Pistoriensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e468">A nobis tua fraternitas requisivit, †utrum ab illis decimas exigere debeas, qui
             possessiones dant vel recipiunt ad affictum, quum alii se conentur per alios excusare,
@@ -452,9 +452,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e472">
           <head xml:id="cice-l3t30-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l3t30-d1e477">Imperialis concessio sub quacunque forma a solutione decimarum eximere non potest. –
+          <head xml:id="cice-l3t30-d1e477" type="question-title">Imperialis concessio sub quacunque forma a solutione decimarum eximere non potest. –
             (Nec occasione etc.:) Decimae novalium non pertinent ad laicum, qui decimas habet in
-            feudum. H. d.</p>
+            feudum. H. d.</head>
           <p xml:id="cice-l3t30-d1e480">Idem Vercellensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e483">Tua (Et infra: [cf. c. prox. seq.]) Porro quum laicis nulla sit de spiritualibus
             concedendi vel disponendi attributa facultas, imperialis concessio, quantumcunque
@@ -465,9 +465,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e487">
           <head xml:id="cice-l3t30-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l3t30-d1e492">Sine deductione seminis et sumptuum debent dominus et colonus decimam solvere, et non
+          <head xml:id="cice-l3t30-d1e492" type="question-title">Sine deductione seminis et sumptuum debent dominus et colonus decimam solvere, et non
             cui voluerint ecclesiae vel pauperibus, sed ecclesiae, cui debentur, nec ab hoc
-            excusantur propter malitiam clericorum.</p>
+            excusantur propter malitiam clericorum.</head>
           <p xml:id="cice-l3t30-d1e495">Idem eidem.</p>
           <p xml:id="cice-l3t30-d1e498">Tua nobis fraternitas intimavit, quod quidam laici tuae dioecesis, et alii plures
             episcopatuum adiacentium, decimas ecclesiis et clericis tuis perversis machinationibus
@@ -512,8 +512,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e502">
           <head xml:id="cice-l3t30-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l3t30-d1e507">Privilegium super decimis non solvendis, ecclesiasticae personae concessum, novalia
-            comprehendit. H. d. secundum intellectum, qui placet Panorm.</p>
+          <head xml:id="cice-l3t30-d1e507" type="question-title">Privilegium super decimis non solvendis, ecclesiasticae personae concessum, novalia
+            comprehendit. H. d. secundum intellectum, qui placet Panorm.</head>
           <p xml:id="cice-l3t30-d1e510">Idem Abbati sanctae Columbae Senonensis.</p>
           <p xml:id="cice-l3t30-d1e513">Ex parte tua †fuit postulatum a nobis, quod, quum tibi de laboribus tuarum parochiarum,
             sicut asseris, sit indultum decimas cum integritate percipere, tibi vellemus
@@ -526,9 +526,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e517">
           <head xml:id="cice-l3t30-Hd1e519">CAP. XXVIII.</head>
-          <p xml:id="cice-l3t30-d1e522">Negotiator de lucro decimam solvit, deductis expensis, quas facit de pecunia decimata;
+          <head xml:id="cice-l3t30-d1e522" type="question-title">Negotiator de lucro decimam solvit, deductis expensis, quas facit de pecunia decimata;
             expensae vero, quae fiunt pro habendis fructibus, non deducuntur, et de fructibus
-            solvitur decima, etiam non deductis expensis factis pro re restauranda.</p>
+            solvitur decima, etiam non deductis expensis factis pro re restauranda.</head>
           <p xml:id="cice-l3t30-d1e525">Idem Heliensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e528">Pastoralis officii (Et infra: [cf. c. 28. de off. iud. del. I. 29.]) Explicari
             praeterea postulasti, utrum quis possit de molendinis et piscariis necessarias expensas
@@ -548,8 +548,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e533">
           <head xml:id="cice-l3t30-Hd1e535">CAP. XXIX.</head>
-          <p xml:id="cice-l3t30-d1e538">Qui praescribit decimam in aliena parochia, si ibi insurgunt novalia, ipsorum decimas
-            non habebit.</p>
+          <head xml:id="cice-l3t30-d1e538" type="question-title">Qui praescribit decimam in aliena parochia, si ibi insurgunt novalia, ipsorum decimas
+            non habebit.</head>
           <p xml:id="cice-l3t30-d1e541">Idem.</p>
           <p xml:id="cice-l3t30-d1e544">Quum contingat interdum in tua dioecesi (Et infra: [cf. c. 28. de iurei. II. 24.])
             Praeterea requisisti, quum aliqua praedia, de quibus ecclesiis aut personis
@@ -571,8 +571,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e548">
           <head xml:id="cice-l3t30-Hd1e550">CAP. XXX.</head>
-          <p xml:id="cice-l3t30-d1e553">Decima omnium fructuum praedii debetur ei, qui decimas ibi praescripsit: sed ad aliud
-            praedium praescriptio non extenditur.</p>
+          <head xml:id="cice-l3t30-d1e553" type="question-title">Decima omnium fructuum praedii debetur ei, qui decimas ibi praescripsit: sed ad aliud
+            praedium praescriptio non extenditur.</head>
           <p xml:id="cice-l3t30-d1e556">Idem Episcopo Belvacensi.</p>
           <p xml:id="cice-l3t30-d1e559">Quum in tua dioecesi quaedam monasteria et conventuales ecclesiae in multis parochiis
             maiores decimas percipiant et minutas, [et] de quibusdam fructibus, annuatim perceptis,
@@ -590,8 +590,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e563">
           <head xml:id="cice-l3t30-Hd1e565">CAP. XXXI.</head>
-          <p xml:id="cice-l3t30-d1e568">Laici ecclesias vel decimas donare non possunt, etiamsi sunt reges, nec ex eorum titulo
-            praestatur causa praescribendi.</p>
+          <head xml:id="cice-l3t30-d1e568" type="question-title">Laici ecclesias vel decimas donare non possunt, etiamsi sunt reges, nec ex eorum titulo
+            praestatur causa praescribendi.</head>
           <p xml:id="cice-l3t30-d1e571">Idem Vesprimensi Episcopo.</p>
           <p xml:id="cice-l3t30-d1e574">Dudum adversus fratres Hierosolymitani hospitalis sancti Stephani Albensis te
             proponente in nostra praesentia quaestionem, quod ipsi decimas, de laboribus rusticorum
@@ -646,9 +646,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e578">
           <head xml:id="cice-l3t30-Hd1e580">CAP. XXXII.</head>
-          <p xml:id="cice-l3t30-d1e583">Domini praediorum cogi possunt, ut praedia dent colenda talibus, a quibus sine
+          <head xml:id="cice-l3t30-d1e583" type="question-title">Domini praediorum cogi possunt, ut praedia dent colenda talibus, a quibus sine
             contradictione ecclesia possit decimas consequi. H. d. usque ad §. Illae – (Illae etc.:)
-            Iste §. propter sui brevitatem non summatur.</p>
+            Iste §. propter sui brevitatem non summatur.</head>
           <p xml:id="cice-l3t30-d1e586">Idem in concilio generali.</p>
           <p xml:id="cice-l3t30-d1e589">In aliquibus regionibus quaedam permixtae sunt gentes, quae secundum suos ritus decimas
             de more non solvunt, quamvis censeantur nomine Christiano. His nonnulli domini
@@ -662,8 +662,8 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e593">
           <head xml:id="cice-l3t30-Hd1e595">CAP. XXXIII.</head>
-          <p xml:id="cice-l3t30-d1e598">Prius solvendae sunt decimae, quam census seu tributa, et, si prius illa solvuntur,
-            postea decimari debent.</p>
+          <head xml:id="cice-l3t30-d1e598" type="question-title">Prius solvendae sunt decimae, quam census seu tributa, et, si prius illa solvuntur,
+            postea decimari debent.</head>
           <p xml:id="cice-l3t30-d1e601">Idem in eodem.</p>
           <p xml:id="cice-l3t30-d1e604">Quum non sit in homine, quid semen serenti respondeat, quoniam iuxta verbum Apostoli,
             “neque qui plantat, est aliquid, neque qui rigat, sed qui incrementum dat, Deus,” ipsum,
@@ -678,9 +678,9 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e608">
           <head xml:id="cice-l3t30-Hd1e610">CAP. XXXIV.</head>
-          <p xml:id="cice-l3t30-d1e613">Cistercienses, templarii et hospitalarii de fructibus possessionum, quas acquisierunt
+          <head xml:id="cice-l3t30-d1e613" type="question-title">Cistercienses, templarii et hospitalarii de fructibus possessionum, quas acquisierunt
             post concilium generale, de quo hic, decimas solvere tenentur, si de illis
-            possessionibus prius solvebantur decimae.</p>
+            possessionibus prius solvebantur decimae.</head>
           <p xml:id="cice-l3t30-d1e616">Idem in eodem.</p>
           <p xml:id="cice-l3t30-d1e619">Nuper abbates Cisterciensis ordinis in generali concilio a congregati ad commonitionem
             nostram provide statuerunt, ne de cetero fratres ipsius ordinis emant possessiones, de
@@ -698,7 +698,7 @@
         </div>
         <div xml:id="cice-l3t30-Dd1e624">
           <head xml:id="cice-l3t30-Hd1e626">CAP. XXXV.</head>
-          <p xml:id="cice-l3t30-d1e629">Gregorius IX.</p>
+          <head xml:id="cice-l3t30-d1e629" type="question-title">Gregorius IX.</head>
           <p xml:id="cice-l3t30-d1e632">Interdicimus universis personis ecclesiasticis, ut decimas, detentas a laicis, ad
             alienas ecclesias pertinentes, in pignus recipere ab eisdem laicis non praesumant.</p>
         </div>

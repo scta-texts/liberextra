@@ -57,14 +57,14 @@
 
         <div xml:id="cice-l5t1-Dd1e108">
           <head xml:id="cice-l5t1-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t1-d1e113">De persona accusatoris prius quaerendum est in iudicio.</p>
+          <head xml:id="cice-l5t1-d1e113" type="question-title">De persona accusatoris prius quaerendum est in iudicio.</head>
           <p xml:id="cice-l5t1-d1e116">Felix Papa.</p>
           <p xml:id="cice-l5t1-d1e119">Si legitimus non fuerit accusator, non fatigetur accusatus, [quia sacerdotes ad
             sacrificandum vacare debent etc.]</p>
         </div>
         <div xml:id="cice-l5t1-Dd1e123">
           <head xml:id="cice-l5t1-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t1-d1e128">A denunciatione repellitur is, qui non praemersuit.</p>
+          <head xml:id="cice-l5t1-d1e128" type="question-title">A denunciatione repellitur is, qui non praemersuit.</head>
           <p xml:id="cice-l5t1-d1e131">Idem Episcopis per Galliam constitutis.</p>
           <p xml:id="cice-l5t1-d1e134">Si quis episcopus ab illis accusatoribus, qui recipiendi sunt, accussatus fuerit,
             postquam ipse ab eis caritative conventus fuerit, ut ipsam causam emendet, et eam
@@ -73,7 +73,7 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e138">
           <head xml:id="cice-l5t1-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t1-d1e143">Criminatio praelati debet tractari coram illis, quorum interest.</p>
+          <head xml:id="cice-l5t1-d1e143" type="question-title">Criminatio praelati debet tractari coram illis, quorum interest.</head>
           <p xml:id="cice-l5t1-d1e146">Gregorius Duci Campaniae.</p>
           <p xml:id="cice-l5t1-d1e149">Illa praepositorum (Et infra:) Si vero aliquis est de monasterio praedicti abbatis, qui
             possit aliquid dicere, quod ad culpam reatumque eius pertineat: nos [hoc non negligi,
@@ -83,7 +83,7 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e153">
           <head xml:id="cice-l5t1-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t1-d1e158">Qui de aliquo crimine accusatur vel denunciatur, interim promoveri non potest.</p>
+          <head xml:id="cice-l5t1-d1e158" type="question-title">Qui de aliquo crimine accusatur vel denunciatur, interim promoveri non potest.</head>
           <p xml:id="cice-l5t1-d1e161">Idem Constantiae Augustae.</p>
           <p xml:id="cice-l5t1-d1e164">Omnipotens Deus: (Et infra:) [Alia vero perversa illius, scilicet mala corporalia, quae
             cognovi, vel quia cum pecuniis est electus, vel quia excommunicatus missam facere
@@ -96,22 +96,22 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e169">
           <head xml:id="cice-l5t1-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t1-d1e174">Episcopus per exceptionem criminis illum ab accusatione sua repellere non potest, quem
-            ante a sua familiaritate neglexerit separare.</p>
+          <head xml:id="cice-l5t1-d1e174" type="question-title">Episcopus per exceptionem criminis illum ab accusatione sua repellere non potest, quem
+            ante a sua familiaritate neglexerit separare.</head>
           <p xml:id="cice-l5t1-d1e177">Paschalis Papa.</p>
           <p xml:id="cice-l5t1-d1e180">Nulli episcoporum ab accusatione sua repellere liceat, quos, antequam se ab eis
             impetendum cognosceret, a sua communi familiaritate neglexerit separare.</p>
         </div>
         <div xml:id="cice-l5t1-Dd1e184">
           <head xml:id="cice-l5t1-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t1-d1e189">Absolutus de certo crimine, de eodem iterum accusari non potest.</p>
+          <head xml:id="cice-l5t1-d1e189" type="question-title">Absolutus de certo crimine, de eodem iterum accusari non potest.</head>
           <p xml:id="cice-l5t1-d1e192">Ex concilio Maguntino.</p>
           <p xml:id="cice-l5t1-d1e195">De his criminibus, de quibus absolutus est accusatus, non potest accusatio
             replicari.</p>
         </div>
         <div xml:id="cice-l5t1-Dd1e199">
           <head xml:id="cice-l5t1-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t1-d1e204">Cohabitantes inimicis accusati ab accusatione repelluntur.</p>
+          <head xml:id="cice-l5t1-d1e204" type="question-title">Cohabitantes inimicis accusati ab accusatione repelluntur.</head>
           <p xml:id="cice-l5t1-d1e207">Stephanus Papa.</p>
           <p xml:id="cice-l5t1-d1e210">Repellantur [etiam] ab accusatione cohabitantes inimicis, [et omnes laici,] quia
             infestationes blasphemiae affectio solet amicitiae incitare. [Nec illi in vestra
@@ -119,8 +119,8 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e214">
           <head xml:id="cice-l5t1-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t1-d1e219">Ponit poenitentiam accusatoris calumniosi, quum sequitur inde mors vel membri
-            debilitatio.</p>
+          <head xml:id="cice-l5t1-d1e219" type="question-title">Ponit poenitentiam accusatoris calumniosi, quum sequitur inde mors vel membri
+            debilitatio.</head>
           <p xml:id="cice-l5t1-d1e222">Ex Brocardico libro XLIV.</p>
           <p xml:id="cice-l5t1-d1e225">Accusasti aliquem, et per tuam accusationem occisus est: nisi pro pace hoc feceris, XL.
             dies in pane et aqua, quod carina vocatur, cum septem sequentibus annis poeniteas. Si
@@ -129,13 +129,13 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e229">
           <head xml:id="cice-l5t1-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t1-d1e234">Super notorio procedit iudex nemine accusante.</p>
+          <head xml:id="cice-l5t1-d1e234" type="question-title">Super notorio procedit iudex nemine accusante.</head>
           <p xml:id="cice-l5t1-d1e237">Augustinus super Genesi de morte Abel.</p>
           <p xml:id="cice-l5t1-d1e240">Evidentia patrati sceleris non indiget clamore accusatoris.</p>
         </div>
         <div xml:id="cice-l5t1-Dd1e244">
           <head xml:id="cice-l5t1-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t1-d1e249">Laici vel inimici clericos accusare non possunt.</p>
+          <head xml:id="cice-l5t1-d1e249" type="question-title">Laici vel inimici clericos accusare non possunt.</head>
           <p xml:id="cice-l5t1-d1e252">Alexander III. Gaitano Electo.</p>
           <p xml:id="cice-l5t1-d1e255">Quum P. Manconella presbyter ex una parte, et Bonus presbyter et I. Bonus Cocti laicus
             frater eius ex altera, in nostra essent praesentia constituti, eundem I., quia laicus
@@ -151,8 +151,8 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e260">
           <head xml:id="cice-l5t1-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l5t1-d1e265">Monachus accusare potest abbatem, et de bonis monasteriis expensas litis necessarias
-            habebit.</p>
+          <head xml:id="cice-l5t1-d1e265" type="question-title">Monachus accusare potest abbatem, et de bonis monasteriis expensas litis necessarias
+            habebit.</head>
           <p xml:id="cice-l5t1-d1e268">Idem Vigoriensi Episcopo.</p>
           <p xml:id="cice-l5t1-d1e271">Ex parte tua †huiusmodi quaestio nobis fuit proposita, utrum monachi in accusatione
             abbatum suorum aliquatenus sint admittendi. Super quo utique Prudentiae tuae taliter
@@ -164,8 +164,8 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e275">
           <head xml:id="cice-l5t1-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l5t1-d1e280">Presbyter ebriosus, missam celebrans non praemissa digestione, ecclesia privari debet.
-            H. d. ut conveniat omnibus lecturis.</p>
+          <head xml:id="cice-l5t1-d1e280" type="question-title">Presbyter ebriosus, missam celebrans non praemissa digestione, ecclesia privari debet.
+            H. d. ut conveniat omnibus lecturis.</head>
           <p xml:id="cice-l5t1-d1e283">Idem.</p>
           <p xml:id="cice-l5t1-d1e286">Si constiterit, quod saepe dicto D. praescripta ecclesia non perpetuo concessa, sed ad
             tempus fuerit commendata, et de vinolentia, et quod in taberna pernoctaverit, ita, quod
@@ -180,7 +180,7 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e290">
           <head xml:id="cice-l5t1-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l5t1-d1e295">Inimicus etiam a voluntaria exceptione repellitur.</p>
+          <head xml:id="cice-l5t1-d1e295" type="question-title">Inimicus etiam a voluntaria exceptione repellitur.</head>
           <p xml:id="cice-l5t1-d1e298">Idem.</p>
           <p xml:id="cice-l5t1-d1e301">Meminimus iam pridem tibi praecipiendo mandasse, ut dilectae filiae nostrae C.
             abbatissae monasterii S. Zachariae, cuius electionem confirmavimus, munus benedictionis
@@ -196,9 +196,9 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e305">
           <head xml:id="cice-l5t1-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l5t1-d1e310">Dicens, se aliquem accusaturum coram iudice, ante inscriptionem potest sine poena
+          <head xml:id="cice-l5t1-d1e310" type="question-title">Dicens, se aliquem accusaturum coram iudice, ante inscriptionem potest sine poena
             desistere, et non accusare; sed ei desistenti silentium imponitur in perpetuum. Et
-            secundum hoc summarium iste textus est notabilis. Abbas.</p>
+            secundum hoc summarium iste textus est notabilis. Abbas.</head>
           <p xml:id="cice-l5t1-d1e313">Innocentius III. Archiepiscopo Bisuntino.</p>
           <p xml:id="cice-l5t1-d1e316">Licet in beato Petro †Apostolorum principe ligandi atque solvendi nobis a Domino sit
             attributa facultas, quam in subditos iuxta suorum exigentiam meritorum exercere libere
@@ -234,11 +234,11 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e320">
           <head xml:id="cice-l5t1-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l5t1-d1e325">Ad prosequendam accusationem criminalem non admittitur procurator, licet poseet
+          <head xml:id="cice-l5t1-d1e325" type="question-title">Ad prosequendam accusationem criminalem non admittitur procurator, licet poseet
             allegare causam absentiae, seu alias exceptiones, non tangentes crimen propositum: et
             qui iuravit stare mandato alicuius, non admittitur ad accasandum illum, si virtute
             iuramenti sibi fuit iniunctum, ut non accusaret. H. d. et ad hoc solet allegari, et in
-            hoc est valde vulgatum.</p>
+            hoc est valde vulgatum.</head>
           <p xml:id="cice-l5t1-d1e328">Idem Sancteburgensi Archiepiscopo.</p>
           <p xml:id="cice-l5t1-d1e331">Veniens [olim] ad sedem apostolicam dilectus filius A. Pragensis canonicus contra
             venerabilem fratrem nostrum Pragensem episcopum inter alia proposuit coram nobis, quod,
@@ -278,10 +278,10 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e335">
           <head xml:id="cice-l5t1-Hd1e337">CAP. XVI.</head>
-          <p xml:id="cice-l5t1-d1e340">Denunciator criminis non se inscribit, quia ad correctionem tendit; accusator autem
+          <head xml:id="cice-l5t1-d1e340" type="question-title">Denunciator criminis non se inscribit, quia ad correctionem tendit; accusator autem
             inscribit, quia tendit ad poenam; excipiens vero inscribit ad poenam extraordinariam, si
             per exceptionem deiicitur ab obtento, alias secus. Hoc primo. Secundo dicitur, quod, dum
-            discutitur de crimine per modum exceptionis, potest intervenire procurator.</p>
+            discutitur de crimine per modum exceptionis, potest intervenire procurator.</head>
           <p xml:id="cice-l5t1-d1e343">Idem Priori sancti Fridiani et Magistro B. Canonico Pisano.</p>
           <p xml:id="cice-l5t1-d1e346">Super his, de quibus nos consulere voluistis, inquisitioni vestrae breviter
             respondemus, quod tribus modis valet crimen opponi, denunciando, excipiendo et
@@ -304,9 +304,9 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e351">
           <head xml:id="cice-l5t1-Hd1e353">CAP. XVII.</head>
-          <p xml:id="cice-l5t1-d1e356">Generales inquisitores, si non servaverunt debitum inquisitionis ordinem, prudenter et
+          <head xml:id="cice-l5t1-d1e356" type="question-title">Generales inquisitores, si non servaverunt debitum inquisitionis ordinem, prudenter et
             caute se corrigere debent. Hoc primo. Secundo ponit formam iuramenti, quam inquisitores
-            exigunt ab inquisitis.</p>
+            exigunt ab inquisitis.</head>
           <p xml:id="cice-l5t1-d1e359">Idem Versellensi Episcopo et Abbati de Tileto.</p>
           <p xml:id="cice-l5t1-d1e362">Qualiter et quando †debeat praelatus procedere ad inquirendum et puniendum subditorum
             excessus, ex auctoritatibus novi et veteris testamenti colligitur evidenter, ex quibus
@@ -365,9 +365,9 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e366">
           <head xml:id="cice-l5t1-Hd1e368">CAP. XVIII.</head>
-          <p xml:id="cice-l5t1-d1e371">Si is, contra quem inquiritur, iuravit respondere tantum ad interrogata, post
+          <head xml:id="cice-l5t1-d1e371" type="question-title">Si is, contra quem inquiritur, iuravit respondere tantum ad interrogata, post
             confessionem auditur volens probare excusationes, quae confessionem non perimunt, sed
-            exponunt; secus si iuraverit, plenam et meram veritatem dicere.</p>
+            exponunt; secus si iuraverit, plenam et meram veritatem dicere.</head>
           <p xml:id="cice-l5t1-d1e374">Idem Archiepiscopo Arelatensi et Vallis magnae Abbati.</p>
           <p xml:id="cice-l5t1-d1e377">Quum dilecti filii Cisterciensis abbas et P. et R. monachi Fontis frigidi, apostolicae
             sedis legati, ad ecclesiam Agathensem accessissent, ut in ea legationis officium
@@ -415,9 +415,9 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e381">
           <head xml:id="cice-l5t1-Hd1e383">CAP. XIX.</head>
-          <p xml:id="cice-l5t1-d1e386">De veritate criminum non inquiritur, nisi prius constet de infamia, et tunc non inimici
+          <head xml:id="cice-l5t1-d1e386" type="question-title">De veritate criminum non inquiritur, nisi prius constet de infamia, et tunc non inimici
             vel periuri, sed inonei viri ad prosequendam inquisitionem et ad testimonium
-            admittuntur, et, non probato crimine, indicitur infamatis purgatio.</p>
+            admittuntur, et, non probato crimine, indicitur infamatis purgatio.</head>
           <p xml:id="cice-l5t1-d1e389">Idem Archiepiscopo Terraconensi et Abbati sanctae Mariae de Populeto et Archidiacono
             Barchinonensi.</p>
           <p xml:id="cice-l5t1-d1e392">Quum oporteat episcoporum †[secundum Apostolum habere bonum testimonium et ab iis, qui
@@ -449,8 +449,8 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e396">
           <head xml:id="cice-l5t1-Hd1e398">CAP. XX.</head>
-          <p xml:id="cice-l5t1-d1e401">A renunciatione repellitur publicus concubinarius, excommunicatus et conspirator, et
-            is, qui non praemonuit.</p>
+          <head xml:id="cice-l5t1-d1e401" type="question-title">A renunciatione repellitur publicus concubinarius, excommunicatus et conspirator, et
+            is, qui non praemonuit.</head>
           <p xml:id="cice-l5t1-d1e404">Idem.</p>
           <p xml:id="cice-l5t1-d1e407">Quum dilectus filius (Et infra:) Inquiratis super praemissis diligentius veritatem, et
             Si vobis constiterit, praedictos, quorum nomine sunt excessus huiusmodi de episcopo
@@ -464,7 +464,7 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e411">
           <head xml:id="cice-l5t1-Hd1e413">CAP. XXI.</head>
-          <p xml:id="cice-l5t1-d1e416">Crimen, probatum per modum inquisitionis, regulariter poena ordinaria non punitur; sed,
+          <head xml:id="cice-l5t1-d1e416" type="question-title">Crimen, probatum per modum inquisitionis, regulariter poena ordinaria non punitur; sed,
             si impedit ordinis exsecutionem, fit depositio, sicut in accusatione. Et si impedit
             tantum beneficii retentionem, fit privatio a beneficio, nec poterit iudex hanc poenam
             moderari. H. d. usque ad §. Tertiae, secundum verum intellectum, non bene declaratum per
@@ -474,7 +474,7 @@
             hoc dicit ante iuramentum, nisi praesumatur hoc dixisse in fraudem. H. d. usque ad §.
             Quaesivisti. – (§. 2.) Non punitur quis de crimine, de quo non constat, nisi per famam
             et testium credulitatem, et per dicta paucorum non debet quis apud iudicem infamatus
-            reputari. H. d. usque ad finem.</p>
+            reputari. H. d. usque ad finem.</head>
           <p xml:id="cice-l5t1-d1e419">Idem Episcopo Gebennensi et N. Valentinensi.</p>
           <p xml:id="cice-l5t1-d1e422">Inquisitionis negotium, quam de venerabili fratre nostro episcopo et canonicis
             Valentinensibus vobis commisimus terminandam, †sine conscientiae scrupulo exsequi
@@ -523,10 +523,10 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e426">
           <head xml:id="cice-l5t1-Hd1e428">CAP. XXII.</head>
-          <p xml:id="cice-l5t1-d1e431">Si is, de cuius crimine in iudicio constat, petit restitutionem propter iudiciarium
+          <head xml:id="cice-l5t1-d1e431" type="question-title">Si is, de cuius crimine in iudicio constat, petit restitutionem propter iudiciarium
             ordinem non servatum, non est audiendus, sed eum, tanquam notorium criminosum, debet
             superior de novo privare. H. d. et est casus valde notabilis secundum hunc
-            intellectum.</p>
+            intellectum.</head>
           <p xml:id="cice-l5t1-d1e434">Idem Episcopo et Decano Sylvanectensibus.</p>
           <p xml:id="cice-l5t1-d1e437">Ad petitionem Galterii quondam Corbiensis abbatis dilectis filiis magistro scholarum et
             Magistris R. de Corzon et P. canonicis Noviomensibus eiusdem loci a nobis dudum
@@ -626,9 +626,9 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e442">
           <head xml:id="cice-l5t1-Hd1e444">CAP. XXIII.</head>
-          <p xml:id="cice-l5t1-d1e447">Agenti possessorio adipiscendae in beneficialibus non obstat exceptio criminis, nisi de
+          <head xml:id="cice-l5t1-d1e447" type="question-title">Agenti possessorio adipiscendae in beneficialibus non obstat exceptio criminis, nisi de
             eo sit infamatus; et infamato, accusatore non probante vel non apparente, indicitur
-            purgatio, in qua si defecerit, punitur ut convictus.</p>
+            purgatio, in qua si defecerit, punitur ut convictus.</head>
           <p xml:id="cice-l5t1-d1e450">Idem.</p>
           <p xml:id="cice-l5t1-d1e453">Accedens ad praesentiam nostram G. nepos quondam H. subdiaconi nostri, sua nobis
             conquestione monstravit, quod, quum idem H. apud sedem apostolicam viam universae carnis
@@ -681,13 +681,13 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e457">
           <head xml:id="cice-l5t1-Hd1e459">CAP. XXIV.</head>
-          <p xml:id="cice-l5t1-d1e462">Superior contra subditum, maxima praelatum, de his tantum inquiret super quibus
+          <head xml:id="cice-l5t1-d1e462" type="question-title">Superior contra subditum, maxima praelatum, de his tantum inquiret super quibus
             praecessit infamia, et tunc vocabit eum, et tradet sibi capitula et nomina, et testium
             dicta publicabit, et ipsius legitimas exceptiones admittet, et, probato gravi crimine,
             eum ab administratione removebit. In regularibus vero praelatis ad unguem servandus non
             est hic ordo. Et quanquam in hac summatione modica videatur agi differentia inter
             praelatos et subditos, contra quos inquiritur, tamen facienda est, ut patet in
-            litera.</p>
+            litera.</head>
           <p xml:id="cice-l5t1-d1e465">Idem in concilio generali.</p>
           <p xml:id="cice-l5t1-d1e468">Qualiter et quando debeat praelatus procedere ad inquirendum et puniendum subditorum
             excessus, ex auctoritatibus veteris et novi testamenti colligitur evidenter, ex quibus
@@ -739,11 +739,11 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e472">
           <head xml:id="cice-l5t1-Hd1e474">CAP. XXV.</head>
-          <p xml:id="cice-l5t1-d1e477">Metropolitani ad correctionem excessuum et reformationem morum singulis annis facere
+          <head xml:id="cice-l5t1-d1e477" type="question-title">Metropolitani ad correctionem excessuum et reformationem morum singulis annis facere
             debent provinciale concilium, in quo statuere debent personas idoneas per singulas
             dioeceses, quae sollicite investigent, et in sequenti concilio referant corrigenda. Et
             episcopi debent facere synodos episcopales singulis annis, et publicare agitata in
-            provinciali concilio, et haec negligentes ab exsecutione officii suspenduntur. H. d.</p>
+            provinciali concilio, et haec negligentes ab exsecutione officii suspenduntur. H. d.</head>
           <p xml:id="cice-l5t1-d1e480">Idem in eodem.</p>
           <p xml:id="cice-l5t1-d1e483">Sicut olim a sanctis Patribus noscitur institutum, metropolitani singulis annis cum
             suis suffraganeis provincialia non omittant concilia celebrare, in quibus de corrigendis
@@ -762,12 +762,12 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e487">
           <head xml:id="cice-l5t1-Hd1e489">CAP. XXVI.</head>
-          <p xml:id="cice-l5t1-d1e492">Sententiae excommunicationum, suspensionum vel interdicti, latae post denunciationem
+          <head xml:id="cice-l5t1-d1e492" type="question-title">Sententiae excommunicationum, suspensionum vel interdicti, latae post denunciationem
             per abbatem denunciatum vel alium pro ipso in monachos denunciantes vel adhaerentes
             eisdem, relaxantur. Spoliati restituuntur, et iuramenta de tacenda veritate relaxantur,
             dicta testium denunciato traduntur, et expensae de bonis monasterii monachis
             denunciantibus ministrantur; et propter hoc ab obedientia abbatis non eximuntur, sine
-            tamen litis praeiudicio.</p>
+            tamen litis praeiudicio.</head>
           <p xml:id="cice-l5t1-d1e495">Gregorius IX. Archiepiscopo et Priori sanctae Mariae Rothomagensis.</p>
           <p xml:id="cice-l5t1-d1e498">Olim I. V. et P. ordinis Tyronensis (Et infra:) Ne igitur reformatio monasterii valeat
             retardari, mandamus, quatenus, relaxatis excommunicationum seu suspensionum sententiis,
@@ -789,8 +789,8 @@
         </div>
         <div xml:id="cice-l5t1-Dd1e502">
           <head xml:id="cice-l5t1-Hd1e504">CAP. XXVII.</head>
-          <p xml:id="cice-l5t1-d1e507">Contra praelatum, denunciatum de dilapidatione, fit commissio super veritate
-            inquirenda, et pendente negotio debet sibi interdici potestas alienandi.</p>
+          <head xml:id="cice-l5t1-d1e507" type="question-title">Contra praelatum, denunciatum de dilapidatione, fit commissio super veritate
+            inquirenda, et pendente negotio debet sibi interdici potestas alienandi.</head>
           <p xml:id="cice-l5t1-d1e510">Idem Episcopo Cister., de Alde. et de Salen. Abbatibus.</p>
           <p xml:id="cice-l5t1-d1e513">Praelatorum excessus †[tanto sunt severius corrigendi, quanto plures eorum corrumpuntur
             exemplo, si remanerent incorrecti] Sane dilecti filii C. [C. E. H.] et quatuor alii

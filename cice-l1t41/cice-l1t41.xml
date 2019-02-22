@@ -57,9 +57,9 @@
 
         <div xml:id="cice-l1t41-Dd1e108">
           <head xml:id="cice-l1t41-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t41-d1e113">Si in contractu venditionis vel locationis ecclesia fuit enormiter laesa, potest
+          <head xml:id="cice-l1t41-d1e113" type="question-title">Si in contractu venditionis vel locationis ecclesia fuit enormiter laesa, potest
             adversus talem contractum petere restitutionem in integrum; emptor tamen sive conductor
-            non debet fraudari in pretio suo, vel in sumptibus per eum factis.</p>
+            non debet fraudari in pretio suo, vel in sumptibus per eum factis.</head>
           <p xml:id="cice-l1t41-d1e116">Alexander III. Alphanensi Episcopo.</p>
           <p xml:id="cice-l1t41-d1e119">Requisivit a nobis tua fraternitas, quid agendum sit de possessionibus laicis sub
             modico censu concessis? Noveris itaque, quod, si ecclesia laesa est, et manifeste
@@ -71,8 +71,8 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e123">
           <head xml:id="cice-l1t41-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t41-d1e128">Restituitur ecclesia laesa propter negligentiam procuratoris, qui iura ecclesiae non
-            produxit.</p>
+          <head xml:id="cice-l1t41-d1e128" type="question-title">Restituitur ecclesia laesa propter negligentiam procuratoris, qui iura ecclesiae non
+            produxit.</head>
           <p xml:id="cice-l1t41-d1e131">Innocentius III. sancti Georgii et sancti Sergii Abbatibus.</p>
           <p xml:id="cice-l1t41-d1e134">Quum venissent ad apostolicam sedem dilecti filii electus et monachi Rothonenses pro se
             ac pro monasterio suo, ac dilectus filius magister A. pro venerabili fratre nostro
@@ -117,9 +117,9 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e138">
           <head xml:id="cice-l1t41-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t41-d1e143">Ecclesia laesa in probatione necessaria omissa potest petere restitutionem in integrum,
+          <head xml:id="cice-l1t41-d1e143" type="question-title">Ecclesia laesa in probatione necessaria omissa potest petere restitutionem in integrum,
             non obstante termino iuris probationis exclusivo. Et restitutionem petere potest, non
-            solum contra privatum, sed etiam contra ecclesiam. H. d.</p>
+            solum contra privatum, sed etiam contra ecclesiam. H. d.</head>
           <p xml:id="cice-l1t41-d1e146">Idem Heliensi et Florensi Episcopis.</p>
           <p xml:id="cice-l1t41-d1e149">Auditis et intellectis causae meritis in quaestione, quae vertitur inter venerabilem
             fratrem nostrum Vigoriensem episcopum et dilectum filium abbatem de Evescam super
@@ -140,9 +140,9 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e153">
           <head xml:id="cice-l1t41-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t41-d1e158">Restitutio ex iusta causa etiam maiori est concedenda, dummodo iusta causa petendi
+          <head xml:id="cice-l1t41-d1e158" type="question-title">Restitutio ex iusta causa etiam maiori est concedenda, dummodo iusta causa petendi
             probetur; si autem non probatur plene vel semiplene conceditur restitutio in causa
-            favorabili. H. d.</p>
+            favorabili. H. d.</head>
           <p xml:id="cice-l1t41-d1e161">Idem Priori sanctae Mariae ad Carceres, et L. Canonico sanctae Mariae de Mandria.</p>
           <p xml:id="cice-l1t41-d1e164">Ex literis dilecti filii abbatis de Calven. didicimus, quod, quum dilecti filii
             Ramisane et Grimol. archipresbyteri inter I. virum et L. mulierem ex delegatione nostra
@@ -168,9 +168,9 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e169">
           <head xml:id="cice-l1t41-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t41-d1e174">Etiam contra sententiam Papae restituitur ecclesia. Hoc primo. Et causa restitutionis
+          <head xml:id="cice-l1t41-d1e174" type="question-title">Etiam contra sententiam Papae restituitur ecclesia. Hoc primo. Et causa restitutionis
             in integrum debet praesentibus partibus tractari. Hoc secundo. Haec duo dicit quoad
-            titulum.</p>
+            titulum.</head>
           <p xml:id="cice-l1t41-d1e177">Idem Episcopo et Capitulo Oscensi.</p>
           <p xml:id="cice-l1t41-d1e180">Tum ex literis bonae memoriae Coelestini Papae praedecessoris nostri, tum ex iis, quae
             ipsius temporibus in tua praesentia frater episcope et venerabilis fratris nostri
@@ -240,12 +240,12 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e184">
           <head xml:id="cice-l1t41-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t41-d1e189">Petitio restitutionis in integrum contra sententiam suspendit regulariter exsecutionem
+          <head xml:id="cice-l1t41-d1e189" type="question-title">Petitio restitutionis in integrum contra sententiam suspendit regulariter exsecutionem
             sententiae in eventu istius causae restitutionis; fallit, si contra petentem
             restitutionem est praesumptio malitiae, quod causa differendi exsecutionem hoc petat;
             quo casu exsecutio fit praestita cautione de restituendo, si petens restitutionem
             obtinebit in causa. H. d. secundum mentem iuncta gloss. pen. et in hoc ultimo est iste
-            textus valde singularis respectu utriusque iuris.</p>
+            textus valde singularis respectu utriusque iuris.</head>
           <p xml:id="cice-l1t41-d1e192">Idem.</p>
           <p xml:id="cice-l1t41-d1e195">Suscitata super diversis articulis inter venerabilem fratrem nostrum Burgensem
             episcopum et Oviense monasterium quaestione, †[quum venerabilis frater noster
@@ -307,8 +307,8 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e199">
           <head xml:id="cice-l1t41-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t41-d1e204">Post peremptorium non auditur ecclesia de iure communi; auditur tamen per beneficium
-            restitutionis in integrum.</p>
+          <head xml:id="cice-l1t41-d1e204" type="question-title">Post peremptorium non auditur ecclesia de iure communi; auditur tamen per beneficium
+            restitutionis in integrum.</head>
           <p xml:id="cice-l1t41-d1e207">Honorius III. Archiepiscopo et Capitulo Bracharensi.</p>
           <p xml:id="cice-l1t41-d1e210">Coram felicis memoriae I. Papa praedecessore nostro lite inter venerabilem fratrem
             nostrum archiepiscopum Toletanum et te, frater archiepiscope, super primatia solenniter
@@ -323,8 +323,8 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e214">
           <head xml:id="cice-l1t41-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t41-d1e219">Restituitur minor in eo, quod contraxit vel omisit, si probat exinde se laesum et sit
-            infra tempora restitutionis petendae.</p>
+          <head xml:id="cice-l1t41-d1e219" type="question-title">Restituitur minor in eo, quod contraxit vel omisit, si probat exinde se laesum et sit
+            infra tempora restitutionis petendae.</head>
           <p xml:id="cice-l1t41-d1e222">Gregorius IX.</p>
           <p xml:id="cice-l1t41-d1e225">Constitutus in nostra praesentia magister Guill. pro se ac fratre suo I. canonico
             Parrosinensi exhibita nobis petitione monstravit, quod eis in minori constitutis aetate,
@@ -347,11 +347,11 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e229">
           <head xml:id="cice-l1t41-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t41-d1e234">Restitutio in integrum postulanda est ab ordinario administrationem habente, vel a
+          <head xml:id="cice-l1t41-d1e234" type="question-title">Restitutio in integrum postulanda est ab ordinario administrationem habente, vel a
             delegato ab eo, sive haec causa sit specialiter delegata, sive incidat in causa
             generaliter sibi commissa. Ab ordinario vero administrationem non habente vel a delegato
             peti non debet, nisi veniat incidenter in causa. Arbiter autem de causa restitutionis
-            non cognoscit, nec potest assumi in maioribus causis.</p>
+            non cognoscit, nec potest assumi in maioribus causis.</head>
           <p xml:id="cice-l1t41-d1e237">Idem.</p>
           <p xml:id="cice-l1t41-d1e240">Causa restitutionis in integrum coram iudicibus ordinariis administrationem habentibus
             vel delegatis ab eis tractari poterit et finiri, sive hoc ipsis delegatis specialiter
@@ -363,8 +363,8 @@
         </div>
         <div xml:id="cice-l1t41-Dd1e244">
           <head xml:id="cice-l1t41-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t41-d1e249">Restitutio denegata ecclesiae ulterius sibi non conceditur, nisi ex nova causa;
-            restituitur tamen ad appellandum a sententia denegationis.</p>
+          <head xml:id="cice-l1t41-d1e249" type="question-title">Restitutio denegata ecclesiae ulterius sibi non conceditur, nisi ex nova causa;
+            restituitur tamen ad appellandum a sententia denegationis.</head>
           <p xml:id="cice-l1t41-d1e252">Idem.</p>
           <p xml:id="cice-l1t41-d1e255">Beneficio restitutionis in integrum ecclesiae tuae in alio iudicio denegato,
             restitutio, praeterquam ad appellationem omissam, videtur eidem ecclesiae posse negari,

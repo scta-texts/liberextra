@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t27-Dd1e108">
           <head xml:id="cice-l3t27-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t27-d1e113">Clericus bona propria dare potest cui vult; sed, si decedat intestatus, et non habet
-            consanguineos, succedit ecclesiae. H. d. iuncta gl.</p>
+          <head xml:id="cice-l3t27-d1e113" type="question-title">Clericus bona propria dare potest cui vult; sed, si decedat intestatus, et non habet
+            consanguineos, succedit ecclesiae. H. d. iuncta gl.</head>
           <p xml:id="cice-l3t27-d1e116">Ex concilio apud Alten. habito.</p>
           <p xml:id="cice-l3t27-d1e119">Sed [et] hoc ibidem inventum est de episcopis, presbyteris et clericus, ut, si per
             hereditatem vel alio modo intuitu personae aliquid acquisierint, donare eis liceat hanc,
@@ -69,8 +69,8 @@
         </div>
         <div xml:id="cice-l3t27-Dd1e123">
           <head xml:id="cice-l3t27-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t27-d1e128">Si olim servus, presbyter factus, intestatus decedat, eius bona dividuntur secundum
-            formam hic contentam. H. d. secundum intellectum singularem, qui hodie etiam tenet.</p>
+          <head xml:id="cice-l3t27-d1e128" type="question-title">Si olim servus, presbyter factus, intestatus decedat, eius bona dividuntur secundum
+            formam hic contentam. H. d. secundum intellectum singularem, qui hodie etiam tenet.</head>
           <p xml:id="cice-l3t27-d1e131">Ex concilio Triburiensi.</p>
           <p xml:id="cice-l3t27-d1e134">Sancto concilio allatum est, quod quidam laici improbe agunt contra presbyteros suos
             ita, ut de morientium presbyterorum substantia partes sibi vendicent sicut de propriis
@@ -83,12 +83,12 @@
         </div>
         <div xml:id="cice-l3t27-Dd1e138">
           <head xml:id="cice-l3t27-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t27-d1e143">Attingendo duos notabiles et singulares intellectus, huius capituli, summatur secundum
+          <head xml:id="cice-l3t27-d1e143" type="question-title">Attingendo duos notabiles et singulares intellectus, huius capituli, summatur secundum
             quemlibet intellectum, et primo sic: Valet testamentum ad pias causas conditum per verba
             enunciativa, etiam propter aliud prolata, quanquam successio seu testatio veniat ad
             exclusionem alterius ecclesiae. Vel aliter secundum alium intellectum et sic: Per unum
             testem de veritate et per confessionem etiam incidenter factam probatur oblatio, etiam
-            quoad effectum consequendi bona oblata.</p>
+            quoad effectum consequendi bona oblata.</head>
           <p xml:id="cice-l3t27-d1e146">Innocentius III. Murnensi Episcopo.</p>
           <p xml:id="cice-l3t27-d1e149">Quum dilectus filius abbas de Brusia ad nostram [nuper] praesentiam accessisset, et pro
             causa, quam adversus venerabilem fratrem nostrum episcopum Eduensem habebat, ibidem

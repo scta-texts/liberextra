@@ -57,7 +57,7 @@
 
         <div xml:id="cice-l5t27-Dd1e108">
           <head xml:id="cice-l5t27-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l5t27-d1e113">Clericus, depositus celebrans, excommunicatur.</p>
+          <head xml:id="cice-l5t27-d1e113" type="question-title">Clericus, depositus celebrans, excommunicatur.</head>
           <p xml:id="cice-l5t27-d1e116">Ex canone Apostolorum.</p>
           <p xml:id="cice-l5t27-d1e119">Si quis episcopus, presbyter vel diaconus, depositus iuste pro certis criminibus, ausus
             fuerit attractare ministerium sibi dudum commissum: hic ab ecclesia penitus
@@ -65,9 +65,9 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e123">
           <head xml:id="cice-l5t27-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l5t27-d1e128">Degradatus vel suspensus celebrans, et monitus non desistens, excommunicatur; et, si
+          <head xml:id="cice-l5t27-d1e128" type="question-title">Degradatus vel suspensus celebrans, et monitus non desistens, excommunicatur; et, si
             nec sic desistat, per saecularem potestatem ad requisitionem ecclesiae exsilio
-            damnatur.</p>
+            damnatur.</head>
           <p xml:id="cice-l5t27-d1e131">Ex concilio Antiocheno.</p>
           <p xml:id="cice-l5t27-d1e134">Si quis presbyter aut alius clericus ab episcopo suo fuerit degradatus, aut ab officio
             pro certis criminibus suspensus, et ipse per contemptum et superbiam aliquid de
@@ -80,7 +80,7 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e138">
           <head xml:id="cice-l5t27-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l5t27-d1e143">Interdictus et excommunicatus celebrans, monitus non desistens, deponitur.</p>
+          <head xml:id="cice-l5t27-d1e143" type="question-title">Interdictus et excommunicatus celebrans, monitus non desistens, deponitur.</head>
           <p xml:id="cice-l5t27-d1e146">Alexander III. Londonensi Episcopo.</p>
           <p xml:id="cice-l5t27-d1e149">Clerici autem, si qui a suis, aut etiam de mandato Romani Pontificis ab alienis
             episcopis interdicti vel excommunicati [fuerint, et] ante absolutionem divina officia
@@ -89,8 +89,8 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e153">
           <head xml:id="cice-l5t27-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l5t27-d1e158">Excommunicati vel interdicti celebrantes deponi debent, nisi propter multitudinem
-            mitigetur poena.</p>
+          <head xml:id="cice-l5t27-d1e158" type="question-title">Excommunicati vel interdicti celebrantes deponi debent, nisi propter multitudinem
+            mitigetur poena.</head>
           <p xml:id="cice-l5t27-d1e161">Idem Toletano Archiepiscopo.</p>
           <p xml:id="cice-l5t27-d1e164">Latores praesentium, cum tuis literis ad nostram accedentes praesentiam, suum nobis
             excessum plenius intimarunt, scilicet, quod tam ipsi quam multi alii, postquam
@@ -107,8 +107,8 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e169">
           <head xml:id="cice-l5t27-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l5t27-d1e174">Si habens notitiam excommunicationis per solam famam celebrat, debet de rigore deponi,
-            licet cum eo possit misericorditer dispensari. H. d. et est casus notabilis.</p>
+          <head xml:id="cice-l5t27-d1e174" type="question-title">Si habens notitiam excommunicationis per solam famam celebrat, debet de rigore deponi,
+            licet cum eo possit misericorditer dispensari. H. d. et est casus notabilis.</head>
           <p xml:id="cice-l5t27-d1e177">Innocentius III. Herbipolensi Capitulo.</p>
           <p xml:id="cice-l5t27-d1e180">Illud Dominus in beato Petro, [cui licet insufficientes in apostolatus successimus
             dignitate, singularis praerogativae privilegium ecclesiae Romanae concessit, ut
@@ -231,7 +231,7 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e184">
           <head xml:id="cice-l5t27-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l5t27-d1e189">Excommunicatus celebrans a beneficio deponitur.</p>
+          <head xml:id="cice-l5t27-d1e189" type="question-title">Excommunicatus celebrans a beneficio deponitur.</head>
           <p xml:id="cice-l5t27-d1e192">Idem Bisuntino Archiepiscopo.</p>
           <p xml:id="cice-l5t27-d1e195">Fraternitati tuae (Et infra: [cf. c. 7. de eo, qui cogn. IV. 13.]) Presbyteros autem et
             alios clericos dioecesis tuae, qui pro suis excessibus a te nexibus anathematis canonice
@@ -241,10 +241,10 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e199">
           <head xml:id="cice-l5t27-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l5t27-d1e204">Collatio beneficii excommunicato facta non tenet, et scienter talibus conferens a
+          <head xml:id="cice-l5t27-d1e204" type="question-title">Collatio beneficii excommunicato facta non tenet, et scienter talibus conferens a
             beneficiorum collatione suspenditur. – (Quaesivistis etc.:) Celebrans in loco
             interdicto, si est clericus saecularis, beneficiis privatur; si monachus, in arctius
-            monasterium detruditur. H. d.</p>
+            monasterium detruditur. H. d.</head>
           <p xml:id="cice-l5t27-d1e207">Idem Decano et Priori Coloniensibus.</p>
           <p xml:id="cice-l5t27-d1e210">Postulastis per sedem apostolicam edoceri (Et infra:) Consequenter etiam quaesivistis,
             utrum clerici, qui, dum essent excommunicationis vinculo innodoti, ecclesiastica
@@ -268,8 +268,8 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e214">
           <head xml:id="cice-l5t27-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l5t27-d1e219">Valet collatio beneficii ei facta, qui prius fuit excommunicatus, sei absolutus tempore
-            collationis.</p>
+          <head xml:id="cice-l5t27-d1e219" type="question-title">Valet collatio beneficii ei facta, qui prius fuit excommunicatus, sei absolutus tempore
+            collationis.</head>
           <p xml:id="cice-l5t27-d1e222">Idem Decano et Subdiacono Pictaviensibus et Magistro P. Canonica Petragoricensi.</p>
           <p xml:id="cice-l5t27-d1e225">Proposuit olim coram nobis dilectus filius magister P. [Boiol] clericus venerabilis
             fratris nostri episcopi Tusculanensis, quod dilecto filio G. sanctae Mariae in porticu
@@ -304,8 +304,8 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e229">
           <head xml:id="cice-l5t27-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l5t27-d1e234">Suspensus vel excommunicatus ignoranter celebrando nulla indiget dispensatione respectu
-            irregularitatis; alias secus.</p>
+          <head xml:id="cice-l5t27-d1e234" type="question-title">Suspensus vel excommunicatus ignoranter celebrando nulla indiget dispensatione respectu
+            irregularitatis; alias secus.</head>
           <p xml:id="cice-l5t27-d1e237">Gregorius IX. I. et I. Canonicis Pragensibus.</p>
           <p xml:id="cice-l5t27-d1e240">Apostolicae sedis (Et infra:) Verum, quia tempore suspensionis ignari celebrastis
             divina, vos reddit ignorantia probabilis escusatos. Ceterum, si forte ignorantia crassa
@@ -314,9 +314,9 @@
         </div>
         <div xml:id="cice-l5t27-Dd1e244">
           <head xml:id="cice-l5t27-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l5t27-d1e249">Excommunicatus minori celebrans non est irregularis, sed peccat, et potest eligere, et
+          <head xml:id="cice-l5t27-d1e249" type="question-title">Excommunicatus minori celebrans non est irregularis, sed peccat, et potest eligere, et
             ea, quae sunt iurisdictionis, exercere, licet non eligi; et, si confert sacramenta,
-            licet peccet, tamen collatio tenet et suum habet effectum.</p>
+            licet peccet, tamen collatio tenet et suum habet effectum.</head>
           <p xml:id="cice-l5t27-d1e252">Idem.</p>
           <p xml:id="cice-l5t27-d1e255">Si celebrat minori excommunicatione ligatus, licet graviter peccet, nullius tamen notam
             irregularitatis incurrit, nec eligere prohibetur, vel ea, quae ratione iurisdictionis

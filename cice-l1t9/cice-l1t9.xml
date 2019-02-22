@@ -56,8 +56,8 @@
         <head xml:id="cice-l1t9-Hd1e105">1.09. DE RENUNCIATIONE.</head>
         <div xml:id="cice-l1t9-Dd1e108">
           <head xml:id="cice-l1t9-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l1t9-d1e113">Non datur licentia cedendi episcopo, qui propter senectutem vult cedere, si necessarius
-            vel utilis sit ecclesiae suae.</p>
+          <head xml:id="cice-l1t9-d1e113" type="question-title">Non datur licentia cedendi episcopo, qui propter senectutem vult cedere, si necessarius
+            vel utilis sit ecclesiae suae.</head>
           <p xml:id="cice-l1t9-d1e116">Alexander III. Londonensi Episcopo.</p>
           <p xml:id="cice-l1t9-d1e119">Literas tuas, †nuper accepimus, devotione plenas et dolore non vacuas, quandoquidem et
             tuam, nobis insinuaverunt affectuosissimam caritatem, et tui archiepiscopalis officii,
@@ -94,7 +94,7 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e123">
           <head xml:id="cice-l1t9-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t9-d1e128">Qui abiurat beneficium, licite potest illud, si denuo eligatur, obtinere.</p>
+          <head xml:id="cice-l1t9-d1e128" type="question-title">Qui abiurat beneficium, licite potest illud, si denuo eligatur, obtinere.</head>
           <p xml:id="cice-l1t9-d1e131">Idem Abbati Dolensi et Priori de Artigia.</p>
           <p xml:id="cice-l1t9-d1e134">Quum inter P. Gaufridi et quosdam alios canonicos sancti I. super spirituali beneficio,
             scilicet stallo in choro et loco in capitulo, in praesentia nostra quaestio fuisset
@@ -110,7 +110,7 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e138">
           <head xml:id="cice-l1t9-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t9-d1e143">Qui renunciavit beneficio suo, illud repetere non potest.</p>
+          <head xml:id="cice-l1t9-d1e143" type="question-title">Qui renunciavit beneficio suo, illud repetere non potest.</head>
           <p xml:id="cice-l1t9-d1e146">Idem Episcopo Verulano.</p>
           <p xml:id="cice-l1t9-d1e149">Ex transmissa relatione abbatis sancti Nicolai de Ceparano nostris est auribus
             intimatum, quod P. Rubeus clericus, dum olim infirmitate laboraret, apud monasterium
@@ -128,7 +128,7 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e153">
           <head xml:id="cice-l1t9-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t9-d1e158">Beneficiatus sine licentia praelati sui beneficio renunciare non potest.</p>
+          <head xml:id="cice-l1t9-d1e158" type="question-title">Beneficiatus sine licentia praelati sui beneficio renunciare non potest.</head>
           <p xml:id="cice-l1t9-d1e161">Idem Episcopo Tornacensi.</p>
           <p xml:id="cice-l1t9-d1e164">Admonet †nos cura suscepti regiminis et auctoritas pontificalis inducit, ut pro statu
             ecclesiarum simus solliciti, et earum profectibus et incrementis integro studio
@@ -148,9 +148,9 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e169">
           <head xml:id="cice-l1t9-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t9-d1e174">Contra petentem beneficium admittitur spontaneae abiurationis exceptio, etiam causa
+          <head xml:id="cice-l1t9-d1e174" type="question-title">Contra petentem beneficium admittitur spontaneae abiurationis exceptio, etiam causa
             renunciationis non adiecta; contra quam actor replicare poterit, quod non sponte
-            renunciavit, et qui melius probaverit obtinebit.</p>
+            renunciavit, et qui melius probaverit obtinebit.</head>
           <p xml:id="cice-l1t9-d1e177">Clemens III.</p>
           <p xml:id="cice-l1t9-d1e180">Super hoc, quod sciscitaris, utrum ecclesiastica beneficia reposcentibus obiecta
             spontaneae abiurationis exceptio sine causae cognitione sit admittenda, et an actoris,
@@ -170,8 +170,8 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e184">
           <head xml:id="cice-l1t9-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t9-d1e189">Qui sponte renunciavit electioni de se factae, super ipsa ulterius audiri non
-            debet.</p>
+          <head xml:id="cice-l1t9-d1e189" type="question-title">Qui sponte renunciavit electioni de se factae, super ipsa ulterius audiri non
+            debet.</head>
           <p xml:id="cice-l1t9-d1e192">Idem.</p>
           <p xml:id="cice-l1t9-d1e195">In praesentia nostra †[constitutus dilectus filius R. quondam abbas Torneae proposuit
             coram nobis, quod quum olim ad eius monasterium accessisses, quod ipse in C. marcharum
@@ -252,8 +252,8 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e199">
           <head xml:id="cice-l1t9-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t9-d1e204">Qui renunciavit literis beneficialibus, non ideo institutioni iam factae renunciare
-            videtur.</p>
+          <head xml:id="cice-l1t9-d1e204" type="question-title">Qui renunciavit literis beneficialibus, non ideo institutioni iam factae renunciare
+            videtur.</head>
           <p xml:id="cice-l1t9-d1e207">Coelestinus III.</p>
           <p xml:id="cice-l1t9-d1e210">Sane dilecto filio nostro I. tituli S. Prudentianae presbytero cardinali, tunc
             apostolicae sedis legato, nos viva voce meminimus ac literis iniunxisse, ut dilectum
@@ -281,8 +281,8 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e214">
           <head xml:id="cice-l1t9-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t9-d1e219">Renunciatio beneficii facta in manibus laici non tenet; renuncians tamen est beneficio
-            spoliandus.</p>
+          <head xml:id="cice-l1t9-d1e219" type="question-title">Renunciatio beneficii facta in manibus laici non tenet; renuncians tamen est beneficio
+            spoliandus.</head>
           <p xml:id="cice-l1t9-d1e222">Innocentius III. Nidrosiensi Archiepiscopo.</p>
           <p xml:id="cice-l1t9-d1e225">Quod in dubiis (Et infra: [cf. c. 30. de sent. exc. V. 39.] Hi praeterea, qui
             beneficium ecclesiasticum sibi collatum sponte in manum laicam resignantes, illud denuo
@@ -292,8 +292,8 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e229">
           <head xml:id="cice-l1t9-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t9-d1e234">Papa concedit licentiam cedendi episcopo, qui sine mortis periculo in ecclesia sua
-            morari non potest.</p>
+          <head xml:id="cice-l1t9-d1e234" type="question-title">Papa concedit licentiam cedendi episcopo, qui sine mortis periculo in ecclesia sua
+            morari non potest.</head>
           <p xml:id="cice-l1t9-d1e237">Idem Eboracensi Archiepiscopo.</p>
           <p xml:id="cice-l1t9-d1e240">Ad supplicationem instantem venerabilis fratris nostri Ragusiensis archiepiscopi, eum a
             cura et sollicitudine, qua tenebatur ecclesiae Ragusiensi, duximus absolvendum, eo
@@ -308,8 +308,8 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e244">
           <head xml:id="cice-l1t9-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t9-d1e249">Debilis, ignarus, male conscius, irregularis, Quem mala plebs odit, dans scandala
-            cedere possit.</p>
+          <head xml:id="cice-l1t9-d1e249" type="question-title">Debilis, ignarus, male conscius, irregularis, Quem mala plebs odit, dans scandala
+            cedere possit.</head>
           <p xml:id="cice-l1t9-d1e252">Idem Episcopo Calaritano.</p>
           <p xml:id="cice-l1t9-d1e255">Nisi, quum pridem †in officio pastorali ad divinum servitium accessisti, praeparasse te
             ad tentationem animum crederemus, ac praevidisse prudenter, nequaquam in humana
@@ -532,10 +532,10 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e260">
           <head xml:id="cice-l1t9-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t9-d1e265">Episcopus, qui propter crimen renunciavit episcopatui, et ad religionem transivit, ad
+          <head xml:id="cice-l1t9-d1e265" type="question-title">Episcopus, qui propter crimen renunciavit episcopatui, et ad religionem transivit, ad
             episcopatum reassumi non potest; secus, si renunciavit propter persecutionem,
             infirmitatem, defectum scientiae, simoniam ipso ignorante commissam, vel aliam similem
-            causam.</p>
+            causam.</head>
           <p xml:id="cice-l1t9-d1e268">Idem Episcopo Faventino in Archiepiscopum Ravennatem electo.</p>
           <p xml:id="cice-l1t9-d1e271">Post translationem tuam ad ecclesiam Ravennatensem quum dilecti filii praepositus et
             canonici, abbates et primicerii Faventini, totusque civitatis clerus, sicut per literas
@@ -602,7 +602,7 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e275">
           <head xml:id="cice-l1t9-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t9-d1e280">Qui petiit cedendi licentiam, ex quo illam obtinuit, cedere compellitur.</p>
+          <head xml:id="cice-l1t9-d1e280" type="question-title">Qui petiit cedendi licentiam, ex quo illam obtinuit, cedere compellitur.</head>
           <p xml:id="cice-l1t9-d1e283">Idem in concilio generali.</p>
           <p xml:id="cice-l1t9-d1e286">Quidam cedendi licentiam cum instantia postulantes, ea obtenta cedere praetermittunt.
             Sed quum in postulatione cessionis huiusmodi aut ecclesiarum commoda, quibus praesunt,
@@ -612,7 +612,7 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e290">
           <head xml:id="cice-l1t9-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t9-d1e295">Non renunciat iuri suo, qui gratiae adversarii se submittit.</p>
+          <head xml:id="cice-l1t9-d1e295" type="question-title">Non renunciat iuri suo, qui gratiae adversarii se submittit.</head>
           <p xml:id="cice-l1t9-d1e298">Honorius III. maioris ecclesiae Decano, et Magistro R. Cantori sancti Dionysii
             Leodiensis.</p>
           <p xml:id="cice-l1t9-d1e301">Veniens ad sedem apostolicam I. pauper subdiaconus in nostra proposuit praesentia
@@ -652,8 +652,8 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e305">
           <head xml:id="cice-l1t9-Hd1e307">CAP. XIV.</head>
-          <p xml:id="cice-l1t9-d1e310">Si praelatus ab obedientia subditos absolvit, non propter hoc praelaturae
-            renunciat.</p>
+          <head xml:id="cice-l1t9-d1e310" type="question-title">Si praelatus ab obedientia subditos absolvit, non propter hoc praelaturae
+            renunciat.</head>
           <p xml:id="cice-l1t9-d1e313">Idem Archiepiscopo Treverensi.</p>
           <p xml:id="cice-l1t9-d1e316">Lectae coram nobis fraternitatis tuae literae continebant, quod abbas sancti Petri
             Tullensis, quem de conversationis et vitae honestate commendas, tibi humiliter est
@@ -672,7 +672,7 @@
         </div>
         <div xml:id="cice-l1t9-Dd1e320">
           <head xml:id="cice-l1t9-Hd1e322">CAP. XV.</head>
-          <p xml:id="cice-l1t9-d1e325">Abbas exemptus sine licentia Papae renunciare non potest.</p>
+          <head xml:id="cice-l1t9-d1e325" type="question-title">Abbas exemptus sine licentia Papae renunciare non potest.</head>
           <p xml:id="cice-l1t9-d1e328">Gregorius IX. Agathensi et Uticensi Episcopis.</p>
           <p xml:id="cice-l1t9-d1e331">Dilecti filii conventus monasterii sancti G. de Desertis immediate ad Romanam
             pertinentis ecclesiam, suis nobis literis intimaverunt, quod abbas eorum, sentiens se

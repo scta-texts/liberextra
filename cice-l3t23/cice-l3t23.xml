@@ -57,8 +57,8 @@
 
         <div xml:id="cice-l3t23-Dd1e108">
           <head xml:id="cice-l3t23-Hd1e110">CAP. I.</head>
-          <p xml:id="cice-l3t23-d1e113">Successor in beneficio tenetur solvere debita praedecessoris pro necessitate ecclesiae
-            contracta.</p>
+          <head xml:id="cice-l3t23-d1e113" type="question-title">Successor in beneficio tenetur solvere debita praedecessoris pro necessitate ecclesiae
+            contracta.</head>
           <p xml:id="cice-l3t23-d1e116">Alexander I2. Decano et Capitulo Morinensibus.</p>
           <p xml:id="cice-l3t23-d1e119">Ad hoc in apostolicae †[sedis specula sumus, licet immeriti, Domino disponente
             constituti, ut aciem nostrae considerationis ad universas ecclesias extendamus, et earum
@@ -76,8 +76,8 @@
         </div>
         <div xml:id="cice-l3t23-Dd1e123">
           <head xml:id="cice-l3t23-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l3t23-d1e128">Si praelatus obligat ecclesiam pro alienis debitis, est suspensus ipso facto ab
-            administratione spiritualium et temporalium, et ecclesia non tenetur.</p>
+          <head xml:id="cice-l3t23-d1e128" type="question-title">Si praelatus obligat ecclesiam pro alienis debitis, est suspensus ipso facto ab
+            administratione spiritualium et temporalium, et ecclesia non tenetur.</head>
           <p xml:id="cice-l3t23-d1e131">Gregorius IX. universis ecclesiarum Praelatis.</p>
           <p xml:id="cice-l3t23-d1e134">Si quorundam †[praelatorum praesumptionem deo et nominibus exhorrendam iuste pensare
             vellemus, pene non esset adhibenda dilatio, sed in transgressores celeris vindictae
@@ -99,9 +99,9 @@
         </div>
         <div xml:id="cice-l3t23-Dd1e138">
           <head xml:id="cice-l3t23-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l3t23-d1e143">Si clericus non habeat unde satisfaciat suis creditoribus, non debet excommunicari nec
+          <head xml:id="cice-l3t23-d1e143" type="question-title">Si clericus non habeat unde satisfaciat suis creditoribus, non debet excommunicari nec
             aliter molestari; praestabit tamen cautionem saltem iuratoriam de solvendo, quum venerit
-            ad pinguiorem fortunam.</p>
+            ad pinguiorem fortunam.</head>
           <p xml:id="cice-l3t23-d1e146">Idem Decano et I. Canonico Tullentibus.</p>
           <p xml:id="cice-l3t23-d1e149">Odoardus clericus proposuit, quod, quum P. clericus, D. laicus et quidam alii ipsum
             coram officiali archidiaconi Remensis super quibusdam debitis convenissent, idem in eum
@@ -113,7 +113,7 @@
         </div>
         <div xml:id="cice-l3t23-Dd1e153">
           <head xml:id="cice-l3t23-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l3t23-d1e158">Conquerens se indebite solvisse, hoc probare debet, nisi in casu hic posito.</p>
+          <head xml:id="cice-l3t23-d1e158" type="question-title">Conquerens se indebite solvisse, hoc probare debet, nisi in casu hic posito.</head>
           <p xml:id="cice-l3t23-d1e161">Idem.</p>
           <p xml:id="cice-l3t23-d1e164">Is, qui conqueritur, indebitam pecuniam se solvisse, probare tenetur, quod indebite sit
             soluta, nisi eius adversarius solutionem inficians exinde convincatur. Tunc enim
