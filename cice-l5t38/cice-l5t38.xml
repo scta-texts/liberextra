@@ -226,8 +226,10 @@
             semel in anno confiteri proprio sacerdoti, vel de eius licentia alteri, et eucharistiae
             sacramentum ad minus in Pascha recipere. Et sacerdos, revelans confessionem, deponendus
             est, et in monasterio ad agendum perpetuam poenitentiam detrudendus.</head>
-          <p xml:id="cice-l5t38-d1e283">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t38-d1e286">Omnis utriusque sexus fidelis, postquam ad annos discretionis pervenerit, omnia sua
+          <p xml:id="cice-l5t38-d1e286">
+            <ref xml:id="cice-l5t38-Rd1e285" corresp="#cice-l5t38-Qd1e290">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t38-Qd1e290" source="http://scta.info/resource/nhyjhg-d1e214">Omnis utriusque sexus fidelis, postquam ad annos discretionis pervenerit, omnia sua
             solus peccata saltem semel in anno fideliter confiteatur proprio sacerdoti, et iniunctam
             sibi poenitentiam propriis viribus studeat adimplere, suscipiens reverenter ad minus in
             Pascha eucharistiae sacramentum, nisi forte de proprii sacerdotis consilio ob aliquam
@@ -245,14 +247,19 @@
             absque ulla expressione personae caute requirat, quoniam, qui peccatum in poenitentiali
             iudicio sibi detectum praesumpserit revelare, non solum a sacerdotali officio deponendum
             decernimus, verum etiam ad agendam perpetuam poenitentiam in arctum monasterium
-            detrudendum.</p>
+            detrudendum.</quote>
+              <bibl>Innocent III, Lat. IV, c. 21</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t38-Dd1e290">
           <head xml:id="cice-l5t38-Hd1e292">CAP. XIII.</head>
           <head xml:id="cice-l5t38-d1e295" type="question-title">Medici, vocati ad infirmos, debent ante omnia inducere infirmum ad confessionem, nec
             quicquam persuadere pro salute corporis, tendens in animarum periculum.</head>
-          <p xml:id="cice-l5t38-d1e298">Idem in eodem.</p>
-          <p xml:id="cice-l5t38-d1e301">Quum infirmitas corporalis nonnunquam ex peccato proveniat, dicente Domino languido,
+          <p xml:id="cice-l5t38-d1e301">
+            <ref xml:id="cice-l5t38-Rd1e309" corresp="#cice-l5t38-Qd1e314">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t38-Qd1e314" source="http://scta.info/resource/nhyjhg-d1e222">Quum infirmitas corporalis nonnunquam ex peccato proveniat, dicente Domino languido,
             quem sanaverat: “Vade, et amplius noli peccare, ne deterius aliquid tibi contingat,”
             praesenti decreto statuimus, et districte praecipimus medicis corporum, ut, quum eos ad
             infirmos vocari contigerit, ipsos ante omnia moneant et inducant, ut medicos advocent
@@ -265,7 +272,10 @@
             exstiterit, tamdiu ab ingressu ecclesiae arceatur, donec pro transgressione huiusmodi
             satisfecerit competenter. Ceterum, quum anima sit multo pretiosior corpore, sub
             interminatione anathematis prohibemus, ne quis medicorum pro corporali salute aliquid
-            aegroto suadeat, quod in periculum animae convertatur.</p>
+            aegroto suadeat, quod in periculum animae convertatur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 22</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t38-Dd1e305">
           <head xml:id="cice-l5t38-Hd1e307">CAP. XIV.</head>

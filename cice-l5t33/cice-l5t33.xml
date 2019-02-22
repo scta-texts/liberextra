@@ -970,8 +970,9 @@
             tria privilegia ipsarum. Primum, quia dant pallium. Secundum ibi: Dominicae, quia ante
             se crucem deferri faciunt, praeterquam in casibus, hic exceptis. Tertium ibi: In
             omnibus, quia ad ipsos appellatur. Et in hoc protestatur ibi: Salvis.</head>
-          <p xml:id="cice-l5t33-d1e450">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t33-d1e453">Antiqua patriarchalium sedium privilegia renovantes, sancta universali synodo
+          <p xml:id="cice-l5t33-d1e453">
+            <ref xml:id="cice-l5t33-Rd1e452" corresp="#cice-l5t33-Qd1e456">Idem in concilio generali.</ref>
+            <cit><quote xml:id="cice-l5t33-Qd1e456" source="http://scta.info/resource/nhyjhg-d1e83">Antiqua patriarchalium sedium privilegia renovantes, sancta universali synodo
             approbante sancimus, ut post Romanam ecclesiam, quae disponente Domino super omnes alias
             ordinariae potestatis obtinet principatum, utpote mater universorum Christi fidelium et
             magistra, Constantinopolitana primum, Alexandrina secundum, Antiochena tertium,
@@ -984,7 +985,10 @@
             Pontifex praesens exstiterit, aut eius legatus, utens insigniis apostolicae dignitatis.
             In omnibus autem provinciis, eorundem iurisdictioni subiectis, ad eos, quum necesse
             fuerit, provocetur, salvis appellationibus ad sedem apostolicam interpositis, quibus est
-            ab omnibus humiliter deferendum.</p>
+            ab omnibus humiliter deferendum.</quote>
+            <bibl>
+              Innocent III, Lat IV, c. 5
+            </bibl></cit></p>
         </div>
         <div xml:id="cice-l5t33-Dd1e457">
           <head xml:id="cice-l5t33-Hd1e459">CAP. XXIV.</head>

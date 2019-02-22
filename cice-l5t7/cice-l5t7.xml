@@ -553,8 +553,9 @@
             punient, et renitentes iurare, ut haeretici condemnentur. H. d. usque ad §. Volumus.
             Abbas. – §. 8. Episcopus negligens in haeresi persequenda, a dignitate episcopali est
             removendus, et alius idoneus est surrogandus. H. d. usque ad finem Abbas Siculus.</head>
-          <p xml:id="cice-l5t7-d1e298">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t7-d1e301">Excommunicamus itaque et anathematizamus omnem haeresim, extollentem se adversus hanc
+          <p xml:id="cice-l5t7-d1e301">
+            <ref xml:id="cice-l5t7-Rd1e300" corresp="#cice-l5t7-Qd1e303">Idem in concilio generali.</ref>
+            <cit><quote xml:id="cice-l5t7-Qd1e303" source="http://scta.info/resource/nhyjhg-d1e67">Excommunicamus itaque et anathematizamus omnem haeresim, extollentem se adversus hanc
             sanctam, orthodoxam et catholicam fidem, quam superius exposuimus, condemnantes
             haereticos universos, quibuscunque nominibus censeantur, facies quidem diversas
             habentes, sed caudas ad invicem colligatas, quia de vanitate conveniunt in id ipsum. §.
@@ -623,7 +624,9 @@
             velint effugere ultionem. Si quis enim episcopus super expurgando de sua dioecesi
             haereticae pravitatis fermento negligens fuerit vel remissus, quum id certis indiciis
             apparuerit, ab episcopali officio deponatur, et in locum ipsius alter substituatur
-            idoneus, qui velit et possit haereticam confundese pravitatem.</p>
+            idoneus, qui velit et possit haereticam confundese pravitatem.</quote>
+            <bibl>Innocent III, Lat IV, c. 3</bibl></cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e305">
           <head xml:id="cice-l5t7-Hd1e307">CAP. XIV.</head>

@@ -2066,8 +2066,11 @@
           <head xml:id="cice-l1t6-d1e714" type="question-title">Si illi, ad quos spectat electio, negligunt eligere praelatum cathedralis vel regularis
             ecclesiae infra tres menses, proximus superior ecclesiam ordinabit; quod si intra tres
             alios menses non fecerit, canonice punietur.</head>
-          <p xml:id="cice-l1t6-d1e717">Idem in concilio generali.</p>
-          <p xml:id="cice-l1t6-d1e720">Ne pro defectu pastoris gregem dominicum lupus rapax invadat, aut in facultatibus suis
+          <p xml:id="cice-l1t6-d1e720">
+            <ref xml:id="cice-l1t6-Rd1e719" corresp="#cice-l1t6-Qd1e724">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e724" source="http://scta.info/resource/nhyjhg-d1e230">
+                Ne pro defectu pastoris gregem dominicum lupus rapax invadat, aut in facultatibus suis
             ecclesia viduata grave dispendium patiatur, volentes in hoc etiam occurrere periculis
             animarum, et ecclesiarum indemnitatibus providere, statuimus, ut ultra tres menses
             cathedralis vel regularis ecclesia praelato non vacet. Infra quos, iusto impedimento
@@ -2076,7 +2079,10 @@
             devolvatur. Is vero, ad quem fuerit devoluta potestas, Deum prae oculis habens, non
             differat ultra tres menses cum consilio capituli sui et aliorum virorum prudentium
             viduatam ecclesiam de persona idonea ipsius quidem ecclesiae, vel alterius, si digna non
-            reperiatur in illa, canonice ordinare, si canonicam voluerit effugere ultionem.</p>
+            reperiatur in illa, canonice ordinare, si canonicam voluerit effugere ultionem.</quote>
+              <bibl>Innocent III, Lat. IV, c. 23</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e725">
           <head xml:id="cice-l1t6-Hd1e727">CAP. XLII.</head>
@@ -2087,8 +2093,10 @@
             concurrant hic contenta usque ad §. Electiones. Abbas Siculus. – §. 2. Praecipit
             electiones solenniter publicari, et clandestinas reprobari. H. d. usque ad finem. Abbas
             Siculus.</head>
-          <p xml:id="cice-l1t6-d1e733">Idem in eodem.</p>
-          <p xml:id="cice-l1t6-d1e736">Quia propter diversas electionum formas, quas quidam invenire conantur, et multa
+          <p xml:id="cice-l1t6-d1e736">
+            <ref xml:id="cice-l1t6-Rd1e744" corresp="#cice-l1t6-Qd1e749">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e749" source="http://scta.info/resource/nhyjhg-d1e239">Quia propter diversas electionum formas, quas quidam invenire conantur, et multa
             impedimenta proveniunt, et magna pericula imminent ecclesiis viduatis, statuimus, ut,
             quum electio fuerit celebranda, praesentibus omnibus, qui debent, et volunt et possunt
             commode interesse, assumantur tres de collegio fide digni, qui secrete et sigillatim
@@ -2096,26 +2104,34 @@
             nullo prorsus appellationis obstaculo interiecto, ut is collatione habita eligatur, in
             quem omnes, vel maior et sanior pars capituli consentit. Vel saltem eligendi potestas
             aliquibus viris idoneis committatur, qui vice omnium ecclesiae viduatae provideant de
-            pastore. Aliter electio facta non valeat, nisi forte cornmuniter esset ab omnibus, quasi
+            pastore. Aliter electio facta non valeat, nisi forte communiter esset ab omnibus, quasi
             per inspirationem abque vitio celebrata. Qui vero contra praescriptas formas eligere
             attentaverint, eligendi ea vice potestate priventur. §. 1. Illud autem penitus
             interdicimus, ne quis in electionis negotio procuratorem constituat, nisi sit absens in
             eo loco, de quo debeat advocari, iustoque impedimento detentus venire non possit, super
             quo, si opus fuerit, fidem faciat iuramento, et tunc, si voluerit, uni committat de ipso
             collegio vicem suam. §. 2. Electiones quoque clandestinas reprobamus, statuentes, ut,
-            quam cito electio fuerit celebrata, solenniter publicetur.</p>
+            quam cito electio fuerit celebrata, solenniter publicetur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 24</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e740">
           <head xml:id="cice-l1t6-Hd1e742">CAP. XLIII.</head>
           <head xml:id="cice-l1t6-d1e745" type="question-title">Consentiens electioni de se factae per abusum potestatis saecularis, efficitur
             ineligibilis ad dignitatem, et electio est nulla. Eligentes autem a beneficiis per
             triennium suspenduntur, et tunc sunt privati potestate eligendi.</head>
-          <p xml:id="cice-l1t6-d1e748">Idem in eodem.</p>
-          <p xml:id="cice-l1t6-d1e751">Quisquis electioni de se factae per saecularis potestatis abusum consentire
+          <p xml:id="cice-l1t6-d1e751">
+            <ref xml:id="cice-l1t6-Rd1e768" corresp="#cice-l1t6-Qd1e773">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e773" source="http://scta.info/resource/nhyjhg-d1e247">Quisquis electioni de se factae per saecularis potestatis abusum consentire
             praesumpserit contra canonicam libertatem, et electionis commodo careat, et ineligibilis
             fiat, nec absque dispensatione ad aliquam valeat eligi dignitatem. Qui electionem
             huiusmodi, quam ipso iure irritam esse censemus, praesumpserint celebrare, ab officiis
-            et beneficiis penitus suspendantur per triennium, eligendi tunc potestate privati.</p>
+            et beneficiis penitus suspendantur per triennium, eligendi tunc potestate privati.</quote>
+              <bibl>Innocent III, Lat. IV, c. 25</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e755">
           <head xml:id="cice-l1t6-Hd1e757">CAP. XLIV.</head>
@@ -2126,8 +2142,10 @@
             Papam, et petere confirmationem. Et si sint electi in concordia, et valde remoti,
             videlicet ultra Italiam constituti, interim administrant, ita tamen, quod nil alienent;
             benedicuntur autem et consecrantur, prout consueverunt.</head>
-          <p xml:id="cice-l1t6-d1e763">Idem in eodem.</p>
-          <p xml:id="cice-l1t6-d1e766">Nihil est, quod ecclesiae Dei magis officiat, quam quod indigni assumantur praelati ad
+          <p xml:id="cice-l1t6-d1e766">
+            <ref xml:id="cice-l1t6-Rd1e792" corresp="#cice-l1t6-Qd1e797">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e797" source="http://scta.info/resource/nhyjhg-d1e255">Nihil est, quod ecclesiae Dei magis officiat, quam quod indigni assumantur praelati ad
             regimen animarum. Volentes igitur huic morbo adhibere necessariam medelam, irrefragabili
             constitutione sancimus, quatenus, quum quisquam ad regimen animarum fuerit electus, is,
             ad quem pertinet ipsius confirmatio, diligenter examinet et electionis processum, et
@@ -2150,7 +2168,10 @@
             remoti, videlicet ultra Italiam constituti, si electi fuerint in concordia, dispensative
             propter necessitates ecclesiarum et utilitates in spiritualibus et temporalibus
             administrent; sic tamen, ut de rebus ecclesiasticis nihil penitus alienent. Munus vero
-            benedictionis seu consecrationis recipiant, sicut hactenus recipere consueverunt.</p>
+            benedictionis seu consecrationis recipiant, sicut hactenus recipere consueverunt.</quote>
+              <bibl>Innocent III, Lat. IV, c. 26</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e770">
           <head xml:id="cice-l1t6-Hd1e772">CAP. XLV.</head>

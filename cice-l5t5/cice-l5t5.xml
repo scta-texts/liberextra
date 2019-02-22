@@ -123,8 +123,11 @@
             grammaticum et theologum non sufficit, provideat ipsi theologo ex reditibus suae
             ecclesiae, et grammatico faciat provideri in aliqua ecclesiarum suae civitatis vel
             dioecesis.</head>
-          <p xml:id="cice-l5t5-d1e161">Innocentius III. in concilio generali.</p>
-          <p xml:id="cice-l5t5-d1e164">Quia nonnullis propter inopiam et legendi studium et opportunitas proficiendi
+          
+          <p xml:id="cice-l5t5-d1e164">
+            <ref xml:id="cice-l5t5-Rd1e163" corresp="#cice-l5t5-Qd1e168">Innocentius III. in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t5-Qd1e168" source="http://scta.info/resource/nhyjhg-d1e132">Quia nonnullis propter inopiam et legendi studium et opportunitas proficiendi
             subtrahitur, in Lateranensi concilio pia fuit constitutione provisum, ut per unamquamque
             cathedralem ecclesiam magistro, qui eiusdem ecclesiae clericos aliosque scholares
             pauperes gratis instrueret, aliquod competens beneficium praeberetur, quo et docentis
@@ -141,7 +144,10 @@
             ipsos percipiat, quamdiu perstiterit in docendo. Quodsi forte de duobus ecclesia
             metropolis gravetur, theologo iuxta modum praedictum ipsa provideat, grammatico vero in
             alia ecclesia suae civitatis sive dioecesis, quae sufficere valeat, faciat
-            provideri.</p>
+            provideri.</quote>
+              <bibl>Innocent III, Lat. IV, c. 11</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t5-Dd1e169">
           <head xml:id="cice-l5t5-Hd1e171">CAP. V.</head>

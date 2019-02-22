@@ -229,8 +229,10 @@
           <head xml:id="cice-l3t1-Hd1e283">CAP. XIII.</head>
           <head xml:id="cice-l3t1-d1e286" type="question-title">Clerici debent continere et caste vivere; contra facientes punit, et severius puniuntur
             illi, qui possunt legitimo matrimonio uti.</head>
-          <p xml:id="cice-l3t1-d1e289">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t1-d1e292">Ut clericorum mores et actus in melius reformentur, continenter et caste vivere
+          <p xml:id="cice-l3t1-d1e292">
+            <ref xml:id="cice-l3t1-Rd1e294" corresp="#cice-l3t1-Qd1e299">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t1-Qd1e299" source="http://scta.info/resource/nhyjhg-d1e157">Ut clericorum mores et actus in melius reformentur, continenter et caste vivere
             studeant universi, praesertim in sacris ordinibus constituti, ab omni libidinis vitio
             praecaventes, maxime illo, propter quod venit ira Dei [de coelo] in filios diffidentiae,
             quatenus in conspectu omnipotentis Dei puro corde ac mundo corpore valeant ministrare.
@@ -243,30 +245,40 @@
             deponatur. Praelati vero, qui tales praesumpserint in suis iniquitatibus sustinere,
             maxime obtentu pecuniae vel alterius commodi temporalis, pari subiaceant ultioni. Qui
             autem secundum regionis suae morem non abdicarunt copulam coniugalem, si lapsi fuerint,
-            gravius puniantur, quum legitimo matrimonio uti possint.</p>
+            gravius puniantur, quum legitimo matrimonio uti possint.</quote>
+              <bibl>Innocent III, Lat. IV, c. 14</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t1-Dd1e296">
           <head xml:id="cice-l3t1-Hd1e298">CAP. XIV.</head>
           <head xml:id="cice-l3t1-d1e301" type="question-title">Clericus crapulosus vel ebriosus monitus non desistens, ab officio vel beneficio
             suspenditur.</head>
-          <p xml:id="cice-l3t1-d1e304">Idem in eodem.</p>
-          <p xml:id="cice-l3t1-d1e307">A crapula et ebrietate omnes clerici diligenter abstineant, unde vinum sibi temperent,
+          <p xml:id="cice-l3t1-d1e307">
+            <ref xml:id="cice-l3t1-Rd1e318" corresp="#cice-l3t1-Qd1e323">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t1-Qd1e323" source="http://scta.info/resource/nhyjhg-d1e165">A crapula et ebrietate omnes clerici diligenter abstineant, unde vinum sibi temperent,
             et se vino. Nec ad bibendum quispiam incitetur, quum ebrietas et mentis inducat exsilium
             et libidinis provocet incentivum. Unde illum abusum penitus decernimus abolendum, quo in
             quibusdam partibus ad potus aequales suo modo se obligant potatores, et ille iudicio
             talium plus laudatur, qui plures inebriat et calices foecundiores exhaurit. Si quis
             autem super his se culpabilem exhibuerit, nisi a superiore commonitus satisfecerit
-            [competenter,] ab officio vel beneficio suspendatur.</p>
+            [competenter,] ab officio vel beneficio suspendatur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 15</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t1-Dd1e311">
           <head xml:id="cice-l3t1-Hd1e313">CAP. XV.</head>
           <head xml:id="cice-l3t1-d1e316" type="question-title">A negotiis, personis, locis, ludis, vestibus inhonestis et ornatu minus honesto
             praecipit clericos abstinere, et habitu honesto uti, cuius vanitatem in pluribus
             exprimit et detestatur.</head>
-          <p xml:id="cice-l3t1-d1e319">Idem in eodem.</p>
-          <p xml:id="cice-l3t1-d1e322">Clerici officia vel commercia saecularia non exerceant, maxime inhonesta. Mimis,
+          <p xml:id="cice-l3t1-d1e322">
+            <ref xml:id="cice-l3t1-Rd1e342" corresp="#cice-l3t1-Qd1e347">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t1-Qd1e347" source="http://scta.info/resource/nhyjhg-d1e173">Clerici officia vel commercia saecularia non exerceant, maxime inhonesta. Mimis,
             ioculatoribus et histrionibus non intendant. Et tabernas prorsus evitent, nisi forte
-            causa necessitatis in itinere constituti. Ad aleas et taxillos non ludant, nec huismodi
+            causa necessitatis in itinere constituti. Ad aleas et taxillos non ludant, nec huiusmodi
             ludis intersint. Coronam et tonsuram habeant congruentem. Et se in officiis
             ecclesiasticis et aliis bonis studiis exerceant diligenter. Clausa deferant desuper
             indumenta, nimia brevitate vel longitudine non notanda. Pannis rubeis aut viridibus, nec
@@ -278,7 +290,10 @@
             nisi quibus competit ex officio dignitatis. Pontifices autem in publico et in ecclesia
             superindumentis lineis omnes utantur, nisi monachi fuerint, quos oportet ferre habitum
             monachalem. Palliis diffibulatis non utantur in publico, sed vel post collum, vel ante
-            pectus hinc inde connexis.</p>
+            pectus hinc inde connexis.</quote>
+            <bibl>Innocent III, Lat. IV, c. 16</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t1-Dd1e326">
           <head xml:id="cice-l3t1-Hd1e328">CAP. XVI.</head>

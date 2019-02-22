@@ -311,12 +311,17 @@
           <head xml:id="cice-l1t17-Hd1e337">CAP. XVI.</head>
           <head xml:id="cice-l1t17-d1e340" type="question-title">Si illegitimus, maxime filius spurius, instituitur in ecclesia, in qua institutus est
             pater, institutio non valet, et instituens a suis beneficiis suspendatur.</head>
-          <p xml:id="cice-l1t17-d1e343">Idem in concilio generali.</p>
-          <p xml:id="cice-l1t17-d1e346">Ad abolendam pessimam, quae in pluribus inolevit ecclesiis, curruptelam, firmiter
+          <p xml:id="cice-l1t17-d1e346">
+            <ref xml:id="cice-l1t17-Rd1e345" corresp="#cice-l1t17-Qd1e350">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t17-Qd1e350" source="http://scta.info/resource/nhyjhg-d1e296">Ad abolendam pessimam, quae in pluribus inolevit ecclesiis, curruptelam, firmiter
             inhibemus, ne canonicorum filii, maxime spurii, canonici fiant in saecularibus
             ecclesiis, in quibus instituti sunt patres eorum, et si fuerit contra praesumptum,
             decernimus non valere. Qui vero tales, ut dictum est, canonicare praesumpserint, a suis
-            beneficiis suspendantur.</p>
+            beneficiis suspendantur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 31</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t17-Dd1e351">
           <head xml:id="cice-l1t17-Hd1e353">CAP. XVII.</head>

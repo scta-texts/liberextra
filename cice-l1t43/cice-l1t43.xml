@@ -323,10 +323,15 @@
         <div xml:id="cice-l1t43-Dd1e214">
           <head xml:id="cice-l1t43-Hd1e216">CAP. VIII.</head>
           <head xml:id="cice-l1t43-d1e219" type="question-title">De rebus spiritualibus in laicum compromitti non potest.</head>
-          <p xml:id="cice-l1t43-d1e222">Idem in concilio generali.</p>
-          <p xml:id="cice-l1t43-d1e225">Contingit interdum, quod, quum actori (Et infra: [cf. c. 9. de col. et cont. II. 14.])
+          <p xml:id="cice-l1t43-d1e225">
+            <ref xml:id="cice-l1t43-Rd1e224" corresp="#cice-l1t43-Qd1e229">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t43-Qd1e229" source="http://scta.info/resource/nhyjhg-d1e369">Contingit interdum, quod, quum actori (Et infra: [cf. c. 9. de col. et cont. II. 14.])
             Ad hoc generaliter prohibemus, ne super rebus spiritualibus compromittatur in laicum,
-            quia non decet, ut laicus in talibus arbitretur.</p>
+            quia non decet, ut laicus in talibus arbitretur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 40</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t43-Dd1e229">
           <head xml:id="cice-l1t43-Hd1e231">CAP. IX.</head>

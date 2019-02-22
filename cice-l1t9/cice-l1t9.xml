@@ -603,12 +603,17 @@
         <div xml:id="cice-l1t9-Dd1e275">
           <head xml:id="cice-l1t9-Hd1e277">CAP. XII.</head>
           <head xml:id="cice-l1t9-d1e280" type="question-title">Qui petiit cedendi licentiam, ex quo illam obtinuit, cedere compellitur.</head>
-          <p xml:id="cice-l1t9-d1e283">Idem in concilio generali.</p>
-          <p xml:id="cice-l1t9-d1e286">Quidam cedendi licentiam cum instantia postulantes, ea obtenta cedere praetermittunt.
+          <p xml:id="cice-l1t9-d1e286">
+            <ref xml:id="cice-l1t9-Rd1e285" corresp="#cice-l1t9-Qd1e290">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t9-Qd1e290" source="http://scta.inf/resource/nhyjhg-d1e271">Quidam cedendi licentiam cum instantia postulantes, ea obtenta cedere praetermittunt.
             Sed quum in postulatione cessionis huiusmodi aut ecclesiarum commoda, quibus praesunt,
             aut salutem videantur propriam attendisse, quorum neutrum suasionibus aliquorum,
             quaerentium quae sua sunt, seu etiam levitate qualibet nolumus impediri, eos ad cedendum
-            decernimus compellendos.</p>
+            decernimus compellendos.</quote>
+              <bibl>Innocent III, Lat IV, c. 28</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t9-Dd1e290">
           <head xml:id="cice-l1t9-Hd1e292">CAP. XIII.</head>

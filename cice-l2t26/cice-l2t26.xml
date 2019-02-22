@@ -585,11 +585,16 @@
           <head xml:id="cice-l2t26-Hd1e398">CAP. XX.</head>
           <head xml:id="cice-l2t26-d1e401" type="question-title">Non in foro canonico nec civili valet praescriptio cum mala fide.</head>
           <p xml:id="cice-l2t26-d1e404">Idem in concilio generali.</p>
-          <p xml:id="cice-l2t26-d1e407">Quoniam omne, quod non est ex fide, peccatum est, synodali iudicio diffinimus, ut nulla
-            valeat absque bona fide praescriptio tam canonica quam civilis, quum generaliter sit
-            omni constitutioni atque consuetudini derogandum, quae absque mortali peccato non potest
-            observari. Unde oportet, ut qui praescribit in nulla temporis parte rei habeat
-            conscientiam alienae.</p>
+          <p xml:id="cice-l2t26-d1e407">
+            <cit>
+              <quote xml:id="cice-l2t26-Qd1e411" source="http://scta.info/resource/nhyjhg-d1e377">Quoniam omne, quod non est ex fide, peccatum est, synodali iudicio diffinimus, ut nulla
+              valeat absque bona fide praescriptio tam canonica quam civilis, quum generaliter sit
+              omni constitutioni atque consuetudini derogandum, quae absque mortali peccato non potest
+              observari. Unde oportet, ut qui praescribit in nulla temporis parte rei habeat
+              conscientiam alienae.</quote>
+              <bibl>Innocent III, Lat. IV, c. 41</bibl>
+            </cit>
+          </p>
         </div>
       </div>
     </body>

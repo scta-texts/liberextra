@@ -1411,8 +1411,10 @@
             exprimere causam rationabilem coram ipso iudice a quo, nec admittitur exceptio, quod
             prius miserat nuncium ad sedem apostolicam, vel quod literas impetraverat, quae nondum
             sunt iudici praesentatae.</head>
-          <p xml:id="cice-l2t28-d1e996">Idem in concilio generali.</p>
-          <p xml:id="cice-l2t28-d1e999">Ut debitus honor deferatur iudicibus, et litigatoribus consulatur super laboribus et
+          <p xml:id="cice-l2t28-d1e999">
+            <ref xml:id="cice-l2t28-Rd1e998" corresp="#cice-l2t28-Qd1e1003">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l2t28-Qd1e1003" source="http://scta.info/resource/nhyjhg-d1e328">Ut debitus honor deferatur iudicibus, et litigatoribus consulatur super laboribus et
             expensis, statuimus, ut, si quis coram idoneo iudice convenerit adversarium, ille ante
             sententiam ad superiorem iudicem absque rationabili causa non provocet, sed coram illo
             suam iustitiam prosequatur, non obstante, si dicat, quod ad superiorem iudicem nun­cium
@@ -1422,19 +1424,28 @@
             legitima reputari: superior de appellatione cognoscat. Et si minus rationabiliter eum
             appellasse constiterit, illum ad inferiorem remittat, et in ex­pensis alteri parti
             condemnet; alioquin ipse procedet, salvis constitutionibus de maioribus causis ad sedem
-            apostolicam referendis.</p>
+            apostolicam referendis.</quote>
+              <bibl>Innocent III, Lat. IV, c. 35</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l2t28-Dd1e1003">
           <head xml:id="cice-l2t28-Hd1e1005">CAP. LX.</head>
           <head xml:id="cice-l2t28-d1e1008" type="question-title">Si iudex, a quo est appellatum a gravamine, illud revocat, potest in principali causa
             procedere.</head>
-          <p xml:id="cice-l2t28-d1e1011">Idem in eodem.</p>
-          <p xml:id="cice-l2t28-d1e1014">Quum cessante causa cesset effectus, statuimus, ut, sive iudex ordinarius sive
-            delegatus aliquid comminando vel interloquendo protulerit, quo exsecutioni mandato alter
-            litigantium gravaretur, et sano usus consilio ab huiusmodi interlocutionis vel
-            comminationis effectu destiterit, libere in causae cognitione procedat, non obstante, si
-            a tali comminatione vel interlocutione fuerit appellatum, dummodo non sit ex alia causa
-            legitima suspectus, ne processus negotii frivolis occasionibus retardetur.</p>
+          <p xml:id="cice-l2t28-d1e1014">
+            <ref xml:id="cice-l2t28-Rd1e1022" corresp="#cice-l2t28-Qd1e1027">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l2t28-Qd1e1027" source="http://scta.info/resource/nhyjhg-d1e337">
+                Quum cessante causa cesset effectus, statuimus, ut, sive iudex ordinarius sive
+                delegatus aliquid comminando vel interloquendo protulerit, quo exsecutioni mandato alter
+                litigantium gravaretur, et sano usus consilio ab huiusmodi interlocutionis vel
+                comminationis effectu destiterit, libere in causae cognitione procedat, non obstante, si
+                a tali comminatione vel interlocutione fuerit appellatum, dummodo non sit ex alia causa
+                legitima suspectus, ne processus negotii frivolis occasionibus retardetur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 36</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l2t28-Dd1e1018">
           <head xml:id="cice-l2t28-Hd1e1020">CAP. LXI.</head>

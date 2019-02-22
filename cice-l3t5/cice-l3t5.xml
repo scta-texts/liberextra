@@ -683,8 +683,10 @@
             secundo. Cum sublimibus vero et literatis personis circa pluralitatem beneficiorum
             incompatibilium solus Papa dispensat. Hoc tertio. Hoc dicit istud cap. utile et
             famosum.</head>
-          <p xml:id="cice-l3t5-d1e525">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t5-d1e528">De multa providentia fuit in Lateranensi concilio prohibitum, ut nullus diversas
+          <p xml:id="cice-l3t5-d1e528">
+            <ref xml:id="cice-l3t5-Rd1e527" corresp="#cice-l3t5-Qd1e532">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t5-Qd1e532" source="http://scta.info/resource/nhyjhg-d1e279">De multa providentia fuit in Lateranensi concilio prohibitum, ut nullus diversas
             dignitates ecclesiasticas vel plures ecclesias parochiales reciperet contra sacrorum
             canonum instituta; alioquin [et] recipiens sic acceptum amitteret, et largiendi
             potestate conferens privaretur. Quia vero propter praesumptiones et quorundam
@@ -701,15 +703,22 @@
             eadem ecclesia nullus plures dignitates aut personatus habere praesumat, etiamsi curam
             non habeant animarum. Circa sublimes tamen et literatas personas, quae maioribus sunt
             beneficiis honorandae, quum ratio postulaverit, per sedem apostolicam poterit
-            dispensari.</p>
+            dispensari.</quote>
+              <bibl>Innocent III, Lat. IV, c. 29</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t5-Dd1e533">
           <head xml:id="cice-l3t5-Hd1e535">CAP. XXIX.</head>
           <head xml:id="cice-l3t5-d1e538" type="question-title">Concilium provinciale a beneficiorum collatione suspendit eos, qui post secundam
             correctionem indignis beneficia conferunt: providet etiam, quis interim beneficia
             conferat, et illam suspensionem relaxat solus Papa, vel solus patriarcha.</head>
-          <p xml:id="cice-l3t5-d1e541">Idem in eodem.</p>
-          <p xml:id="cice-l3t5-d1e544">Grave nimis est et absurdum, quod quidam ecclesiarum praelati quum possint viros
+          
+          <p xml:id="cice-l3t5-d1e544">
+            <ref xml:id="cice-l3t5-Rd1e552" corresp="#cice-l3t5-Qd1e557">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t5-Qd1e557" source="http://scta.info/resource/nhyjhg-d1e288">
+                Grave nimis est et absurdum, quod quidam ecclesiarum praelati quum possint viros
             idoneos ad ecclesiastica beneficia promovere, assumere non verentur indignos, quibus nec
             morum honestas, nec literarum scientia suffragatur, carnalitatis sequentes affectum, non
             iudicium rationis; unde quanta ecclesiis damna proveniant, nemo sanae mentis ignorat.
@@ -723,7 +732,10 @@
             relinquatur, ex parte concilii nunciandum. Ut autem haec salubris provisio pleniorem
             consequatur effectum, huiusmodi suspensionis sententia praeter Romani Pontificis
             auctoritatem aut proprii patriarchae minime relaxetur, ut in hoc quoque quatuor
-            patriarchales sedes specialiter honorentur.</p>
+            patriarchales sedes specialiter honorentur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 30</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t5-Dd1e548">
           <head xml:id="cice-l3t5-Hd1e550">CAP. XXX.</head>
@@ -734,8 +746,10 @@
             fraudem rectoribus de ipsius proventibus pensionem in beneficium dari. H. d. Vel sic:
             non residens in ecclesia parochiali, vel non ponens vicarium, quando est annexa
             beneficio maiori, privatus est ea. H. d.</head>
-          <p xml:id="cice-l3t5-d1e556">Idem in eodem.</p>
-          <p xml:id="cice-l3t5-d1e559">Exstirpandae consuetudinis vitium in quibusdam partibus inolevit, quod scilicet
+          <p xml:id="cice-l3t5-d1e559">
+            <ref xml:id="cice-l3t5-Rd1e576" corresp="#cice-l3t5-Qd1e581">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t5-Qd1e581" source="http://scta.info/resource/nhyjhg-d1e304">Exstirpandae consuetudinis vitium in quibusdam partibus inolevit, quod scilicet
             parochialium ecclesiarum patroni et aliae quaedam personae proventus ipsarum sibi
             [paene] penitus vindicantes, presbyteris earundem servitiis deputatis relinquunt adeo
             exiguam portionem, quod ex ea nequeant congrue sustentari. Nam, ut pro certo didicimus,
@@ -754,7 +768,10 @@
             illa se sciat auctoritate huius decreti privatum, libere alii conferenda, qui velit et
             possit quod dictum est adimplere. Illud autem penitus interdicimus, ne quis in fraudem
             de proventibus ecclesiae, quae curam habere debet proprii sacerdotis, pensionem alii
-            quasi pro beneficio conferre praesumat.</p>
+            quasi pro beneficio conferre praesumat.</quote>
+              <bibl>Innocent III, Lat. IV, c. 32</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t5-Dd1e563">
           <head xml:id="cice-l3t5-Hd1e565">CAP. XXXI.</head>

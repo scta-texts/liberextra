@@ -395,8 +395,11 @@
           <head xml:id="cice-l2t19-d1e265" type="question-title">Iudex debet habere notarium vel duos viros idoneos, qui scribant acta iudicii; alias,
             si quid difficultatis emerserit, per superiorem punietur, nec creditur ei super
             processu, nisi in quantum per acta vel alias per legitima documenta constabit.</head>
-          <p xml:id="cice-l2t19-d1e268">Idem in concilio generali.</p>
-          <p xml:id="cice-l2t19-d1e271">Quoniam contra falsam assertionem iniqui iudicis innocens litigator quandoque non
+          
+          <p xml:id="cice-l2t19-d1e271">
+            <ref xml:id="cice-l2t19-Rd1e270" corresp="#cice-l2t19-Qd1e275">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l2t19-Qd1e275" source="http://scta.info/resource/nhyjhg-d1e353">Quoniam contra falsam assertionem iniqui iudicis innocens litigator quandoque non
             potest veram negationem probare, quum negantis factum per rerum naturam nulla sit
             directa probatio, ne falsitas veritati praeiudicet, aut iniquitas praevaleat aequitati,
             statuimus, ut tam in ordinario iudicio quam extraordinario iudex semper adhibeat aut
@@ -412,7 +415,10 @@
             et iniquos innocentium iustitia non laedatur. Iudex autem, qui constitutionem ipsam
             neglexerit observare, si propter eius negligentiam quid difficultatis emerserit, per
             superiorem iudicem animadversione debita castigetur, nec pro ipsius praesumatur
-            processu, nisi quatenus in causa legitimis constiterit documentis.</p>
+            processu, nisi quatenus in causa legitimis constiterit documentis.</quote>
+            </cit>
+            <bibl>Innocent III, Lat. IV, c. 38</bibl>
+          </p>
         </div>
         <div xml:id="cice-l2t19-Dd1e275">
           <head xml:id="cice-l2t19-Hd1e277">CAP. XII.</head>

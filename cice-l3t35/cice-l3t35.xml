@@ -264,8 +264,11 @@
             extendit ad canonicos regulares. Decimo providet super discordia visitatorum. Undecimo
             hortatur dioecesanos ad monasteriorum reformationem. Duodecimo praecipit protervos et
             similes compesci ab offensis monasteriorum. Et haec divisio sufficit pro summario.</head>
-          <p xml:id="cice-l3t35-d1e207">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t35-d1e210">In singulis regnis sive provinciis fiat de triennio in triennium, salvo iure
+          
+          <p xml:id="cice-l3t35-d1e210">
+            <ref xml:id="cice-l3t35-Rd1e209" corresp="#cice-l3t35-Qd1e214">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t35-Qd1e214" source="http://scta.info/resource/nhyjhg-d1e141">In singulis regnis sive provinciis fiat de triennio in triennium, salvo iure
             dioecesanorum pontificum, commune capitulum abbatum atque priorum, abbates proprios non
             habentium, qui non consueverunt tale capitulum celebrare; ad quod universi conveniant,
             praepeditionem canonicam non habentes, apud unum de monasteriis ad hoc aptum; hoc
@@ -302,7 +305,10 @@
             ecclesiasticam appellatione remota compescant advocatos, patronos, vicedominos, rectores
             et consules, magnates et milites, seu quoslibet alios, ne monasteria praesumant
             offendere in personis aut rebus, et, si forsitan offenderint, eos ad satisfactionem
-            compellere non omittant, ut liberius et quietius omnipotenti Deo valeant famulari.</p>
+            compellere non omittant, ut liberius et quietius omnipotenti Deo valeant famulari.</quote>
+              <bibl>Innocent III, Lat. IV, c. 12</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t35-Dd1e214">
           <head xml:id="cice-l3t35-Hd1e216">CAP. VIII.</head>

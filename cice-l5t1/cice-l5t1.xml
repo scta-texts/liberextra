@@ -688,54 +688,58 @@
             est hic ordo. Et quanquam in hac summatione modica videatur agi differentia inter
             praelatos et subditos, contra quos inquiritur, tamen facienda est, ut patet in
             litera.</head>
-          <p xml:id="cice-l5t1-d1e465">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t1-d1e468">Qualiter et quando debeat praelatus procedere ad inquirendum et puniendum subditorum
-            excessus, ex auctoritatibus veteris et novi testamenti colligitur evidenter, ex quibus
-            postea processerunt canonicae sanctiones, sicut olim aperte distinximus, et nunc sacri
-            approbatione concilii confirmamus. Legitur enim in evangelio, quod villicus ille, qui
-            diffamatus erat apud dominum suum, quasi dissipasset bona ipsius, audivit ab illo: “Quid
-            hoc audio de te? redde rationem villicationis tuae, iam enim non poteris amplius
-            vindicare.” Et in Genesi Dominus ait: “Descendam et videbo, utrum clamorem, qui venit ad
-            me, opere compleverint.” Ex quibus auctoritatibus manifeste probatur, quod non solum
-            quum subditus, verum etiam quum praelatus excedit, si per clamorem et famam ad aures
-            superioris pervenerit, non quidem a malevolis et maledicis, sed a providis et honestis,
-            nec semel tantum, sed saepe, quod clamor innuit et diffamatio manifestat, debet coram
-            ecclesiae senioribus veritatem diligentius perscrutari, ut, si rei poposcerit qualitas,
-            canonica districtio culpam feriat delinquentis, non tanquam idem sit accusator et iudex,
-            sed quasi denunciante fama vel deferente clamore officii sui debitum exsequatur. Licet
-            autem hoc sit observandum in subditis, diligentius tamen est observandum in praelatis,
-            qui quasi signum sunt positi ad sagittam. Et quia non possunt omnibus complacere, quum
-            ex officio suo teneantur non solum arguere, sed etiam increpare, quin etiam interdum
-            suspendere, nonnunquam vero ligare: frequenter odium multorum incurrunt et insidias
-            patiuntur. Et ideo sancti Patres provide statuerunt, ut accusatio praelatorum non facile
-            admittatur, ne concussis columnis corruat aedificium, nisi diligens adhibeatur cautela,
-            per quam non solum falsae, sed etiam malignae criminationi ianua praecludatur. Verum ita
-            voluerunt providere praelatis, ne criminarentur iniuste, ut tamem caverent, ne
-            delinquerent insolenter, contra morbum utrumque invenientes medicinam congruam,
-            videlicet ut criminalis accusatio, quae ad diminutionem capitis, id est degradationem,
-            intenditur, nisi legitima praecedat inscriptio, nullatenus admittatur. Sed quum super
-            excessibus suis quisquam fuerit infamatus, ita ut iam clamor ascendat, qui diutius sine
-            scandalo dissimulari non possit vel sine periculo tolerari: absque dubitationis scrupulo
-            ad inquirendum et puniendum eius excessus, non ex odii fomite, sed caritatis procedatur
-            affectu, quatenus, si fuerit gravis excessus, etsi non degradetur ab ordine, ab
-            administratione tamen amoveatur omnino, quod est secundum sententiam evangelicam a
-            villicatione villicum amoveri, qui non potest villicationis suae dignam reddere
-            rationem. Debet igitur esse praesens is, contra quem facienda est inquisitio, nisi se
-            per contumaciam absentaverit, et exponenda sunt ei illa capitula, de quibus fuerit
-            inquirendum, ut facultatem habeat defendendi se ipsum. Et non solum dicta, sed etiam
-            nomina ipsa testium sunt ei, ut quid et a quo sit dictum appareat, publicanda, nec non
-            exceptiones et replicationes legitimae admittendae, ne per suppressionem nominum
-            infamandi, per exceptionum vero exclusionem deponendi falsum audacia praebeatur. Ad
-            corrigendos itaque subditorum excessus tanto diligentius debet praelatus assurgere,
-            quanto damnabilius eorum offensas desereret incorrectas. Contra quos, ut de notoriis
-            excessibus taceatur, etsi tribus modis possit procedi, per accusationem videlicet,
-            denunciationem et inquisitionem ipsorum: ut tamen in omnibus diligens adhibeatur
-            cautela, ne forte per leve compendium ad grave dispendium veniatur, sicut accusationem
-            legitima debet praecedere inscriptio, sic et denunciationem caritativa monitio, et
-            inquisitionem clamosa insinuatio praevenire, illo semper adhibito moderamine, ut iuxta
-            formam iudicii sententiae quoque forma dictetur. Hunc tamen ordinem circa regulares
-            personas non credimus usquequaque servandum, quae, quum causa requirit, facilius et
-            liberius a suis possunt administrationibus amoveri.</p>
+          <p xml:id="cice-l5t1-d1e468">
+            <ref xml:id="cice-l5t1-Rd1e467" corresp="#cice-l5t1-Qd1e472">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t1-Qd1e472" source="http://scta.info/resource/nhyjhg-d1e108">Qualiter et quando debeat praelatus procedere ad inquirendum et puniendum subditorum
+              excessus, ex auctoritatibus veteris et novi testamenti colligitur evidenter, ex quibus
+              postea processerunt canonicae sanctiones, sicut olim aperte distinximus, et nunc sacri
+              approbatione concilii confirmamus. Legitur enim in evangelio, quod villicus ille, qui
+              diffamatus erat apud dominum suum, quasi dissipasset bona ipsius, audivit ab illo: “Quid
+              hoc audio de te? redde rationem villicationis tuae, iam enim non poteris amplius
+              vindicare.” Et in Genesi Dominus ait: “Descendam et videbo, utrum clamorem, qui venit ad
+              me, opere compleverint.” Ex quibus auctoritatibus manifeste probatur, quod non solum
+              quum subditus, verum etiam quum praelatus excedit, si per clamorem et famam ad aures
+              superioris pervenerit, non quidem a malevolis et maledicis, sed a providis et honestis,
+              nec semel tantum, sed saepe, quod clamor innuit et diffamatio manifestat, debet coram
+              ecclesiae senioribus veritatem diligentius perscrutari, ut, si rei poposcerit qualitas,
+              canonica districtio culpam feriat delinquentis, non tanquam idem sit accusator et iudex,
+              sed quasi denunciante fama vel deferente clamore officii sui debitum exsequatur. Licet
+              autem hoc sit observandum in subditis, diligentius tamen est observandum in praelatis,
+              qui quasi signum sunt positi ad sagittam. Et quia non possunt omnibus complacere, quum
+              ex officio suo teneantur non solum arguere, sed etiam increpare, quin etiam interdum
+              suspendere, nonnunquam vero ligare: frequenter odium multorum incurrunt et insidias
+              patiuntur. Et ideo sancti Patres provide statuerunt, ut accusatio praelatorum non facile
+              admittatur, ne concussis columnis corruat aedificium, nisi diligens adhibeatur cautela,
+              per quam non solum falsae, sed etiam malignae criminationi ianua praecludatur. Verum ita
+              voluerunt providere praelatis, ne criminarentur iniuste, ut tamem caverent, ne
+              delinquerent insolenter, contra morbum utrumque invenientes medicinam congruam,
+              videlicet ut criminalis accusatio, quae ad diminutionem capitis, id est degradationem,
+              intenditur, nisi legitima praecedat inscriptio, nullatenus admittatur. Sed quum super
+              excessibus suis quisquam fuerit infamatus, ita ut iam clamor ascendat, qui diutius sine
+              scandalo dissimulari non possit vel sine periculo tolerari: absque dubitationis scrupulo
+              ad inquirendum et puniendum eius excessus, non ex odii fomite, sed caritatis procedatur
+              affectu, quatenus, si fuerit gravis excessus, etsi non degradetur ab ordine, ab
+              administratione tamen amoveatur omnino, quod est secundum sententiam evangelicam a
+              villicatione villicum amoveri, qui non potest villicationis suae dignam reddere
+              rationem. Debet igitur esse praesens is, contra quem facienda est inquisitio, nisi se
+              per contumaciam absentaverit, et exponenda sunt ei illa capitula, de quibus fuerit
+              inquirendum, ut facultatem habeat defendendi se ipsum. Et non solum dicta, sed etiam
+              nomina ipsa testium sunt ei, ut quid et a quo sit dictum appareat, publicanda, nec non
+              exceptiones et replicationes legitimae admittendae, ne per suppressionem nominum
+              infamandi, per exceptionum vero exclusionem deponendi falsum audacia praebeatur. Ad
+              corrigendos itaque subditorum excessus tanto diligentius debet praelatus assurgere,
+              quanto damnabilius eorum offensas desereret incorrectas. Contra quos, ut de notoriis
+              excessibus taceatur, etsi tribus modis possit procedi, per accusationem videlicet,
+              denunciationem et inquisitionem ipsorum: ut tamen in omnibus diligens adhibeatur
+              cautela, ne forte per leve compendium ad grave dispendium veniatur, sicut accusationem
+              legitima debet praecedere inscriptio, sic et denunciationem caritativa monitio, et
+              inquisitionem clamosa insinuatio praevenire, illo semper adhibito moderamine, ut iuxta
+              formam iudicii sententiae quoque forma dictetur. Hunc tamen ordinem circa regulares
+              personas non credimus usquequaque servandum, quae, quum causa requirit, facilius et
+              liberius a suis possunt administrationibus amoveri.</quote>
+              <bibl>Innocent III, Lat. IV, c. 8</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t1-Dd1e472">
           <head xml:id="cice-l5t1-Hd1e474">CAP. XXV.</head>
@@ -744,8 +748,10 @@
             dioeceses, quae sollicite investigent, et in sequenti concilio referant corrigenda. Et
             episcopi debent facere synodos episcopales singulis annis, et publicare agitata in
             provinciali concilio, et haec negligentes ab exsecutione officii suspenduntur. H. d.</head>
-          <p xml:id="cice-l5t1-d1e480">Idem in eodem.</p>
-          <p xml:id="cice-l5t1-d1e483">Sicut olim a sanctis Patribus noscitur institutum, metropolitani singulis annis cum
+          <p xml:id="cice-l5t1-d1e483">
+            <ref xml:id="cice-l5t1-Rd1e482" corresp="#cice-l5t1-Qd1e487">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t1-Qd1e487" source="http://scta.info/resource/nhyjhg-d1e92">Sicut olim a sanctis Patribus noscitur institutum, metropolitani singulis annis cum
             suis suffraganeis provincialia non omittant concilia celebrare, in quibus de corrigendis
             excessibus et moribus reformandis, praesertim in clero, diligentem habeant cum Dei
             timore tractatum, canonicas regulas, et maxime, quae statutae sunt in hoc generali
@@ -758,7 +764,10 @@
             provida deliberatione procedant, et quae statuerint faciant observari, publicaturi ea in
             episcopalibus synodis annuatim per singulas dioeceses celebrandis. Quisquis autem hoc
             salutare statutum neglexerit adimplere, a sui exsecutione officii suspendatur, [donec
-            per superioris arbitrium eius relaxetur.]</p>
+            per superioris arbitrium eius relaxetur.]</quote>
+              <bibl>Innocent III, Lat IV, c. 6</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t1-Dd1e487">
           <head xml:id="cice-l5t1-Hd1e489">CAP. XXVI.</head>

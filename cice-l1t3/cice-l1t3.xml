@@ -796,8 +796,10 @@
             impetratae. Hoc dicit usque ad §. Sunt et alii. – §. 1. Non valent literae, ad lites
             impetratae, sine speciali mandato domini, nisi impetrentur per coniunctam personam. h.
             d.</head>
-          <p xml:id="cice-l1t3-d1e525">Idem in concilio generali.</p>
-          <p xml:id="cice-l1t3-d1e528">Nonnulli gratia sedis apostolicae abutentes, literas eius ad remotos iudices impetrare
+          <p xml:id="cice-l1t3-d1e528">
+            <ref xml:id="cice-l1t3-Rd1e527" corresp="#cice-l1t3-Qd1e532">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t3-Qd1e532" source="http://scta.info/resource/nhyjhg-d1e345">Nonnulli gratia sedis apostolicae abutentes, literas eius ad remotos iudices impetrare
             nituntur, ut reus fatigatus laboribus et expensis liti cedere vel importunitatem actoris
             redimere compellatur. Quum autem per iudicium iniuriis aditus patere non debeat, quas
             iuris observantia interdicit, statuimus, ne quis ultra duas diaetas extra suam dioecesim
@@ -811,7 +813,10 @@
             generali constitutione sancimus, ut, si quis super aliqua quaestione de cetero sine
             speciali mandato domini literas apostolicas impetrare praesumpserit, et literae illae
             non valeant, et ipse tanquam falsarius puniatur, nisi forte de illis personis
-            exstiterit, a quibus non debet exigi de iure mandatum.</p>
+            exstiterit, a quibus non debet exigi de iure mandatum.</quote>
+              <bibl>Innocent III, Lat. IV, c. 37</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t3-Dd1e533">
           <head xml:id="cice-l1t3-Hd1e535">CAP. XXIX.</head>

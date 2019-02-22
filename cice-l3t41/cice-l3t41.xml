@@ -373,8 +373,10 @@
           <head xml:id="cice-l3t41-Hd1e231">CAP. IX.</head>
           <head xml:id="cice-l3t41-d1e234" type="question-title">Praecipit praelatis et clericis in virtute obedientiae, ut nocturnum officium et
             diurnum studiose celebrent et devote.</head>
-          <p xml:id="cice-l3t41-d1e237">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t41-d1e240">Dolentes referimus, quod non solum quidam minores clerici, verum etiam aliqui
+          <p xml:id="cice-l3t41-d1e240">
+            <ref xml:id="cice-l3t41-Rd1e247" corresp="#cice-l3t41-Qd1e252">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t41-Qd1e252" source="http://scta.info/resource/nhyjhg-d1e181">Dolentes referimus, quod non solum quidam minores clerici, verum etiam aliqui
             ecclesiarum praelati, circa commessationes superfluas et fabulationes illicitas, ut de
             aliis taceamus, fere medietatem noctis expendunt, et somno residuum relinquentes, vix ad
             diurnum concentum avium excitantur, transcurrendo undique continua syncopa matutinum.
@@ -384,7 +386,10 @@
             sermones effundunt, aures intentas non porrigunt ad divina. Haec igitur et similia sub
             poena suspensionis penitus inhibemus, districte praecipientes in virtute obedientiae, ut
             divinum officium nocturnum pariter et diurnum, quantum eis Deus dederit, studiose
-            celebrent pariter et devote.</p>
+            celebrent pariter et devote.</quote>
+              <bibl>Innocent III, Lat. IV, c. 17</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t41-Dd1e244">
           <head xml:id="cice-l3t41-Hd1e246">CAP. X.</head>

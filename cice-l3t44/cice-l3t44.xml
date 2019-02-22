@@ -59,19 +59,26 @@
           <head xml:id="cice-l3t44-Hd1e110">CAP. I.</head>
           <head xml:id="cice-l3t44-d1e113" type="question-title">Eucharistia et chrisma debent fideliter sub clavibus custodiri, et contra fecientes
             sunt puniendi.</head>
-          <p xml:id="cice-l3t44-d1e116">Innocentius III. in concilio generali.</p>
-          <p xml:id="cice-l3t44-d1e119">Statuimus, ut in cunctis ecclesiis chrisma et eucharistia sub fideli custodia clavibus
+          <p xml:id="cice-l3t44-d1e119">
+            <ref xml:id="cice-l3t44-Rd1e118" corresp="#cice-l3t44-Qd1e123">Innocentius III. in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t44-Qd1e123" source="http://scta.info/resource/nhyjhg-d1e206">Statuimus, ut in cunctis ecclesiis chrisma et eucharistia sub fideli custodia clavibus
             adhibitis conserventur, ne possit ad illa temeraria manus extendi ad aliqua horribilia
             vel nefaria exercenda. Si vero is, ad quem spectat custodia, ea incaute reliquerit,
             tribus mensibus ab officio suspendatur, et, si per eius incuriam aliquid nefandum inde
-            contigerit, graviori subiaceat ultioni.</p>
+            contigerit, graviori subiaceat ultioni.</quote>
+              <bibl>Innocent III, Lat. IV, c. 20</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t44-Dd1e123">
           <head xml:id="cice-l3t44-Hd1e125">CAP. II.</head>
           <head xml:id="cice-l3t44-d1e128" type="question-title">Supellectilia in ecclesiis poni non debent, nisi necessitas urgeat. Hoc dicit primo.
             Ecclesiae debent sua vasa et vestimenta munde tenere. Hoc secundo.</head>
-          <p xml:id="cice-l3t44-d1e131">Idem in eodem.</p>
-          <p xml:id="cice-l3t44-d1e134">Relinqui nolumus incorrectum, quod quidam clerici ecclesias sic exponunt
+          <p xml:id="cice-l3t44-d1e134">
+            <ref xml:id="cice-l3t44-Rd1e142" corresp="#cice-l3t44-Qd1e147">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t44-Qd1e147" source="http://scta.info/resource/nhyjhg-d1e198">Relinqui nolumus incorrectum, quod quidam clerici ecclesias sic exponunt
             suppellectilibus propriis, et etiam alienis, ut potius domus laicae, quam Dei basilicae
             videantur, non considerantes, quod Dominus non sinebat, ut vas transferretur per
             templum. Sunt et alii, qui non solum ecclesias dimittunt incultas, verum etiam vasa
@@ -82,7 +89,10 @@
             ad eas oporteat haberi refugium, sic tamen, ut necessitate cessante, res in loca
             pristina reportentur. Praecipimus quoque, ut oratoria, vasa, corporalia et vestimenta
             praedicta munda et nitida conserventur. Nimis enim videtur absurdum in sacris sordes
-            negligere, quae dedecerent etiam in profanis.</p>
+            negligere, quae dedecerent etiam in profanis.</quote>
+              <bibl>Innocent III, Lat. IV, c. 19</bibl>
+            </cit>
+          </p>
         </div>
       </div>
     </body>

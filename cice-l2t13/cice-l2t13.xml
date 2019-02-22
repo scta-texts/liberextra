@@ -560,15 +560,20 @@
           <head xml:id="cice-l2t13-Hd1e368">CAP. XVIII.</head>
           <head xml:id="cice-l2t13-d1e371" type="question-title">Recipiens scienter rem invasam a spoliatore, tenetur eam spoliato restituere, licet non
             probet dominium.</head>
-          <p xml:id="cice-l2t13-d1e374">Idem in concilio generali.</p>
-          <p xml:id="cice-l2t13-d1e377">Saepe contingit, quod spoliatus iniuste, per spoliatorem in alium re translata, dum
+          <p xml:id="cice-l2t13-d1e377">
+            <ref xml:id="cice-l2t13-Rd1e376" corresp="#cice-l2t13-Qd1e381">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l2t13-Qd1e381" source="http://scta.info/resource/nhyjhg-d1e361">Saepe contingit, quod spoliatus iniuste, per spoliatorem in alium re translata, dum
             adversus possessorem non subvenitur per restitutionis beneficium spoliato, commodo
             possessionis amisso, propter difficultatem probationum iuris proprietatis amittit
             effectum. Unde, non obstante iuris civilis rigore, sancimus, ut, si quis de cetero
             scienter rem talem receperit, quum spoliatori quasi succedat in vitium eo, quod non
             multum intersit, [praesertim] quoad periculum animae, iniuste detinere ac invadere
             alienum, contra possessorem huiusmodi spoliato per restitutionis beneficium
-            succuratur.</p>
+            succuratur.
+              </quote>
+              <bibl>Innocent III, Lat. IV, c. 39</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l2t13-Dd1e381">
           <head xml:id="cice-l2t13-Hd1e383">CAP. XIX.</head>

@@ -234,8 +234,10 @@
         <div xml:id="cice-l3t42-Dd1e184">
           <head xml:id="cice-l3t42-Hd1e186">CAP. VI.</head>
           <head xml:id="cice-l3t42-d1e189" type="question-title">Baptizatos a Latinis Graeci rebaptizare non debent.</head>
-          <p xml:id="cice-l3t42-d1e192">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t42-d1e195">Licet Graecos [in] diebus nostris ad obedientiam sedis apostolicae revertentes fovere
+          <p xml:id="cice-l3t42-d1e195">
+            <ref xml:id="cice-l3t42-Rd1e197" corresp="#cice-l3t42-Qd1e202">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e202" source="http://scta.info/resource/nhyjhg-d1e75">Licet Graecos [in] diebus nostris ad obedientiam sedis apostolicae revertentes fovere
             ac honorare velimus, mores ac ritus eorum, in quantum cum Domino possumus, sustinendo:
             in his tamen illis deferre non volumus, nec debemus, quae periculum generant animarum et
             ecclesiasticae derogant honestati. Postquam enim Graecorum ecclesia cum quibusdam
@@ -249,7 +251,9 @@
             praesumant, conformantes se tanquam filii obedientiae sacrosanctae Romanae ecclesiae
             matri suae, ut sit unum ovile et unus pastor. Si quis autem tale quid praesumpserit,
             excommunicationis mucrone percussus ab omni officio et beneficio ecclesiastico
-            deponatur.</p>
+            deponatur</quote>
+              <bibl>Innocent III, Lat IV, c. 4</bibl>
+            </cit>.</p>
         </div>
       </div>
     </body>

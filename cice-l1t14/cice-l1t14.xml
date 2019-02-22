@@ -296,14 +296,19 @@
         <div xml:id="cice-l1t14-Dd1e305">
           <head xml:id="cice-l1t14-Hd1e307">CAP. XIV.</head>
           <head xml:id="cice-l1t14-d1e310" type="question-title">Minus idoneus in sacerdotem promoveri vel ad regimen animarum assumi non debet.</head>
-          <p xml:id="cice-l1t14-d1e313">Idem in concilio generali.</p>
-          <p xml:id="cice-l1t14-d1e316">Quum sit ars artium regimen animarum, districte praecipimus, ut episcopi promovendos in
+          <p xml:id="cice-l1t14-d1e316">
+            <ref xml:id="cice-l1t14-Rd1e315" corresp="#cice-l1t14-Qd1e320">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t14-Qd1e320" source="http://scta.info/resource/nhyjhg-d1e263">Quum sit ars artium regimen animarum, districte praecipimus, ut episcopi promovendos in
             sacerdotes diligenter instruant et informent, vel per se ipsos, vel per alios idoneos
             viros super divinis officiis et ecclesiasticis sacramentis, qualiter ea rite valeant
             celebrare, quoniam, si de cetero rudes et ignaros ordinare praesumpserint, quod quidem
             facile poterit deprehendi, et ordinatores et ordinatos ultioni gravi decernimus
             subiacere. Sanctius enim est, maxime in ordinatione sacerdotum paucos bonos, quam multos
-            malos habere ministros, quia, si caecus caecum ducit, ambo in foveam dilabuntur.</p>
+            malos habere ministros, quia, si caecus caecum ducit, ambo in foveam dilabuntur.</quote>
+            </cit>
+            <bibl>Innocent III, Lat. IV, c. 27</bibl>
+          </p>
         </div>
         <div xml:id="cice-l1t14-Dd1e320">
           <head xml:id="cice-l1t14-Hd1e322">CAP. XV.</head>

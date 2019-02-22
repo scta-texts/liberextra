@@ -180,8 +180,11 @@
           <head xml:id="cice-l3t50-d1e234" type="question-title">Clericus nec dictare nec proferre sententiam sanguinis debet, nec quicquam aliud
             exercere, per quod ad vindictam sanguinis tendatur, vel purgatione vulgari opem
             praestare non debet.</head>
-          <p xml:id="cice-l3t50-d1e237">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t50-d1e240">Sententiam sanguinis nullus clericus dictet aut proferat, sed nec sanguinis vindictam
+          <p xml:id="cice-l3t50-d1e240">
+            <ref xml:id="cice-l3t50-Rd1e239" corresp="#cice-l3t50-Qd1e244">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t50-Qd1e244" source="http://scta.info/resource/nhyjhg-d1e190">
+                Sententiam sanguinis nullus clericus dictet aut proferat, sed nec sanguinis vindictam
             exerceat, aut ubi exerceatur intersit. Si quis autem huiusmodi occasione statuti
             ecclesiis vel ecclesiasticis personis aliquod praesumpserit inferre dispendium, per
             censuram ecclesiasticam compescatur. Nec quisquam clericus literas dictet aut scribat
@@ -191,7 +194,10 @@
             vel sacerdos exerceat, quae adustionem vel incisionem inducit. Nec quisquam purgationi
             aquae ferventis vel frigidae seu ferri candentis ritum cuiuslibet benedictionis aut
             consecrationis impendat, salvis nihilominus prohibitionibus, de monomachiis sive duellis
-            antea promulgatis.</p>
+            antea promulgatis.</quote>
+              <bibl>Innocent III, Lat. IV., c. 18</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t50-Dd1e244">
           <head xml:id="cice-l3t50-Hd1e246">CAP. X.</head>

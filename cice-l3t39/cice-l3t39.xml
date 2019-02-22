@@ -584,8 +584,10 @@
             concilium Lateranense et praedicationi, correctoni et reformationi vacare. Legati et
             nuncii apostolici pro his diebus tantum, pro quibus moram trahunt, procurari debent, et
             contra hanc constitutionem exactum restituitur duplicatum.</head>
-          <p xml:id="cice-l3t39-d1e450">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t39-d1e453">Procurationes, quae ratione visitationis debentur episcopis, vel archidiaconis vel
+          <p xml:id="cice-l3t39-d1e453">
+            <ref xml:id="cice-l3t39-Rd1e454" corresp="#cice-l3t39-Qd1e459">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t39-Qd1e459" source="http://scta.info/resource/nhyjhg-d1e312">Procurationes, quae ratione visitationis debentur episcopis, vel archidiaconis vel
             quibuslibet aliis, etiam apostolicae sedis legatis aut nunciis, absque manifesta et
             necessaria causa nullatenus exigantur, nisi quando personaliter officium visitationis
             impendunt. Et tunc evectionum et personarum mediocritatem observent in Lateranensi
@@ -598,7 +600,10 @@
             visitationis officium exercentes non quaerant quae sua sunt, sed quae Iesu Christi,
             praedicationi et cohortationi, correctioni et reformationi vacando, ut fructum referant,
             qui non perit. Qui autem contra hoc venire tentaverit et quod accepit reddat, et
-            ecclesiae, quam taliter aggravavit, tantundem impendat.</p>
+            ecclesiae, quam taliter aggravavit, tantundem impendat.</quote>
+              <bibl>Innocent III, Lat. IV, c. 33</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t39-Dd1e457">
           <head xml:id="cice-l3t39-Hd1e459">CAP. XXIV.</head>
