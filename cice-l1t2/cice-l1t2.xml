@@ -56,16 +56,15 @@
         <head xml:id="cice-l1t2-Hd1e105">1.02. DE CONSTITUTIONIBUS.</head>
         <div xml:id="cice-l1t2-Dd1e108">
           <head xml:id="cice-l1t2-Hd1e110">CAP. I.</head>
-
-          <p xml:id="cice-l1t2-d1e113">Iuris canonici statuta omnes ligant, et eorum ritu tam in pronunciando quam in
-            decidendo iudicia sunt regulanda.</p>
+          <head xml:id="cice-l1t2-d1e113" type="question-title">Iuris canonici statuta omnes ligant, et eorum ritu tam in pronunciando quam in
+            decidendo iudicia sunt regulanda.</head>
           <p xml:id="cice-l1t2-d1e116">Ex concilio Meldensi.</p>
           <p xml:id="cice-l1t2-d1e119">Canonum statuta [sine praeiudicio] custodiantur ab omnibus, et nemo in actionibus vel
             iudiciis ecclesiasticis suo sensu, sed eorum auctoritate ducatur.</p>
         </div>
         <div xml:id="cice-l1t2-Dd1e123">
           <head xml:id="cice-l1t2-Hd1e125">CAP. II.</head>
-          <p xml:id="cice-l1t2-d1e128">Constitutio respicit futura, et non praeterita.</p>
+          <head xml:id="cice-l1t2-d1e128" type="question-title">Constitutio respicit futura, et non praeterita.</head>
           <p xml:id="cice-l1t2-d1e131">Gregorius in Registro.</p>
           <p xml:id="cice-l1t2-d1e134">Cognoscentes, [qualis fraternitatem vestram zelus pro Christianis mancipiis, quae
             Iudaei de Galliarum finibus emunt, accenderit, adeo nobis sollicitudinem vestram
@@ -90,8 +89,8 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e138">
           <head xml:id="cice-l1t2-Hd1e140">CAP. III.</head>
-          <p xml:id="cice-l1t2-d1e143">Potestas legem condendi et mutandi est penes vicarium Christi. Et quod de uno
-            connexorum statuitur, ad aliud connexum extenditur. Abbas Sicul.</p>
+          <head xml:id="cice-l1t2-d1e143" type="question-title">Potestas legem condendi et mutandi est penes vicarium Christi. Et quod de uno
+            connexorum statuitur, ad aliud connexum extenditur. Abbas Sicul.</head>
           <p xml:id="cice-l1t2-d1e146">Augustinus super illud epist. ad Hebraeos:</p>
           <p xml:id="cice-l1t2-d1e149">“Translato sacerdotio necesse est ut legis translatio fiat.” Quia enim simul et ab
             eodem, et sub eadem sponsione utraque data sunt, quod de uno dicitur necesse est ut de
@@ -99,23 +98,23 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e153">
           <head xml:id="cice-l1t2-Hd1e155">CAP. IV.</head>
-          <p xml:id="cice-l1t2-d1e158">Omne prohibitum a lege peccatum est, et omne illud, quod sequitur ex eo. Hoc d.</p>
+          <head xml:id="cice-l1t2-d1e158" type="question-title">Omne prohibitum a lege peccatum est, et omne illud, quod sequitur ex eo. Hoc d.</head>
           <p xml:id="cice-l1t2-d1e161">Idem super epist. ad Romanos.</p>
           <p xml:id="cice-l1t2-d1e164"><quote><quote xml:id="cice-l1t2-Qncnncn" ana="#rom7_7">Nam concupiscentiam nesciebam</quote>, etc. Hoc enim elegit Apostolus generale, unde omnia
             mala oriuntur. Bona est ergo lex, quae, dum hoc prohibet, omnia mala prohibet.</quote></p>
         </div>
         <div xml:id="cice-l1t2-Dd1e169">
           <head xml:id="cice-l1t2-Hd1e171">CAP. V.</head>
-          <p xml:id="cice-l1t2-d1e174">Constitutiones decretorum singularibus sunt opinionibus praeferendae.</p>
+          <head xml:id="cice-l1t2-d1e174" type="question-title">Constitutiones decretorum singularibus sunt opinionibus praeferendae.</head>
           <p xml:id="cice-l1t2-d1e177">Hieronymus in Parabolas.</p>
           <p xml:id="cice-l1t2-d1e180">“Ne innitaris prudentiae tuae.” Prudentiae suae inititur, qui ea, quae sibi agenda vel
             dicenda videntur, Patrum decretis praeponit.</p>
         </div>
         <div xml:id="cice-l1t2-Dd1e184">
           <head xml:id="cice-l1t2-Hd1e186">CAP. VI.</head>
-          <p xml:id="cice-l1t2-d1e189">Non valet constitutio collegii in damnum aliquorum et commodum aliorum, cessante
+          <head xml:id="cice-l1t2-d1e189" type="question-title">Non valet constitutio collegii in damnum aliquorum et commodum aliorum, cessante
             rationabili causa. Vel sic: Absque rationabili causa non potest maior pars capituli
-            tollere consuetudinem, utilitatem privatam nutriendo.</p>
+            tollere consuetudinem, utilitatem privatam nutriendo.</head>
           <p xml:id="cice-l1t2-d1e192">Innocentius III. Senonensi Archiepiscopo et Episcopo Trecensi.</p>
           <p xml:id="cice-l1t2-d1e195">Quum omnes unum corpus simus in christo, singuli autem alter alterius membra, non
             debent maiores minoribus, aut seniores iunioribus invidere, sed omnes, qui in una
@@ -141,7 +140,7 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e199">
           <head xml:id="cice-l1t2-Hd1e201">CAP. VII.</head>
-          <p xml:id="cice-l1t2-d1e204">Constitutio laicorum ecclesiam seu eius bona non adstringit.</p>
+          <head xml:id="cice-l1t2-d1e204" type="question-title">Constitutio laicorum ecclesiam seu eius bona non adstringit.</head>
           <p xml:id="cice-l1t2-d1e207">Idem Tridentino Episcopo.</p>
           <p xml:id="cice-l1t2-d1e210">Quae in ecclesiarum et ecclesiasticorum virorum praeiudicium attentantur, firmitatem
             sortiri non debent, sed ad ecclesiarum indemnitatem debent potius infirmari. Sane
@@ -162,8 +161,8 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e214">
           <head xml:id="cice-l1t2-Hd1e216">CAP. VIII.</head>
-          <p xml:id="cice-l1t2-d1e219">Dignitas sublata de ecclesia per statutum capituli, confirmatum per Papam, ulterius non
-            censetur vocare, nisi per contrarium actum statutum fuerit revocatum.</p>
+          <head xml:id="cice-l1t2-d1e219" type="question-title">Dignitas sublata de ecclesia per statutum capituli, confirmatum per Papam, ulterius non
+            censetur vocare, nisi per contrarium actum statutum fuerit revocatum.</head>
           <p xml:id="cice-l1t2-d1e222">Idem.</p>
           <p xml:id="cice-l1t2-d1e225">Quum accessissent ad apostolicam sedem dilecti filii archidiaconus Tullensis et G.
             Tullensis capituli procurator venerabilem fratrem nostrum Hugonem Hostiensem episcopum
@@ -249,9 +248,9 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e229">
           <head xml:id="cice-l1t2-Hd1e231">CAP. IX.</head>
-          <p xml:id="cice-l1t2-d1e234">Non obstante certo canonicorum numero, etiam per Papam confirmato, providendum est
+          <head xml:id="cice-l1t2-d1e234" type="question-title">Non obstante certo canonicorum numero, etiam per Papam confirmato, providendum est
             receptis ultra numerum de superexcrescentibus fructibus; maxime si voluntarie per
-            canonicos fuerint recepti.</p>
+            canonicos fuerint recepti.</head>
           <p xml:id="cice-l1t2-d1e237">Idem Clugiensi Episcopo.</p>
           <p xml:id="cice-l1t2-d1e240">Quum Martinus Ferrariensis canonicus, F. W., B. et G., canonicorum Ferrariensium, et
             magister G., Ferrariensis capituli procuratores ad sedem apostolicam accessissent, super
@@ -292,9 +291,9 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e244">
           <head xml:id="cice-l1t2-Hd1e246">CAP. X.</head>
-          <p xml:id="cice-l1t2-d1e249">Statutum generale laicorum ad ecclesias vel ecclesiasticas personas, vel earum bona in
+          <head xml:id="cice-l1t2-d1e249" type="question-title">Statutum generale laicorum ad ecclesias vel ecclesiasticas personas, vel earum bona in
             earum praeiudicium non extenditur; nec speciale, etiamsi earum commodum et favorem
-            concernat. Hoc dicit quoad intellectum. Abbas Siculus.</p>
+            concernat. Hoc dicit quoad intellectum. Abbas Siculus.</head>
           <p xml:id="cice-l1t2-d1e252">Idem Abbati et Conventui sancti Silvestri.</p>
           <p xml:id="cice-l1t2-d1e255">Ecclesia sanctae Mariae in Via lata contra I. de Atteia qui quasdam possessiones ipsius
             dicebatur contra iustitiam detinere, movit tempore B. Carosomi dicti senatoris sub L.
@@ -426,8 +425,8 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e260">
           <head xml:id="cice-l1t2-Hd1e262">CAP. XI.</head>
-          <p xml:id="cice-l1t2-d1e265">Poena simpliciter apposita propter contumaciam in dubio intelligitur temporalis, et non
-            perpetua.</p>
+          <head xml:id="cice-l1t2-d1e265" type="question-title">Poena simpliciter apposita propter contumaciam in dubio intelligitur temporalis, et non
+            perpetua.</head>
           <p xml:id="cice-l1t2-d1e268">Idem universis Doctoribus Parisiis commorantibus.</p>
           <p xml:id="cice-l1t2-d1e271">Ex literis vestrae devotionis accepimus, quod, quum quidam moderni doctores liberalium
             artium a maiorum suorum vestigiis in tribus praesertim articulis deviarent, habitu
@@ -471,8 +470,8 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e275">
           <head xml:id="cice-l1t2-Hd1e277">CAP. XII.</head>
-          <p xml:id="cice-l1t2-d1e280">Non possunt canonici sine causa restringere numerum canonicorum seu praebendarum. Abb.
-            Sicul.</p>
+          <head xml:id="cice-l1t2-d1e280" type="question-title">Non possunt canonici sine causa restringere numerum canonicorum seu praebendarum. Abb.
+            Sicul.</head>
           <p xml:id="cice-l1t2-d1e283">Honorius III. Episcopo et Cantori Cabilonensi.</p>
           <p xml:id="cice-l1t2-d1e286">Ex parte venerabilis fratris nostri episcopi Eduensis fuit propositum coram nobis, quod
             canonici Eduenses propriis commodis inhiantes praebendarum numerum ab antiquo in
@@ -490,7 +489,7 @@
         </div>
         <div xml:id="cice-l1t2-Dd1e290">
           <head xml:id="cice-l1t2-Hd1e292">CAP. XIII.</head>
-          <p xml:id="cice-l1t2-d1e295">Constitutio futura respicit, et non praeterita, nisi in ea de praeteritis caveatur.</p>
+          <head xml:id="cice-l1t2-d1e295" type="question-title">Constitutio futura respicit, et non praeterita, nisi in ea de praeteritis caveatur.</head>
           <p xml:id="cice-l1t2-d1e298">Gregorius IX. Archipresbytero S. Mariae maioris de Urbe.</p>
           <p xml:id="cice-l1t2-d1e301">Quoniam constitutio apostolicae sedis omnes adstringit et nihil debet obscurum vel
             ambiguum continere, declaramus, constitutionem, quam nuper super praeferendis in
