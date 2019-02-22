@@ -813,17 +813,23 @@
           <head xml:id="cice-l5t3-Hd1e686">CAP. XXXIX.</head>
           <head xml:id="cice-l5t3-d1e689" type="question-title">Simoniacum est aliquid exigere pro consecratione episcoporum et benedictionibus abbatum
             et ordinationibus clericorum, nec excusat consuetudo.</head>
-          <p xml:id="cice-l5t3-d1e692">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t3-d1e695">Sicut pro certo didicimus, in plerisque locis [et] a plerisque personis, quasi columbas
-            in templo vendentibus, fiunt exactiones et extorsiones turpes et pravae pro
-            consecrationibus episcoporum, benedictionibus abbatum et ordinibus clericorum, estque
-            taxatum, quantum sit isti vel illi, quantumve alteri vel alii persolvendum, et ad
-            cumulum damnationis maioris quidam cupiditatem et pravitatem huiusmodi nituntur
-            defendere per consuetudinem longo tempore observatam. Tantum igitur abolere volentes
-            abusum, consuetudinem huiusmodi, quae magis dicenda est corruptela, penitus reprobamus,
-            firmiter statuentes, ut pro his sive conferendis sive collatis nemo aliquid quocunque
-            praetextu exigere aut extorquere praesumat; alioquin et qui receperit, et qui dederit
-            huiusmodi pretium omnino damnatum, cum Giezi et Simone condemnetur.</p>
+          <p xml:id="cice-l5t3-d1e695">
+            <ref xml:id="cice-l5t3-Rd1e694" corresp="#cice-l5t3-Qd1e699">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t3-Qd1e699" source="http://scta.info/resource/nhyjhg-d1e557">
+                Sicut pro certo didicimus, in plerisque locis [et] a plerisque personis, quasi columbas
+                in templo vendentibus, fiunt exactiones et extorsiones turpes et pravae pro
+                consecrationibus episcoporum, benedictionibus abbatum et ordinibus clericorum, estque
+                taxatum, quantum sit isti vel illi, quantumve alteri vel alii persolvendum, et ad
+                cumulum damnationis maioris quidam cupiditatem et pravitatem huiusmodi nituntur
+                defendere per consuetudinem longo tempore observatam. Tantum igitur abolere volentes
+                abusum, consuetudinem huiusmodi, quae magis dicenda est corruptela, penitus reprobamus,
+                firmiter statuentes, ut pro his sive conferendis sive collatis nemo aliquid quocunque
+                praetextu exigere aut extorquere praesumat; alioquin et qui receperit, et qui dederit
+                huiusmodi pretium omnino damnatum, cum Giezi et Simone condemnetur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 63</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t3-Dd1e699">
           <head xml:id="cice-l5t3-Hd1e701">CAP. XL.</head>
@@ -831,8 +837,11 @@
             arctioribus monasteriis ad agendam poenitentiam detruduntur. Sed recepti ante istud
             concilium ponebantur sic recepti in aliis locis eiusdem ordinis, nisi multitudo sit in
             causa, ita tamen, quod renuncient primae receptioni, et de novo recipiuntur.</head>
-          <p xml:id="cice-l5t3-d1e707">Idem in eodem.</p>
-          <p xml:id="cice-l5t3-d1e710">Quoniam simoniaca labes adeo plerasque moniales infecit, ut vix aliquas sine pretio
+          <p xml:id="cice-l5t3-d1e710">
+            <ref xml:id="cice-l5t3-Rd1e718" corresp="#cice-l5t3-Qd1e723">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t3-Qd1e723" source="http://scta.info/resource/nhyjhg-d1e565">
+                Quoniam simoniaca labes adeo plerasque moniales infecit, ut vix aliquas sine pretio
             recipiant in sorores, paupertatis praetextu volentes huiusmodi vitium palliare: ne id de
             cetero fiat, penitus prohibemus, statuentes, ut quaecunque de cetero talem commiserint
             pravitatem, tam recipientes quam recepta, sive sit subdita sive praelata, sine spe
@@ -845,15 +854,22 @@
             locis, et inferioribus assignatis. Hoc etiam circa monachos vel alios regulares
             decernimus observandum. Verum, ne per simplicitatem vel ignorantiam se valeant excusare,
             praecipimus, ut dioecesani episcopi singulis annis hoc faciant per suas dioeceses
-            publicari.</p>
+            publicari.</quote>
+              <bibl>Innocent III, Lat. IV, c. 64</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t3-Dd1e715">
           <head xml:id="cice-l5t3-Hd1e717">CAP. XLI.</head>
           <head xml:id="cice-l5t3-d1e720" type="question-title">Episcopi nihil exigere debent, ut permittant in ecclesiis sibi subiectis clericos
             institui, monachos profiteri, vel mortuos sepeliri; alioquin exacta restituentur
             duplicata.</head>
-          <p xml:id="cice-l5t3-d1e723">Idem in eodem.</p>
-          <p xml:id="cice-l5t3-d1e726">Audivimus de quibusdam episcopis, decedentibus ecclesiarum rectoribus, ipsas interdicto
+          
+          <p xml:id="cice-l5t3-d1e726">
+            <ref xml:id="cice-l5t3-Rd1e743" corresp="#cice-l5t3-Qd1e748">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t3-Qd1e748" source="http://scta.info/resource/nhyjhg-d1e573">
+                Audivimus de quibusdam episcopis, decedentibus ecclesiarum rectoribus, ipsas interdicto
             subiiciunt, nec patiuntur alios in eisdem institui, donec ipsis certa summa pecuniae
             persolvatur. Praeterea quum miles aut clericus domum religionis ingreditur, vel apud
             religiosos eligit sepulturam, etiamsi nihil loco religioso reliquerit, difficultates
@@ -861,22 +877,31 @@
             a malo, sed etiam ab omni specie mali sit secundum Apostolum abstinendum, exactiones
             huiusmodi penitus inhibemus. Quod si quis transgressor exstiterit, exacta duplicata
             restituat, in utilitatem locorum, in quorum fuerint soluta dispendium, fideliter
-            convertenda.</p>
+            convertenda.</quote>
+              <bibl>Innocent III, Lat. IV, c. 65</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t3-Dd1e730">
           <head xml:id="cice-l5t3-Hd1e732">CAP. XLII.</head>
           <head xml:id="cice-l5t3-d1e735" type="question-title">Sacramenta sunt libere conferenda; cogit tamen ordinarius laicos observare laudabiles
             consuetudines.</head>
-          <p xml:id="cice-l5t3-d1e738">Idem in eodem.</p>
-          <p xml:id="cice-l5t3-d1e741">Ad apostolicam audientiam frequenti relatione pervenit, quod quidam clerici pro
-            exsequiis mortuorum, et benedictionibus nubentium et similibus pecuniam exigunt et
-            extorquent, et, si forte eorum cupiditati non fuerit satisfactum, impedimenta fictitia
-            fraudulenter opponunt. Econtra vero quidam laici laudabilem consuetudinem erga sanctam
-            ecclesiam, pia devotione fidelium introductam, ex fermento haereticae pravitatis
-            nituntur infringere sub praetextu canonicae pietatis. Qua propter super his pravas
-            exactiones fieri prohibemus, et pias consuetudines praecipimus observari, statuentes, ut
-            libere conferantur ecclesiastica sacramenta; sed per episcopum loci veritate cognita
-            compescantur, qui malitiose nituntur laudabilem consuetudinem immutare.</p>
+          <p xml:id="cice-l5t3-d1e741">
+            <ref xml:id="cice-l5t3-Rd1e767" corresp="#cice-l5t3-Qd1e772">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t3-Qd1e772" source="http://scta.info/resource/nhyjhg-d1e582">
+                Ad apostolicam audientiam frequenti relatione pervenit, quod quidam clerici pro
+                exsequiis mortuorum, et benedictionibus nubentium et similibus pecuniam exigunt et
+                extorquent, et, si forte eorum cupiditati non fuerit satisfactum, impedimenta fictitia
+                fraudulenter opponunt. Econtra vero quidam laici laudabilem consuetudinem erga sanctam
+                ecclesiam, pia devotione fidelium introductam, ex fermento haereticae pravitatis
+                nituntur infringere sub praetextu canonicae pietatis. Qua propter super his pravas
+                exactiones fieri prohibemus, et pias consuetudines praecipimus observari, statuentes, ut
+                libere conferantur ecclesiastica sacramenta; sed per episcopum loci veritate cognita
+                compescantur, qui malitiose nituntur laudabilem consuetudinem immutare.</quote>
+              <bibl>Innocent III, Lat. IV, c. 66</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t3-Dd1e745">
           <head xml:id="cice-l5t3-Hd1e747">CAP. XLIII.</head>

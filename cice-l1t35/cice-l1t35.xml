@@ -148,13 +148,19 @@
           <head xml:id="cice-l1t35-d1e201" type="question-title">Si eeclesia rem suam locando vel in feudum concedendo apponit pactum in praeiudicium
             iuris parochialis alterius ecclesiae, non tenet, et quicquid hac occasione perceperit
             reddere cogitur illi ecclesiae.</head>
-          <p xml:id="cice-l1t35-d1e204">Innocentius III. in concilio generali.</p>
-          <p xml:id="cice-l1t35-d1e207">Plerique, sicut accepimus, regulares clerici et saeculares interdum, quum vel domos
+          
+          <p xml:id="cice-l1t35-d1e207">
+            <ref xml:id="cice-l1t35-Rd1e206" corresp="#cice-l1t35-Qd1e211">Innocentius III. in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l1t35-Qd1e211" source="http://scta.info/resource/nhyjhg-d1e500">Plerique, sicut accepimus, regulares clerici et saeculares interdum, quum vel domos
             locant, vel feuda concedunt, in praeiudicium parochialium ecclesiarum pactum adiiciunt,
             ut conductores et feudatarii decimas eis solvant, et apud eosdem eligant sepulturam.
             Quum autem id de avaritiae radice procedat, pactum huiusmodi penitus reprobamus,
             statuentes, ut quicquid fuerit occasione huiusmodi pacti perceptum ecclesiae parochiali
-            reddatur.</p>
+            reddatur.</quote>
+              <bibl>Innocent III, Lat. IV, c. 56</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t35-Dd1e211">
           <head xml:id="cice-l1t35-Hd1e213">CAP. VIII.</head>

@@ -1105,30 +1105,37 @@
           <head xml:id="cice-l2t20-Hd1e808">CAP. XLVII.</head>
           <head xml:id="cice-l2t20-d1e811" type="question-title">Ponit concilium duodecim, sine quibus ad probandam consanguinitatem in causa
             matrimoniali, non valet testimonium de auditu. H. d. summando generaliter.</head>
-          <p xml:id="cice-l2t20-d1e814">Idem in concilio generali.</p>
-          <p xml:id="cice-l2t20-d1e817">Licet ex quadam necessitate praeter communem formam olim fuerit institutum, in
-            consanguinitatis et affinitatis gradibus computandis valere testimonium de auditu, quum
-            propter brevem hominum vitam testes de visu deponere non valerent usque ad gradum
-            septimum computando; quia tamen pluribus exemplis et certis experimentis didicimus, ex
-            hoc multa pericula contra legitima provenisse coniugia, statuimus, ne super hoc
-            recipiantur de cetero testes de auditu, quum iam quartum gradum prohibitio non excedat,
-            nisi forte personae graves exstiterint, quibus fides sit merito adhibenda, et ante litem
-            motam testificata didicerint ab antiquioribus quidem suis, non utique ab uno, quum non
-            sufficeret ille, si viveret, sed duobus ad minus; nec ab infamibus et suspectis, sed a
-            fide dignis et omni exceptione maioribus; quum satis videretur absurdum illos admitti,
-            quorum repellerentur auctores. Nec tamen, si unus a pluribus, vel infames ab hominibus
-            bonae famae acceperint quod testantur, tanquam plures et idonei testes debent admitti,
-            quum etiam secundum ordinem solitum iudiciorum non sufficiat unius testis assertio,
-            etiamsi praesidiali refulgeat dignitate, et actus legitimi sint infamibus interdicti.
-            Testes autem huiusmodi proprio iuramento firmantes, quod ad ferendum testimonium in
-            causa ipsa odio, vel amore, vel timore vel commodo non procedant, personas expressis
-            nominibus, vel demonstratione vel circumlocutione sufficienti designent, et ab utroque
-            latere singulos gradus clara computatione distinguant, et in suo nihilominus iuramento
-            concludant, se accepisse a suis maioribus quod deponunt, et credere ita esse. Sed nec
-            tales sufficiant, nisi iurati deponant, se vidisse personas vel saltem in uno
-            praedictorum graduum constitutas pro consanguineis se habere. Tolerabilius est enim,
-            aliquos contra statuta hominum dimittere copulatos, quam coniunctos legitime contra
-            statuta Domini separare.</p>
+          <p xml:id="cice-l2t20-d1e817">
+            <ref xml:id="cice-l2t20-Rd1e816" corresp="#cice-l2t20-Qd1e821">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l2t20-Qd1e821" source="http://scta.info/resource/nhyjhg-d1e467">
+                Licet ex quadam necessitate praeter communem formam olim fuerit institutum, in
+              consanguinitatis et affinitatis gradibus computandis valere testimonium de auditu, quum
+              propter brevem hominum vitam testes de visu deponere non valerent usque ad gradum
+              septimum computando; quia tamen pluribus exemplis et certis experimentis didicimus, ex
+              hoc multa pericula contra legitima provenisse coniugia, statuimus, ne super hoc
+              recipiantur de cetero testes de auditu, quum iam quartum gradum prohibitio non excedat,
+              nisi forte personae graves exstiterint, quibus fides sit merito adhibenda, et ante litem
+              motam testificata didicerint ab antiquioribus quidem suis, non utique ab uno, quum non
+              sufficeret ille, si viveret, sed duobus ad minus; nec ab infamibus et suspectis, sed a
+              fide dignis et omni exceptione maioribus; quum satis videretur absurdum illos admitti,
+              quorum repellerentur auctores. Nec tamen, si unus a pluribus, vel infames ab hominibus
+              bonae famae acceperint quod testantur, tanquam plures et idonei testes debent admitti,
+              quum etiam secundum ordinem solitum iudiciorum non sufficiat unius testis assertio,
+              etiamsi praesidiali refulgeat dignitate, et actus legitimi sint infamibus interdicti.
+              Testes autem huiusmodi proprio iuramento firmantes, quod ad ferendum testimonium in
+              causa ipsa odio, vel amore, vel timore vel commodo non procedant, personas expressis
+              nominibus, vel demonstratione vel circumlocutione sufficienti designent, et ab utroque
+              latere singulos gradus clara computatione distinguant, et in suo nihilominus iuramento
+              concludant, se accepisse a suis maioribus quod deponunt, et credere ita esse. Sed nec
+              tales sufficiant, nisi iurati deponant, se vidisse personas vel saltem in uno
+              praedictorum graduum constitutas pro consanguineis se habere. Tolerabilius est enim,
+              aliquos contra statuta hominum dimittere copulatos, quam coniunctos legitime contra
+              statuta Domini separare.
+              </quote>
+              <bibl>Innocent III, Lat. IV, c. 52</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l2t20-Dd1e821">
           <head xml:id="cice-l2t20-Hd1e823">CAP. XLVIII.</head>

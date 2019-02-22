@@ -106,15 +106,21 @@
         <div xml:id="cice-l5t9-Dd1e153">
           <head xml:id="cice-l5t9-Hd1e155">CAP. IV.</head>
           <head xml:id="cice-l5t9-d1e158" type="question-title">Baptizati alterius sectae vel fidei ritus dimittere compelluntur.</head>
-          <p xml:id="cice-l5t9-d1e161">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t9-d1e164">Quidam, sicut accepimus, qui ad sacri undam baptismatis voluntarii accesserunt, veterem
+          <p xml:id="cice-l5t9-d1e164">
+            <ref xml:id="cice-l5t9-Rd1e163" corresp="#cice-l5t9-Qd1e168">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t9-Qd1e168" source="http://scta.info/resource/nhyjhg-d1e614">
+                Quidam, sicut accepimus, qui ad sacri undam baptismatis voluntarii accesserunt, veterem
             hominem omnino non exuunt, ut novo perfectius induantur, quum, prioris ritus reliquias
             retinentes, Christianae religionis decorem tali commixtione confundant. Quum autem
             maledictus sit homo, qui terram duabus viis ingreditur, et indui veste non debeat lino
             lanaque contexta: statuimus, ut per praelatos ecclesiarum talis observantia veteris
             ritus omnimode compescatur, ut, quos Christianae religioni liberae voluntatis arbitrium
             obtulit, salutiferae coactionis necessitas in eius observatione conservet; quum minus
-            malum exsistat viam Domini non agnoscere, quam post agnitam retroire.</p>
+            malum exsistat viam Domini non agnoscere, quam post agnitam retroire.</quote>
+            </cit>
+            <bibl>Innocent III, Lat. IV, c. 70</bibl>
+          </p>
         </div>
         <div xml:id="cice-l5t9-Dd1e169">
           <head xml:id="cice-l5t9-Hd1e171">CAP. V.</head>

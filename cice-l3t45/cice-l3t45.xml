@@ -70,15 +70,22 @@
           <head xml:id="cice-l3t45-Hd1e125">CAP. II.</head>
           <head xml:id="cice-l3t45-d1e128" type="question-title">Sanctorum reliquiae vendi non possunt, vel passim ostendi non debent, ne circa illas
             populus decipi possit.</head>
-          <p xml:id="cice-l3t45-d1e131">Innocentius III. in concilio generali.</p>
-          <p xml:id="cice-l3t45-d1e134">Quum ex eo, quod quidam sanctorum reliquias exponunt venales, et eas passim ostendunt,
+          <p xml:id="cice-l3t45-d1e134">
+            <ref xml:id="cice-l3t45-Rd1e133" corresp="#cice-l3t45-Qd1e138">Innocentius III. in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t45-Qd1e138" source="http://scta.info/resource/nhyjhg-d1e549">
+                Quum ex eo, quod quidam sanctorum reliquias exponunt venales, et eas passim ostendunt,
             Christanae religioni detractum sit saepius, ne in posterum detrahatur, praesenti decreto
             statuimus, ut antiquae reliquiae amodo extra capsam nullatenus ostendantur, nec
             exponantur venales. Inventas autem de novo nemo publice venerari praesumat, nisi prius
             auctoritate Romani Pontificis fuerint approbatae. Praelati vero de cetero non permittant
             eos, qui ad eorum ecclesias causa venerationis accedunt, variis figmentis aut falsis
-            documentis decipi, sicut [et] in plerisque locis occasione quaestus fieri consuevit.
-            [Eleemosynarum etc. (cf. c. 14. X. de poenit. V. 38.)]</p>
+            documentis decipi, sicut [et] in plerisque locis occasione quaestus fieri consuevit.</quote>
+              <bibl>Innocent III, Lat. IV, c. 62</bibl>
+              <!-- this source used again in V, t38 
+                [Eleemosynarum etc. (cf. c. 14. X. de poenit. V. 38.)] -->
+            </cit>
+            </p>
         </div>
       </div>
     </body>

@@ -333,8 +333,11 @@
           <head xml:id="cice-l5t31-d1e280" type="question-title">Cognoscere de causa matrimoniali, item poenitentias publicas et indulgentias concedere
             spectat ad dignitatem episcopalem; unde inferior praelatus de his se intromittere non
             debet, nisi ei competat de iure speciali.</head>
-          <p xml:id="cice-l5t31-d1e283">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t31-d1e286">Accedentibus ad nos de diversis mundi partibus episcoporum querelis, intelleximus
+          <p xml:id="cice-l5t31-d1e286">
+            <ref xml:id="cice-l5t31-Rd1e285" corresp="#cice-l5t31-Qd1e290">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t31-Qd1e290" source="http://scta.info/resource/nhyjhg-d1e533">
+                Accedentibus ad nos de diversis mundi partibus episcoporum querelis, intelleximus
             graves et grandes quorundam abbatum excessus, qui, suis finibus non contenti, manus ad
             ea, quae sunt episcopalis dignitatis, extendunt, de causis matrimonialibus cognoscendo,
             iniungendo publicas poenitentias, concedendo etiam indulgentiarum literas, et similia
@@ -342,7 +345,10 @@
             Volentes igitur in his et episcoporum dignitati et abbatum providere saluti, praesenti
             decreto firmiter prohibemus, ne quis abbatum ad talia se praesumat extendere, si
             proprium voluerit periculum evitare; nisi forsan quisquam eorum speciali concessione vel
-            alia legitima causa super huiusmodi valeat se tueri.</p>
+            alia legitima causa super huiusmodi valeat se tueri.</quote>
+              <bibl>Innocent III, Lat. IV, c. 60</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t31-Dd1e290">
           <head xml:id="cice-l5t31-Hd1e292">CAP. XIII.</head>

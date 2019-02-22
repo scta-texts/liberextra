@@ -999,8 +999,12 @@
             venientibus ad locum interdictum, semel in anno aperiantur ecclesiae, ut celebrentur in
             eis divina, intelligitur, quod una tantum sola ecclesia aperiatur in loco. Hoc
             secundo.</head>
-          <p xml:id="cice-l5t33-d1e465">Idem in eodem.</p>
-          <p xml:id="cice-l5t33-d1e468">Ut privilegia, quae quibusdam religiosis [personis] Romana concessit ecclesia,
+          
+          <p xml:id="cice-l5t33-d1e468">
+            <ref xml:id="cice-l5t33-Rd1e473" corresp="#cice-l5t33-Qd1e478">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t33-Qd1e478" source="http://scta.info/resource/nhyjhg-d1e508">
+                Ut privilegia, quae quibusdam religiosis [personis] Romana concessit ecclesia,
             permaneant inconcussa, quaedam in eisdem duximus declaranda, ne minus sane intellecta
             pertrahantur ad abusum, propter quem possint merito revocari, quia privilegium meretur
             amittere qui permissa sibi abutitur potestate. Sane quibusdam regularibus apostolica
@@ -1027,7 +1031,10 @@
             non tamen ad ecclesias eiusdem loci divisim, sed praedictorum locorum coniunctim sano
             referendum est intellectu, ne, si hoc modo singulas eiusdem loci visitarent ecclesias,
             nimium vilipendi contingeret sententiam interdicti. Qui vero contra declarationes
-            praedictas quicquam sibi usurpare praesumpserint, gravi subiaceant ultioni.</p>
+            praedictas quicquam sibi usurpare praesumpserint, gravi subiaceant ultioni.</quote>
+              <bibl>Innocent III, Lat. IV, c. 57</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t33-Dd1e472">
           <head xml:id="cice-l5t33-Hd1e474">CAP. XXV.</head>
@@ -1035,14 +1042,21 @@
             interdicti, clam celebrare possunt, et hodie istud non est privilegium episcoporum, sed
             ius commune, ut in c. fin. de sent. excomm. in VI. et ibi plene habetur, an et quando et
             qualiter possit celebrari tempore interdicti.</head>
-          <p xml:id="cice-l5t33-d1e480">Idem in eodem.</p>
-          <p xml:id="cice-l5t33-d1e483">Quod nonnullis est religiosis indultum, in favorem pontificalis officii ad episcopos
+          
+          <p xml:id="cice-l5t33-d1e483">
+            <ref xml:id="cice-l5t33-Rd1e497" corresp="#cice-l5t33-Qd1e502">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t33-Qd1e502" source="http://scta.info/resource/nhyjhg-d1e516">
+                Quod nonnullis est religiosis indultum, in favorem pontificalis officii ad episcopos
             extendentes concedimus, ut, quum commune terrae interdictum fuerit, excommunicatis et
             interdictis exclusis possint quandoque ianuis clausis et supressa voce et non pulsatis
             campanis divina celebrare officia, nisi et hoc ipsum eis expresse fuerit interdictum.
             Verum hoc illis concedimus, qui causam aliquam non praestiterint interdicto, nec
             quicquam doli vel fraudis ingesserint, tale compendium ad iniquum dispendium
-            pertrahentes.</p>
+            pertrahentes.</quote>
+              <bibl>Innocent III, Lat. IV, c. 58</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t33-Dd1e487">
           <head xml:id="cice-l5t33-Hd1e489">CAP. XXVI.</head>

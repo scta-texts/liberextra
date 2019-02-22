@@ -306,20 +306,30 @@
           <head xml:id="cice-l5t19-Hd1e368">CAP. XVIII.</head>
           <head xml:id="cice-l5t19-d1e371" type="question-title">Etiam Iudaei compellendi sunt ad restituendas usuras extortas a Christianis, et ad
             solvendas decimas vel oblationes de eorum possessionibus.</head>
-          <p xml:id="cice-l5t19-d1e374">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t19-d1e377">Quanto amplius Christiana religio ab exactione compescitur usurarum, tanto gravius
-            super his Iudaeorum perfidia insolesicit, ita, quod brevi tempore Christianorum
-            exhauriunt facultates. Volentes igitur in hac parte prospicere Christianis, ne a Iudaeis
-            immaniter aggraventur, synodali decreto statuimus, ut, si de cetero quocunque praetextu
-            Iudaei a Christianis graves immoderatasve usuras extorserint, Christianorum eis
-            participium subtrahatur, donec de immoderato gravamine satisfecerint competenter. Unde
-            Christiani, si opus fuerit, per censuram ecclesiasticam appellatione postposita
-            compellantur ab eorum commerciis abstinere. Principibus autem iniungimus, ut propter hoc
-            non sint Christianis infesti, sed potius a tanto gravamine studeant cohibere Iudaeos.
-            Hac eadem poena Iudaeos decernimus compellendos ad satisfaciendum ecclesiis, pro decimis
-            et oblationibus debitis, quas a Christianis de domibus et possessionibus aliis percipere
-            consueverant, antequam ad Iudaeos quocunque titulo devenissent, ut sic ecclesiae
-            conserventur indemnes.</p>
+          
+          <p xml:id="cice-l5t19-d1e377">
+            <ref xml:id="cice-l5t19-Rd1e376" corresp="#cice-l5t19-Qd1e381">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t19-Qd1e381" source="http://scta.info/resource/nhyjhg-d1e590">
+                Quanto amplius Christiana religio ab exactione compescitur usurarum, tanto gravius
+                super his Iudaeorum perfidia insolesicit, ita, quod brevi tempore Christianorum
+                exhauriunt facultates. Volentes igitur in hac parte prospicere Christianis, ne a Iudaeis
+                immaniter aggraventur, synodali decreto statuimus, ut, si de cetero quocunque praetextu
+                Iudaei a Christianis graves immoderatasve usuras extorserint, Christianorum eis
+                participium subtrahatur, donec de immoderato gravamine satisfecerint competenter. Unde
+                Christiani, si opus fuerit, per censuram ecclesiasticam appellatione postposita
+                compellantur ab eorum commerciis abstinere. Principibus autem iniungimus, ut propter hoc
+                non sint Christianis infesti, sed potius a tanto gravamine studeant cohibere Iudaeos.
+                Hac eadem poena Iudaeos decernimus compellendos ad satisfaciendum ecclesiis, pro decimis
+                et oblationibus debitis, quas a Christianis de domibus et possessionibus aliis percipere
+                consueverant, antequam ad Iudaeos quocunque titulo devenissent, ut sic ecclesiae
+                conserventur indemnes.
+              </quote>
+              <bibl>
+                Innocent III, Lat. IV, 67
+              </bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t19-Dd1e381">
           <head xml:id="cice-l5t19-Hd1e383">CAP. XIX.</head>

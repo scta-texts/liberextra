@@ -321,8 +321,10 @@
           <head xml:id="cice-l5t6-d1e325" type="question-title">Iudaei et Sarraceni utriusque sexus debent in terris Christianorum uti habitu, per quem
             a Christianis discernantur, et in die Passionis Domini non debent in publicum progredi,
             nec in contumeliam Creatoris prosilire.</head>
-          <p xml:id="cice-l5t6-d1e328">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t6-d1e331">In nonnullis provinciis a Christianis Iudaeos seu Sarracenos habitus distinguit
+          <p xml:id="cice-l5t6-d1e331">
+            <ref xml:id="cice-l5t6-Rd1e330" corresp="#cice-l5t6-Qd1e335">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t6-Qd1e335" source="http://scta.info/resource/nhyjhg-d1e598">In nonnullis provinciis a Christianis Iudaeos seu Sarracenos habitus distinguit
             diversitas; sed in quibusdam sic quaedam inolevit confusio, ut nulla differentia
             discernantur. Unde contingit interdum, quod per errorem Christiani Iudaeorum seu
             Sarracenorum, et Iudaei seu Sarraceni Christianorum mulieribus commiscentur. Ne igitur
@@ -337,15 +339,19 @@
             prosilire aliquatenus praesumant. Et quoniam illius dissimulare non debemus opprobrium,
             qui probra nostra delevit: praecipimus praesumptores huiusmodi per principes saeculares
             condignae animadversionis adiectione compesci, ne crucifixum pro nobis aliquatenus
-            blasphemare praesumant.</p>
+            blasphemare praesumant.</quote>
+              <bibl>Innocent III, Lat. IV, c. 68</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t6-Dd1e335">
           <head xml:id="cice-l5t6-Hd1e337">CAP. XVI.</head>
           <head xml:id="cice-l5t6-d1e340" type="question-title">Praeponens Iudaeum vel paganum publicis officiis, per concilium provinciale corripitur,
             et praeposito denegatur Christianorum commercium, donec deposuerit officium, et in usus
             Christianorum pauperum restituet inde quaesita secundum episcopi providentiam.</head>
-          <p xml:id="cice-l5t6-d1e343">Idem in eodem.</p>
-          <p xml:id="cice-l5t6-d1e346">Quum sit nimis absurdum, ut blasphemus Christi in Christianos vim potestatis exerceat,
+          <p xml:id="cice-l5t6-d1e346">
+            <ref xml:id="cice-l5t6-Rd1e354" corresp="#cice-l5t6-Qd1e358">Idem in eodem.</ref>
+            <cit><quote xml:id="cice-l5t6-Qd1e358" source="http://scta.info/resource/nhyjhg-d1e606">Quum sit nimis absurdum, ut blasphemus Christi in Christianos vim potestatis exerceat,
             quod super hoc Toletanum concilium provide statuit, nos propter transgressorum audaciam
             in hoc generali concilio innovamus, prohibentes, ne Iudaei publicis officiis
             praeferantur, quoniam sub tali praetextu Christianis plurimum sunt infesti. Si quis
@@ -355,7 +361,9 @@
             donec in usus pauperum Christianorum secundum providentiam dioecesani episcopi
             convertatur quicquid fuerit a Christianis adeptus occasione officii sic suscepti, et
             officium cum pudore dimittat, quod irreverenter assumpsit. Hoc idem extendimus ad
-            paganos.</p>
+            paganos.</quote>
+              <bibl>Innocent III, Lat. IV, c. 69</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t6-Dd1e351">
           <head xml:id="cice-l5t6-Hd1e353">CAP. XVII.</head>

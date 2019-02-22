@@ -285,8 +285,12 @@
             basilicae ultra annum, et in anniversario dedicationis, et in literis indulgentiarum,
             concessis ab alio quam a Papa, ultra XL. dies remissio excedere non debet. H. d. usque
             ad fin.</head>
-          <p xml:id="cice-l5t38-d1e313">Idem in eodem.</p>
-          <p xml:id="cice-l5t38-d1e316">Quum ex eo (Et infra: [cf. c. 2. de reliq. et ven. sanct. III. 45.]) Eleemosynarum
+          
+          <p xml:id="cice-l5t38-d1e316">
+            <ref xml:id="cice-l5t38-Rd1e333" corresp="#cice-l5t38-Qd1e338">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t38-Qd1e338" source="http://scta.info/resource/nhyjhg-d1e549">
+                Quum ex eo (Et infra: [cf. c. 2. de reliq. et ven. sanct. III. 45.]) Eleemosynarum
             quoque quaestores, quorum quidam se alios mentiendo abusiones nonnullas in sua
             praedicatione proponunt, admitti, nisi apostolicas vel dioecesani episcopi literas veras
             exhibeant, prohibemus, et tunc praeter id, quod in ipsis continebitur literis, nihil
@@ -314,7 +318,9 @@
             de iniunctis poenitentiis indulta remissio non excedat. (Et infra:) Hunc quoque dierum
             numerurm indulgentiarum literis praecipimus moderari, quae pro quibuslibet casibus
             aliquoties conceduntur, quum Romanus Pontifex, qui plenitudinem obtinet potestatis, hoc
-            in talibus moderamen consueverit observare.</p>
+            in talibus moderamen consueverit observare.</quote>
+              <bibl>Innocent III, Lat. IV, c. 62</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t38-Dd1e320">
           <head xml:id="cice-l5t38-Hd1e322">CAP. XV.</head>
