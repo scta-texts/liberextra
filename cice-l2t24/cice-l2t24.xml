@@ -561,7 +561,7 @@
             Licet enim iuramentum prohibuisse Dominus videatur, nusquam tamen per creatorem, sed per
             creaturam iurare prohibuit, ne per huiusmodi iuramentum transferretur ad creaturam
             honorificentia creatoris. Quare quum in evangelio praemisisset: <quote xml:id="cice-l2t24-Qdvnnio" ana="#mt5_34">Dico vobis, nolite
-            iurare omnino</quote>, statim subiunxit: <quote><!-- mt 5:34-36 -->neque per coelum, quia thronus Dei est; neque per
+            iurare omnino</quote>, statim subiunxit: <quote xml:id="cice-l2t24-Qd1e503"><!-- mt 5:34-36 -->neque per coelum, quia thronus Dei est; neque per
             terram, quia scabellum pedum ipsius est; neque per Hierosolymam, quia civitas est regis
             magni; neque per caput tuum, quia non potes unum capillum facere album aut nigrum</quote>. Et
             quamvis non sit per creaturam iurandum, si tamen iuretur per creaturam, servandum est
@@ -677,12 +677,17 @@
           <head xml:id="cice-l2t24-Hd1e550">CAP. XXX.</head>
           <head xml:id="cice-l2t24-d1e553" type="question-title">Clerici non habentes temporalia a laicis non tenentur eis praestare iuramenta
             fidelitatis.</head>
-          <p xml:id="cice-l2t24-d1e556">Idem in concilio generali.</p>
-          <p xml:id="cice-l2t24-d1e559">Nimis de iure divino quidem laici usurpare nituntur, quum viros ecclesiasticos, nihil
+          <p xml:id="cice-l2t24-d1e559">
+            <ref xml:id="cice-l2t24-Rd1e571">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l2t24-Qd1e576" source="http://scta.info/resource/nhyjhg-d1e394">Nimis de iure divino quidem laici usurpare nituntur, quum viros ecclesiasticos, nihil
             temporale obtinentes ab eis, ad praestandum sibi fidelitatis iuramenta compellunt. Quia
             vero secundum Apostolum servus suo domino stat aut cadit, sacri auctoritate concilii
             prohibemus, ne tales clerici personis saecularibus praestare cogantur huiusmodi
-            iuramenta.</p>
+            iuramenta.</quote>
+              <bibl>Innocent III, Lat. IV, c. 43</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l2t24-Dd1e563">
           <head xml:id="cice-l2t24-Hd1e565">CAP. XXXI.</head>

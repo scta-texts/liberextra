@@ -203,8 +203,11 @@
             nuptiis, quae olim non poterat contrahere cum cognatione prioris viri. Et prohibitio
             coniugii ultra quartum consanguinitatis et affinitatis gradum non extenditur. H. d. iste
             textus, qui quotidie allegatur, et est singularis in materia sua.</head>
-          <p xml:id="cice-l4t14-d1e222">Idem in concilio generali.</p>
-          <p xml:id="cice-l4t14-d1e225">Non debet reprehensible iudicari, si secundum varietatem temporum statuta quandoque
+          
+          <p xml:id="cice-l4t14-d1e225">
+            <ref xml:id="cice-l4t14-Rd1e224" corresp="#cice-l4t14-Qd1e229">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l4t14-Qd1e229" source="http://scta.info/resource/nhyjhg-d1e451">Non debet reprehensible iudicari, si secundum varietatem temporum statuta quandoque
             varientur humana, praesertim quum urgens necessitas vel evidens utilitas id exposcit,
             quoniam ipse Deus ex his, quae in veteri testamento statuerat, nonnulla mutavit in novo.
             Quum ergo prohibitiones de coniugio in secundo et tertio affinitatis genere minime
@@ -223,7 +226,10 @@
             constitutionibus super hoc dudum editis vel ab aliis vel a nobis, ut, si quis contra
             prohibitionem huiusmodi praesumpserit copulari, nulla longinquitate defendatur annorum,
             quum diuturnitas temporum non minuit peccatum, sed auget, tantoque sunt graviora
-            crimina, quanto diutius infelicem animam detinent alligatam.</p>
+            crimina, quanto diutius infelicem animam detinent alligatam.</quote>
+              <bibl>Innocent III, Lat. IV, c. 50</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l4t14-Dd1e229">
           <head xml:id="cice-l4t14-Hd1e231">CAP. IX.</head>

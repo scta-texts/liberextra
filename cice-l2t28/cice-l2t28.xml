@@ -1456,8 +1456,10 @@
             causa probabilis coram iudice est exprimenda, quae debeat legitima reputari, quam si non
             prosequitur, iudex a quo in causa procedat. Idem si prosequitur, et non probat. Haec
             autem constitutio non extenditur ad regulares. H. d.</head>
-          <p xml:id="cice-l2t28-d1e1026">Idem in eodem.</p>
-          <p xml:id="cice-l2t28-d1e1029">Quum speciali sit prohibitione provisum, ne quis in aliquem excommunicationis
+          <p xml:id="cice-l2t28-d1e1029">
+            <ref xml:id="cice-l2t28-Rd1e1046" corresp="#cice-l2t28-Qd1e1051">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l2t28-Qd1e1051" source="http://scta.info/resource/nhyjhg-d1e435">Quum speciali sit prohibitione provisum, ne quis in aliquem excommunicationis
             sententiam nisi competenti commonitione praemissa promulgare praesumat, volentes etiam
             providere, ne forte commonitus frustratoriae recusationis vel appellationis obtentu
             monentis possit declinare examen, statuimus, ut, si allegaverit, se iudicem habere
@@ -1477,14 +1479,16 @@
             non est provocationi huiusmodi deferendum. Excessu quoque dubio exsistente, ne frivolae
             appellationis diffugio appellans iudicis processum impediat, coram eodem probabilem
             causam appellationis exponat, talem videlicet, quae, si foret probata, deberet legitima
-            reputari, et tunc, si habuerit ad­versarium, infra terminum secundum locorum distantiam
+            reputari, et tunc, si habuerit adversarium, infra terminum secundum locorum distantiam
             et temporis qualitatem et naturam negotii ab eodem iudice moderandum, appellationis
             causam prosequatur. Quam si prosequi non curaverit, extunc ipse iudex appellatione non
             obstante procedat. Nullo autem adversario comparente, quum iudex ex suo procedat
             officio, appel­lationis causa coram superiore probata, superior suae iurisdictionis
             officium exsequatur. Sed si appellans in eius probatione defecerit, ad eum, a quo ipsum
             malitiose appellasse constiterit, remittatur. Ceterum has duas constitutiones praemissas
-            nolumus ad regulares extendi contra suas speciales observantias.</p>
+            nolumus ad regulares extendi contra suas speciales observantias.</quote>
+              <bibl>Innocent III, Lat. IV, c. 48</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l2t28-Dd1e1033">
           <head xml:id="cice-l2t28-Hd1e1035">CAP. LXII.</head>

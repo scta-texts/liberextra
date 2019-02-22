@@ -161,8 +161,10 @@
             excommunicati ob gravamina praemissa, remanent excommunicati, etiam post depositum
             officium; nihilominus excommunicati sunt successores, nisi satisfecerint infra mensem.
             Hoc tertio. Hoc dicit ad maiorem declarationem et pro novitiis.</head>
-          <p xml:id="cice-l3t49-d1e207">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t49-d1e210">Adversus consules et rectores civitatum, vel alios, qui ecelesias et ecclesiasticos
+          <p xml:id="cice-l3t49-d1e210">
+            <ref xml:id="cice-l3t49-Rd1e209" corresp="#cice-l3t49-Qd1e214">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t49-Qd1e214" source="http://scta.info/resource/nhyjhg-d1e418">Adversus consules et rectores civitatum, vel alios, qui ecelesias et ecclesiasticos
             viros talliis seu collectis et exactionibus aliis aggravare nituntur, volens immunitati
             ecclesiasticae Lateranense concilium providere, praesumptionem huiusmodi sub anathematis
             districtione prohibuit, transgressores et fautores eorum excommunicationi subiacere
@@ -180,7 +182,10 @@
             satisfactionis debitum compellendus. Nam et ipsum, qui satisfacere recusaverit, et
             successorem ipsius, nisi satisfecerit infra mensem, manere decernimus ecclesiastica
             censura conclusum, donec satisfecerit competenter, quum succedat in onere qui
-            substituitur in honore.</p>
+            substituitur in honore.</quote>
+              <bibl>Innocent III, Lat. IV, c. 46</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t49-Dd1e214">
           <head xml:id="cice-l3t49-Hd1e216">CAP. VIII.</head>

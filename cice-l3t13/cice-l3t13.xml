@@ -217,8 +217,10 @@
           <head xml:id="cice-l3t13-Hd1e277">CAP. XII.</head>
           <head xml:id="cice-l3t13-d1e280" type="question-title">Alienatio rei ecclesiasticae facta sine legitimo ecclesiasticarum personarum assensu
             non tenet, licet approbetur per constitutionem laicorum.</head>
-          <p xml:id="cice-l3t13-d1e283">Idem in concilio generali.</p>
-          <p xml:id="cice-l3t13-d1e286">Quum laicis, quamvis religiosis, disponendi de rebus ecclesiae nulla sit attributa
+          <p xml:id="cice-l3t13-d1e286">
+            <ref xml:id="cice-l3t13-Rd1e285" corresp="#cice-l3t13-Qd1e290">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l3t13-Qd1e290" source="http://scta.info/resource/nhyjhg-d1e402">Quum laicis, quamvis religiosis, disponendi de rebus ecclesiae nulla sit attributa
             potestas, quos obsequendi manet necessitas, non auctoritas imperandi: dolemus, in
             quibusdam ex illis sic refrigescere caritatem, quod immunitatem ecclesiasticae
             libertatis, quam non tantum sancti Patres, sed etiam principes saeculares privilegiis
@@ -231,7 +233,10 @@
             personarum ecclesiasticarum assensu praesumptas occasione constitutionis laicae
             potestatis, quum non constitutio, sed destitutio vel destructio dici possit, nec non
             usurpatio iurisdictionum, sacri approbatione concilii decernimus non tenere,
-            praesumptoribus per censuram ecclesiasticam compellendis.</p>
+            praesumptoribus per censuram ecclesiasticam compellendis.</quote>
+              <bibl>Innocent III, Lat. IV, c. 44</bibl>
+            </cit>
+          </p>
         </div>
       </div>
     </body>

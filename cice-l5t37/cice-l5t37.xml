@@ -227,8 +227,10 @@
             clericum ecclesiae per se vel per alios, perdunt quod habent ab ecclesia, et eorum
             posteri usque ad quartam generationem non admittuntur ad clerum, nec in religionibus
             praeficiuntur.</head>
-          <p xml:id="cice-l5t37-d1e283">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t37-d1e286">In quibusdam provinciis ecclesiarum patroni et advocati seu vicedomini se in tantam
+          <p xml:id="cice-l5t37-d1e286">
+            <ref xml:id="cice-l5t37-Rd1e285" corresp="#cice-l5t37-Qd1e290">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t37-Qd1e290" source="http://scta.info/resource/nhyjhg-d1e410">In quibusdam provinciis ecclesiarum patroni et advocati seu vicedomini se in tantam
             insolentiam erexerunt, quod non solum, quum vacantibus debet ecclesiis de pastoribus
             idoneis provideri, difficultates ingerunt et malitias, verum etiam de possessionibus
             aliisque bonis ecclesiasticis pro sua voluntate ordinare praesumunt, et, quod horrendum
@@ -245,7 +247,10 @@
             excessus memoria prorogetur, non solum de praemissis nihil perveniat ad heredes, sed
             etiam usque ad quartam generationem posteritates talium in clericorum collegium
             nullatenus admittantur, neque in domibus regularibus alicuius praelationis assequantur
-            honorem, nisi cum eis fuerit misericorditer dispensatum.</p>
+            honorem, nisi cum eis fuerit misericorditer dispensatum.</quote>
+              <bibl>Innocent III, Lat. IV, c. 45</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t37-Dd1e290">
           <head xml:id="cice-l5t37-Hd1e292">CAP. XIII.</head>

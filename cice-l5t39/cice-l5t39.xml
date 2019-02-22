@@ -1052,8 +1052,10 @@
             punitur subditus, qui falso conquiritur, se excommunicatum iniuste, et subiicit, quid
             iuris, si praelatus, dicens se errasse, vult excommunicatum absolvere, et adversarius
             appellat, ne absolvatur.</head>
-          <p xml:id="cice-l5t39-d1e829">Idem in concilio generali.</p>
-          <p xml:id="cice-l5t39-d1e832">Sacro approbante concilo prohibemus, ne quis in aliquem excommunicationis sententiam,
+          <p xml:id="cice-l5t39-d1e832">
+            <ref xml:id="cice-l5t39-Rd1e831" corresp="#cice-l5t39-Qd1e836">Idem in concilio generali.</ref>
+            <cit>
+              <quote xml:id="cice-l5t39-Qd1e836" source="http://scta.info/resource/nhyjhg-d1e426">Sacro approbante concilio prohibemus, ne quis in aliquem excommunicationis sententiam,
             nisi competenti admonitione praemissa, et personis praesentibus idoneis, per quas, si
             necesse fuerit, possit probari monitio, promulgare praesumat. Quod si contra
             praesumpserint etiamsi iusta fuerit excommunicationis sententia, ingressum ecclesiae per
@@ -1081,7 +1083,9 @@
             appellatum exstiterit, vel delegato ab ipso iuri parebit, excommunicatum absolvat.
             Sicque poenae praescriptae minime subiacebit, cavens omnino, ne voluntate perversa in
             alterius praeiudicium mentiatur errorem, si districtionis canonicae vult effugere
-            ultionem.</p>
+            ultionem.</quote>
+              <bibl>Innocent III, Lat. IV, c. 47</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t39-Dd1e836">
           <head xml:id="cice-l5t39-Hd1e838">CAP. XLIX.</head>
