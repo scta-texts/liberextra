@@ -60,11 +60,16 @@
           <head xml:id="cice-l5t4-d1e113" type="question-title">Qui dat pecuniam, ut episcopalem vel spiritualem iurisdictionem exerceat, officio suo
             privatur, et sic conferens illud amplius conferre non poterit, et canonice punietur. Hoc
             dicit cum sequentibus.</head>
-          <p xml:id="cice-l5t4-d1e116">Alexander III. in concilio Lateranensi.</p>
-          <p xml:id="cice-l5t4-d1e119">Praeterea, quoniam quidam in quibusdam partibus sub pretio statuuntur, qui decani
-            vocantur, et pro certa pecuniae quantitate episcopalem iurisdictionem exercent,
-            praesenti decreto statuimus, ut, qui de cetero hoc praesumpserit, officio suo privetur,
-            et episcopus conferendi hoc officium potestatem amittat.</p>
+          <p xml:id="cice-l5t4-d1e119">
+            <ref xml:id="cice-l5t4-Rd1e118" corresp="#cice-l5t4-Qd1e123">Alexander III. in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t4-Qd1e123" source="http://scta.info/resource/uh67df-d1e166">Praeterea, quoniam quidam in quibusdam partibus sub pretio statuuntur, qui decani
+              vocantur, et pro certa pecuniae quantitate episcopalem iurisdictionem exercent,
+              praesenti decreto statuimus, ut, qui de cetero hoc praesumpserit, officio suo privetur,
+              et episcopus conferendi hoc officium potestatem amittat.</quote>
+              <bibl>Alexander III, Lat. III, c. 15</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t4-Dd1e123">
           <head xml:id="cice-l5t4-Hd1e125">CAP. II.</head>

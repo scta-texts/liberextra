@@ -116,8 +116,10 @@
             exactionibus, permittitur tamen ex iusta causa petere ab eis moderatum auxilium. H. d.
             usque ad §. Sane. – (Sane etc.:) In effectu dicitur, quod numerus equorum statutus in
             princ. cap. non debet trahi ad augendum numerum, alias solitum. Abbas.</head>
-          <p xml:id="cice-l3t39-d1e192">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t39-d1e195">Quum Apostolus se ac suos propriis manibus decreverit exhibendos, ut locum praedicandi
+          <p xml:id="cice-l3t39-d1e195">
+            <ref xml:id="cice-l3t39-Rd1e196" corresp="#cice-l3t39-Qd1e201">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t39-Qd1e201" source="http://scta.info/resource/uh67df-d1e76">Quum Apostolus se ac suos propriis manibus decreverit exhibendos, ut locum praedicandi
             auferret pseudoapostolis, et illis, quibus praedicabat, non exsisteret onerosus: grave
             nimis et emendatione dignum esse dignoscitur, quod quidam praelatorum ita in
             procurationibus graves suis subditis exsistant, ut pro huiusmodi causa ipsa interdum
@@ -141,18 +143,26 @@
             suntreditus et ecclesiasticae facultates. In pauperioribus autem locis tantam volumus
             teneri mensuram, ut ex accessu maiorum minores merito non doleant se gravari. Nec sub
             tali indulgentia illi, qui paucioribus equis uti solebant hactenus, plurium sibi credant
-            potestatem indultam.</p>
+            potestatem indultam.</quote>
+              <bibl>Alexander III, Lat. III, c. 4</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l3t39-Dd1e199">
           <head xml:id="cice-l3t39-Hd1e201">CAP. VII.</head>
           <head xml:id="cice-l3t39-d1e204" type="question-title">Novus census ecclesiis imponi non potest, nec antiquus augeri. H. d. et est de
-            principalioribus buius tituli.</head>
-          <p xml:id="cice-l3t39-d1e207">Ex eodem.</p>
-          <p xml:id="cice-l3t39-d1e210">Prohibemus insuper, ne ab abbatibus, vel episcopis vel aliis praelatis novi census
+            principalioribus huius tituli.</head>
+          
+          <p xml:id="cice-l3t39-d1e210">
+            <ref xml:id="cice-l3t39-Rd1e219" corresp="#cice-l3t39-Qd1e224">Ex eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t39-Qd1e224" source="http://scta.info/resource/uh67df-d1e101">Prohibemus insuper, ne ab abbatibus, vel episcopis vel aliis praelatis novi census
             imponantur ecclesiis, nec veteres augeantur, nec partem redituum suis usibus appropriare
             praesumant; sed libertatem, quam sibi maiores conservare desiderant, minoribus quoque
             suis bona voluntate conservent. Si quis vero aliter fecerit, irritum quod egerit
-            habeatur.</p>
+            habeatur.</quote>
+              <bibl>Alexander III, Lat. III, c. 7</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t39-Dd1e214">
           <head xml:id="cice-l3t39-Hd1e216">CAP. VIII.</head>
@@ -181,11 +191,16 @@
         <div xml:id="cice-l3t39-Dd1e244">
           <head xml:id="cice-l3t39-Hd1e246">CAP. X.</head>
           <head xml:id="cice-l3t39-d1e249" type="question-title">Nova pedagia sine consensu principis imponens, communione privatur.</head>
-          <p xml:id="cice-l3t39-d1e252">Idem.</p>
-          <p xml:id="cice-l3t39-d1e255">Innovamus (Et infra: [cf. c. 2. de treuga I. 34.] Nec quisquam alicui novas pedagiorum
-            exactiones sine auctoritate et consensu regum et principum statuere, [aut statutas
-            tenere aut veteres augmentare] aliquo modo praesumat. Si quis autem contra hoc fecerit,
-            et commonitus non destiterit, donec satisfaciat communione careat Christiana.</p>
+          <p xml:id="cice-l3t39-d1e255">
+            <ref xml:id="cice-l3t39-Rd1e273" corresp="#cice-l3t39-Qd1e278">Idem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t39-Qd1e278" source="http://scta.info/resource/uh67df-d1e223">Innovamus (Et infra: [cf. c. 2. de treuga I. 34.] Nec quisquam alicui novas pedagiorum
+              exactiones sine auctoritate et consensu regum et principum statuere, [aut statutas
+              tenere aut veteres augmentare] aliquo modo praesumat. Si quis autem contra hoc fecerit,
+              et commonitus non destiterit, donec satisfaciat communione careat Christiana.</quote>
+              <bibl>Alexander III, Lat. III, c. 22</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t39-Dd1e260">
           <head xml:id="cice-l3t39-Hd1e262">CAP. XI.</head>

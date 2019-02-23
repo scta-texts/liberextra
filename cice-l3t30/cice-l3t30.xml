@@ -358,10 +358,16 @@
           <head xml:id="cice-l3t30-Hd1e383">CAP. XIX.</head>
           <head xml:id="cice-l3t30-d1e386" type="question-title">Non potest laicus transferre decimam in alium laicum, etiamsi cum titulo illam
             possideat. H. d. cum gloss.</head>
-          <p xml:id="cice-l3t30-d1e389">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t30-d1e392">Prohibemus insuper, ne laici, decimas cum animarum suarum periculo detinentes, in alios
-            laicos possint aliquo modo transferre. Si quis vero receperit, et ecclesiae non
-            reddiderit, Christiana sepultura privetur.</p>
+          <p xml:id="cice-l3t30-d1e392">
+            <ref xml:id="cice-l3t30-Rd1e391" corresp="#cice-l3t30-Qd1e396">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t30-Qd1e396" source="http://scta.info/resource/uh67df-d1e158">
+                Prohibemus insuper, ne laici, decimas cum animarum suarum periculo detinentes, in alios
+                laicos possint aliquo modo transferre. Si quis vero receperit, et ecclesiae non
+                reddiderit, Christiana sepultura privetur.</quote>
+              <bibl>Alexander III, Lat. IV, c. 14</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t30-Dd1e396">
           <head xml:id="cice-l3t30-Hd1e398">CAP. XX.</head>

@@ -99,12 +99,17 @@
           <head xml:id="cice-l5t17-d1e141" type="question-title">Excommunicari debent qui capiunt vel spoliant fideles, ex iusta causa navigantes. H. d.
             primo. Excommunicati sunt spoliantes naufragium patientes, nisi ablata restituant. Hoc
             secundo.</head>
-          <p xml:id="cice-l5t17-d1e144">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t17-d1e147">Excommunicationi quoque subdantur, qui Romanos aut alios Christianos, pro negotiatione
+          <p xml:id="cice-l5t17-d1e147">
+            <ref xml:id="cice-l5t17-Rd1e146" corresp="#cice-l5t17-Qd1e151">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t17-Qd1e151" source="http://scta.info/resource/uh67df-d1e240">Excommunicationi quoque subdantur, qui Romanos aut alios Christianos, pro negotiatione
             vel aliis honestis causis navigio vectos, aut capere aut rebus suis spoliare praesumunt.
             Illi etiam, qui Christianos naufragium patientes, quibus secundum regulam fidei auxilio
             esse tenentur, damnata cupiditate spoliant rebus suis, nisi ablata reddiderint,
-            excommunicationi se noverint subiacere.</p>
+            excommunicationi se noverint subiacere.</quote>
+              <bibl>Alexander III, Lat. III, c. 24</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t17-Dd1e151">
           <head xml:id="cice-l5t17-Hd1e153">CAP. IV.</head>

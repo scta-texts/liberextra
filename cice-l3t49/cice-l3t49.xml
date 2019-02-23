@@ -90,8 +90,10 @@
           <head xml:id="cice-l3t49-d1e158" type="question-title">Laici, collectas imponentes clericis vel ecclesiis, seu iurisdictionem eorum
             usurpantes, si moniti non desistunt, sunt excommunicati cum suis fautoribus; potest
             tamen episcopus cum clero eis in necessitate praebere subsidia.</head>
-          <p xml:id="cice-l3t49-d1e161">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t49-d1e164">Non minus †pro peccato eorum, qui faciunt, quam pro illorum detrimento, qui sustinent,
+          <p xml:id="cice-l3t49-d1e164">
+            <ref xml:id="cice-l3t49-Rd1e163" corresp="#cice-l3t49-Qd1e168">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t49-Qd1e168" source="http://scta.info/resource/uh67df-d1e199">Non minus †pro peccato eorum, qui faciunt, quam pro illorum detrimento, qui sustinent,
             grave nimis esse dignoscitur, quod In diversis mundi partibus consules civitatum et
             rectores, nec non et alii, qui potestatem habere videntur, tot onera frequenter imponunt
             ecclesiis, [et] ita gravibus eas et crebris exactionibus premunt, ut deterioris
@@ -113,7 +115,10 @@
             conferenda. Si autem consules aut alii de cetero ista commiserint, et commoniti
             desistere forte noluerint, tam ipsi quam fautores eorum excommunicationi se noverint
             subiacere, nec [fidelium] communioni reddantur, donec satisfactionem fecerint
-            competentem.</p>
+            competentem.</quote>
+              <bibl>Alexander III, Lat. III, c. 19</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t49-Dd1e169">
           <head xml:id="cice-l3t49-Hd1e171">CAP. V.</head>

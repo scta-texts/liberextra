@@ -60,13 +60,19 @@
           <head xml:id="cice-l5t13-d1e113" type="question-title">Torneamenta fieri non debent, et vulnerato in eis conceditur poenitentia; sed, si
             moritur, denegatur ei sepultura ecclesiastica, si accessit animo pugnandi; secus, si
             accessit alia causa, ut puta ut debita sibi exigeret. Hoc dicit cum cap. sequ.</head>
-          <p xml:id="cice-l5t13-d1e116">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t13-d1e119">Felicis memoriae Papae Innocentii et Eugenii praedecessorum nostrorum vestigiis
+          <p xml:id="cice-l5t13-d1e119">
+            <ref xml:id="cice-l5t13-Rd1e118" source="#cice-l5t13-Qd1e122">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t13-Qd1e122" source="http://scta.info/resource/uh67df-d1e207">
+                Felicis memoriae Papae Innocentii et Eugenii praedecessorum nostrorum vestigiis
             inhaerentes, detestabiles illas nundinas vel ferias, quas vulgo torneamenta vocant, in
             quibus milites ex condicto convenire solent, et ad ostentationem virium suarum et
             audaciae temere congredi, unde mortes hominum et animarum pericula saepe proveniunt,
             fieri prohibemus. Quodsi quis eorum ibi mortuus fuerit, quamvis ei poscenti poenitentia
-            non negetur, ecclesiastica tamen careat sepultura.</p>
+            non negetur, ecclesiastica tamen careat sepultura.</quote>
+              <bibl>Alexander III, Lat. III, c. 20</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t13-Dd1e123">
           <head xml:id="cice-l5t13-Hd1e125">CAP. II.</head>

@@ -354,13 +354,19 @@
         <div xml:id="cice-l2t20-Dd1e411">
           <head xml:id="cice-l2t20-Hd1e413">CAP. XXI.</head>
           <head xml:id="cice-l2t20-d1e416" type="question-title">Christianus contra Iudaeum in testem admittitur.</head>
-          <p xml:id="cice-l2t20-d1e419">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l2t20-d1e422">Iudaei sive Sarraceni (Et infra: cf. c. 5. de Iudaeis V. 5.) Testimonium quoque
+          
+          <p xml:id="cice-l2t20-d1e422">
+            <ref xml:id="cice-l2t20-Rd1e421" corresp="#cice-l2t20-Qd1e426">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l2t20-Qd1e426" source="http://scta.info/resource/uh67df-d1e256">Iudaei sive Sarraceni (Et infra: cf. c. 5. de Iudaeis V. 5.) Testimonium quoque
             Christianorum adversus Iudaeos in omnibus causis, quum illi adversus Christianos
             testibus suis uti praesumant recipiendum esse censemus, et anathemate decernimus
             feriendos, quicunque Iudaeos Christianis voluerint in hac parte praeferre, quum eos
             Christianis subiacere oporteat, et ab eis pro sola humanitate foveri. [Si qui etc. cf.
-            c. 5. de Iudaeis V. 5.]</p>
+            c. 5. de Iudaeis V. 5.]</quote>
+              <bibl>Alexander III, Lat. III, c. 26</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l2t20-Dd1e426">
           <head xml:id="cice-l2t20-Hd1e428">CAP. XXII.</head>

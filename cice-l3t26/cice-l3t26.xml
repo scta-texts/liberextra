@@ -142,14 +142,19 @@
         <div xml:id="cice-l3t26-Dd1e199">
           <head xml:id="cice-l3t26-Hd1e201">CAP. VII.</head>
           <head xml:id="cice-l3t26-d1e204" type="question-title">De bonis per ecclesiam acquisitis clerici testari non possunt.</head>
-          <p xml:id="cice-l3t26-d1e207">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t26-d1e210">Quum in officiis caritatis primo loco illis teneamur obnoxii, a quibus beneficium nos
+          <p xml:id="cice-l3t26-d1e210">
+            <ref xml:id="cice-l3t26-Rd1e209" corresp="#cice-l3t26-Qd1e214">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t26-Qd1e214" source="http://scta.info/resource/uh67df-d1e166">Quum in officiis caritatis primo loco illis teneamur obnoxii, a quibus beneficium nos
             cognoscimus recipisse, econtra quidam clerici, quum ab ecclesiis suis multa beneficia
             perceperint, bona per eas acquisita in alios transferre praesumunt. Hoc igitur, quia et
             antiquis canonibus constat inhibitum, nos etiam nihilominus prohibemus [et] indemnitati
             ecclesiarum providere volentes, sive intestati decesserint, sive aliis conferre
             voluerint, penes ecclesias eadem bona praecipimus remanere. Praeterea etc. (cf. c. 1. Ne
-            prael. vices suas V. 4.)</p>
+            prael. vices suas V. 4.)</quote>
+              <bibl>Alexander III, Lat. IV, c. 15</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t26-Dd1e214">
           <head xml:id="cice-l3t26-Hd1e216">CAP. VIII.</head>

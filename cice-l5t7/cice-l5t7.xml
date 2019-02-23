@@ -140,8 +140,9 @@
           <head xml:id="cice-l5t7-Hd1e216">CAP. VIII.</head>
           <head xml:id="cice-l5t7-d1e219" type="question-title">Haeretici, receptatores et fautores eorum excommunicati sunt, et decedentes in hoc
             peccato, in coemeterio ecclesiae sepeliri non debent, nec pro eis orari.</head>
-          <p xml:id="cice-l5t7-d1e222">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t7-d1e225">Sicut ait beatus Leo, †licet ecclesiastica disciplina, sacerdotali contenta iudicio,
+          <p xml:id="cice-l5t7-d1e225">
+            <ref xml:id="cice-l5t7-Rd1e224" corresp="#cice-l5t7-Qd1e228">Ex concilio Lateranensi.</ref>
+            <cit><quote xml:id="cice-l5t7-Qd1e228" source="http://scta.info/resource/uh67df-d1e264">Sicut ait beatus Leo, licet ecclesiastica disciplina, sacerdotali contenta iudicio,
             cruentas effugiat ultiones: catholicorum tamen principum constitutionibus adiuvatur, ut
             saepe quaerant homines salutare remedium, dum corporale metuerint super se supplicium
             evenire. Ea propter, Quia in Vasconia, Albigesio et partibus Tolosanis, et aliis locis
@@ -153,7 +154,10 @@
             in terra sua tenere vel fovere, aut negotiationem cum eis exercere praesumat. Si autem
             in hoc peccato decesserit, neque sub privilegiorum nostrorum quibuscunque indultorum
             obtentu, neque sub alia quacunque occasione [aut] oblatio pro eo fiat, aut inter
-            Christianos accipiat sepulturam. [De Brabantionibus etc.]</p>
+            Christianos accipiat sepulturam. [De Brabantionibus etc.]</quote>
+              <bibl>Alexander III, Lat. III, c. 27</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e229">
           <head xml:id="cice-l5t7-Hd1e231">CAP. IX.</head>

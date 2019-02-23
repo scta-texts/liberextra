@@ -129,8 +129,9 @@
           <head xml:id="cice-l5t6-d1e174" type="question-title">Excommunicari debent Christiani, qui in domo serviunt Iudaeis, vel Sarracenis sive
             paganis. Et principes saeculares excommunicari debent, qui Iudaeos baptizatos suis bonis
             spoliare praesumunt.</head>
-          <p xml:id="cice-l5t6-d1e177">Idem ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t6-d1e180">Iudaei sive Sarraceni neque sub alendorum puerorum suoram obtentu, nec pro servitio vel
+          <p xml:id="cice-l5t6-d1e180">
+            <ref xml:id="cice-l5t6-Rd1e179" corresp="#cice-l5t6-Qd1e183">Idem ex concilio Lateranensi.</ref>
+            <cit><quote xml:id="cice-l5t6-Qd1e183" source="http://scta.info/resource/uh67df-d1e256">Iudaei sive Sarraceni neque sub alendorum puerorum suoram obtentu, nec pro servitio vel
             alia qualibet causa Christiana mancipia in domibus suis permittantur habere.
             Excommunicentur autem qui cum eis praesumpserint habitare. (Et infra: cf. c. 21. de
             testib. II. 20.) Si qui praeterea Deo inspirante ad fidem se converterint Christianam, a
@@ -138,14 +139,17 @@
             esse oporteat, quam, antequam fidem susceperint, habebantur. Si autem secus fuerit
             factum, principibus seu potestatibus eorundem locorum iniungimus sub poena
             excommunicationis, ut portionem hereditatis suae et bonorum suorum ex integro eis
-            faciant exhiberi.</p>
+            faciant exhiberi.</quote>
+              <bibl>Alexander III, Lat. III, c. 26</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t6-Dd1e184">
           <head xml:id="cice-l5t6-Hd1e186">CAP. VI.</head>
           <head xml:id="cice-l5t6-d1e189" type="question-title">Christiani, deferentes Sarracenis merces prohibitas, vel in ipsorum navibus navigantes,
             excommunicandi sunt, et rebus eorum privandi, et efficiuntur capientium servi.</head>
-          <p xml:id="cice-l5t6-d1e192">Idem in eodem.</p>
-          <p xml:id="cice-l5t6-d1e195">Ita quorundam animos occupavit saeva cupiditas, ut, qui gloriantur nomine Christiano
+          <p xml:id="cice-l5t6-d1e195">
+            <ref xml:id="cice-l5t6-Rd1e194" corresp="#cice-l5t6-Qd1e198">Idem in eodem.</ref>
+            <cit><quote xml:id="cice-l5t6-Qd1e198" source="http://scta.info/resource/uh67df-d1e240">Ita quorundam animos occupavit saeva cupiditas, ut, qui gloriantur nomine Christiano
             Sarracenis arma, ferrum et ligamina deferant galearum, et pares aut etiam superiores in
             malitia fiant illis, dum ad impugnandos Christianos arma eis et necessaria
             subministrant. Sunt etiam, qui pro cupiditate sua in galeis et piraticis Sarracenorum
@@ -154,7 +158,9 @@
             per principes [saeculi] catholicos et consules civitatum privatione mulctari, et
             capientium fieri servos, si capti fuerint, censemus. Praecipimus etiam, ut per ecclesias
             maritimarum urbium crebra et solennis in eos excommunicatio proferatur.
-            Excommunicationis quoque etc. (cf. c. 3. de rapt. V. 17.)</p>
+            Excommunicationis quoque etc. (cf. c. 3. de rapt. V. 17.)</quote>
+              <bibl>Alexander III, Lat. III, c. 24</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t6-Dd1e199">
           <head xml:id="cice-l5t6-Hd1e201">CAP. VII.</head>

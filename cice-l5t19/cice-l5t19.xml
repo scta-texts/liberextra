@@ -88,15 +88,20 @@
           <head xml:id="cice-l5t19-d1e143" type="question-title">Manifesti usurarii ad communionem altaris et ecclesiasticam sepulturam et oblationem
             offerendam admitti non possunt, et clerici, contra hoc facientes, puniantur, ut hic
             dicitur.</head>
-          <p xml:id="cice-l5t19-d1e146">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l5t19-d1e149">Quia in omnibus fere locis ita crimen usurarum invaluit, ut multi, aliis negotiis
+          <p xml:id="cice-l5t19-d1e149">
+            <ref xml:id="cice-l5t19-Rd1e148" corresp="#cice-l5t19-Qd1e153">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t19-Qd1e153" source="http://scta.info/resource/uh67df-d1e248">Quia in omnibus fere locis ita crimen usurarum invaluit, ut multi, aliis negotiis
             praetermissis, quasi licite usuras exerceant, et qualiter utriusque testamenti pagina
             condemnentur, nequaquam attendant: ideo constituimus, quod usurarii manifesti nec ad
             communionem admittantur altaris, nec Christianam, si in hoc peccato decesserint,
             accipiant sepulturam, sed nec oblationes eorum quisquam accipiat. Qui autem acceperit,
             vel Christianae tradiderit sepulturae, et ea, quae acceperit, reddere compellatur, et,
             donec ad arbitrium episcopi sui satisfaciat, ab officii sui maneat exsecutione
-            suspensus.</p>
+            suspensus.</quote>
+              <bibl>Alexander III, Lat. III, c. 25</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t19-Dd1e153">
           <head xml:id="cice-l5t19-Hd1e155">CAP. IV.</head>

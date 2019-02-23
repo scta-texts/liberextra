@@ -113,11 +113,17 @@
           <head xml:id="cice-l3t1-Hd1e207">CAP. VIII.</head>
           <head xml:id="cice-l3t1-d1e210" type="question-title">Frequentans monasteria monialium, et monitus non desistens, si clericus est, deponitur;
             si laicus, excommunicatur.</head>
-          <p xml:id="cice-l3t1-d1e213">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l3t1-d1e216">Monasteria praeterea sanctimonialium si quisquam clericus sine manifesta et rationabili
-            causa frequentare praesumpserit, per episcopum arceatur, et, si non destiterit, ab
-            officio ecclesiastico reddatur immunis; si laici, excommunicationi subdantur, et a coetu
-            fidelium fiant penitus alieni.</p>
+          <p xml:id="cice-l3t1-d1e216">
+            <ref xml:id="cice-l3t1-Rd1e215" corresp="#cice-l3t1-Qd1e220">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t1-Qd1e220" source="http://scta.info/resource/uh67df-d1e133">
+                Monasteria praeterea sanctimonialium si quisquam clericus sine manifesta et rationabili
+              causa frequentare praesumpserit, per episcopum arceatur, et, si non destiterit, ab
+              officio ecclesiastico reddatur immunis; si laici, excommunicationi subdantur, et a coetu
+              fidelium fiant penitus alieni.</quote>
+              <bibl>Alexander III, Lat. III, c. 11</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t1-Dd1e220">
           <head xml:id="cice-l3t1-Hd1e222">CAP. IX.</head>

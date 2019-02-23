@@ -107,14 +107,19 @@
           <head xml:id="cice-l5t31-Hd1e155">CAP. IV.</head>
           <head xml:id="cice-l5t31-d1e158" type="question-title">Contra naturam incontinentes, si sunt clerici, deponuntur, et in monasterio
             detruduntur; si laici, excommunicantur.</head>
-          <p xml:id="cice-l5t31-d1e161">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l5t31-d1e164">Clerici †in sacris ordinibus constituti, qui mulierculas in domibus suis sub
+          <p xml:id="cice-l5t31-d1e164">
+            <ref xml:id="cice-l5t31-Rd1e163" corresp="#cice-l5t31-Qd1e168">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t31-Qd1e168" source="http://scta.info/resource/uh67df-d1e133">Clerici in sacris ordinibus constituti, qui mulierculas in domibus suis sub
             incontinentiae nota tenuerint, aut abiiciant eas et continenter vivant, aut ab officio
             et beneficio ecclesiastico fiant alieni. Quicunque autem illa incontinentia, quae contra
             naturam est, propter quam ira Dei venit in filios diffidentiae et quinque civitates igne
             consumpsit, deprehensi fuerint laborare, si clerici fuerint, deiiciantur a clero, vel ad
             agendam poenitentiam in monasteriis detrudantur; si laici, excommunicationi subdantur,
-            et a coetu fidelium fiant penitus alieni.</p>
+            et a coetu fidelium fiant penitus alieni.</quote>
+              <bibl>Alexander III, Lat. III, c. 11</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t31-Dd1e169">
           <head xml:id="cice-l5t31-Hd1e171">CAP. V.</head>

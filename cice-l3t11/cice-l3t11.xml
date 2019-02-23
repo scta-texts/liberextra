@@ -59,8 +59,10 @@
           <head xml:id="cice-l3t11-Hd1e110">CAP. I.</head>
           <head xml:id="cice-l3t11-d1e113" type="question-title">In universitatibus ecclesiasticis praevalet regulariter quod fit a maiori parte, nisi
             minor pars rationabiliter contradicat H. d.</head>
-          <p xml:id="cice-l3t11-d1e116">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t11-d1e119">Quum in cunctis ecclesiis quod pluribus et sanioribus fratribus visum fuerit
+          <p xml:id="cice-l3t11-d1e119">
+            <ref xml:id="cice-l3t11-Rd1e118" corresp="#cice-l3t11-Qd1e123">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t11-Qd1e123" source="http://scta.info/resource/uh67df-d1e174">Quum in cunctis ecclesiis quod pluribus et sanioribus fratribus visum fuerit
             incunctanter debeat observari, grave nimis est et reprehensione dignissimum, quod per
             quasdam ecclesias pauci quandoque non tam de ratione, quam de propria voluntate
             ordinationem multorum [et prudentiorum] impediunt, et ad ordinationem ecclesiasticam
@@ -72,7 +74,9 @@
             iuramenta, sed potius periuria sunt dicenda, quae contra utilitatem ecclesiae et
             sanctorum Patrum veniunt instituta. Si quis autem huiusmodi consuetudines, quae nec
             ratione iuvantur, nec sacris congruunt institutis, iurare praesumpserit, donec dignam
-            egerit poenitentiam, a perceptione sit dominici corporis alienus.</p>
+            egerit poenitentiam, a perceptione sit dominici corporis alienus.</quote>
+              <bibl>Alexander III, Lat. III, c. 16</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l3t11-Dd1e123">
           <head xml:id="cice-l3t11-Hd1e125">CAP. II.</head>

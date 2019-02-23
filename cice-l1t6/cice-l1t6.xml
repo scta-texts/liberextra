@@ -168,8 +168,10 @@
           <head xml:id="cice-l1t6-d1e189" type="question-title">Electus in Romanum Pontificem a duabus partibus cardinalium, nulla exceptione obstante
             est Papa; electus autem a minori numero gerens se pro Papa, incidit una cum sibi
             adhaerentibus in poenas hic contentas.</head>
-          <p xml:id="cice-l1t6-d1e192">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l1t6-d1e195">Licet de vitanda discordia in electione Romani Pontificis manifesta satis a
+          <p xml:id="cice-l1t6-d1e195">
+            <ref xml:id="cice-l1t6-Rd1e194" corresp="#cice-l1t6-Qd1e199">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e199" source="http://scta.info/resource/uh67df-d1e52">Licet de vitanda discordia in electione Romani Pontificis manifesta satis a
             praedecessoribus nostris constituta manaverint, quia tamen saepe post illa per improbae
             ambitionis audaciam gravem passa est ecclesia scissuram: nos etiam ad malum hoc
             evitandum de consilio fratrum nostrorum et sacri approbatione concilii aliquid
@@ -189,7 +191,10 @@
             constitutionibus et aliis ecclesiis praeiudicium generetur, in quibus debet maioris et
             sanioris partis sententia praevalere, quia quod in eis dubium venerit superioris poterit
             iudicio diffiniri. In Romana vero ecclesia speciale aliquid constituitur, quia non
-            poterit ad superiorem recursus haberi.</p>
+            poterit ad superiorem recursus haberi.</quote>
+              <bibl>Alexander III, Lat. III, c. 1</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e199">
           <head xml:id="cice-l1t6-Hd1e201">CAP. VII.</head>
@@ -206,8 +211,9 @@
             formam huius c. privati sunt pro prima vice potestate eligendi, et idem in collatore; et
             defectum capituli supplet episcopus, et e converso. Et si capitulum negligit, fit
             devolutio ad metropolitanum. Hoc dic. usque ad finem.</head>
-          <p xml:id="cice-l1t6-d1e207">Idem in eodem.</p>
-          <p xml:id="cice-l1t6-d1e210">Quum in cunctis sacris ordinibus et ecclesiasticis ministeriis sint et aetatis
+          <p xml:id="cice-l1t6-d1e210">
+            <ref xml:id="cice-l1t6-Rd1e218" corresp="#cice-l1t6-Qd1e222">Idem in eodem.</ref>
+            <cit><quote xml:id="cice-l1t6-Qd1e222" source="http://scta.info/resource/uh67df-d1e68">Quum in cunctis sacris ordinibus et ecclesiasticis ministeriis sint et aetatis
             maturitas, et gravitas morum, et literarum scientia inquirenda, multo fortius in
             episcopo haec oportet inquiri, qui ad curam aliorum positus in se ipso debet ostendere,
             qualiter alios in domo Dei oporteat conversari. Ea propter, ne quod de quibusdam pro
@@ -232,7 +238,9 @@
             quos Dei timor a malo non revocat ecclesiasticae saltem coerceat severitas disciplinae.
             Episcopus autem si contra haec fecerit aut consenserit fieri, in conferendis praedictis
             officiis et beneficiis potestatem [suam] amittat, et per capitulum, aut per
-            metropolitanum, si capitulum concordare nequiverit, ordinetur.</p>
+            metropolitanum, si capitulum concordare nequiverit, ordinetur.</quote>
+              <bibl>Alexander III, Lat. III, c. 3</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l1t6-Dd1e214">
           <head xml:id="cice-l1t6-Hd1e216">CAP. VIII.</head>

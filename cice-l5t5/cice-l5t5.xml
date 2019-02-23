@@ -60,8 +60,10 @@
           <head xml:id="cice-l5t5-d1e113" type="question-title">Ecclesia cathedralis providere debet magistro de beneficio, qui clericos eiusdem
             ecclesiae et alios pauperes gratis doceat, et vendens licentiam docendi, aut interdicens
             idoneum ad docendum, beneficio privatur.</head>
-          <p xml:id="cice-l5t5-d1e116">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t5-d1e119">Quoniam ecclesia Dei et in his, quae spectant ad subsidium corporis, et in iis, quae ad
+          <p xml:id="cice-l5t5-d1e119">
+            <ref xml:id="cice-l5t5-Rd1e118" corresp="#cice-l5t5-Qd1e123">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t5-Qd1e123" source="http://scta.info/resource/uh67df-d1e191">Quoniam ecclesia Dei et in his, quae spectant ad subsidium corporis, et in iis, quae ad
             profectum proveniunt animarum, indigentibus, sicut pia mater, providere tenetur; ne
             pauperibus, qui parentum opibus iuvari non possunt, legendi et proficiendi oportunitas
             subtrahatur, per unamquamque cathedralem ecclesiam magistro, qui clericos eiusdem
@@ -73,7 +75,10 @@
             qui sit idoneus, petita licentia interdicat. Qui autem contra hoc venire praesumpserit,
             ab ecclesiastico fiat beneficio alienus. Dignum quippe esse videtur, ut in ecclesia Dei
             fructum sui laboris non habeat, qui cupiditate animi, dum vendit docendi licentiam,
-            ecclesiasticum profectum nititur impedire.</p>
+            ecclesiasticum profectum nititur impedire.</quote>
+              <bibl>Alexander III, Lat. III, c. 18</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t5-Dd1e123">
           <head xml:id="cice-l5t5-Hd1e125">CAP. II.</head>

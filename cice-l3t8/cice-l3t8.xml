@@ -68,8 +68,11 @@
           <head xml:id="cice-l3t8-d1e128" type="question-title">Beneficia non vacantia concedi vel promitti non debent, et, quum vacaverint, concedi
             debent infra sex menses, quibus elapsis de episcopo ad capitulum, et econtra, demum ad
             proximum superiorem devolvitur collatio.</head>
-          <p xml:id="cice-l3t8-d1e131">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t8-d1e134">Nulla ecclesiastica ministeria, seu etiam beneficia vel ecclesiae tribuantur alicui seu
+          <p xml:id="cice-l3t8-d1e134">
+            <ref xml:id="cice-l3t8-Rd1e133" corresp="#cice-l3t8-Qd1e138">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t8-Qd1e138" source="http://scta.info/resource/uh67df-d1e109">
+                Nulla ecclesiastica ministeria, seu etiam beneficia vel ecclesiae tribuantur alicui seu
             promittantur antequam vacent, ne desiderare quis mortem proximi videatur, in cuius locum
             et beneficium se crediderit successurum. Quum enim [id] in ipsis etiam legibus gentilium
             inveniatur inhibitum, turpe [nimis] est et divini plenum animadversione iudicii, si
@@ -81,7 +84,9 @@
             si ad capitulum pertinuerit, et infra praescriptum terminum hoc non fecerit, episcopus
             secundum Deum hoc cum religiosorum virorum consilio exsequatur. Vel si omnes forte
             neglexerint, metropolitanus de ipsis secundum Deum absque illorum contradictione
-            disponat. [Praetereae etc. (cf. c. 4. de praeb. III. 5.)]</p>
+            disponat. [Praetereae etc. (cf. c. 4. de praeb. III. 5.)]</quote>
+              <bibl>Alexander III, Lat. III, c. 8</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l3t8-Dd1e138">
           <head xml:id="cice-l3t8-Hd1e140">CAP. III.</head>

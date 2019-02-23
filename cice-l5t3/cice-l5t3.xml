@@ -145,8 +145,9 @@
         <div xml:id="cice-l5t3-Dd1e229">
           <head xml:id="cice-l5t3-Hd1e231">CAP. IX.</head>
           <head xml:id="cice-l5t3-d1e234" type="question-title">Sumatum est supra in cap. praecedenti.</head>
-          <p xml:id="cice-l5t3-d1e237">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t3-d1e240">Quum in ecclesiae corpore †omnia debeant ex caritate tractari, et quod gratis receptum
+          <p xml:id="cice-l5t3-d1e240">
+            <ref xml:id="cice-l5t3-Rd1e239" corresp="#cice-l5t3-Qd1e243">Ex concilio Lateranensi.</ref>
+            <cit><quote xml:id="cice-l5t3-Qd1e243" source="http://scta.info/resource/uh67df-d1e101">Quum in ecclesiae corpore omnia debeant ex caritate tractari, et quod gratis receptum
             est gratis impendi: horribile; nimis est, quod in quibusdam ecclesiis locum venalitas
             perhibetur habere ita, ut pro episcopis vel abbatibus seu quibuscunque personis
             ecclesiasticis ponendis in sedem, sive introducendis presbyteris in ecclesiam, nec non
@@ -160,7 +161,10 @@
             benedicendis nubentibus, seu aliis sacramentis conferendis seu collatis aliquid
             exigatur, districtius prohibemus. Si quis autem contra hoc venire praesumpserit,
             portionem cum Giezi se noverit habiturum, cuius factum exactione turpis muneris
-            imitatur. [Prohibemus etc. cf. c. 7. de cens. III. 39.]</p>
+            imitatur. [Prohibemus etc. cf. c. 7. de cens. III. 39.]</quote>
+              <bibl>Alexander III, Lat. III, c. 7</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t3-Dd1e244">
           <head xml:id="cice-l5t3-Hd1e246">CAP. X.</head>

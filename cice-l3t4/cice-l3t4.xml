@@ -78,15 +78,20 @@
           <head xml:id="cice-l3t4-d1e143" type="question-title">Uni plures dignitates vel ecclesiae conferri non debent, et ecclesia est conferenda
             illi, qui residere et regnare valeat per se ipsum; alias perdit ecclesiam, et donans
             conferendi potestate privatur.</head>
-          <p xml:id="cice-l3t4-d1e146">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t4-d1e149">Quia nonnulli, modum avaritiae non ponentes, dignitates diversas ecclesiasticas et
+          <p xml:id="cice-l3t4-d1e149">
+            <ref xml:id="cice-l3t4-Rd1e148" corresp="#cice-l3t4-Qd1e153">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t4-Qd1e153" source="http://scta.info/resource/uh67df-d1e150">Quia nonnulli, modum avaritiae non ponentes, dignitates diversas ecclesiasticas et
             plures ecclesias parochiales contra sacrorum canonum instituta nituntur accipere [ita],
             ut, quum unum officium vix implere sufficiant, stipendia sibi vendicent plurimorum: ne
             id de cetero fiat, districtius inhibemus. Quum igitur ecclesia vel ecclesiasticum
             ministerium committi debuerit, talis ad hoc persona quaeratur, quae residere in loco et
             curam eius per se ipsam valeat exercere. Quod si aliter actum fuerit, et qui receperit
             quod contra sacros canones accepit amittat, et qui dederit largiendi potestate
-            privetur.</p>
+            privetur.</quote>
+              <bibl>Alexander III, Lat. III, c. 13</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t4-Dd1e153">
           <head xml:id="cice-l3t4-Hd1e155">CAP. IV.</head>

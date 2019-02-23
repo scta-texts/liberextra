@@ -67,8 +67,10 @@
           <head xml:id="cice-l3t48-d1e128" type="question-title">Leprosi permitti debent, sine praeiudicio antiquarum parochiarum, habere ecclesiam
             propriam et presbyterum, nec tenentur solvere decimas de hortis vel nutrimentis
             animalium.</head>
-          <p xml:id="cice-l3t48-d1e131">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t48-d1e134">Quum dicat Apostolus, †abundantiorem honorem membris inferioribus deferendum, e contra
+          <p xml:id="cice-l3t48-d1e134">
+            <ref xml:id="cice-l3t48-Rd1e133" corresp="#cice-l3t48-Qd1e138">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t48-Qd1e138" source="http://scta.info/resource/uh67df-d1e231">Quum dicat Apostolus, abundantiorem honorem membris inferioribus deferendum, e contra
             quidam, quae sua sunt, non quae Iesu Christi, quaerentes, leprosis, qui cum sanis
             habitare, non possunt vel ad ecclesiam cum aliis convenire, ecclesias et coemeteria non
             permittunt habere, nec proprii iuvari ministerio sacerdotis. Quod quia procul a pietate
@@ -78,7 +80,9 @@
             permittantur habere. Caveant tamen, ut iniuriosi veteribus ecclesiis de iure parochiali
             nequaquam exsistant. Quod enim eis pro pietate conceditur, ad aliorum iniuriam nolumus
             redundare. Statuimus etiam, ut de hortis et nutrimentis animalium suorum decimas
-            tribuere non cogantur.</p>
+            tribuere non cogantur.</quote>
+              <bibl>Alexander III, Lat. III, c. 23</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l3t48-Dd1e138">
           <head xml:id="cice-l3t48-Hd1e140">CAP. III.</head>

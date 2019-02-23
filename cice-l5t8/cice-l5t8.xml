@@ -60,8 +60,9 @@
           <head xml:id="cice-l5t8-d1e113" type="question-title">Irritae sunt ordinationes, beneficiorum collationes, et ecclesiasticarum rerum
             alienationes per schismaticos factae, et a dignitate et ordiue suspenduntur qui schisma
             tenere iurant.</head>
-          <p xml:id="cice-l5t8-d1e116">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l5t8-d1e119">Quod a praedecessore nostro †felicis memoriae Papa Innocentio factum est innovantes,
+          <p xml:id="cice-l5t8-d1e119">
+            <ref xml:id="cice-l5t8-Rd1e118" corresp="#cice-l5t8-Qd1e122">Ex concilio Lateranensi.</ref>
+            <cit><quote xml:id="cice-l5t8-Qd1e122" source="http://scta.info/resource/uh67df-d1e60">Quod a praedecessore nostro †felicis memoriae Papa Innocentio factum est innovantes,
             ordinationes ab Octaviano et Guidone haeresiarchis, nec non et Ioanne Strumensi, qui eos
             secutus est, factas, et ab ordinatis ab eis, irritas esse censemus, adiicientes etiam,
             ut, [si] qui dignitates ecclesiasticas seu beneficia per dictos schismaticos acceperunt,
@@ -70,7 +71,9 @@
             ecclesias sine omni onere revertantur. Si quis autem contraire praesumpserit,
             excommunicationi se noverit subiacere. Illos vero, qui sponte iuramentum de tenendo
             schismate praestiterint, a sacris ordinibus et dignitatibus decernimus manere
-            suspensos.</p>
+            suspensos.</quote>
+              <bibl>Alexander III, Lat. III, c. 2</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t8-Dd1e123">
           <head xml:id="cice-l5t8-Hd1e125">CAP. II.</head>

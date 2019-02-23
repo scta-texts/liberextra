@@ -114,15 +114,26 @@
           <head xml:id="cice-l3t50-Hd1e155">CAP. IV.</head>
           <head xml:id="cice-l3t50-d1e158" type="question-title">Clericus, generalis procurator vel iustitiarius principis saecularis deponendus est,
             et, si religiosus est, gravius punietur.</head>
-          <p xml:id="cice-l3t50-d1e161">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l3t50-d1e164">Sed nec procurationes villarum aut iurisdictiones etiam saeculares sub aliquibus
+          <p xml:id="cice-l3t50-d1e164">
+            <ref xml:id="cice-l3t50-Rd1e163" corresp="#cice-l3t50-Qd1e168">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t50-Qd1e168" source="http://scta.info/resource/uh67df-d1e142">Sed nec procurationes villarum aut iurisdictiones etiam saeculares sub aliquibus
             principibus et saecularibus viris, ut iustitiarius eorum fiat, clericorum quisquam
             exercere praesumat. Si quis autem adversus haec venire tentaverit, quia contra doctrinam
-            Apostoli, dicentis: “Nemo, militans Deo, implicet se saecularibus negotiis,”
+            Apostoli, dicentis: 
+                <cit>
+                  <quote xml:id="cice-l3t50-Qd1e170" ana="#IItim2_4">
+                    Nemo, militans Deo, implicet se saecularibus negotiis
+                  </quote>
+                  <bibl>II Tim 2:4</bibl>
+                </cit>,
             saeculariter agit ab ecclesiastico fiat ministerio alienus pro eo, quod, officio
             clericali neglecto fluctibus saeculi, ut potestatibus [saeculi] placeat, se immergit.
             Districtius autem decernimus puniendum, si religiosorum quisquam aliquid praedictorum
-            ausus fuerit attentare.</p>
+            ausus fuerit attentare.</quote>
+              <bibl>Alexander III, Lat. III, c. 12</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t50-Dd1e169">
           <head xml:id="cice-l3t50-Hd1e171">CAP. V.</head>

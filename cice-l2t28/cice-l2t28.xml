@@ -478,8 +478,10 @@
             religiosus. Et iudex a quo praefigit terminum appellanti ad appellationem prosequendam,
             infra quem si non prosequitur, iudex a quo reassumit iurisdictionem. Appellans vero non
             prosequens appellationem suam, condemnatur in expensis, appellato hoc prosequenti.</head>
-          <p xml:id="cice-l2t28-d1e495">Idem in concilio Lateranensi.</p>
-          <p xml:id="cice-l2t28-d1e498">Reprehensibilis †valde consuetudo in quibusdam partibus inolevit, ut, quum fratres et
+          <p xml:id="cice-l2t28-d1e498">
+            <ref xml:id="cice-l2t28-Rd1e497" corresp="#cice-l2t28-Qd1e502">Idem in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l2t28-Qd1e502" source="http://scta.info/resource/uh67df-d1e93">Reprehensibilis valde consuetudo in quibusdam partibus inolevit, ut, quum fratres et
             coepiscopi nostri seu etiam archidiaconi appellaturos quosdam in suis causis existimant,
             nulla penitus admonitione praemissa suspensionis sive excommunicationis in eos
             sententiam ferant. Alii etiam, dum superioris sententiam et disciplinam canonicam
@@ -500,7 +502,10 @@
             in locis religiosis volumus observari, ne monachi sive quicunque religiosi, quum pro
             aliquo excessu fuerint corrigendi, contra regularem praelati sui et capituli disciplinam
             appellare praesumant, sed humiliter ac devote suscipiant quod pro salute sua fuerit
-            utiliter eisdem iniunctum.</p>
+            utiliter eisdem iniunctum.</quote>
+              <bibl>Alexander III, Lat. III, c. 6</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l2t28-Dd1e502">
           <head xml:id="cice-l2t28-Hd1e504">CAP. XXVII.</head>

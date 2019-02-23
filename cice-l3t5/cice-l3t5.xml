@@ -81,22 +81,33 @@
           <head xml:id="cice-l3t5-Hd1e155">CAP. IV.</head>
           <head xml:id="cice-l3t5-d1e158" type="question-title">Qui ordinavit aliquem ad sacros ordines sine titulo, non habentem de suo unde vivat,
             providere tenetur ei de suo, donec aliquem titulum fuerit consecutus.</head>
-          <p xml:id="cice-l3t5-d1e161">Alexander III. in concilio Lateranensi.</p>
-          <p xml:id="cice-l3t5-d1e164">Episcopus, si aliquem sine certo titulo, de quo necessaria vitae percipiat, in diaconum
+          <p xml:id="cice-l3t5-d1e164">
+            <ref xml:id="cice-l3t5-Rd1e163" corresp="#cice-l3t5-Qd1e168">Alexander III. in concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t5-Qd1e168" source="http://scta.info/resource/uh67df-d1e84">Episcopus, si aliquem sine certo titulo, de quo necessaria vitae percipiat, in diaconum
             vel presbyterum ordinaverit, tamdiu ei necessaria subministret, donec in aliqua ecclesia
             ei convenientia stipendia militae clericalis assignet, nisi talis forte ordinatus de sua
-            vel paterna hereditate subsidium vitae possit habere.</p>
+            vel paterna hereditate subsidium vitae possit habere.</quote>
+              <bibl>Alexander III, Lat. III, c. 5</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t5-Dd1e169">
           <head xml:id="cice-l3t5-Hd1e171">CAP. V.</head>
           <head xml:id="cice-l3t5-d1e174" type="question-title">Non debent episcopi permittere, quem plures ecclesias obtinere.</head>
-          <p xml:id="cice-l3t5-d1e177">Idem in eodem.</p>
-          <p xml:id="cice-l3t5-d1e180">Quia in tantum quorundam iam processit ambitio, ut non duas vel tres, sed sex aut
-            plures ecclesias perhibeantur habere, quum nec duabus possint debitam provisionem
-            impendere, per fratres et coepiscopos nostros [carissimos] hoc emendari praecipimus, et
-            de multitudine praebendarum canonibus inimica, quae dissolutionis materiam et
-            evagationis inducit, certumque continet periculum animarum, eorum, qui ecclesiis [digne]
-            deservire valeant, indigentiam volumus sublevari.</p>
+          <p xml:id="cice-l3t5-d1e180">
+            <ref xml:id="cice-l3t5-Rd1e188" corresp="#cice-l3t5-Qd1e193">Idem in eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l3t5-Qd1e193" source="http://scta.info/resource/uh67df-d1e158">
+                Quia in tantum quorundam iam processit ambitio, ut non duas vel tres, sed sex aut
+                plures ecclesias perhibeantur habere, quum nec duabus possint debitam provisionem
+                impendere, per fratres et coepiscopos nostros [carissimos] hoc emendari praecipimus, et
+                de multitudine praebendarum canonibus inimica, quae dissolutionis materiam et
+                evagationis inducit, certumque continet periculum animarum, eorum, qui ecclesiis [digne]
+                deservire valeant, indigentiam volumus sublevari.</quote>
+              <bibl>Alexander III, Lat. III, c. 14</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t5-Dd1e184">
           <head xml:id="cice-l3t5-Hd1e186">CAP. VI.</head>

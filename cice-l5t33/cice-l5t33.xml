@@ -87,8 +87,9 @@
             confratribus. Abbas. – §. 4. Confratres exemptorum, seu ipsorum oblati, qui in totum non
             se transtulerunt, iudicari possunt ab ordinariis locorum. H. d. usque ad tuo. Abbas
             Siculus.</head>
-          <p xml:id="cice-l5t33-d1e146">Alexander III. in concilio Lateranensi.</p>
-          <p xml:id="cice-l5t33-d1e149">Quum et plantare sacram religionem, et plantatam fovere modis omnibus debeamus, nusquam
+          <p xml:id="cice-l5t33-d1e149">
+            <ref xml:id="cice-l5t33-Rd1e148" corresp="#cice-l5t33-Qd1e152">Alexander III. in concilio Lateranensi.</ref>
+            <cit><quote xml:id="cice-l5t33-Qd1e152" source="http://scta.info/resource/uh67df-d1e117">Quum et plantare sacram religionem, et plantatam fovere modis omnibus debeamus, nusquam
             hoc melius exsequimur, quam si nutrire ea, quae recta sunt, et corrigere, quae profectum
             virtutis impediunt, commissa nobis a Deo auctoritate curemus. Fratrum autem et
             coepiscoporum nostrorum vehementi conquestione comperimus, quod fratres Templi et
@@ -126,7 +127,9 @@
             canonicas eorum sententias et tenorem privilegiorum nostrorum venire praesumunt,
             praecipimus observari. Si enim contra institutum hoc venerint, et ecclesiae, in quibus
             ista praesumpserint, subiaceant interdicto, et quod egerint irritum habeatur et
-            vacuum.</p>
+            vacuum.</quote>
+              <bibl>Alexander III, Lat. III, c. 9</bibl>
+            </cit></p>
         </div>
         <div xml:id="cice-l5t33-Dd1e153">
           <head xml:id="cice-l5t33-Hd1e155">CAP. IV.</head>

@@ -92,8 +92,10 @@
           <head xml:id="cice-l3t38-d1e143" type="question-title">Si patroni in praesentando discordant, praefertur praesentatus a maiori parte, si est
             idoneus, et, si hoc sine scandalo fieri non potest, vel patroni infra tempus debitum non
             praesentant, episcopus ordinabit ecclesiam.</head>
-          <p xml:id="cice-l3t38-d1e146">Ex concilio Lateranensi.</p>
-          <p xml:id="cice-l3t38-d1e149">Quoniam in quibusdam locis fundatores ecclesiarum aut heredes eorum potestate, in qua
+          <p xml:id="cice-l3t38-d1e149">
+            <ref xml:id="cice-l3t38-Rd1e148" corresp="#cice-l3t38-Qd1e153">Ex concilio Lateranensi.</ref>
+            <cit>
+              <quote xml:id="cice-l3t38-Qd1e153" source="http://scta.info/resource/uh67df-d1e182">Quoniam in quibusdam locis fundatores ecclesiarum aut heredes eorum potestate, in qua
             eos ecclesia hucusque sustinuit, abutuntur, et, quum in Dei ecclesia usus debeat esse
             qui praesit, ipsi plures sine respectu subiectionis moliuntur eligere, et, quum una
             ecclesia unius debeat esse rectoris, pro sua dissensione plurimos repraesentant:
@@ -102,7 +104,10 @@
             eligitur et approbatur assensu. Si autem hoc sine scandalo esse nequiverit, ordinet
             antistes ecclesiam, sicut melius eam secundum Deum viderit ordinandam. Et id ipsum etiam
             faciat, si de iure patronatus quaestio emerserit inter aliquos, et, cui competat, infra
-            quatuor menses non fuerit diffinitum.</p>
+            quatuor menses non fuerit diffinitum.</quote>
+              <bibl>Alexander III, Lat. III, c. 17</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t38-Dd1e153">
           <head xml:id="cice-l3t38-Hd1e155">CAP. IV.</head>
