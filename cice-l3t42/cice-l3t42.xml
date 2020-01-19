@@ -59,10 +59,16 @@
           <head xml:id="cice-l3t42-Hd1e110">CAP. I.</head>
           <head xml:id="cice-l3t42-d1e113" type="question-title">Licet puer sit ter mersus in aqua in nomine Patris, et Filii et Spiritus sancti, si non
             sit dictum: “Ego te baptizo in nomine Patris, etc.,” non est baptizatus.</head>
-          <p xml:id="cice-l3t42-d1e116">Alexander III.</p>
-          <p xml:id="cice-l3t42-d1e119">Si quis sane puerum ter in acqua immerserit in nomine Patris, et Filii et Spiritus
-            sancti, amen, et non dixerit: “Ego baptizo te in nomine Patris, et Filii et Spiritus
-            sancti, amen:” non est puer baptizatus.</p>
+          <p xml:id="cice-l3t42-d1e119">
+            <ref xml:id="cice-l3t42-Rd1e118">Alexander III.</ref>
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e123">
+                Si quis sane puerum ter in aqua immerserit in nomine Patris, et Filii et Spiritus
+                sancti, amen, et non dixerit: <mentioned>Ego baptizo te in nomine Patris, et Filii et Spiritus
+                sancti, amen:</mentioned> non est puer baptizatus.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l3t42-Dd1e123">
           <head xml:id="cice-l3t42-Hd1e125">CAP. II.</head>
