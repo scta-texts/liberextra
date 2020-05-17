@@ -53,7 +53,8 @@
     </front>
     <body>
       <div xml:id="cice-l4t19">
-        <head xml:id="cice-l4t19-Hd1e105">4.XIX. DE DIVORTIIS.</head>
+        <head xml:id="cice-l4t19-Hd1e105">4.XIX. </head>
+        <head xml:id="cice-l4t19-Hd1e108" type="question-title">DE DIVORTIIS.</head>
 
         <div xml:id="cice-l4t19-Dd1e108">
           <head xml:id="cice-l4t19-Hd1e110">CAP. I.</head>
@@ -69,8 +70,9 @@
           <head xml:id="cice-l4t19-Hd1e125">CAP. II.</head>
           <head xml:id="cice-l4t19-d1e128" type="question-title">Coniuges propter alterius crimen non separantur, nisi spiritualiter fornicentur, et
             tunc durat coniugium, eis etiam separatis.</head>
-          <p xml:id="cice-l4t19-d1e131">Alexander III.</p>
-          <p xml:id="cice-l4t19-d1e134">Quaesivit a nobis tua fraternitas, utrum mulier pro latrocinio aut quolibet alio
+          <p xml:id="cice-l4t19-d1e134">
+            <ref xml:id="cice-l4t19-Rd1e136">Alexander III.</ref>
+            Quaesivit a nobis tua fraternitas, utrum mulier pro latrocinio aut quolibet alio
             crimine a viro suo debeat separari, et alii nubere, et de viro simili modo quaestionem
             proposuisti, utrum pro quolibet flagitio possit a coniuge dividi, et aliam sibi legitime
             matrimonio copulare. Nos itaque taliter respondemus, quod mulier pro furto vel alio
