@@ -80,7 +80,10 @@
         </div>
         <div xml:id="cice-l3t42-Dd1e138">
           <head xml:id="cice-l3t42-Hd1e140">CAP. III.</head>
-          <head xml:id="cice-l3t42-d1e143" type="question-title">Sacramentum baptismi utiliter confertur parvulis licet non credant nec intelligant, et
+          <head xml:id="cice-l3t42-d1e143" type="question-title">
+            <!--confusing subheading; not sure what the best way to handle it is 
+            it does seem to correspond four distinct sections-->
+            Sacramentum baptismi utiliter confertur parvulis licet non credant nec intelligant, et
             remittitur eis peccatum originale. H. d. usque ad §. Verum. – (Verum etc.:) Originale
             peccatum, quod sine consensu cortrahitur, remittitur in baptismo etiam non consentienti,
             ut parvulis; secus de actuali, quia, sicut non committitur sine consensu, ita non
@@ -90,39 +93,95 @@
             et item etiam nec originale. H. d. ­(Item etc.:) Amentes vel dormientes baptizati, si
             ante dementiam vel dormitionem baptizari volebant, characterem suscipiunt, alias secus;
             coacti vero causative suscipiunt. H. d. usque ad finem.</head>
-          <p xml:id="cice-l3t42-d1e146">Innocentius III. Arelatensi Archiepiscopo.</p>
-          <p xml:id="cice-l3t42-d1e149">Maiores ecclesiae causas, praesertim articulos fidei contingentes, ad Petri sedem
+          <p xml:id="cice-l3t42-d1e149">
+            <ref xml:id="cice-l3t42-Rd1e159">Innocentius III. Arelatensi Archiepiscopo.</ref>
+            Maiores ecclesiae causas, praesertim articulos fidei contingentes, ad Petri sedem
             referendas intelliget qui eum quaerenti Domino, quem discipuli dicerent ipsum esse,
-            respondisse notabit: “Tu es Christus filius Dei vivi,” et pro eo Dominum exorasse, ne
+            respondisse notabit: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e164" source="http://scta.info/resource/mt16_16" synch="5-10">
+                Tu es Christus filius Dei vivi
+              </quote>
+            </cit>, 
+            et pro eo Dominum exorasse, ne
             deficiat fides eius. Quibusdam igitur quaestionibus, quas contra catholicos haeretici
             moverant, nos postulas respondere. Asserunt enim, parvulis inutiliter baptisma conferri,
             quod nituntur tam ratione quam auctoritate probare, illud primo et praecipue inducentes,
-            quod, quum secundum verbum Iacobi Apostoli, dicentis in epistola sua: “Caritas operit
-            multitudinem peccatorum,” et iuxta illud testimonium veritatis in evangelio de
-            peccatrice, quae ipsius pedes laverat, perhibentis: <quote xml:id="cice-l3t42-Qdseqdm" ana="#lc7_47">Dimissa sunt ei peccata multa,
-            quoniam dilexit multum</quote>: non nisi per caritatem et in caritate crimina dimittantur,
+            quod, quum secundum verbum Iacobi Apostoli, dicentis in epistola sua: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e170" source="http://scta.info/resource/Ipetr4_8" synch="11-14">
+                Caritas operit multitudinem peccatorum
+              </quote>
+            </cit>, 
+            et iuxta illud testimonium veritatis in evangelio de
+            peccatrice, quae ipsius pedes laverat, perhibentis: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qdseqdm" source="http://scta.info/resource/lc7_47" synch="5-11">
+                Dimissa sunt ei peccata multa, 
+                quoniam dilexit multum
+              </quote>
+            </cit>: 
+            non nisi per caritatem et in caritate crimina dimittantur,
             parvulis, qui nec sentiunt, nec consentiunt, et caritatem non habent, quae sentientibus
-            et consentientibus tantum infunditur, peccatum non dimittitur in baptismo. †Et sic eis
-            baptisma non confert, quia non est talibus conferendum. In evangelio quoque legitur:
-            “Qui crediderit et baptizatus fuerit, salvus erit, qui autem non crediderit,
-            condemnabitur; unde parvuli, sive fuerint sive non fuerint baptizati, condemnabuntur,
-            utpote non credentes.” Ad id autem taliter respondemus, quod baptisma circumcisioni
-            successit. Absit enim, ut in illam damnatam haeresim incidamus, quae perperam
+            et consentientibus tantum infunditur, peccatum non dimittitur in baptismo. 
+            †Et sic eis
+            baptisma non confert, quia non est talibus conferendum. 
+            In evangelio quoque legitur:
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e182" source="http://scta.info/resource/mc16_16" synch="1-12">
+                Qui crediderit et baptizatus fuerit, salvus erit, qui autem non crediderit,
+                condemnabitur 
+              </quote>
+            </cit>;
+            unde parvuli, sive fuerint sive non fuerint baptizati, condemnabuntur,
+            utpote non credentes.
+            Ad id autem taliter respondemus, quod baptisma circumcisioni
+            successit. 
+            Absit enim, ut in illam damnatam haeresim incidamus, quae perperam
             affirmabat, legem cum evangelio, et circumcisionem cum baptismo servandam, quoniam
-            secundum Apostolum, dicentem ad Galatas: “Si circumcidimini, Christus vobis nihil
-            prodest.” Quum ergo circumcisio tam adultis quam parvulis ex praecepto Domini
+            secundum 
+            <ref xml:id="cice-l3t42-Rd1e187">Apostolum, dicentem ad Galatas</ref>: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e192" source="http://scta.info/resource/gal5_2" synch="7-12">
+                Si circumcidimini, Christus vobis nihil prodest
+              </quote>
+            </cit>. 
+            Quum ergo circumcisio tam adultis quam parvulis ex praecepto Domini
             conferretur, ne baptismus, qui successit in loco ipsius, et generalior tamen exsistit,
             quum tam viri quam feminae baptizentur, minoris videatur effectus, tam adultis, quam
             parvulis est conferendus. Sicut enim olim sine distinctione qualibet Mosaica lex
-            clamabat: “Anima, cuius praeputii caro circumcisa non fuerit, peribit de populo suo,”
-            ita nunc indistincte vox intonat evangelica: “Nisi quis renatus fuerit ex aqua et
-            Spiritu sancto, non intrabit in regnum Dei;” ab hac generalitate nec sexum, nec aetatem
+            clamabat: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e198" source="http://scta.info/resource/gen17_14" synch="1-13">
+                Anima, cuius praeputii caro circumcisa non fuerit, peribit de populo suo
+              </quote>
+            </cit>,
+            ita nunc indistincte vox intonat evangelica:
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e204" source="http://scta.info/resource/io3_5" synch="7-20">
+                Nisi quis renatus fuerit ex aqua et
+                Spiritu sancto, non intrabit in regnum Dei
+              </quote>
+            </cit>; 
+            ab hac generalitate nec sexum, nec aetatem
             excludens. Unde, sicut anima circumcisi de populo suo non peribat, sic, qui ex aqua
             fuerit et Spiritu sancto renatus, regni coelorum introitum obtinebit. Caute tamen
             notandum est, quantum plus baptismus hodie conferat Christianis, quam quondam Iudaeis
             circumcisio contulisset, dictum est in fine praedictae auctoritatis inductae de veteri
-            lege: “peribit de populo suo:” in evangelica vero auctoritate subiunctum est; “non
-            intrabit in regnum Dei:” quoniam, etsi originalis culpa remittebatur per circumcisionis
+            lege: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e210">
+                <!-- source unclear -->
+                peribit de populo suo
+              </quote>
+            </cit>: 
+            in evangelica vero auctoritate subiunctum est; 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e218" source="http://scta.info/resource/mt7_21" synch="1-11" cert="low"><!-- certainly applies to source attribution -->
+                non intrabit in regnum Dei
+              </quote>
+            </cit>: 
+            quoniam, etsi originalis culpa remittebatur per circumcisionis
             mysterium, et damnationis periculum vitabatur, non tamen perveniebatur ad regnum
             coelorum, quod usque ad mortem Christi fuit omnibus obseratum; sed per sacramentum
             baptismi Christi sanguine rubricati culpa remittitur, vitatur periculum, et ad regnum
@@ -132,7 +191,13 @@
             procuraverit ad salutem. Ceterum ex vi literae satis patet, praedictas auctoritates
             intelligendas esse tantummodo de adultis, qui habent multitudinem peccatorum; quum de
             parvulis non possit intelligi, qui peccato tantum originali tenentur. Similiter et illa
-            alia auctoritas est solvenda: “Qui crediderit, et baptizatus fuerit etc.,” quum non
+            alia auctoritas est solvenda: 
+            <cit>
+              <quote xml:id="cice-l3t42-Qd1e226" source="http://scta.info/resource/mc16_16" synch="1-5">
+                Qui crediderit, et baptizatus fuerit
+              </quote>
+            </cit> 
+            etc., quum non
             possint credere parvuli, sed adulti. Et ob hoc tota auctoritas hic intelligenda est
             solummodo de adultis, nec ad alios prima, et ad alios secunda clausula referatur;
             quamvis nonnulli concedant, quod parvuli credunt non per usum, sed per habitum fidei,
@@ -143,7 +208,10 @@
             referatur, aliis asserentibus, per virtutem baptismi parvulis quidem culpam remitti, sed
             gratiam non conferri; nonnullis vero dicentibus, et dimitti peccatum, et virtutes
             infundi habentibus illas quoad habitum, non quoad usum, donec perveniant ad aetatem
-            adultam. Verum quidam ex hac solutione invenisse se credunt viam ad alias quaestiones,
+            adultam.
+          </p>
+          <p xml:id="cice-l3t42-d1e231">
+            Verum quidam ex hac solutione invenisse se credunt viam ad alias quaestiones,
             argumentantes ex eo, quod dicimus, parvulis in baptismate peccatum originale dimitti,
             quod et adultis dormientibus vel amentibus peccatum, si baptizentur, ratione simili
             dimittatur. Quum enim neutri sentiant tunc vel consentiant, dicunt, idem in consimilibus
@@ -151,7 +219,10 @@
             et actuale; originale, quod absque consensu contrahitur, et actuale, quod committitur
             cum consensu. Originale igitur, quod sine consensu contrahitur, sine consensu per vim
             remittitur sacramenti; actuale vero, quod cum consensu contrahitur, sine consensu minime
-            relaxatur. Sed adhuc quaeritur, quare non saltem originale peccatum amentibus, et
+            relaxatur. 
+          </p>
+          <p xml:id="cice-l3t42-d1e234">
+            Sed adhuc quaeritur, quare non saltem originale peccatum amentibus, et
             dormientibus in baptismo sicut parvulis dimittatur. Ad hoc est taliter respondendum,
             quod Dominus, qui totum hominem salvum fecit in sabbato, opus imperfectionis non novit,
             et ob hoc peccata non ex parte, sed ex toto dimittit. Praeterea poena originalis peccati
@@ -159,7 +230,10 @@
             Unde, si dimitteretur alicui primum, altero non dimisso, talis non careret visione Dei
             propter originale dimissum, et cruciaretur in gehenna perpetuo propter reatum criminis
             actualis; sed haec tanquam incompassibilia sese minime patiuntur, immo sibi mutuo
-            adversantur. Item vero quaeritur, utrum huiusmodi dormientibus et amentibus sacramenti
+            adversantur.
+          </p>
+          <p xml:id="cice-l3t42-d1e238">
+            Item vero quaeritur, utrum huiusmodi dormientibus et amentibus sacramenti
             saltem character in baptismate imprimatur, ut excitati a somno vel ab aegritudine
             liberati non sint denuo baptizandi. Sunt autem nonnulli, qui dicunt, quod sacramenta,
             quae per se sortiuntur effectum, ut baptismus et ordo ceteraque similia, non solum
@@ -176,7 +250,7 @@
             sacramentum, talis quidem, sicut et is, qui ficte ad baptismum accedit, characterem
             suscipit Christianitatis impressum, et ipse, tanquam conditionaliter volens, licet
             absolute non velit, cogendus est [tamen] ad observantiam fidei Christianae. In quo casu
-            debet intelligi decretum illud concilii Toletani, ubi dicitur, quod, qui iam pridem ad
+            debet intelligi <ref xml:id="cice-l3t42-Rd1e240">decretum illud concilii Toletani</ref>, ubi dicitur, quod, qui iam pridem ad
             Christianitatem coacti sunt, sicut factum est temporibus religiosissimi principis
             Sisibuti, quia iam constat eos sacramentis divinis associatos, et baptismi gratiam
             suscepisse, et chrismate unctos esse, et corporis Domini exstitisse participes, oportet
