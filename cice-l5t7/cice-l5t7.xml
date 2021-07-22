@@ -59,47 +59,77 @@
           <head xml:id="cice-l5t7-Hd1e110">CAP. I.</head>
           <head xml:id="cice-l5t7-d1e113" type="question-title">Infidelis est, qui non habet certitudinem fidei, et infideli non est credendum in
             praeiudicium alterius.</head>
-          <p xml:id="cice-l5t7-d1e116">Stephanus Papa omnibus Episcopis.</p>
-          <p xml:id="cice-l5t7-d1e119">Dubius in fide infidelis est, nec eis omnino credendum est, qui fidem veritatis
-            ignorant, [nec rectae conversationis vitam ducunt etc.]</p>
+          <p xml:id="cice-l5t7-d1e119">
+            <ref xml:id="cice-l5t7-Rd1e118">Stephanus Papa omnibus Episcopis.</ref> 
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e123">
+                Dubius in fide infidelis est, nec eis omnino credendum est, qui fidem veritatis
+                ignorant, [nec rectae conversationis vitam ducunt etc.]
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e123">
           <head xml:id="cice-l5t7-Hd1e125">CAP. II.</head>
           <head xml:id="cice-l5t7-d1e128" type="question-title">Errare in fide convincitur, qui alios errantes, quum potest, ab errore non revocat.</head>
-          <p xml:id="cice-l5t7-d1e131">Leo Papa.</p>
-          <p xml:id="cice-l5t7-d1e134">Qui alios, quum potest, ab errore non revocat, se ipsum errare demonstrat. [Dat. XII.
-            Kal. Aug. Calepio et Ardabure VV. CC. Coss. 447.]</p>
+          <p xml:id="cice-l5t7-d1e134">
+            <ref xml:id="cice-l5t7-Rd1e139">Leo Papa.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e144">
+                Qui alios, quum potest, ab errore non revocat, se ipsum errare demonstrat. [Dat. XII.
+                Kal. Aug. Calepio et Ardabure VV. CC. Coss. 447.]</quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e138">
           <head xml:id="cice-l5t7-Hd1e140">CAP. III.</head>
-          <head xml:id="cice-l5t7-d1e143" type="question-title">Haereticus perseverans aeternaliter damnatur; cui nec prodest baptismus, nec
+          <head xml:id="cice-l5t7-d1e143" type="question-title">
+            Haereticus perseverans aeternaliter damnatur; cui nec prodest baptismus, nec
             eleemosyna, vel martyrium, vel aliud quodcunque bonum, quoad hoc, ut consequatur vitam
-            aeternam.</head>
-          <p xml:id="cice-l5t7-d1e146">Augustinus de fide catholica.</p>
-          <p xml:id="cice-l5t7-d1e149">Firmissime tene et nullatenus dubites, omnem haereticum vel schismaticum, quamvis
-            multas eleemosynas faciat, vel etiam pro Christo sanguinem fundat, cum diabolo et
-            angelis eius aeterni ignis incendio participandum, nisi ante finem huius vitae
-            catholicae fuerit incorporatus et redintegratus ecclesiae. (Et post pauca:) Omni enim
-            homini, qui ecclesiae catholicae non tenet unitatem, neque baptismus, neque eleemosyna
-            quantumlibet copiosa, neque mors pro nomine Christi suscepta proficere poterit ad
-            salutem.</p>
+            aeternam.
+          </head>
+          <p xml:id="cice-l5t7-d1e149">
+            <ref xml:id="cice-l5t7-Rd1e160">
+              <name xml:id="cice-l5t7-Nd1e162" ref="#Augustine">Augustinus</name> de fide catholica.
+            </ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e168">
+                Firmissime tene et nullatenus dubites, omnem haereticum vel schismaticum, quamvis
+                multas eleemosynas faciat, vel etiam pro Christo sanguinem fundat, cum diabolo et
+                angelis eius aeterni ignis incendio participandum, nisi ante finem huius vitae
+                catholicae fuerit incorporatus et redintegratus ecclesiae. (Et post pauca:) Omni enim
+                homini, qui ecclesiae catholicae non tenet unitatem, neque baptismus, neque eleemosyna
+                quantumlibet copiosa, neque mors pro nomine Christi suscepta proficere poterit ad
+                salutem.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e153">
           <head xml:id="cice-l5t7-Hd1e155">CAP. IV.</head>
           <head xml:id="cice-l5t7-d1e158" type="question-title">Damnato auctore damnantur eius scripturae et libri et opera.</head>
-          <p xml:id="cice-l5t7-d1e161">Gregorius Anastasio Antiocheno.</p>
-          <p xml:id="cice-l5t7-d1e164">Fraternitatis tuae (Et infra:) [Praeterea, dum de sanctorum conciliorum custodia tua
-            fraternitas loqueretur, sanctam Ephesinam synodum primam se custodire professa est. Sed
-            quia ex annotatione haeretici codicis, qui ad me ex regia urbe transmissus est, agnovi
-            per hoc, quod quaedam capitula catholica cum haereticis fuerant reprehensa, quia quidam
-            illam Ephesinam primam synodum in eadem urbe existimant, quae quondam ab haereticis
-            traditur esse composita, omnino necesse est, ut caritas vestra eandem synodum apud S.
-            Alexandrinam atque Antiochenam ecclesiam requirat, et qualiter in veritate habeatur
-            inveniat; vel, si placet, hinc dirigimus, quae ab antiquitate servata in scriniis
-            habemus.] Illa enim synodus, quae sub imagine primae Ephesinae facta est, quaedam in se
-            oblata capitula asserit approbata, quae sunt Coelestii atque Pelagii praedicamenta. Et
-            Quum Coelestinus atque Pelagius in Ephesina synodo sint damnati, quomodo poterunt illa
-            capitula recipi, quorum damnantur auctores.</p>
+          <p xml:id="cice-l5t7-d1e161"/>
+          <p xml:id="cice-l5t7-d1e164">
+            <ref xml:id="cice-l5t7-Rd1e186">
+              <name xml:id="cice-l5t7-Nd1e188">Gregorius</name> Anastasio Antiocheno.
+            </ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e194">
+                Fraternitatis tuae (Et infra:) [Praeterea, dum de sanctorum conciliorum custodia tua
+                fraternitas loqueretur, sanctam Ephesinam synodum primam se custodire professa est. Sed
+                quia ex annotatione haeretici codicis, qui ad me ex regia urbe transmissus est, agnovi
+                per hoc, quod quaedam capitula catholica cum haereticis fuerant reprehensa, quia quidam
+                illam Ephesinam primam synodum in eadem urbe existimant, quae quondam ab haereticis
+                traditur esse composita, omnino necesse est, ut caritas vestra eandem synodum apud S.
+                Alexandrinam atque Antiochenam ecclesiam requirat, et qualiter in veritate habeatur
+                inveniat; vel, si placet, hinc dirigimus, quae ab antiquitate servata in scriniis
+                habemus.] Illa enim synodus, quae sub imagine primae Ephesinae facta est, quaedam in se
+                oblata capitula asserit approbata, quae sunt Coelestii atque Pelagii praedicamenta. Et
+                Quum Coelestinus atque Pelagius in Ephesina synodo sint damnati, quomodo poterunt illa
+                capitula recipi, quorum damnantur auctores.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e169">
           <head xml:id="cice-l5t7-Hd1e171">CAP. V.</head>
@@ -107,34 +137,52 @@
             etiam post mortem excommunicatus nunciatur. H. d. secundum communem et veriorem
             intellectum, et, ut faciat ad tit., potest intelligi, quod ex hoc praesumatur
             haereticus.</head>
-          <p xml:id="cice-l5t7-d1e177">Ex concilio Africano.</p>
-          <p xml:id="cice-l5t7-d1e180">Si quis episcopus heredes instituerit extraneos a consanguinitate sua, vel haereticos,
-            etiam consanguineos, aut paganos pertulerit, saltem post mortem ei anathema dicatur,
-            atque eius nomen inter Dei sacerdotes nullo modo recitetur. [Nec ezcusari possit, si
-            intestatus decesserit etc.]</p>
+          <p xml:id="cice-l5t7-d1e180">
+            <ref xml:id="cice-l5t7-Rd1e211">Ex concilio Africano.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e216">
+                Si quis episcopus heredes instituerit extraneos a consanguinitate sua, vel haereticos,
+                etiam consanguineos, aut paganos pertulerit, saltem post mortem ei anathema dicatur,
+                atque eius nomen inter Dei sacerdotes nullo modo recitetur. [Nec ezcusari possit, si
+                intestatus decesserit etc.]
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e184">
           <head xml:id="cice-l5t7-Hd1e186">CAP. VI.</head>
           <head xml:id="cice-l5t7-d1e189" type="question-title">Loquitur de eadem materia cum praecedenti, et extenditur, quod ibi dictum fuit de
             episcopo, ad presbyteros et alios clericos.</head>
-          <p xml:id="cice-l5t7-d1e192">Ex eodem.</p>
-          <p xml:id="cice-l5t7-d1e195">In eos, qui catholici Christiani non sunt, etiamsi consanguinei fuerint, per donationes
-            rerum suarum episcopi vel presbyteri nihil conferant. Denique hoc, quod de episcopis et
-            presbyteris dictum est, debet de reliquis quoque clericis exaudiri.</p>
+          <p xml:id="cice-l5t7-d1e195">
+            <ref xml:id="cice-l5t7-Rd1e232">Ex eodem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e237">
+                In eos, qui catholici Christiani non sunt, etiamsi consanguinei fuerint, per donationes
+                rerum suarum episcopi vel presbyteri nihil conferant. Denique hoc, quod de episcopis et
+                presbyteris dictum est, debet de reliquis quoque clericis exaudiri.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e199">
           <head xml:id="cice-l5t7-Hd1e201">CAP. VII.</head>
           <head xml:id="cice-l5t7-d1e204" type="question-title">Christus fuit verus Deus et verus homo, sentiens oppositum haereticus est et
             excommunicatus.</head>
-          <p xml:id="cice-l5t7-d1e207">Alexander III. Remensi Archiepiscopo.</p>
-          <p xml:id="cice-l5t7-d1e210">Quum Christus perfectus Deus et perfectus sit homo, †mirum est, qua temeritate quisquam
-            audet dicere, quod Christus non sit aliquid secundum quod homo. Ne autem tanta possit in
-            ecclesia Dei suboriri abusio vel error induci, [fraternitati vestrae] per apostolica
-            scripta Mandamus, quatenus convocatis magistris Parisiensium et Remensium et aliarum
-            circumpositarum civitatum, auctoritate nostra sub anathemate interdicas, ne quis de
-            cetero audeat dicere, Christum non esse aliquid secundum quod homo, quia, sicut Christus
-            verus est Deus, ita verus est homo, ex anima rationali et humana carne subsistens. [Dat.
-            Vestae XII. Kal. Maii. 1177.]</p>
+          <p xml:id="cice-l5t7-d1e210">
+            <ref xml:id="cice-l5t7-Rd1e253">Alexander III. Remensi Archiepiscopo.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e258">
+                Quum Christus perfectus Deus et perfectus sit homo, †mirum est, qua temeritate quisquam
+                audet dicere, quod Christus non sit aliquid secundum quod homo. Ne autem tanta possit in
+                ecclesia Dei suboriri abusio vel error induci, [fraternitati vestrae] per apostolica
+                scripta Mandamus, quatenus convocatis magistris Parisiensium et Remensium et aliarum
+                circumpositarum civitatum, auctoritate nostra sub anathemate interdicas, ne quis de
+                cetero audeat dicere, Christum non esse aliquid secundum quod homo, quia, sicut Christus
+                verus est Deus, ita verus est homo, ex anima rationali et humana carne subsistens. [Dat.
+                Vestae XII. Kal. Maii. 1177.]
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e214">
           <head xml:id="cice-l5t7-Hd1e216">CAP. VIII.</head>
@@ -142,35 +190,42 @@
             peccato, in coemeterio ecclesiae sepeliri non debent, nec pro eis orari.</head>
           <p xml:id="cice-l5t7-d1e225">
             <ref xml:id="cice-l5t7-Rd1e224" corresp="#cice-l5t7-Qd1e228">Ex concilio Lateranensi.</ref>
-            <cit><quote xml:id="cice-l5t7-Qd1e228" source="http://scta.info/resource/uh67df-d1e264">Sicut ait beatus Leo, licet ecclesiastica disciplina, sacerdotali contenta iudicio,
-            cruentas effugiat ultiones: catholicorum tamen principum constitutionibus adiuvatur, ut
-            saepe quaerant homines salutare remedium, dum corporale metuerint super se supplicium
-            evenire. Ea propter, Quia in Vasconia, Albigesio et partibus Tolosanis, et aliis locis
-            ita haereticorum, quos alii Catharos, alii Publicanos, alii Patarenos, et alii aliis
-            nominibus vocant, invaluit damnanda perversitas, ut iam non in occulto, sicut alibi,
-            nequitiam suam exerceant, sed errorem suum publice manifestent, et ad consensum suum
-            simplices attrahant et infirmos, [et] eos, et defensores et receptatores eorum
-            anathemati decernimus subiacere, et sub anathemate prohibemus, ne quis eos in domo vel
-            in terra sua tenere vel fovere, aut negotiationem cum eis exercere praesumat. Si autem
-            in hoc peccato decesserit, neque sub privilegiorum nostrorum quibuscunque indultorum
-            obtentu, neque sub alia quacunque occasione [aut] oblatio pro eo fiat, aut inter
-            Christianos accipiat sepulturam. [De Brabantionibus etc.]</quote>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e228" source="http://scta.info/resource/uh67df-d1e264">
+                Sicut ait beatus Leo, licet ecclesiastica disciplina, sacerdotali contenta iudicio,
+                cruentas effugiat ultiones: catholicorum tamen principum constitutionibus adiuvatur, ut
+                saepe quaerant homines salutare remedium, dum corporale metuerint super se supplicium
+                evenire. Ea propter, Quia in Vasconia, Albigesio et partibus Tolosanis, et aliis locis
+                ita haereticorum, quos alii Catharos, alii Publicanos, alii Patarenos, et alii aliis
+                nominibus vocant, invaluit damnanda perversitas, ut iam non in occulto, sicut alibi,
+                nequitiam suam exerceant, sed errorem suum publice manifestent, et ad consensum suum
+                simplices attrahant et infirmos, [et] eos, et defensores et receptatores eorum
+                anathemati decernimus subiacere, et sub anathemate prohibemus, ne quis eos in domo vel
+                in terra sua tenere vel fovere, aut negotiationem cum eis exercere praesumat. Si autem
+                in hoc peccato decesserit, neque sub privilegiorum nostrorum quibuscunque indultorum
+                obtentu, neque sub alia quacunque occasione [aut] oblatio pro eo fiat, aut inter
+                Christianos accipiat sepulturam. [De Brabantionibus etc.]
+              </quote>
               <bibl>Alexander III, Lat. III, c. 27</bibl>
             </cit>
           </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e229">
           <head xml:id="cice-l5t7-Hd1e231">CAP. IX.</head>
-          <head xml:id="cice-l5t7-d1e234" type="question-title">Haereticus, male sentiens vel male docens de sacramentis ecclesiae, excommunicatus est,
+          <head xml:id="cice-l5t7-d1e234" type="question-title">
+            Haereticus, male sentiens vel male docens de sacramentis ecclesiae, excommunicatus est,
             et convictus, nisi se correxerit et errorem abiuraverit, si clericus est, degradetur, et
             curiae saeculari tradatur, per quam etiam laicus punietur. Eadem etiam est poena
             suspectis de haeresi, si se non correxerunt, et relapsis omnino audientia denegatur.
             Saeculares principes, qui iurare nolunt de ecclesia contra haereticos defendenda,
             excommunicantur, et terrae eorum supponuntar interdicto; civitates vero ipsorum
             resistentes aliarum commercio et episccpali dignitate privantur; exempti vero subsunt
-            ordinariis super his, quae contra haereticos instituuntur.</head>
-          <p xml:id="cice-l5t7-d1e237">Lucius III.</p>
-          <p xml:id="cice-l5t7-d1e240">Ab abolendam †diversarum haeresium pravitatem, quae in plerisque mundi partibus
+            ordinariis super his, quae contra haereticos instituuntur.
+          </head>
+          <p xml:id="cice-l5t7-d1e240">
+            <ref xml:id="cice-l5t7-Rd1e298">Lucius III.</ref>
+            <!-- can this be broken up -->
+            Ab abolendam diversarum haeresium pravitatem, quae in plerisque mundi partibus
             modernis coepit temporibus pullulare, vigor debet ecclesiasticus excitari cui nimirum
             imperialis fortitudinis suffragante potentia, et haereticorum protervitas in ipsis
             falsitatis suae conatibus elidatur, et catholicae simplicitas veritatis in ecclesia
@@ -259,8 +314,10 @@
           <head xml:id="cice-l5t7-d1e249" type="question-title">Bona haereticorum confiscantur, et in terris ecclesiae applicantur fisco ecclesiae, in
             terris imperii iudicis saecularis fisco, et procedit, etiamsi catholicos habent
             filios.</head>
-          <p xml:id="cice-l5t7-d1e252">Innocentius III.</p>
-          <p xml:id="cice-l5t7-d1e255">Vergentis in senium saeculi corruptelam †non solum sapiunt elementa corrupta, sed etiam
+          <p xml:id="cice-l5t7-d1e255">
+            <ref xml:id="cice-l5t7-Rd1e315">Innocentius III.</ref>
+            <!-- can this be broken up in to sub paragraphs -->
+            Vergentis in senium saeculi corruptelam †non solum sapiunt elementa corrupta, sed etiam
             dignissima creaturarum ad imaginem et similitudinem condita Creatoris, praelata
             privilegio dignitatis volucribus coeli et bestiis universae terrae testatur, nec tantum
             eo quasi deficiente iam deficit, sed et inficit et inficitur scabra rubigine vetustatis.
@@ -324,15 +381,19 @@
             in multis casibus etiam secundum divinum iudicium filii pro patribus temporaliter
             puniantur, et iuxta canonicas sanctiones quandoque feratur ultio non solum in auctores
             scelerum, sed etiam in progeniem damnatorum. [Decernimus ergo etc. Dat. Lat. VIII. Kal.
-            Apr. Pont. nostr. Ao. II. 1199.]</p>
+            Apr. Pont. nostr. Ao. II. 1199.]
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e260">
           <head xml:id="cice-l5t7-Hd1e262">CAP. XI.</head>
           <head xml:id="cice-l5t7-d1e265" type="question-title">Advocati vel notarii, haereticis vel eorum defensoribus faventes, aut sub eis
             litigantibus, patrocinantes, et pro eis instrumenta scribentes, infames sunt, et ab illo
             officio suspensi.</head>
-          <p xml:id="cice-l5t7-d1e268">Idem.</p>
-          <p xml:id="cice-l5t7-d1e271">Si adversus nos terra consurgeret †[et iniquitates vestras coeli sidera revelarent, et
+          <p xml:id="cice-l5t7-d1e268"/>
+          <p xml:id="cice-l5t7-d1e271">
+            <ref xml:id="cice-l5t7-Rd1e335">Idem.</ref>
+            <!-- can this be broken up in to sub paragraphs -->
+            Si adversus nos terra consurgeret †[et iniquitates vestras coeli sidera revelarent, et
             manifestarent vestra scelera toti tnundo, ut non solum homines, sed ipsa etiam elementa
             coniurarent in vestrum excidium et ruinam, et a terrae facie vos delerent, non parcentes
             sexui vel aetati, ut essetis cunctis gentibus in opprobrium sempiternum, ultio de vobis
@@ -410,9 +471,10 @@
           <head xml:id="cice-l5t7-Hd1e277">CAP. XII.</head>
           <head xml:id="cice-l5t7-d1e280" type="question-title">Laici non praedicent, nec occulta conventicula faciant, nec sacerdotes
             reprehendant.</head>
-          <p xml:id="cice-l5t7-d1e283">Idem universis Christi fidelibus, tam in urbe Metensi quam in eius dioecesi
-            constitutis.</p>
-          <p xml:id="cice-l5t7-d1e286">Quum ex iniuncto †nobis apostolatus officio facti simus, secundum Apostolum,
+          <p xml:id="cice-l5t7-d1e286">
+            <ref xml:id="cice-l5t7-Rd1e352">Idem universis Christi fidelibus, tam in urbe Metensi quam in eius dioecesi
+            constitutis.</ref>
+            Quum ex iniuncto †nobis apostolatus officio facti simus, secundum Apostolum,
             sapientibus et insipientibus debitores, pro universorum salute nos oportet esse
             sollicitos, ut et malos retrahamus a vitiis, et bonos in virtutibus foveamus. Tunc autem
             opus est discretione maiori, quum vitia sub specie virtutum occulte subintrant, et
@@ -559,7 +621,9 @@
             removendus, et alius idoneus est surrogandus. H. d. usque ad finem Abbas Siculus.</head>
           <p xml:id="cice-l5t7-d1e301">
             <ref xml:id="cice-l5t7-Rd1e300" corresp="#cice-l5t7-Qd1e303">Idem in concilio generali.</ref>
-            <cit><quote xml:id="cice-l5t7-Qd1e303" source="http://scta.info/resource/nhyjhg-d1e67">Excommunicamus itaque et anathematizamus omnem haeresim, extollentem se adversus hanc
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e303" source="http://scta.info/resource/nhyjhg-d1e67">
+                Excommunicamus itaque et anathematizamus omnem haeresim, extollentem se adversus hanc
             sanctam, orthodoxam et catholicam fidem, quam superius exposuimus, condemnantes
             haereticos universos, quibuscunque nominibus censeantur, facies quidem diversas
             habentes, sed caudas ad invicem colligatas, quia de vanitate conveniunt in id ipsum. §.
@@ -629,19 +693,26 @@
             haereticae pravitatis fermento negligens fuerit vel remissus, quum id certis indiciis
             apparuerit, ab episcopali officio deponatur, et in locum ipsius alter substituatur
             idoneus, qui velit et possit haereticam confundese pravitatem.</quote>
-            <bibl>Innocent III, Lat IV, c. 3</bibl></cit>
+            <bibl>Innocent III, Lat IV, c. 3</bibl>
+            </cit>
           </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e305">
           <head xml:id="cice-l5t7-Hd1e307">CAP. XIV.</head>
           <head xml:id="cice-l5t7-d1e310" type="question-title">Laici, cuiuscunque professionis sint, praedicare non debent.</head>
-          <p xml:id="cice-l5t7-d1e313">Gregorius IX. Archiepiscopo Mediolanensi.</p>
-          <p xml:id="cice-l5t7-d1e316">Sicut in uno corpore (Et infra:) Quum igitur nonnulli laici praedicare praesumant, et
-            verendum nimis exsistat; ne vitia sub specie virtutum occulte subintrent, nos,
-            attendentes, quod doctorum ordo est in ecclesia Dei quasi praecipuus, mandamus,
-            quatenus, quum alios Dominus apostolos dederit, alios prophetas, alios vero doctores,
-            interdicas laicis universis, cuiuscunque ordinis censeantur, usurpare officium
-            praedicandi.</p>
+          <p xml:id="cice-l5t7-d1e316">
+            <ref xml:id="cice-l5t7-Rd1e391">Gregorius IX. Archiepiscopo Mediolanensi.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e396">
+                Sicut in uno corpore (Et infra:) Quum igitur nonnulli laici praedicare praesumant, et
+                verendum nimis exsistat; ne vitia sub specie virtutum occulte subintrent, nos,
+                attendentes, quod doctorum ordo est in ecclesia Dei quasi praecipuus, mandamus,
+                quatenus, quum alios Dominus apostolos dederit, alios prophetas, alios vero doctores,
+                interdicas laicis universis, cuiuscunque ordinis censeantur, usurpare officium
+                praedicandi.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e320">
           <head xml:id="cice-l5t7-Hd1e322">CAP. XV.</head>
@@ -649,23 +720,40 @@
             princ., unde summa et declara, prout ibi fuit dictum. – §. 1. Si in haeresi deprehensi
             nolunt redire ad fidem, detrudendi sunt in perpetuo carcere ad poenitentiam peragendam,
             et credentes erroribus haereticorum haeretici sunt. H. d.</head>
-          <p xml:id="cice-l5t7-d1e328">Idem.</p>
-          <p xml:id="cice-l5t7-d1e331">Excommunicamus et anathematizamus universos haereticos, Catharos, Patarenos, Pauperes
-            de Lugduno, Passaginos, Iosepinos, Arnaldistas, Speronistas, et alios, quibuscunque
-            nominibus censeantur, facies quidem habentes diversas, sed caudas adinvicem colligatas,
-            quia de vanitate conveniunt in id ipsum. Damnati vero per ecclesiam saeculari iudicio
-            relinquantur, animadversione debita puniendi, clericis prius a suis ordinibus
-            degradatis. §. 1. Si qui autem de praedictis, postquam fuerint deprehensi, redire
-            noluerint ad agendam condignam poenitentiam, in perpetuo carcere detrudantur, credentes
-            autem eorum erroribus haereticos similiter iudicamus.</p>
+          <p xml:id="cice-l5t7-d1e331">
+            <ref xml:id="cice-l5t7-Rd1e412">Idem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e417">
+                Excommunicamus et anathematizamus universos haereticos, Catharos, Patarenos, Pauperes
+                de Lugduno, Passaginos, Iosepinos, Arnaldistas, Speronistas, et alios, quibuscunque
+                nominibus censeantur, facies quidem habentes diversas, sed caudas adinvicem colligatas,
+                quia de vanitate conveniunt in id ipsum. Damnati vero per ecclesiam saeculari iudicio
+                relinquantur, animadversione debita puniendi, clericis prius a suis ordinibus
+                degradatis.
+              </quote>
+            </cit>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e423">
+                §. 1. Si qui autem de praedictis, postquam fuerint deprehensi, redire
+                noluerint ad agendam condignam poenitentiam, in perpetuo carcere detrudantur, credentes
+                autem eorum erroribus haereticos similiter iudicamus.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l5t7-Dd1e335">
           <head xml:id="cice-l5t7-Hd1e337">CAP. XVI.</head>
           <head xml:id="cice-l5t7-d1e340" type="question-title">Liberantur ab omni obligatione qui haereticis tenebantur adstricti.</head>
-          <p xml:id="cice-l5t7-d1e343">Idem.</p>
-          <p xml:id="cice-l5t7-d1e346">Absolutos se noverint a debito fidelitatis hominii et totius obsequii, quicunque lapsis
-            manifeste in haeresim aliquo pacto, quacunque firmitate vallato, tenebantur
-            adstricti.</p>
+          <p xml:id="cice-l5t7-d1e346">
+            <ref xml:id="cice-l5t7-Rd1e439">Idem.</ref>
+            <cit>
+              <quote xml:id="cice-l5t7-Qd1e444">
+                Absolutos se noverint a debito fidelitatis hominii et totius obsequii, quicunque lapsis
+                manifeste in haeresim aliquo pacto, quacunque firmitate vallato, tenebantur
+                adstricti.
+              </quote>
+            </cit>
+          </p>
         </div>
       </div>
     </body>
