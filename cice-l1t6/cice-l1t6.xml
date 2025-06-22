@@ -56,10 +56,11 @@
         <head xml:id="cice-l1t6-Hd1e105">1.06. DE ELECTIONE ET ELECTI POTESTATE.</head>
         <div xml:id="cice-l1t6-Dd1e108">
           <head xml:id="cice-l1t6-Hd1e110">CAP. I.</head>
-          <head xml:id="cice-l1t6-d1e113" type="question-title">Ecclesiae collegiatae non debet provideri de praelato per collationem seu provisionem,
+          <head xml:id="cice-l1t6-Hd1e113" type="question-title">Ecclesiae collegiatae non debet provideri de praelato per collationem seu provisionem,
             sed per electionem canonicam fiendam per ipsum collegium. H. d. Abbas.</head>
-          <p xml:id="cice-l1t6-d1e116">Lucius Papa.</p>
-          <p xml:id="cice-l1t6-d1e119">Nullus in ecclesia, ubi duo vel tres fratres fuerint in congregatione, nisi eorum
+          <p xml:id="cice-l1t6-d1e119">
+            <ref xml:id="cice-l1t6-Rd1e112">Lucius Papa.</ref>
+            Nullus in ecclesia, ubi duo vel tres fratres fuerint in congregatione, nisi eorum
             electione canonica presbyter eligatur, †et eisdem convocatis, et parochianis, atque in
             unum consentientibus. Si vero aliter quis ecclesiam adeptus fuerit, eo, quod per
             cupiditatem illam acquisierit, atque contra canonicae regulae disciplinam egerit,
@@ -67,9 +68,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e123">
           <head xml:id="cice-l1t6-Hd1e125">CAP. II.</head>
-          <head xml:id="cice-l1t6-d1e128" type="question-title">Electus ad clamorem populi, non debet per superiorem confirmari.</head>
-          <p xml:id="cice-l1t6-d1e131">Ex concilio Sardicensi.</p>
-          <p xml:id="cice-l1t6-d1e134">Osius episcopus dixit: Si quis ita temerarius exstiterit, ut fortasse talem
+          <head xml:id="cice-l1t6-Hd1e128" type="question-title">Electus ad clamorem populi, non debet per superiorem confirmari.</head>
+          <p xml:id="cice-l1t6-d1e134">
+            <ref xml:id="cice-l1t6-Rd1e126">Ex concilio Sardicensi.</ref>
+            Osius episcopus dixit: Si quis ita temerarius exstiterit, ut fortasse talem
             excusationem afferens, asseveret, quod literas populi acceperit, quum manifestum sit
             potuisse plures eorum qui sinceram fidem non habent, praemio et mercede corrumpi, ut
             clamarent in ecclesia, et ipsum petere viderentur episcopum, omnino fraudes has
@@ -78,10 +80,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e138">
           <head xml:id="cice-l1t6-Hd1e140">CAP. III.</head>
-          <head xml:id="cice-l1t6-d1e143" type="question-title">Electio canonica confirmanda est; debet tamen superior ante confirmationem inquirere de
+          <head xml:id="cice-l1t6-Hd1e143" type="question-title">Electio canonica confirmanda est; debet tamen superior ante confirmationem inquirere de
             conversatione et vita electi, ubi fuit conversatus.</head>
-          <p xml:id="cice-l1t6-d1e146">Gregorius III.</p>
-          <p xml:id="cice-l1t6-d1e149">Postquam †[is, qui ad episcopatum Surrentinae civitatis electus fuerat, aptus nobis
+          <p xml:id="cice-l1t6-d1e149">
+            <ref xml:id="cice-l1t6-Rd1e140">Gregorius III.</ref>
+            Postquam [is, qui ad episcopatum Surrentinae civitatis electus fuerat, aptus nobis
             visus non est, Amandum presbyterum oratorii S. Severini, quod in castro Lucullano situm
             est, elegerunt. Ea propter experientiae tuae praecipimus, ut eundem presbyterum
             excusatione postposita sub omni ad nos studeat festinatione transmittere, quatenus]
@@ -91,10 +94,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e153">
           <head xml:id="cice-l1t6-Hd1e155">CAP. IV.</head>
-          <head xml:id="cice-l1t6-d1e158" type="question-title">Electo in archiepiscopum sedes apostolica pallium non tradet, nisi prius praestet
+          <head xml:id="cice-l1t6-Hd1e158" type="question-title">Electo in archiepiscopum sedes apostolica pallium non tradet, nisi prius praestet
             fidelitatis et obedientiae iuramentum.</head>
-          <p xml:id="cice-l1t6-d1e161">Paschalis Panormitano Archiepiscopo.</p>
-          <p xml:id="cice-l1t6-d1e164">Significasti, frater carissime, reges et regni maiores admiratione permotos, quod
+          <p xml:id="cice-l1t6-d1e164">
+            <ref xml:id="cice-l1t6-Rd1e154">Paschalis Panormitano Archiepiscopo.</ref>
+            Significasti, frater carissime, reges et regni maiores admiratione permotos, quod
             pallium tibi ab apocrisariis nostris tali conditione oblatum fuerit, si sacramentum,
             quod a nobis scriptum detulerant, exhiberes. †In pallio, frater, plenitudo conceditur
             pontificalis officii, quia iuxta sedis apostolicae et totius Europae consuetudinem ante
@@ -151,10 +155,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e169">
           <head xml:id="cice-l1t6-Hd1e171">CAP. V.</head>
-          <head xml:id="cice-l1t6-d1e174" type="question-title">Si schismaticus ad unionem ecclesiae reversus, eligitur in episcopum, electio non
+          <head xml:id="cice-l1t6-Hd1e174" type="question-title">Si schismaticus ad unionem ecclesiae reversus, eligitur in episcopum, electio non
             tenet, sed ex dispensatione potest confirmari.</head>
-          <p xml:id="cice-l1t6-d1e177">Alexander III. Petro Presbytero cardinali apostolicae sedis Legato.</p>
-          <p xml:id="cice-l1t6-d1e180">Quia diligentia tua per dilectum filium nostrum S. a nobis sollicite requisivit, an
+          <p xml:id="cice-l1t6-d1e180">
+            <ref xml:id="cice-l1t6-Rd1e169">Alexander III. Petro Presbytero cardinali apostolicae sedis Legato.</ref>
+            Quia diligentia tua per dilectum filium nostrum S. a nobis sollicite requisivit, an
             electionem electi, qui nuper abiurato scismate ad unitatem ecclesiae et devotionem
             nostram rediit, debeas confirmare: id tibi duximus respondendum, quod, si a schismatico
             nullum ordinem susceperit, et eius electio unanimiter et concorditer secundum formam
@@ -165,7 +170,7 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e184">
           <head xml:id="cice-l1t6-Hd1e186">CAP. VI.</head>
-          <head xml:id="cice-l1t6-d1e189" type="question-title">Electus in Romanum Pontificem a duabus partibus cardinalium, nulla exceptione obstante
+          <head xml:id="cice-l1t6-Hd1e189" type="question-title">Electus in Romanum Pontificem a duabus partibus cardinalium, nulla exceptione obstante
             est Papa; electus autem a minori numero gerens se pro Papa, incidit una cum sibi
             adhaerentibus in poenas hic contentas.</head>
           <p xml:id="cice-l1t6-d1e195">
@@ -175,30 +180,56 @@
             praedecessoribus nostris constituta manaverint, quia tamen saepe post illa per improbae
             ambitionis audaciam gravem passa est ecclesia scissuram: nos etiam ad malum hoc
             evitandum de consilio fratrum nostrorum et sacri approbatione concilii aliquid
-            decrevimus adiungendum. §. 1. Statuimus ergo, ut, si forte, inimico homine
+            decrevimus adiungendum. 
+              </quote>
+              <bibl>Alexander III, Lat. III, c. 1</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e200">
+            §. 1. 
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e204">Statuimus ergo, ut, si forte, inimico homine
             superseminante zizaniam, inter cardinales de substituendo summo Pontifice non poterit
             esse plena concordia, et duabus partibus concordantibus pars tertia concordare noluerit,
             aut sibi alium praesumpserit nominare, ille absque ulla exceptione ab universali
             ecclesia Romanus Pontifex habeatur, qui a duabus partibus concordantibus electus fuerit
-            et receptus. §. 2. Si quis autem de tertiae partis nominatione confisus, quia de ratione
+            et receptus.
+              </quote>
+              <bibl>Alexander III, Lat. III, c. 1</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e215">
+            §. 2. 
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e214">
+            Si quis autem de tertiae partis nominatione confisus, quia de ratione
             esse non potest, sibi nomen episcopi usurpaverit, tam ipse, quam ii, qui eum receperint,
             excommunicationi subiaceant, et totius sacri ordinis privatione mulctentur ita, ut
             viatici etiam eis, nisi tantum in ultimis, communio denegetur, et si non resipuerint,
-            cum Dathan et Abiron, quos terra vivos absorbuit, accipiant portionem. §. 3. Praeterea
+            cum Dathan et Abiron, quos terra vivos absorbuit, accipiant portionem.
+              </quote>
+              <bibl>Alexander III, Lat. III, c. 1</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e221">
+            §. 3. 
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e225">Praeterea
             si a paucioribus quam a duabus partibus aliquis electus fuerit ad apostolatus officium,
             nisi maior concordia intercesserit, nullatenus assumatur, et praedictae poenae
             subiaceat, si humiliter noluerit abstinere. Ex hoc tamen nullum canonicis
             constitutionibus et aliis ecclesiis praeiudicium generetur, in quibus debet maioris et
             sanioris partis sententia praevalere, quia quod in eis dubium venerit superioris poterit
             iudicio diffiniri. In Romana vero ecclesia speciale aliquid constituitur, quia non
-            poterit ad superiorem recursus haberi.</quote>
+            poterit ad superiorem recursus haberi.
+            </quote>
               <bibl>Alexander III, Lat. III, c. 1</bibl>
             </cit>
           </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e199">
           <head xml:id="cice-l1t6-Hd1e201">CAP. VII.</head>
-          <head xml:id="cice-l1t6-d1e204" type="question-title">Electio ad episcopatum fieri debet de digno scientia, moribus et aetate, et quod habeat
+          <head xml:id="cice-l1t6-Hd1e204" type="question-title">Electio ad episcopatum fieri debet de digno scientia, moribus et aetate, et quod habeat
             trigesimuro annum completum, et sit de legitimo matrimonio natus. Hoc dic. usque ad §.
             Quum vero. – §. 1. Beneficia electi in episcopum vacant per confirmationem, adeptionem
             possessionis, et consecrationem secutam, vel postquam praefixum tempus ad petendam
@@ -220,10 +251,26 @@
             necessitate temporis factum est trahatur a posteris in exemplum, praesenti decreto
             statuimus, ut nullus in episcopum eligatur, nisi qui iam trigesimum annum aetatis
             exegerit, et de legitimo matrimonio sit natus, qui etiam vita et scientia commendabilis
-            demonstretur. §. 1. Quum vero electus fuerit, et confirmationem electionis acceperit, et
+            demonstretur.
+            </quote>
+              <bibl>Alexander III, Lat. III, c. 3</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e217">
+            §. 1. 
+            <cit>
+            <quote xml:id="cice-l1t6-Qd1e221">Quum vero electus fuerit, et confirmationem electionis acceperit, et
             ecclesiasticorum bonorum administrationem habuerit, decurso tempore de consecrandis
             episcopis a canonibus diffinito, is, ad quem spectant beneficia, quae habebat, de illis
-            disponendi liberam habeat facultatem. §. 2. Inferiora etiam ministeria, ut puta
+            disponendi liberam habeat facultatem.
+            </quote> 
+            <bibl>Alexander III, Lat. III, c. 3</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e227">
+            §. 2.
+            <cit>
+            <quote xml:id="cice-l1t6-Qd1e231">Inferiora etiam ministeria, ut puta
             decanatum, archidiaconatum, et alia, quae curam animarum habent annexam, nullus omnino
             suscipiat, sed nec parochialis ecclesiae regimen, nisi qui iam vigesimum quintum annum
             aetatis attigerit, et scientia et moribus commendandus exsistat. Quum autem assumptus
@@ -232,22 +279,34 @@
             aliis conferatur, qui et velint et possint illud convenienter implere. Nec prosit eis
             appellationis refugium, si forte in constitutionis istius transgressionem per
             appellationem voluerint se tueri. Hoc sane non solum de promovendis, sed etiam de his,
-            qui iam promoti sunt, si canones non obsistant, praecipimus observari. §. 3. Clerici
+            qui iam promoti sunt, si canones non obsistant, praecipimus observari.
+            </quote>
+            <bibl>Alexander III, Lat. III, c. 3</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e238">
+            §. 3. 
+            <cit>
+            <quote xml:id="cice-l1t6-Qd1e242">
+            Clerici
             sane, si contra formam istam quemquam elegerint, et eligendi tunc potestate privatos, et
             ab ecclesiasticis beneficiis triennio noverint se [esse] suspensos. Dignum est enim, ut
             quos Dei timor a malo non revocat ecclesiasticae saltem coerceat severitas disciplinae.
             Episcopus autem si contra haec fecerit aut consenserit fieri, in conferendis praedictis
             officiis et beneficiis potestatem [suam] amittat, et per capitulum, aut per
-            metropolitanum, si capitulum concordare nequiverit, ordinetur.</quote>
-              <bibl>Alexander III, Lat. III, c. 3</bibl>
-            </cit></p>
+            metropolitanum, si capitulum concordare nequiverit, ordinetur.
+            </quote>
+            <bibl>Alexander III, Lat. III, c. 3</bibl>
+            </cit>
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e214">
           <head xml:id="cice-l1t6-Hd1e216">CAP. VIII.</head>
-          <head xml:id="cice-l1t6-d1e219" type="question-title">Compromittentes super electione tenentur recipere electum a compromissario, si est
+          <head xml:id="cice-l1t6-Hd1e219" type="question-title">Compromittentes super electione tenentur recipere electum a compromissario, si est
             idoneus.</head>
-          <p xml:id="cice-l1t6-d1e222">Idem Ravennati Archiepiscopo.</p>
-          <p xml:id="cice-l1t6-d1e225">Causam, quae inter moniales sanctae Margaretae †super discordia et dissensione
+          <p xml:id="cice-l1t6-d1e225">
+            <ref xml:id="cice-l1t6-Rd1e259">Idem Ravennati Archiepiscopo.</ref>
+            Causam, quae inter moniales sanctae Margaretae †super discordia et dissensione
             electionis, quam fecerunt, agitari dignoscitur, experientiae tuae iam pridem commisimus
             terminandam. Verum quoniam ipsa causa in tantum protrahitur, et nondum, sicut accepimus,
             processisti, et periculosum et damnosum est monasterio, quod causa ipsa in tantum
@@ -263,9 +322,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e229">
           <head xml:id="cice-l1t6-Hd1e231">CAP. IX.</head>
-          <head xml:id="cice-l1t6-d1e234" type="question-title">Electus ante confirmationem beneficia conferre vel aliter administrare non potest.</head>
-          <p xml:id="cice-l1t6-d1e237">Idem Wigorensi Episcopo.</p>
-          <p xml:id="cice-l1t6-d1e240">Nosti, sicut vir prudens et sapiens, quomodo dilectus filius noster G. Linconensis
+          <head xml:id="cice-l1t6-Hd1e234" type="question-title">Electus ante confirmationem beneficia conferre vel aliter administrare non potest.</head>
+          <p xml:id="cice-l1t6-d1e240">
+            <ref xml:id="cice-l1t6-Rd1e273">Idem Wigorensi Episcopo.</ref>
+            Nosti, sicut vir prudens et sapiens, quomodo dilectus filius noster G. Linconensis
             electus concedendi honores vel praebendas, aut alias disponendi de rebus ecclesiae, quum
             sua non sit electio confirmata, non habeat facultatem. †Inde est, quod fraternitati tuae
             per apostolica scripta praecipiendo mandamus, ut praedicto electo ex parte nostra non
@@ -278,10 +338,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e244">
           <head xml:id="cice-l1t6-Hd1e246">CAP. X.</head>
-          <head xml:id="cice-l1t6-d1e249" type="question-title">Electio facta post appellationem, et prima non cassata, et contra privilegia ecclesiae,
+          <head xml:id="cice-l1t6-Hd1e249" type="question-title">Electio facta post appellationem, et prima non cassata, et contra privilegia ecclesiae,
             cassanda est.</head>
-          <p xml:id="cice-l1t6-d1e252">Idem.</p>
-          <p xml:id="cice-l1t6-d1e255">Consideravimus, quod electio Ioannis Frontini post appellationem ad nos interpositam et
+          <p xml:id="cice-l1t6-d1e255">
+            <ref xml:id="cice-l1t6-Rd1e287">Idem.</ref>
+            Consideravimus, quod electio Ioannis Frontini post appellationem ad nos interpositam et
             contra tenorem privilegiorum ecclesiae vestrae fuerit celebrata. Perpendimus etiam, quod
             electio B. post illam qualemcunque electionem non cassatam, nec non et post
             appellationem, per quam ad suum statum omnia debent reduci, facta fuit, †et illata
@@ -292,37 +353,43 @@
             praedictorum fama sua non minus propter hoc integre conservetur, et quod in aliis
             ecclesiis possint, si Deus dederit, ad dignitatem promoveri. Vobis autem liceat praeter
             istam ecclesiae vestrae ordinationem in eorum alterum, si voluntas fuerit, iterum
-            convenire, et eum vobis in abbatem atque magistrum canonice providere.</p>
+            convenire, et eum vobis in abbatem atque magistrum canonice providere.
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e260">
           <head xml:id="cice-l1t6-Hd1e262">CAP. XI.</head>
-          <head xml:id="cice-l1t6-d1e265" type="question-title">Metropolitanus confirmatus, licet nondum receperit pallium, potest suum suffraganeum
+          <head xml:id="cice-l1t6-Hd1e265" type="question-title">Metropolitanus confirmatus, licet nondum receperit pallium, potest suum suffraganeum
             consecrari facere.</head>
-          <p xml:id="cice-l1t6-d1e268">Idem.</p>
-          <p xml:id="cice-l1t6-d1e271">Suffraganeis alicuius metropolitani, ad mandatum ipsius metropolitani, post
+          <p xml:id="cice-l1t6-d1e271">
+            <ref xml:id="cice-l1t6-Rd1e302">Idem.</ref>
+            Suffraganeis alicuius metropolitani, ad mandatum ipsius metropolitani, post
             confirmationem electionis suae, etiamsi pallium non receperit, licitum est aliquem
             electum, qui ad eius iurisdictionem pertinet, consecrare, et metropolitano aegritudine
             laborante vel alias praepedito, post susceptionem pallii, et etiam ante si eius est
             electio confirmata suffraganei sui ad mandatum ipsius possunt electo munus
-            consecrationis conferre.</p>
+            consecrationis conferre.
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e275">
           <head xml:id="cice-l1t6-Hd1e277">CAP. XII.</head>
-          <head xml:id="cice-l1t6-d1e280" type="question-title">Is, cuius electio fuit cassata, non vitio personae, sed electionis modo, iterum eligi
+          <head xml:id="cice-l1t6-Hd1e280" type="question-title">Is, cuius electio fuit cassata, non vitio personae, sed electionis modo, iterum eligi
             potest; secus, si vitio personae.</head>
-          <p xml:id="cice-l1t6-d1e283">Clemens III.</p>
-          <p xml:id="cice-l1t6-d1e286">Super eo vero, quod quaerere voluisti, si alicuius electione cassata idem ad alterius
+          <p xml:id="cice-l1t6-d1e286">
+            <ref xml:id="cice-l1t6-Rd1e316">Clemens III.</ref>
+            Super eo vero, quod quaerere voluisti, si alicuius electione cassata idem ad alterius
             ecclesiae regimen electus fuerit, an eius electio debeat confirmari, hoc tuam volumus
             discretionem tenere, quod, si prior electio non vitio personae, sed modo electionis
             cassatur, promotionem eius in eadem etiam ecclesia, nisi forte simoniacae pravitatis
-            aliquid intercessisse constiterit, non debeat impedire.</p>
+            aliquid intercessisse constiterit, non debeat impedire.
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e290">
           <head xml:id="cice-l1t6-Hd1e292">CAP. XIII.</head>
-          <head xml:id="cice-l1t6-d1e295" type="question-title">Non professus potest postulari in abbatem, si ex aliqua bona causa fiat talis
+          <head xml:id="cice-l1t6-Hd1e295" type="question-title">Non professus potest postulari in abbatem, si ex aliqua bona causa fiat talis
             postulatio. Hoc dic. secundum lecturam, quae est magis singularis.</head>
-          <p xml:id="cice-l1t6-d1e298">Coelestinus III.</p>
-          <p xml:id="cice-l1t6-d1e301">Quum monasterium de Pellicia in tuo situm episcopatu, ad eam dissolutionem devenerit,
+          <p xml:id="cice-l1t6-d1e301">
+            <ref xml:id="cice-l1t6-Rd1e330">Coelestinus III.</ref>
+            Quum monasterium de Pellicia in tuo situm episcopatu, ad eam dissolutionem devenerit,
             sicut tuarum literarum insinuatio patefecit, quod fratres eiusdem domus observantiam
             religionis et ordinem abiecerunt, †et, bonis eius dilapidatis atque consumptis, ad
             eligendum sibi abbatem de ipsius ecclesiae gremio non potuerunt hactenus convenire, ad
@@ -338,9 +405,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e305">
           <head xml:id="cice-l1t6-Hd1e307">CAP. XIV.</head>
-          <head xml:id="cice-l1t6-d1e310" type="question-title">Electio debet esse in libertate eligentium, nec valet contraria consuetudo.</head>
-          <p xml:id="cice-l1t6-d1e313">Idem.</p>
-          <p xml:id="cice-l1t6-d1e316">Quum terra, quae funiculus hereditatis Domini censebatur (Et infra:) Sicut autem ex
+          <head xml:id="cice-l1t6-Hd1e310" type="question-title">Electio debet esse in libertate eligentium, nec valet contraria consuetudo.</head>
+          <p xml:id="cice-l1t6-d1e316">
+            <ref xml:id="cice-l1t6-Rd1e344">Idem.</ref>
+            Quum terra, quae funiculus hereditatis Domini censebatur (Et infra:) Sicut autem ex
             quarundam literarum tenore pluriumque relatione accepimus, quidam olim in electionibus
             pravae consuetudinis morbus irrepsit, ut videlicet, quum alicuius praelati electio debet
             celebrari, conventus, ad quem pertinere dignoscitur, duas personas nominet latenter
@@ -362,10 +430,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e320">
           <head xml:id="cice-l1t6-Hd1e322">CAP. XV.</head>
-          <head xml:id="cice-l1t6-d1e325" type="question-title">Per confirmationem electionis non transfertur potestas exercendi ea, quae sunt ordinis.
+          <head xml:id="cice-l1t6-Hd1e325" type="question-title">Per confirmationem electionis non transfertur potestas exercendi ea, quae sunt ordinis.
             Illa enim transferuntur per consecrationem. Abbas.</head>
-          <p xml:id="cice-l1t6-d1e328">Idem.</p>
-          <p xml:id="cice-l1t6-d1e331">Transmissam †dudum, sicut insinuare curasti, ad nostram audientiam quaestionem, tua
+          <p xml:id="cice-l1t6-d1e331">
+            <ref xml:id="cice-l1t6-Rd1e358">Idem.</ref>
+            Transmissam †dudum, sicut insinuare curasti, ad nostram audientiam quaestionem, tua
             nunc dilectio replicavit. Quaesivisti, quid faciendum sit tibi super eo, quod clerici
             tuae dioecesis, quum pro suis excessibus suspensionis, vel interdicti, vel
             excommunicationis sententia percelluntur, parvipendentes eam, dimittunt ecclesias, et
@@ -382,14 +451,16 @@
             ex quo electionis tuae confirmationem accepisti, de talibus et consimilibus, praeter ea,
             quae maioris inquisitionis discussionem exigunt, et ministerium consecrationis
             desiderant, quod iustum est et ecclesiasticae convenit utilitati statuendi habeas
-            liberam facultatem.</p>
+            liberam facultatem.
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e335">
           <head xml:id="cice-l1t6-Hd1e337">CAP. XVI.</head>
-          <head xml:id="cice-l1t6-d1e340" type="question-title">Qui electioni de se factae renunciat appellare nequit ad impediendam electionem
+          <head xml:id="cice-l1t6-Hd1e340" type="question-title">Qui electioni de se factae renunciat appellare nequit ad impediendam electionem
             alterius. Et electio, quae est a suspensis celebrata, non tenet.</head>
-          <p xml:id="cice-l1t6-d1e343">Innocentius III. de Cella sancti Petri et Mutinensi Abbatibus.</p>
-          <p xml:id="cice-l1t6-d1e346">Quum inter dilectum filium R. seniorem, et R. iuniorem super abbatia Scaphusensi
+          <p xml:id="cice-l1t6-d1e346">
+            <ref xml:id="cice-l1t6-Rd1e372">Innocentius III. de Cella sancti Petri et Mutinensi Abbatibus.</ref>
+            Quum inter dilectum filium R. seniorem, et R. iuniorem super abbatia Scaphusensi
             quaestio verteretur, eis in nostra praesentia constitutis dilectos filios G. SS. Cosmae
             et Damiani, et G. S. Mariae in Aquiro diaconos cardinales dedimus auditores, in quorum
             praesentia [pro R. seniore] fuerunt proposita [quae sequuntur. Quod quum H., quondam
@@ -519,10 +590,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e351">
           <head xml:id="cice-l1t6-Hd1e353">CAP. XVII.</head>
-          <head xml:id="cice-l1t6-d1e356" type="question-title">Si electus non habet sufficientem scientiam, vel ante confirmationem administrat, eius
+          <head xml:id="cice-l1t6-Hd1e356" type="question-title">Si electus non habet sufficientem scientiam, vel ante confirmationem administrat, eius
             electio cassari debet.</head>
-          <p xml:id="cice-l1t6-d1e359">Idem Capitulo Pennensi.</p>
-          <p xml:id="cice-l1t6-d1e362">Qualiter post obitum †bonae memoriae Pennensis episcopi ecclesia vestra vacante,
+          <p xml:id="cice-l1t6-d1e362">
+            <ref xml:id="cice-l1t6-Rd1e387">Idem Capitulo Pennensi.</ref>
+            Qualiter post obitum †bonae memoriae Pennensis episcopi ecclesia vestra vacante,
             receptis prius super electione facienda literis nostris, primicerium vestrum vobis
             elegeritis in pastorem, vos tanquam auctores electionis ipsius plenius cognovistis.
             Verum quoniam electus a vobis ante confirmationem obtentam administrationi episcopatus
@@ -537,10 +609,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e366">
           <head xml:id="cice-l1t6-Hd1e368">CAP. XVIII.</head>
-          <head xml:id="cice-l1t6-d1e371" type="question-title">Si vocantur ad electionem non vocandi, valet electio facta eis non exspectatis. H. dic.
+          <head xml:id="cice-l1t6-Hd1e371" type="question-title">Si vocantur ad electionem non vocandi, valet electio facta eis non exspectatis. H. dic.
             secundum lecturam communem.</head>
-          <p xml:id="cice-l1t6-d1e374">Idem Capitulo Capuano.</p>
-          <p xml:id="cice-l1t6-d1e377">Quum inter universas metropoles †Capuana sit apostolicae sedi vicinior, ad provisionem
+          <p xml:id="cice-l1t6-d1e377">
+            <ref xml:id="cice-l1t6-Rd1e401">Idem Capitulo Capuano.</ref>
+            Quum inter universas metropoles †Capuana sit apostolicae sedi vicinior, ad provisionem
             ipsius specialius adspiramus, talem ipsi personam praefigi cupientes, quae sicut alios
             metropolitanos loci vicinitate, sic et devotionis affectu praecellat, per quam et ipsa
             metropolis tam in spiritualibus quam in temporalibus optatum suscipiat incrementum.
@@ -565,13 +638,14 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e381">
           <head xml:id="cice-l1t6-Hd1e383">CAP. XIX.</head>
-          <head xml:id="cice-l1t6-d1e386" type="question-title">Non debet inspici, an post appellationem, sed an contra fuerit electio celebrata. Et
+          <head xml:id="cice-l1t6-Hd1e386" type="question-title">Non debet inspici, an post appellationem, sed an contra fuerit electio celebrata. Et
             penes vocantes, quibus competit vocandi potestas, remanet ius eligendi, si vocati venire
             contemnunt. Et ad officium confirmatoris spectat examinare electum, etiam nemine
             opponente. Et nisi electus doceatur, legitimae aetatis et literaturae, habetur pro non
             legitime electo.</head>
-          <p xml:id="cice-l1t6-d1e389">Idem Archi. et Capitulo Capuano.</p>
-          <p xml:id="cice-l1t6-d1e392">Quum nobis olim de obitu †[bonae memoriae archiepiscopi Capuani tam per vestras literas
+          <p xml:id="cice-l1t6-d1e392">
+            <ref xml:id="cice-l1t6-Rd1e415">Idem Archi. et Capitulo Capuano.</ref>
+            Quum nobis olim de obitu [bonae memoriae archiepiscopi Capuani tam per vestras literas
             quam nuncios constitisset, volentes, prout officii nostri sollicitudo deposcit, in
             pastorem provideri celerius ecclesiae viduatae, vobis dedimus in mandatis, ut electionem
             canonicam de persona idonea faceretis, per quam in spiritualibus et temporalibus Capuana
@@ -698,10 +772,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e396">
           <head xml:id="cice-l1t6-Hd1e398">CAP. XX.</head>
-          <head xml:id="cice-l1t6-d1e401" type="question-title">Illegitimus potest postulari, non autem eligi, et electores, nisi probaverint, illum
+          <head xml:id="cice-l1t6-Hd1e401" type="question-title">Illegitimus potest postulari, non autem eligi, et electores, nisi probaverint, illum
             ignoranter elegisse, incidunt in poenas Lateranensis concilii.</head>
-          <p xml:id="cice-l1t6-d1e404">Idem Cantuariensi Archiepiscopo.</p>
-          <p xml:id="cice-l1t6-d1e407">Innotuit nobis olim tam per tuas literas, quam quorundam suffraganeorum tuorum et
+          <p xml:id="cice-l1t6-d1e407">
+            <ref xml:id="cice-l1t6-Rd1e429">Idem Cantuariensi Archiepiscopo.</ref>
+            Innotuit nobis olim tam per tuas literas, quam quorundam suffraganeorum tuorum et
             dilectorum filiorum prioris et conventus Wigorniensis ecclesiae, quod, Vigoriensi
             ecclesia destituta pastore, dicti prior et conventus eiusdem dilectum filium magistrum
             M. archidiaconum Eboracensem in episcopum unanimiter elegerunt, cuius, quum eius tibi
@@ -810,13 +885,14 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e411">
           <head xml:id="cice-l1t6-Hd1e413">CAP. XXI.</head>
-          <head xml:id="cice-l1t6-d1e416" type="question-title">Non possunt electores in praeiudicium electi compromittere; sed, si consenserit
+          <head xml:id="cice-l1t6-Hd1e416" type="question-title">Non possunt electores in praeiudicium electi compromittere; sed, si consenserit
             electioni suae vel consentire velit, non obstante laudo in contrarium lato, est
             confirmandus, si aliud canonicum sibi non obsistat, licet non sit de gremio illius
             ecclesiae, quamcunque ob causam a maiori parte fuerit appellatum. Et in hoc ultimo est
             iste textus multum notabilis.</head>
-          <p xml:id="cice-l1t6-d1e419">Idem Genuensi Archiepiscopo, et Placentino et Bobiensi Episcopis.</p>
-          <p xml:id="cice-l1t6-d1e422">Quum inter dilectos filios canonicos Saonenses super electione pontificis quaestio
+          <p xml:id="cice-l1t6-d1e422">
+            <ref xml:id="cice-l1t6-Rd1e443">Idem Genuensi Archiepiscopo, et Placentino et Bobiensi Episcopis.</ref>
+            Quum inter dilectos filios canonicos Saonenses super electione pontificis quaestio
             verteretur, eligentium votis in diversa divisis, ad sedem apostolicam dilecti filii S.
             subdiaconus Saonensis et I. procurator capituli accesserunt, quibus venerabilem fratrem
             nostrum I. Albanensem episcopum et dilectum filium nostrum A. tit. S. Martini
@@ -871,11 +947,12 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e426">
           <head xml:id="cice-l1t6-Hd1e428">CAP. XXII.</head>
-          <head xml:id="cice-l1t6-d1e431" type="question-title">Electus a maiori et saniori parte capituli, si est et erat idoneus tempore electionis,
+          <head xml:id="cice-l1t6-Hd1e431" type="question-title">Electus a maiori et saniori parte capituli, si est et erat idoneus tempore electionis,
             confirmabitur; si autem erat indignus in ordinibus, scientia vel aetate, et fuit
             scienter electus, electus a minori parte, si est dignus, confirmabitur.</head>
-          <p xml:id="cice-l1t6-d1e434">Idem Praenestino Episcopo, apostolicae sedis Legato.</p>
-          <p xml:id="cice-l1t6-d1e437">Dudum ad audientiam nostram quaestione perlata, quod, vacante praepositura Colocensis
+          <p xml:id="cice-l1t6-d1e437">
+            <ref xml:id="cice-l1t6-Rd1e457">Idem Praenestino Episcopo, apostolicae sedis Legato.</ref>
+            Dudum ad audientiam nostram quaestione perlata, quod, vacante praepositura Colocensis
             ecclesiae, in duo se vota eligentium divisissent, causam iudicibus duximus committendam,
             †quod auditis, quae proponerentur hinc inde, si de partium procederet voluntate,
             definitivam sententiam promulgarent; alioquin causam sufficienter instructam ad nostram
@@ -904,7 +981,7 @@
             invenimus, quod pro praeposito sanctorum Apostolorum auctoritas, pro praeposito vero
             sancti Georgii numerus eligentium faciebat, quum primus a quatuordecim, tum personis,
             tum canonicis, qui alios dignitate, aetate et tempore praecedebant, secundus vero a
-            viginti quatuor fuisset electus. †Obiiciebatur autem praeposito S. Georgii minor
+            viginti quatuor fuisset electus. Obiiciebatur autem praeposito S. Georgii minor
             scientia, defectus aetatis, et quod in minoribus erat ordinibus constitutus. Unde quum
             praepositurae illi esset archidiaconatus annexus, nondum erat ei dignitas conferenda,
             ratione cuius cogebatur infra praefixum a canonibus spatium in diaconum promoveri.
@@ -931,13 +1008,14 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e442">
           <head xml:id="cice-l1t6-Hd1e444">CAP. XXIII.</head>
-          <head xml:id="cice-l1t6-d1e447" type="question-title">Recipientes postulatum ad ecclesiam tanquam institutum vel administratorem ante
+          <head xml:id="cice-l1t6-Hd1e447" type="question-title">Recipientes postulatum ad ecclesiam tanquam institutum vel administratorem ante
             admissionem postulationis a superiore factam, privati sunt potestate eligendi, et ad
             alios, licet pauciores, devolvitur potestas eligendi; et si omnes privati sunt,
             devolvitur ad Papam in ecclesiis cathedralibus. Hoc dic. secundum principaliorem
             intellectum, qui magis congruit literae.</head>
-          <p xml:id="cice-l1t6-d1e450">Idem Canonicis Maguntinensibus.</p>
-          <p xml:id="cice-l1t6-d1e453">Bonae memoriae C. Maguntinensi archiepiscopo, episcopo Sabinensi, viam universae carnis
+          <p xml:id="cice-l1t6-d1e453">
+            <ref xml:id="cice-l1t6-Rd1e472">Idem Canonicis Maguntinensibus.</ref>
+            Bonae memoriae C. Maguntinensi archiepiscopo, episcopo Sabinensi, viam universae carnis
             ingresso, quum vota vestra se in varia divisissent, et quibusdam petentibus Wormaciensem
             episcopum quibusdam vero venerabilem fratrem nostrum nunc archiepiscopum vestrum, tunc
             praepositum sancti Petri Maguntinensis, sibi eligentibus in pastorem, dilectus filius
@@ -1049,10 +1127,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e457">
           <head xml:id="cice-l1t6-Hd1e459">CAP. XXIV.</head>
-          <head xml:id="cice-l1t6-d1e462" type="question-title">Sufficit electo ad obtinendum docere, eligentem fuisse in quasi possessione tempore
+          <head xml:id="cice-l1t6-Hd1e462" type="question-title">Sufficit electo ad obtinendum docere, eligentem fuisse in quasi possessione tempore
             electionis, licet non probet, quod proprietas iuris eligendi ad illum pertineret.</head>
-          <p xml:id="cice-l1t6-d1e465">Idem Clericis sanctae Agathes.</p>
-          <p xml:id="cice-l1t6-d1e468">Querelam, quam dilectus filius G. tituli sancti Vitalis nunc presbyter, tunc sanctae M.
+          <p xml:id="cice-l1t6-d1e468">
+            <ref xml:id="cice-l1t6-Rd1e486">Idem Clericis sanctae Agathes.</ref>
+            Querelam, quam dilectus filius G. tituli sancti Vitalis nunc presbyter, tunc sanctae M.
             in Aquiro diaconus cardinalis per oeconomum ecclesiae vestrae, cuius idem cardinalis est
             gubernator, contra P. nunc presbyterum, tunc vero diaconum ecclesiae sancti Salvatoris,
             quae dicitur de Cornutis, coram bonae memoriae C. Papa praedecessore nostro super
@@ -1087,11 +1166,15 @@
             sed de novo subtracta, nos in eundem statum percipiendi pensionem huiusmodi de ecclesia
             sancti Salvatoris de Thermis ecclesiam vestram decernimus reducendam, et ad solutionem
             pensionis subtractae condemnamus presbyterum antedictum, salva quaestione proprietatis
-            inter ecclesias memoratas. [Dat. II. Non. Iun. 1205.] CAP. XXV.</p>
-          <p xml:id="cice-l1t6-d1e471">Eligentes scienter indignum privati sunt potestate eligendi in electione, quae primo
-            occurrit facienda.</p>
-          <p xml:id="cice-l1t6-d1e475">Idem.</p>
-          <p xml:id="cice-l1t6-d1e478">Quum Wintoniensis ecclesia pastore vacaret, archidiaconus cum suis fautoribus
+            inter ecclesias memoratas. [Dat. II. Non. Iun. 1205.]
+          </p>
+        </div>
+        <div xml:id="cice-l1t6-Dd1e490">
+          <head xml:id="cice-l1t6-Hd1e492">CAP. XXV.</head>
+          <head xml:id="cice-l1t6-Hd1e494" type="question-title">Eligentes scienter indignum privati sunt potestate eligendi in electione, quae primo occurrit facienda.</head>
+          <p xml:id="cice-l1t6-d1e478">
+            <ref xml:id="cice-l1t6-Rd1e499">Idem.</ref>
+            Quum Wintoniensis ecclesia pastore vacaret, archidiaconus cum suis fautoribus
             Salubriensem decanum, prior vero et complices eius praecentorem Linconensem in episcopum
             elegerunt. †[Quumque propter hoc partes ad nostram praesentiam accessissent, quoniam
             super serie rei gestae non modicum discordabant, testes utrinque recipi fecimus, et
@@ -1146,10 +1229,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e482">
           <head xml:id="cice-l1t6-Hd1e484">CAP. XXVI.</head>
-          <head xml:id="cice-l1t6-d1e487" type="question-title">Eligens scienter indignum in episcopum, est ob hoc suspensus a beneficiis ecclesiae per
+          <head xml:id="cice-l1t6-Hd1e487" type="question-title">Eligens scienter indignum in episcopum, est ob hoc suspensus a beneficiis ecclesiae per
             triennium, nec potest interim ad dignitatem illius eligi vel assumi.</head>
-          <p xml:id="cice-l1t6-d1e490">Idem Abbati Cisterciensi, R. et P. Monachis Fontis frigidi.</p>
-          <p xml:id="cice-l1t6-d1e493">Per inquisitionem, quam de mandato nostro fecistis super statu episcopatus et episcopi
+          <p xml:id="cice-l1t6-d1e493">
+            <ref xml:id="cice-l1t6-Rd1e513">Idem Abbati Cisterciensi, R. et P. Monachis Fontis frigidi.</ref>
+            Per inquisitionem, quam de mandato nostro fecistis super statu episcopatus et episcopi
             Tholosani, perspicaciter intelleximus, quod Mascaron cancellarius iuratus asseruit, se
             scivisse pro certo, R. olim Tholosanum episcopum et amicos ipsius ante suam electionem
             habuisse colloquium cum quibusdam canonicis nominatim expressis, eosque sollicitasse
@@ -1170,10 +1254,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e497">
           <head xml:id="cice-l1t6-Hd1e499">CAP. XXVII.</head>
-          <head xml:id="cice-l1t6-d1e502" type="question-title">Si non professus eligitur ad regimen ecclesiae regularis, cassatur electio,
+          <head xml:id="cice-l1t6-Hd1e502" type="question-title">Si non professus eligitur ad regimen ecclesiae regularis, cassatur electio,
             consuetudine in contrarium non obstante.</head>
-          <p xml:id="cice-l1t6-d1e505">Idem Priori sancti Frigidiani, G. et G. Canonicis Lucanensibus.</p>
-          <p xml:id="cice-l1t6-d1e508">Quum causam, quae inter Bonum presbyterum et Brunum canonicum ecclesiae sancti Petri
+          <p xml:id="cice-l1t6-d1e508">
+            <ref xml:id="cice-l1t6-Rd1e527">Idem Priori sancti Frigidiani, G. et G. Canonicis Lucanensibus.</ref>
+            Quum causam, quae inter Bonum presbyterum et Brunum canonicum ecclesiae sancti Petri
             Lucanensis vertitur super eo, quod dictus presbyter Bonus a maiori parte canonicorum
             eiusdem ecclesiae, praedicto B. et quodam alio contradicentibus, in priorem, sicut
             dicitur, est electus, olim vobis duximus committendam, †vos, sicut ex literis vestris
@@ -1202,16 +1287,17 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e512">
           <head xml:id="cice-l1t6-Hd1e514">CAP. XXVIII.</head>
-          <head xml:id="cice-l1t6-d1e517" type="question-title">Nominatio vel appellatio eius, cuius non interest, electionem non impedit. Sed si
+          <head xml:id="cice-l1t6-Hd1e517" type="question-title">Nominatio vel appellatio eius, cuius non interest, electionem non impedit. Sed si
             vocandus contemnitur, eo prosequente contemptum, cassatur electio etiam confirmata; et
             potest prosequi, nisi consenserit electioni; quod potest etiam ex post facto. H. d.
             usque ad §. Super eo. – §. 1. Episcopus, dum celebratur missa consecrationis suae, vel
             archiepiscopus ante receptum pallium, ordines conferre non debet. H. d. usque ad ver.
             Quod autem. – §. 2. Iste vers. non summatur, tum propter diversitatem lecturarum, tum
             quia non facit ad titulum. Abb.</head>
-          <p xml:id="cice-l1t6-d1e520">Idem I. tit. sancti Stephani in Celio monte Presbytero cardinali apostolicae sedis
-            Legato.</p>
-          <p xml:id="cice-l1t6-d1e523">Quod, sicut ex literis tuis †[nostro nuper apostolatui praesentatis accepimus, post
+          <p xml:id="cice-l1t6-d1e523">
+            <ref xml:id="cice-l1t6-Rd1e541">Idem I. tit. sancti Stephani in Celio monte Presbytero cardinali apostolicae sedis
+            Legato.</ref>
+            Quod, sicut ex literis tuis nostro nuper apostolatui praesentatis accepimus, post
             multos labores maris et terrae, ac diversitatem gentium ad iniunctum tibi legationis
             officium exsequendum prospere per Dei gratiam pervenisti, et Hibernicanam ecclesiam
             studuisti pro posse in melius reformare, sicut ipsa operis exhibitio manifestat, gratum
@@ -1294,7 +1380,10 @@
             concorditer sunt electi, Romana ecclesia patiatur, ecclesiarum utilitate pensata, quia,
             si tanto tempore, quousque posset electus confirmationem cum pallio a sede apostolica
             obtinere, regalia non reciperet, ecclesia, quae interim administratore careret, non
-            modicum incurreret detrimentum. §. 1. Super eo autem, quod in die consecrationis suae,
+            modicum incurreret detrimentum.
+          </p>
+          <p xml:id="cice-l1t6-d1e544">
+            §. 1. Super eo autem, quod in die consecrationis suae,
             antequam missarum solemnia finirentur, acolythum ordinavit, pro tali excessu eum
             corripias et castiges, nisi forte hoc esse de antiqua consuetudine cognoveris ecclesiae
             Armachanae. De qua si tibi constiterit, quod nunc factum est propter simplicitatem et
@@ -1308,7 +1397,10 @@
             concilium, conficere chrisma, dedicare basilicas, ordinare clericos, et episcopos
             consecrare, multum profecto praesumit, qui, antequam impetret pallium, clericos ordinare
             festinat, quum id non tanquam simplex episcopus, sed tanquam archiepiscopus facere
-            videatur. §. 2. Quod autem tabulam argenteam dicitur vendidisse, dummodo ecclesiam
+            videatur.
+          </p>
+          <p xml:id="cice-l1t6-d1e546">
+            §. 2. Quod autem tabulam argenteam dicitur vendidisse, dummodo ecclesiam
             Armachanam, sicut promisit, reddat indemnem, aequanimiter poteris praeterire, quum id de
             cleri et populi processerit voluntate. Sane secundum ea, quae nobis tuis literis
             intimasti, tibi praescripto modo duximus rescribendum; sed quum tu de circumstantiis
@@ -1320,10 +1412,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e527">
           <head xml:id="cice-l1t6-Hd1e529">CAP. XXIX.</head>
-          <head xml:id="cice-l1t6-d1e532" type="question-title">Electio per minorem partem capituli facta non tenet, nec per subsequentem consensum
+          <head xml:id="cice-l1t6-Hd1e532" type="question-title">Electio per minorem partem capituli facta non tenet, nec per subsequentem consensum
             ratificari potest. Hoc dicit secundum communem intellectum.</head>
-          <p xml:id="cice-l1t6-d1e535">Idem Toletano Episcopo, et Sagonensi et de Ardenna abbatibus.</p>
-          <p xml:id="cice-l1t6-d1e538">Auditis et intellectis meritis causae de duabus electionibus celebratis in ecclesia
+          <p xml:id="cice-l1t6-d1e538">
+            <ref xml:id="cice-l1t6-Rd1e560">Idem Toletano Episcopo, et Sagonensi et de Ardenna abbatibus.</ref>
+            Auditis et intellectis meritis causae de duabus electionibus celebratis in ecclesia
             Baiocensi, unam de G. archidiacono, et alteram de R. subdiacono invenimus utramque
             contra formam canonicam attentatam. Quum enim, inquisitis voluntatibus singulorum,
             decanus cum paucioribus in ipsum R., et cantor cum pluribus in dictum G. archidiaconum
@@ -1349,11 +1442,12 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e543">
           <head xml:id="cice-l1t6-Hd1e545">CAP. XXX.</head>
-          <head xml:id="cice-l1t6-d1e548" type="question-title">Potestas data compromissariis ad eligendum praelatum, re non integra revocari non
+          <head xml:id="cice-l1t6-Hd1e548" type="question-title">Potestas data compromissariis ad eligendum praelatum, re non integra revocari non
             potest, et desinit res esse integra, postquam compromissarii coeperunt habere
             tractatum.</head>
-          <p xml:id="cice-l1t6-d1e551">Idem Grandissylvae et Bellaeperticae Abbatibus.</p>
-          <p xml:id="cice-l1t6-d1e554">In causis, †quae [apostolicae sedis deferuntur examini iura debent subtiliter observari
+          <p xml:id="cice-l1t6-d1e554">
+            <ref xml:id="cice-l1t6-Rd1e574">Idem Grandissylvae et Bellaeperticae Abbatibus.</ref>
+            In causis, †quae [apostolicae sedis deferuntur examini iura debent subtiliter observari
             quia quod in una causa per Romanum Pontificem iudicatur in aliis causis formam tribuit
             iudicandi.] Nimirum quum in ecclesia Tholosana vacante duo per dissensionem capituli
             sui, videlicet venerabilis frater noster episcopus Convenarum, et dilectus filius R.
@@ -1437,10 +1531,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e558">
           <head xml:id="cice-l1t6-Hd1e560">CAP. XXXI.</head>
-          <head xml:id="cice-l1t6-d1e563" type="question-title">De consuetudine potest canonicorum electio ad solum capitulum pertinere. Hoc dicit, et
+          <head xml:id="cice-l1t6-Hd1e563" type="question-title">De consuetudine potest canonicorum electio ad solum capitulum pertinere. Hoc dicit, et
             solet quotidie allegari.</head>
-          <p xml:id="cice-l1t6-d1e566">Idem Episcopo Florentino.</p>
-          <p xml:id="cice-l1t6-d1e569">Quum ecclesia Vulterana debito canonicorum obsequio longo fuisset tempore destituta,
+          <p xml:id="cice-l1t6-d1e569">
+            <ref xml:id="cice-l1t6-Rd1e588">Idem Episcopo Florentino.</ref>
+            Quum ecclesia Vulterana debito canonicorum obsequio longo fuisset tempore destituta,
             venerabilis frater noster Vulteranus episcopus, volens ministrorum defectum in eadem
             ecclesia restaurare, canonicos quosdam elegit, et instituit in eadem, quos residentes
             canonici recipere noluerunt, asserentes, quod talis electio fuerat in eorum praeiudicium
@@ -1516,11 +1611,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e573">
           <head xml:id="cice-l1t6-Hd1e575">CAP. XXXII.</head>
-          <head xml:id="cice-l1t6-d1e578" type="question-title">Compromittentes tenentur recipere electum a compromissariis, si sit dignus, nisi contra
+          <head xml:id="cice-l1t6-Hd1e578" type="question-title">Compromittentes tenentur recipere electum a compromissariis, si sit dignus, nisi contra
             formam compromissi eum appareat electum.</head>
-          <p xml:id="cice-l1t6-d1e581">Idem Abbati sancti Victoris, et Decano Parisiensi, et Magistro R. Decortonensi,
-            Canonico Morinensi.</p>
-          <p xml:id="cice-l1t6-d1e584">Quum dilectus filius, archidiaconus Morinensis nobis intimasset (Et infra:) Ecclesia
+          <p xml:id="cice-l1t6-d1e584">
+            <ref xml:id="cice-l1t6-Rd1e602">Idem Abbati sancti Victoris, et Decano Parisiensi, et Magistro R. Decortonensi, Canonico Morinensi.</ref>
+            Quum dilectus filius, archidiaconus Morinensis nobis intimasset (Et infra:) Ecclesia
             Morinensi episcopi solatio destituta, canonici eiusdem ecclesiae de pastoris
             substitutione tractantes, in tres canonicos Morinenses potestatem eligendi episcopum
             unanimiter contulerunt, iuramento interposito promittentes, ut illum reciperent in
@@ -1591,10 +1686,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e588">
           <head xml:id="cice-l1t6-Hd1e590">CAP. XXXIII.</head>
-          <head xml:id="cice-l1t6-d1e593" type="question-title">Si ex septem compromissariis tres eligunt quartum, et ille consentit, et est idoneus,
+          <head xml:id="cice-l1t6-Hd1e593" type="question-title">Si ex septem compromissariis tres eligunt quartum, et ille consentit, et est idoneus,
             confirmabitur electio.</head>
-          <p xml:id="cice-l1t6-d1e596">Idem Episcopo Baiocensi.</p>
-          <p xml:id="cice-l1t6-d1e599">Quum in iure peritus exsistas, †et copiam habeas peritorum non possumus non mirari,
+          <p xml:id="cice-l1t6-d1e599">
+            <ref xml:id="cice-l1t6-Rd1e616">Idem Episcopo Baiocensi.</ref>
+            Quum in iure peritus exsistas, †et copiam habeas peritorum non possumus non mirari,
             quod super quibusdam iuris articulis nos consulere voluisti, qui nihil aut modicum
             dubitationis continere noscuntur. Primus siquidem tuae consultationis articulus
             continebat, quod cuiusdam ecclesiae decano defuncto, eiusdem loci capitulum sub hac
@@ -1610,15 +1706,16 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e603">
           <head xml:id="cice-l1t6-Hd1e605">CAP. XXXIV.</head>
-          <head xml:id="cice-l1t6-d1e608" type="question-title">Electio imperatoris, spectat ad principes Germanos, tres praelatos, et quatuor laicos,
+          <head xml:id="cice-l1t6-Hd1e608" type="question-title">Electio imperatoris, spectat ad principes Germanos, tres praelatos, et quatuor laicos,
             et electio facta per eorum maiorem partem, ceteris non contemptis, tenet. Et ad Papam
             pertinet electum examinare, approbare, et inungere, consecrare, et coronare, si est
             dignus; vel reiicere, si est indignus, ut quia sacrilegus, excommunicatus, tyrannus,
             fatuus et haereticus, paganus, periurus, vel ecclesiae persecutor. Et electoribus
             nolentibus eligere, Papa supplet. Et data paritate vocum eligentium, nec accedente
             maiori concordia, Papa potest gratificari cui vult. H. d. notanter iste textus.</head>
-          <p xml:id="cice-l1t6-d1e611">Idem Duci Caringiae.</p>
-          <p xml:id="cice-l1t6-d1e614">Venerabilem †fratrem nostrum Salzburgensem archiepiscopum, et dilectum filium abbatem
+          <p xml:id="cice-l1t6-d1e614">
+            <ref xml:id="cice-l1t6-Rd1e630">Idem Duci Caringiae.</ref>
+            Venerabilem †fratrem nostrum Salzburgensem archiepiscopum, et dilectum filium abbatem
             de Salem et nobilem virum marchionem orientalem, quorundam principum nuncios ad sedem
             apostolicam destinatos benigne recepimus, et eis benevolam duximus audientiam
             indulgendum. Literas quoque, quas per eos quidam nobiles principes destinarunt,
@@ -1745,20 +1842,22 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e618">
           <head xml:id="cice-l1t6-Hd1e620">CAP. XXXV.</head>
-          <head xml:id="cice-l1t6-d1e623" type="question-title">Absentes ad electionem de provincia sunt vocandi, et confirmatur electio maioris et
+          <head xml:id="cice-l1t6-Hd1e623" type="question-title">Absentes ad electionem de provincia sunt vocandi, et confirmatur electio maioris et
             sanioris partis.</head>
-          <p xml:id="cice-l1t6-d1e626">Idem.</p>
-          <p xml:id="cice-l1t6-d1e629">Coram dilecto filio nostro tituli sanctae Pudentianae presbytero cardinali (Et infra:)
+          <p xml:id="cice-l1t6-d1e629">
+            <ref xml:id="cice-l1t6-Rd1e645">Idem.</ref>
+            Coram dilecto filio nostro tituli sanctae Pudentianae presbytero cardinali (Et infra:)
             Si vero utriusque partis fuerit cassata electio, vos, fratribus omnibus, qui fuerint in
             provincia, convocatis, quod maiori et saniori parti eorum super praedictis videritis
             complacere, per censuram ecclesiasticam faciatis firmiter observari.</p>
         </div>
         <div xml:id="cice-l1t6-Dd1e634">
           <head xml:id="cice-l1t6-Hd1e636">CAP. XXXVI.</head>
-          <head xml:id="cice-l1t6-d1e639" type="question-title">Cassatur electio partis maioris facta, contempta minori parte, etiam si est unus solus;
+          <head xml:id="cice-l1t6-Hd1e639" type="question-title">Cassatur electio partis maioris facta, contempta minori parte, etiam si est unus solus;
             non tamen ius eligendi devolvitur ad minorem. H. d. secundum intellectum communem.</head>
-          <p xml:id="cice-l1t6-d1e642">Idem Parmensi Episcopo et eius Coniudicibus.</p>
-          <p xml:id="cice-l1t6-d1e645">Bonae memoriae S. Cremonensi episcopo in extremis agente, quum de convalescentia ipsius
+          <p xml:id="cice-l1t6-d1e645">
+            <ref xml:id="cice-l1t6-Rd1e659">Idem Parmensi Episcopo et eius Coniudicibus.</ref>
+            Bonae memoriae S. Cremonensi episcopo in extremis agente, quum de convalescentia ipsius
             desperaretur, Cremonense capitulum H. canonicum suum, Regii disciplinis scholasticis
             insistentem, ad certum terminum in vigilia Pentecostes pro futuri electione pontificis
             citari fecerunt. †Verum secunda feria post Pentecosten, dicto episcopo viam universae
@@ -1795,9 +1894,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e649">
           <head xml:id="cice-l1t6-Hd1e651">CAP. XXXVII.</head>
-          <head xml:id="cice-l1t6-d1e654" type="question-title">Non monachus in praelatum regularem eligi non potest.</head>
-          <p xml:id="cice-l1t6-d1e657">Idem.</p>
-          <p xml:id="cice-l1t6-d1e660">Quum ad nostram nuper notitiam pervenisset, quod H., qui se pro abbate Lexoviensi
+          <head xml:id="cice-l1t6-Hd1e654" type="question-title">Non monachus in praelatum regularem eligi non potest.</head>
+          <p xml:id="cice-l1t6-d1e660">
+            <ref xml:id="cice-l1t6-Rd1e673">Idem.</ref>
+            Quum ad nostram nuper notitiam pervenisset, quod H., qui se pro abbate Lexoviensi
             gerebat, non fuit ante monachus quam electus, nos attendentes, quod contra regulares
             traditiones illud fuerat attentatum, quum nullam spem vel promissionem habens, ut abbas
             fiat, debeat monachari, electionem de ipso factam de consensu fratrum nostrorum
@@ -1810,9 +1910,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e664">
           <head xml:id="cice-l1t6-Hd1e666">CAP. XXXVIII.</head>
-          <head xml:id="cice-l1t6-d1e669" type="question-title">In abbatem eligi non potest, nisi instructus in regula monachali.</head>
-          <p xml:id="cice-l1t6-d1e672">Idem Magistro C. Presbytero cardinali, sedis apostolicae Legato.</p>
-          <p xml:id="cice-l1t6-d1e675">Officii tui †prosequeris laudabilem actionem, quum super illis, de quibus dubitas, per
+          <head xml:id="cice-l1t6-Hd1e669" type="question-title">In abbatem eligi non potest, nisi instructus in regula monachali.</head>
+          <p xml:id="cice-l1t6-d1e675">
+            <ref xml:id="cice-l1t6-Rd1e687">Idem Magistro C. Presbytero cardinali, sedis apostolicae Legato.</ref>
+            Officii tui †prosequeris laudabilem actionem, quum super illis, de quibus dubitas, per
             nos postulas edoceri. Sane nobis tuis literis intimasti, quod, quum monasterium quoddam
             possessionibus convenienter ditatum, sed positum in medio nationis pravae pariter et
             perversae, pastore careret, monachi de electione abbatis tractantes, necessarium
@@ -1839,10 +1940,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e679">
           <head xml:id="cice-l1t6-Hd1e681">CAP. XXXIX.</head>
-          <head xml:id="cice-l1t6-d1e684" type="question-title">Electio alias canonica confirmatur, licet quidam eligentium essent minori
+          <head xml:id="cice-l1t6-Hd1e684" type="question-title">Electio alias canonica confirmatur, licet quidam eligentium essent minori
             excommunicatione ligati.</head>
-          <p xml:id="cice-l1t6-d1e687">Idem.</p>
-          <p xml:id="cice-l1t6-d1e690">Illa quotidiana instantia, †[sollicitudo videlicet ecclesiarum omnium, quae ministerium
+          <p xml:id="cice-l1t6-d1e690">
+            <ref xml:id="cice-l1t6-Rd1e701">Idem.</ref>
+            Illa quotidiana instantia, †[sollicitudo videlicet ecclesiarum omnium, quae ministerium
             cingit apostolicae servitutis, potissimum nos inducit, ut ad illarum consolationem
             intendamus sollicite, ac benigne iusta desideria earundem effectu celeri prosequendo,
             quae pastorum sunt solatio destitutae, ne pro pastoris carentia in spiritualibus et
@@ -1863,14 +1965,15 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e694">
           <head xml:id="cice-l1t6-Hd1e696">CAP. XL.</head>
-          <head xml:id="cice-l1t6-d1e699" type="question-title">Si postulatio cum electione concurrit, et numerus postulantium est duplo maior, et
+          <head xml:id="cice-l1t6-Hd1e699" type="question-title">Si postulatio cum electione concurrit, et numerus postulantium est duplo maior, et
             postulatus est idoneus, postulatio admittitur reiecta electione. Si vero indignus, et
             hoc maior pars postulantium ignoravit, postulatio et electio reprobatur. Si vero
             sciebant, et electus est idoneus, confirmatur electio, et idem, si numerus postulantium
             non est duplo maior. Hoc dicit intelligendo secundum quod continet ius commune.</head>
-          <p xml:id="cice-l1t6-d1e702">Item Magister Maximo Notario nostro.</p>
-          <p xml:id="cice-l1t6-d1e705">Scriptum est in Apocalypsi Ioannis, quod in medio sedis et in circuitu sedis erant
-            quatuor animalia, †[plena oculis ante et retro; primum animal simile leoni, secundum
+          <p xml:id="cice-l1t6-d1e705">
+            <ref xml:id="cice-l1t6-Rd1e715">Item Magister Maximo Notario nostro.</ref>
+            Scriptum est in Apocalypsi Ioannis, quod in medio sedis et in circuitu sedis erant
+            quatuor animalia, [plena oculis ante et retro; primum animal simile leoni, secundum
             animal simile vitulo tertium animal habens faciem quasi hominis, et quartum animal
             simile aquilae volanti; et quatuor animalia singula eorum alas senas habebant. Sedes
             ista Romana ecclesia intelligitur, quae usitato vocabulo sedes apostolica nuncupatur,
@@ -2071,7 +2174,7 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e709">
           <head xml:id="cice-l1t6-Hd1e711">CAP. XLI.</head>
-          <head xml:id="cice-l1t6-d1e714" type="question-title">Si illi, ad quos spectat electio, negligunt eligere praelatum cathedralis vel regularis
+          <head xml:id="cice-l1t6-Hd1e714" type="question-title">Si illi, ad quos spectat electio, negligunt eligere praelatum cathedralis vel regularis
             ecclesiae infra tres menses, proximus superior ecclesiam ordinabit; quod si intra tres
             alios menses non fecerit, canonice punietur.</head>
           <p xml:id="cice-l1t6-d1e720">
@@ -2094,7 +2197,7 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e725">
           <head xml:id="cice-l1t6-Hd1e727">CAP. XLII.</head>
-          <head xml:id="cice-l1t6-d1e730" type="question-title">Per aliquam de tribus formis hic contentis, scilicet scrutinii, compromissi et
+          <head xml:id="cice-l1t6-Hd1e730" type="question-title">Per aliquam de tribus formis hic contentis, scilicet scrutinii, compromissi et
             inspirationis, procedi debet ad electionem in ecclesiis cathedralibus; aliter electio
             celebrata non valet, et contra facientes privandi sunt ea vice potestate eligendi. H. d.
             usque ad §. Illud. – §. 1. Interdicit procuratorem in electionis negotio constitui, nisi
@@ -2114,11 +2217,27 @@
             aliquibus viris idoneis committatur, qui vice omnium ecclesiae viduatae provideant de
             pastore. Aliter electio facta non valeat, nisi forte communiter esset ab omnibus, quasi
             per inspirationem abque vitio celebrata. Qui vero contra praescriptas formas eligere
-            attentaverint, eligendi ea vice potestate priventur. §. 1. Illud autem penitus
+            attentaverint, eligendi ea vice potestate priventur.
+              </quote>
+              <bibl>Innocent III, Lat. IV, c. 24</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e765">
+            §. 1. 
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e769">Illud autem penitus
             interdicimus, ne quis in electionis negotio procuratorem constituat, nisi sit absens in
             eo loco, de quo debeat advocari, iustoque impedimento detentus venire non possit, super
             quo, si opus fuerit, fidem faciat iuramento, et tunc, si voluerit, uni committat de ipso
-            collegio vicem suam. §. 2. Electiones quoque clandestinas reprobamus, statuentes, ut,
+            collegio vicem suam.</quote>
+              <bibl>Innocent III, Lat. IV, c. 24</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e775">
+            §. 2. 
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e779">
+            Electiones quoque clandestinas reprobamus, statuentes, ut,
             quam cito electio fuerit celebrata, solenniter publicetur.</quote>
               <bibl>Innocent III, Lat. IV, c. 24</bibl>
             </cit>
@@ -2126,7 +2245,7 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e740">
           <head xml:id="cice-l1t6-Hd1e742">CAP. XLIII.</head>
-          <head xml:id="cice-l1t6-d1e745" type="question-title">Consentiens electioni de se factae per abusum potestatis saecularis, efficitur
+          <head xml:id="cice-l1t6-Hd1e745" type="question-title">Consentiens electioni de se factae per abusum potestatis saecularis, efficitur
             ineligibilis ad dignitatem, et electio est nulla. Eligentes autem a beneficiis per
             triennium suspenduntur, et tunc sunt privati potestate eligendi.</head>
           <p xml:id="cice-l1t6-d1e751">
@@ -2143,7 +2262,7 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e755">
           <head xml:id="cice-l1t6-Hd1e757">CAP. XLIV.</head>
-          <head xml:id="cice-l1t6-d1e760" type="question-title">Si praelatus per negligentiam confirmavit indignum electum ad regimen animarum, perdit
+          <head xml:id="cice-l1t6-Hd1e760" type="question-title">Si praelatus per negligentiam confirmavit indignum electum ad regimen animarum, perdit
             potestatem confirmandi primum successorem, et a perceptione proprii beneficii
             suspenditur, et promotus deiicitur. Si vero per malitiam hoc fecit, gravius punitur.
             Electi vero immediate subiecti Papae, per se aut per personas instructas debent adire
@@ -2165,9 +2284,25 @@
             confirmandi primum successorem illius careat potestate, verum etiam, ne aliquo casu
             poenam effugiat, a perceptione proprii beneficii suspendatur, quousque, si aequum
             fuerit, indulgentiam valeat promereri. Si vero convictus fuerit in hoc per malitiam
-            excessisse, graviori subiaceat ultioni. §. 1. Episcopi quoque tales ad sacros ordines et
+            excessisse, graviori subiaceat ultioni. 
+              </quote>
+              <bibl>Innocent III, Lat. IV, c. 26</bibl>
+            </cit>
+          </p>
+          <p xml:id="cice-l1t6-d1e831">
+            §. 1. 
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e835">Episcopi quoque tales ad sacros ordines et
             ecclesiasticas dignitates promovere procurent, qui commissum sibi officium digne valeant
-            adimplere, si et ipsi canonicam cupiunt effugere ultionem. §. 2. Ceterum qui ad Romanum
+            adimplere, si et ipsi canonicam cupiunt effugere ultionem.</quote>
+              <bibl>Innocent III, Lat. IV, c. 26</bibl>
+            </cit> 
+          </p>
+          <p xml:id="cice-l1t6-d1e841">
+            §. 2.
+            <cit>
+              <quote xml:id="cice-l1t6-Qd1e845">
+            Ceterum qui ad Romanum
             pertinent immediate Pontificem, ad percipiendam sui confirmationem officii eius se
             conspectui, si commode fieri potest, personaliter repraesentent, aut personas
             transmittant idoneas, per quas diligens inquisitio super electionibus et electis possit
@@ -2183,21 +2318,24 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e770">
           <head xml:id="cice-l1t6-Hd1e772">CAP. XLV.</head>
-          <head xml:id="cice-l1t6-d1e775" type="question-title">Expensae necessariae, quas facit capitulum pro electione praelati, de bonis praelaturae
+          <head xml:id="cice-l1t6-Hd1e775" type="question-title">Expensae necessariae, quas facit capitulum pro electione praelati, de bonis praelaturae
             debent fieri vel reddi.</head>
-          <p xml:id="cice-l1t6-d1e778">Honorius III. Capitulo Constantinopolitano.</p>
-          <p xml:id="cice-l1t6-d1e781">Ut praeteritae contentionis decisa materia futuris litigiis occasio amputetur,
+          <p xml:id="cice-l1t6-d1e781">
+            <ref xml:id="cice-l1t6-Rd1e862">Honorius III. Capitulo Constantinopolitano.</ref>
+            Ut praeteritae contentionis decisa materia futuris litigiis occasio amputetur,
             praesentium auctoritate statuimus, ut expensae necessariae, quas capitulum
             Constantinopolitanum vel eius nuncii vacante sede pro electionis negotio fecerint, de
             bonis patriarchatus fiant totaliter vel reddantur, dummodo ipsi bona decedentis
-            patriarchae non occupent vel usurpent.</p>
+            patriarchae non occupent vel usurpent.
+          </p>
         </div>
         <div xml:id="cice-l1t6-Dd1e785">
           <head xml:id="cice-l1t6-Hd1e787">CAP. XLVI.</head>
-          <head xml:id="cice-l1t6-d1e790" type="question-title">Electio post collationem ex intervallo celebrata non valet. H. d. secundum opinionem
+          <head xml:id="cice-l1t6-Hd1e790" type="question-title">Electio post collationem ex intervallo celebrata non valet. H. d. secundum opinionem
             magis communem.</head>
-          <p xml:id="cice-l1t6-d1e793">Idem Electo Lugdunensi.</p>
-          <p xml:id="cice-l1t6-d1e796">Quum post petitam instanter et demum obtentam venerabilis fratris nostri quondam
+          <p xml:id="cice-l1t6-d1e796">
+            <ref xml:id="cice-l1t6-Rd1e876">Idem Electo Lugdunensi.</ref>
+            Quum post petitam instanter et demum obtentam venerabilis fratris nostri quondam
             Lugdunensis archiepiscopi cessionem vota canonicorum Lugdunensium in te, tunc ipsorum
             praepositum, concorditer convenisset, quia tandem examinato, sicut decuit, processu
             electionis tuae, invenimus eam post publicationem consensuum et collationis tractatum
@@ -2207,11 +2345,12 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e800">
           <head xml:id="cice-l1t6-Hd1e802">CAP. XLVII.</head>
-          <head xml:id="cice-l1t6-d1e805" type="question-title">Monachus unius monasterii alterius factus abbas, in electione abbatis prioris
+          <head xml:id="cice-l1t6-Hd1e805" type="question-title">Monachus unius monasterii alterius factus abbas, in electione abbatis prioris
             monasterii vocem non habet, etiamsi tale ius ab abbate et monachis prioris monasterii
             sibi fuit reservatum.</head>
-          <p xml:id="cice-l1t6-d1e808">Idem Eboracensi Priori, et Magistro Guidoni de Canopo.</p>
-          <p xml:id="cice-l1t6-d1e811">Constitutis in praesentia nostra procuratoribus dilectorum filiorum sancti Taurini
+          <p xml:id="cice-l1t6-d1e811">
+            <ref xml:id="cice-l1t6-Rd1e891">Idem Eboracensi Priori, et Magistro Guidoni de Canopo.</ref>
+            Constitutis in praesentia nostra procuratoribus dilectorum filiorum sancti Taurini
             Eboracensis et sancti Leofredi de Cruce abbatum, †ac monasterii Fiscanensis, dilectum
             fratrem nostrum B. tit. SS. Ioannis et Pauli presbyterum cardinalem dedimus auditorem,
             coram quo proposuerunt procuratores praedictorum abbatum, quod vacante praefato
@@ -2228,10 +2367,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e816">
           <head xml:id="cice-l1t6-Hd1e818">CAP. XLVIII.</head>
-          <head xml:id="cice-l1t6-d1e821" type="question-title">Electio debet fieri verbo, et de illo, in quem consenserit maior pars capituli, et non
+          <head xml:id="cice-l1t6-Hd1e821" type="question-title">Electio debet fieri verbo, et de illo, in quem consenserit maior pars capituli, et non
             respectu aliarum partium.</head>
-          <p xml:id="cice-l1t6-d1e824">Idem Rothomagensi Capitulo.</p>
-          <p xml:id="cice-l1t6-d1e827">Ecclesia vestra destituta pastore, et votis vestris, quum de futura praelati haberetis
+          <p xml:id="cice-l1t6-d1e827">
+            <ref xml:id="cice-l1t6-Rd1e905">Idem Rothomagensi Capitulo.</ref>
+            Ecclesia vestra destituta pastore, et votis vestris, quum de futura praelati haberetis
             successione tractatum, in diversa divisis, quidam in Thomam, quidam in cancellarium, et
             quidam singulares in singulares personas eiusdem ecclesiae consensistis. Verum quum
             super his in nostra et nostrorum fratrum praesentia multa fuissent hinc inde proposita,
@@ -2245,9 +2385,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e831">
           <head xml:id="cice-l1t6-Hd1e833">CAP. XLIX.</head>
-          <head xml:id="cice-l1t6-d1e836" type="question-title">Non professus in abbatem eligi non potest.</head>
-          <p xml:id="cice-l1t6-d1e839">Gregorius IX.</p>
-          <p xml:id="cice-l1t6-d1e842">Quum in magistrum assumi non debeat qui formam discipuli non assumpsit, nec sit
+          <head xml:id="cice-l1t6-Hd1e836" type="question-title">Non professus in abbatem eligi non potest.</head>
+          <p xml:id="cice-l1t6-d1e842">
+            <ref xml:id="cice-l1t6-Rd1e919">Gregorius IX.</ref>
+            Quum in magistrum assumi non debeat qui formam discipuli non assumpsit, nec sit
             praeficiendus qui subesse non novit, nos, intellecto per te, quod in quibusdam
             regularibus domibus, iure tibi dioecesano subiectis, sunt quidam in abbates non professi
             ordinem regularem assumpti, mandamus, quatenus, quum tales abbates esse non debeant, qui
@@ -2256,9 +2397,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e846">
           <head xml:id="cice-l1t6-Hd1e848">CAP. L.</head>
-          <head xml:id="cice-l1t6-d1e851" type="question-title">Electio facta a non maiori parte capituli et omissa collatione non valet.</head>
-          <p xml:id="cice-l1t6-d1e854">Idem Cumanensi Capitulo.</p>
-          <p xml:id="cice-l1t6-d1e857">Cumana ecclesia pastoris solatio destituta, et congregatis die ad celebrandam
+          <head xml:id="cice-l1t6-Hd1e851" type="question-title">Electio facta a non maiori parte capituli et omissa collatione non valet.</head>
+          <p xml:id="cice-l1t6-d1e857">
+            <ref xml:id="cice-l1t6-Rd1e933">Idem Cumanensi Capitulo.</ref>
+            Cumana ecclesia pastoris solatio destituta, et congregatis die ad celebrandam
             electionem praefixa, qui praesentes erant de Cumanis canonicis, ac tribus abbatibus,
             [videlicet S. Abundii, S. Carpophari et S. Iuliani Cumani] qui vocem in electione habere
             noscuntur, capellani et clerici civitatis, electioni se debere interesse dicentes, sub
@@ -2285,10 +2427,11 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e861">
           <head xml:id="cice-l1t6-Hd1e863">CAP. LI.</head>
-          <head xml:id="cice-l1t6-d1e866" type="question-title">Per compositionem factam cum praelato et capitulo non potest ius eligendi competere
+          <head xml:id="cice-l1t6-Hd1e866" type="question-title">Per compositionem factam cum praelato et capitulo non potest ius eligendi competere
             laico, etiam patrono in ecclesia collegiata.</head>
-          <p xml:id="cice-l1t6-d1e869">Idem Abbati Cluniacensi.</p>
-          <p xml:id="cice-l1t6-d1e872">Sacrosancta Romana ecclesia (Et infra:) Sane proposuisti in nostra praesentia, quod
+          <p xml:id="cice-l1t6-d1e872">
+            <ref xml:id="cice-l1t6-Rd1e947">Idem Abbati Cluniacensi.</ref>
+            Sacrosancta Romana ecclesia (Et infra:) Sane proposuisti in nostra praesentia, quod
             super ordinatione prioris monasterii sancti Pancratii, ad Cluniacensem ecclesiam
             pertinentis, cum comite de Varenna patrono ipsius quidam praedecessor tuus de consensu
             capituli sui compositionem quandam inivit iuri contrariam et ecclesiae ipsi damnosam,
@@ -2303,11 +2446,12 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e876">
           <head xml:id="cice-l1t6-Hd1e878">CAP. LII.</head>
-          <head xml:id="cice-l1t6-d1e881" type="question-title">Si per Papam mandatur habentibus eligere, quod eligant cum consilio aliquorum, alioquin
+          <head xml:id="cice-l1t6-Hd1e881" type="question-title">Si per Papam mandatur habentibus eligere, quod eligant cum consilio aliquorum, alioquin
             conciliarii provideant, eligentes debent consilium requirere in tractatu electionis, et
             congruo tempore exspectare responsum; alias electio non tenet.</head>
-          <p xml:id="cice-l1t6-d1e884">Idem Decano et Capitulo S. Ioannis et sancti Stephani Bisuntinensis.</p>
-          <p xml:id="cice-l1t6-d1e887">Quum in veteri lege (Et infra:) Porro iam dudum vobis dedimus in mandatis, ut infra
+          <p xml:id="cice-l1t6-d1e887">
+            <ref xml:id="cice-l1t6-Rd1e961">Idem Decano et Capitulo S. Ioannis et sancti Stephani Bisuntinensis.</ref>
+            Quum in veteri lege (Et infra:) Porro iam dudum vobis dedimus in mandatis, ut infra
             quadraginta dies post susceptionem literarum nostrarum cum consilio sancti Benigni et
             Morismundi abbatum et fratris G. de ordine Praedicatorum eligeretis personam idoneam
             canonice in pastorem; alioquin dicti consiliarii vobis de archiepiscopo providerent.
@@ -2332,11 +2476,12 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e891">
           <head xml:id="cice-l1t6-Hd1e893">CAP. LIII.</head>
-          <head xml:id="cice-l1t6-d1e896" type="question-title">Si maior pars capituli scienter eligit indignum, valet electio de digno a minori parte,
+          <head xml:id="cice-l1t6-Hd1e896" type="question-title">Si maior pars capituli scienter eligit indignum, valet electio de digno a minori parte,
             etiam ex eodem scrutinio facta. Hoc dicit secundum veriorom intellectum et
             intrinsecum.</head>
-          <p xml:id="cice-l1t6-d1e899">Idem Episcopo Silvanectensi.</p>
-          <p xml:id="cice-l1t6-d1e902">Congregato Nivernensi capitulo ad electionem futuri pastoris, XIII. in decanum, et
+          <p xml:id="cice-l1t6-d1e902">
+            <ref xml:id="cice-l1t6-Rd1e976">Idem Episcopo Silvanectensi.</ref>
+            Congregato Nivernensi capitulo ad electionem futuri pastoris, XIII. in decanum, et
             XVIII., computato pro curatore cuiusdam absentis, in cantorem ipsius ecclesiae
             convenerunt, qui, quum plures in eum, et pauciores in alium sua desideria direxissent, a
             parte sua electus exstitit in pastorem ecclesiae Nivernensis. Postmodum, credente parte
@@ -2354,11 +2499,12 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e907">
           <head xml:id="cice-l1t6-Hd1e909">CAP. LIV.</head>
-          <head xml:id="cice-l1t6-d1e912" type="question-title">Habens plures dignitates vel plura beneficia curata, sine dispensatione Papae
+          <head xml:id="cice-l1t6-Hd1e912" type="question-title">Habens plures dignitates vel plura beneficia curata, sine dispensatione Papae
             ineligibilis est. Hoc dic. quoad titulum.</head>
-          <p xml:id="cice-l1t6-d1e915">Idem Silvanectensi Episcopo, et Ioanni de Monte mirabili Archidiacono et Succentori
-            Parisiensi.</p>
-          <p xml:id="cice-l1t6-d1e918">Dudum ecclesia Rothomagensi pastoris solatio destituta, contra electionem, quae in
+          <p xml:id="cice-l1t6-d1e918">
+            <ref xml:id="cice-l1t6-Rd1e990">Idem Silvanectensi Episcopo, et Ioanni de Monte mirabili Archidiacono et Succentori
+            Parisiensi.</ref>
+            Dudum ecclesia Rothomagensi pastoris solatio destituta, contra electionem, quae in
             eadem ecclesia fuerat celebrata, A. archidiaconus et quidam alii eiusdem ecclesiae
             canonici ad sedem apostolicam accesserunt. Dicto vero archidiacono pro se ac parte sua,
             et G. archidiacono procuratore illorum, qui electionem celebraverant, in nostra
@@ -2366,6 +2512,8 @@
             proposuit memoratus, quod idem electus post generale concilium archidiaconatum
             Ambianensem adeptus, ipsum cum pluribus parochialibus ecclesiis, quas ante idem
             concilium obtinuerat, retinere praesumpsit, eoque dimisso retinuit ecclesias memoratas.
+          </p>
+          <p xml:id="cice-l1t6-d1e992">
             §. 1. Unde, quum in eodem concilio sit statutum, ut, quicunque receperit aliquod
             beneficium, curam animarum habens annexam, si prius tale beneficium obtinebat, eo sit
             ipso iure privatus, et si forte illud retinere contenderit, etiam alio spolietur,
@@ -2376,7 +2524,10 @@
             et sic furtum commisit quodammodo vel rapinam. In suae quoque salutis et multarum
             animarum dispendium praedictas parochiales ecclesias retinebat, quum earum cura, qua iam
             privatus fuerat ipso iure, ad eum nullatenus pertineret, et sic per ipsum eadem animae
-            damnabiliter sunt deceptae. §. 2. Verum procurator eorum, qui elegerant ipsum, etsi
+            damnabiliter sunt deceptae. 
+          </p>
+          <p xml:id="cice-l1t6-d1e995">
+            §. 2. Verum procurator eorum, qui elegerant ipsum, etsi
             pluralitatem beneficiorum huiusmodi coram nobis profiteretur in iure, per concessionem
             tamen Rothomagensis archiepiscopi nobis exhibitam eundem electum nisus est multipliciter
             excusare. Nos igitur dictam excusationem, utpote frivolam, nullatenus admittentes, vobis
@@ -2387,11 +2538,16 @@
             vestra praesentia constitutis, praestito quoque iuramento de veritate dicenda, et factis
             positionibus et responsionibus hinc inde, tandem eodem decano praetextu quorundam
             gravaminum ad nostram audientiam appellante, vos electionem huiusmodi irritantes, eidem
-            ecclesiae de Cenomanensi episcopo providistis, (Et infra:) §. 3. Licet autem positiones
+            ecclesiae de Cenomanensi episcopo providistis, 
+          </p>
+          <p xml:id="cice-l1t6-d1e998">
+            (Et infra:) §. 3. Licet autem positiones
             et responsiones super pluribus articulis factae fuerint coram vobis, quia tamen
             contestationem litis non invenimus esse factam, quum non per positiones et responsiones
             ad eas factas, sed per petitionem in iure propositam et responsionem factam contestatio
             litis fiat, eundem processum de fratrum nostrorum consilio irritum duximus nunciandum.
+          </p>
+          <p xml:id="cice-l1t6-d1e1000">
             §. 4. Tandem archidiaconus electionem ex praemissa causa petiit irritari, electo
             respondente praedicto, quod non erat eius electio irritanda. Lite vero coram nobis
             legitime contestata, praestitoque de veritate dicenda a partibus iuramento, idem
@@ -2403,7 +2559,10 @@
             viderit inquirenda, et procurationes ratione visitationis recipit, evidenter apparet,
             quod curam habeat animarum annexam. Quam si etiam non haberet, negare non potest, quin
             personatus exsistat, quum idem de personatibus, quod et de beneficiis curam animarum
-            habentibus, iudicium sit habendum. §. 5. Insuper indulgentiam, quam super hoc asserit se
+            habentibus, iudicium sit habendum. 
+          </p>
+          <p xml:id="cice-l1t6-d1e1002">
+            §. 5. Insuper indulgentiam, quam super hoc asserit se
             habere, invalidam reputavimus, quum in ea falsitatem suggesserit, et suppresserit
             veritatem, qua tacita vel expressa ipsam nullatenus habuisset. Suggessit enim, quod
             praedictas parochiales ecclesias, antequam fuisset in archidiaconum assumptus, canonice
@@ -2415,16 +2574,20 @@
             parochiales ecclesias cum pluribus aliis beneficiis in diversis ecclesiis obtineret,
             quum intentionis nostrae non fuerit, secum in tot beneficiis, praesertim habentibus
             curam animarum, dispensare, nec intentionis nostrae fuerit, aliquid de novo concedere,
-            sed ut per indulgentiam posset habita licite retinere. (Et infra:) §. 6. Tandem quum non
+            sed ut per indulgentiam posset habita licite retinere. 
+          </p>
+          <p xml:id="cice-l1t6-d1e1004">
+            (Et infra:) §. 6. Tandem quum non
             restaret, nisi proferenda sententia, idem tam iuri, si quod ei competere videbatur, quam
             liti cessit spontanea voluntate; cuius cessionem duximus admittendam.</p>
         </div>
         <div xml:id="cice-l1t6-Dd1e922">
           <head xml:id="cice-l1t6-Hd1e924">CAP. LV.</head>
-          <head xml:id="cice-l1t6-d1e927" type="question-title">Irrita est electio, quam collatio non praecessit, vel quae facta non est a maiore parte
+          <head xml:id="cice-l1t6-Hd1e927" type="question-title">Irrita est electio, quam collatio non praecessit, vel quae facta non est a maiore parte
             capituli, vel quae non fuit communis.</head>
-          <p xml:id="cice-l1t6-d1e930">Idem.</p>
-          <p xml:id="cice-l1t6-d1e933">In Genesi legitur (Et infra:) Quum in concilio caveatur, ut is collatione habita
+          <p xml:id="cice-l1t6-d1e933">
+            <ref xml:id="cice-l1t6-Rd1e1017">Idem.</ref>
+            In Genesi legitur (Et infra:) Quum in concilio caveatur, ut is collatione habita
             eligatur, in quem omnes, vel maior et sanior pars capituli consentit, et in G. maior
             pars totius capituli non consenserit, quanquam maiorem partem habuit partium
             comparatione minorum, nec plene numeri ad numerum, quia, utrum G. et H., de quibus
@@ -2448,20 +2611,22 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e937">
           <head xml:id="cice-l1t6-Hd1e939">CAP. LVI.</head>
-          <head xml:id="cice-l1t6-d1e942" type="question-title">Non valet electio pontificis per laicos et canonicos faxcta, etiamsi hoc habeat
+          <head xml:id="cice-l1t6-Hd1e942" type="question-title">Non valet electio pontificis per laicos et canonicos faxcta, etiamsi hoc habeat
             consuetudo. Hoc dic. et quotidie solet allegari.</head>
-          <p xml:id="cice-l1t6-d1e945">Idem Capitulo Massano.</p>
-          <p xml:id="cice-l1t6-d1e948">Massana ecclesia pastore vacante (Et infra:) Edicto perpetuo prohibemus ne per laicos
+          <p xml:id="cice-l1t6-d1e948">
+            <ref xml:id="cice-l1t6-Rd1e1031">Idem Capitulo Massano.</ref>
+            Massana ecclesia pastore vacante (Et infra:) Edicto perpetuo prohibemus ne per laicos
             cum canonicis pontificis electio praesumatur. Quae si forte praesumpta fuerit, nullam
             obtineat firmitatem, non obstante contraria consuetudine, quae dici debet potius
             corruptela.</p>
         </div>
         <div xml:id="cice-l1t6-Dd1e952">
           <head xml:id="cice-l1t6-Hd1e954">CAP. LVII.</head>
-          <head xml:id="cice-l1t6-d1e957" type="question-title">Non sufficit ad confirmationem electionis, quod sit facta a maiori parte capituli, nisi
+          <head xml:id="cice-l1t6-Hd1e957" type="question-title">Non sufficit ad confirmationem electionis, quod sit facta a maiori parte capituli, nisi
             etiam illa pars sit sanior.</head>
-          <p xml:id="cice-l1t6-d1e960">Idem Capitulo Cathalanensi.</p>
-          <p xml:id="cice-l1t6-d1e963">Ecclesia vestra destituta pastore, convenientes in unum, absente G., qui tunc noluit
+          <p xml:id="cice-l1t6-d1e963">
+            <ref xml:id="cice-l1t6-Rd1e1045">Idem Capitulo Cathalanensi.</ref>
+            Ecclesia vestra destituta pastore, convenientes in unum, absente G., qui tunc noluit
             interesse, ad celebrandam electionem terminum statuistis. Veniente vero termino, et
             dicto G., quum absens exsisteret, non vocato, praemisso iuxta formam concilii generalis
             scrutinio, XIV. magistrum G. presbyterum cardinalem, concanonicum vestrum, et XVII. R.
@@ -2495,19 +2660,21 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e967">
           <head xml:id="cice-l1t6-Hd1e969">CAP. LVIII.</head>
-          <head xml:id="cice-l1t6-d1e972" type="question-title">Publicato scrutinio non possunt electores variare, sed compelli debent ad collationem
+          <head xml:id="cice-l1t6-Hd1e972" type="question-title">Publicato scrutinio non possunt electores variare, sed compelli debent ad collationem
             et electionem.</head>
-          <p xml:id="cice-l1t6-d1e975">Idem.</p>
-          <p xml:id="cice-l1t6-d1e978">Publicato scrutinio variare nequeunt electores, quum sit facienda collatio, et electio
+          <p xml:id="cice-l1t6-d1e978">
+            <ref xml:id="cice-l1t6-Rd1e1059">Idem.</ref>
+            Publicato scrutinio variare nequeunt electores, quum sit facienda collatio, et electio
             celebranda. Ad quod per superiorem, si oportuerit, compellantur.</p>
         </div>
         <div xml:id="cice-l1t6-Dd1e982">
           <head xml:id="cice-l1t6-Hd1e984">CAP. LIX.</head>
-          <head xml:id="cice-l1t6-d1e987" type="question-title">Cassata electione propter simoniam, etiam sine culpa electi, non dispensat episcopus ea
+          <head xml:id="cice-l1t6-Hd1e987" type="question-title">Cassata electione propter simoniam, etiam sine culpa electi, non dispensat episcopus ea
             vice cum cassato; secus si electus libere resignavit. H. d. secundum intellectum glossae
             2. in fin.</head>
-          <p xml:id="cice-l1t6-d1e990">Idem.</p>
-          <p xml:id="cice-l1t6-d1e993">Si alicuius electionem propter simoniam, eo ignorante ac ratum non habente commissam,
+          <p xml:id="cice-l1t6-d1e993">
+            <ref xml:id="cice-l1t6-Rd1e1074">Idem.</ref>
+            Si alicuius electionem propter simoniam, eo ignorante ac ratum non habente commissam,
             contigerit reprobari, cum eo super praelatione, ad quam taliter fuerat electus, illa
             vice non potest episcopus dispensare, quamvis circa eum, qui ignoranter recipit simplex
             beneficium per simoniacam pravitatem, post liberam resignationem episcopi dispensatio
@@ -2515,9 +2682,10 @@
         </div>
         <div xml:id="cice-l1t6-Dd1e998">
           <head xml:id="cice-l1t6-Hd1e1000">CAP. LX.</head>
-          <head xml:id="cice-l1t6-d1e1003" type="question-title">Electoribus impeditis currit tempus, si possunt impedimentum tollere.</head>
-          <p xml:id="cice-l1t6-d1e1006">Idem.</p>
-          <p xml:id="cice-l1t6-d1e1009">His, quibus interdicitur, ut absque superioris licentia eligere non praesumant, tempus
+          <head xml:id="cice-l1t6-Hd1e1003" type="question-title">Electoribus impeditis currit tempus, si possunt impedimentum tollere.</head>
+          <p xml:id="cice-l1t6-d1e1009">
+            <ref xml:id="cice-l1t6-Rd1e1088">Idem.</ref>
+            His, quibus interdicitur, ut absque superioris licentia eligere non praesumant, tempus
             statutum a canone currit, ex quo in mora fuerint licentiam huiusmodi postulandi.</p>
         </div>
       </div>
